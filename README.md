@@ -3,6 +3,6 @@
 <p align='center'>
 I'm Brandon.
 </p>
-<p align='center'>For inquiries, reach out @ brandon@brandonperfetti.com or say hello over on <a href="https://twitter.com/brandonperfetti">Twitter</a>.</p>
+<p align='center'>For inquiries, reach out to brandon@brandonperfetti.com or say hello over on <a href="https://twitter.com/brandonperfetti">Twitter</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
