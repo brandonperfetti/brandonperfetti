@@ -1,3 +1,4 @@
+[![Social banner for brandonperfetti](https://github.com/brandonperfetti/brandonperfetti/raw/master/assets/header-banner.png)](https://brandonperfetti.com)
 <h1 align='center'> Hey there! :wave:</h1>
 <p align='center'>
 I'm Brandon.
