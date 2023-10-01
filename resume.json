@@ -1,12 +1,12 @@
 {
 	"basics": {
 		"name": "Brandon Perfetti",
-		"label": "Front End Engineer",
+		"label": "Full Stack Engineer",
 		"image": "https://ugc.production.linktr.ee/259c02c1-f43f-4216-ad76-22ba4c1f9fd8_head-shot.png?io=true&size=avatar",
 		"email": "brandon@brandonperfetti.com",
 		"phone": "+1 714 620 5260",
 		"url": "https://linktr.ee/brandonperfetti",
-		"summary": "Senior Front-End Engineer with 10 years of proven leadership and meaningful contributions to teams of varying size and scope. With my results-driven mentality and growth mindset, I transform teams by seeking, learning, and teaching new/efficient technologies that make aggressive deadlines consistently achievable.",
+		"summary": "Full Stack Engineer with 10 years of proven leadership and meaningful contributions to teams of varying size and scope. With my results-driven mentality and growth mindset, I transform teams by seeking, learning, and teaching new/efficient technologies that make aggressive deadlines consistently achievable.",
 		"location": {
 			"address": "760 S Quail Circle",
 			"postalCode": "92807",
@@ -35,7 +35,7 @@
 	"work": [
 		{
 			"name": "Lone Wolf Technologies",
-			"position": "Software Engineer - Front End",
+			"position": "Software Engineer",
 			"url": "https://www.lwolf.com/",
 			"startDate": "2021-01-01",
 			"endDate": "2023-07-01",
