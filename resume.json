@@ -162,7 +162,7 @@
 				"Version Control (e.g., Git)",
 				"Web Components",
 				"webpack",
-        "Yarn"
+				"Yarn"
 			]
 		},
 		{
@@ -239,11 +239,11 @@
 		}
 	],
 	"certificates": [
-    {
-      "name": "These can be found on my GitHub",
-      "url": "https://github.com/brandonperfetti"
-    }
-  ],
+		{
+			"name": "These can be found on my GitHub",
+			"url": "https://github.com/brandonperfetti"
+		}
+	],
 	"languages": [
 		{
 			"language": "English",
@@ -262,28 +262,6 @@
 		{
 			"name": "Reading",
 			"keywords": ["History", "Science", "Psychology"]
-		}
-	],
-	"references": [
-		{
-			"name": "Jon Druse",
-			"reference": "Engineering Manager at Lone Wolf Technologies"
-		},
-		{
-			"name": "Paul Gustafson",
-			"reference": "Manager, Software Development, Alexa"
-		},
-		{
-			"name": "Nick Grownow",
-			"reference": "Staff Engineer at NPM"
-		},
-		{
-			"name": "Phillip Chan",
-			"reference": "SR Ruby on Rails Developer at Lone Wolf Technologies"
-		},
-		{
-			"name": "Christopher Nemeth",
-			"reference": "Jr. UX/UI Designer at Lone Wolf Technologies"
 		}
 	]
 }
