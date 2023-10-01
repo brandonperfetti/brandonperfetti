@@ -1,0 +1,289 @@
+{
+	"basics": {
+		"name": "Brandon Perfetti",
+		"label": "Front End Engineer",
+		"image": "https://ugc.production.linktr.ee/259c02c1-f43f-4216-ad76-22ba4c1f9fd8_head-shot.png?io=true&size=avatar",
+		"email": "brandon@brandonperfetti.com",
+		"phone": "+1 714 620 5260",
+		"url": "https://linktr.ee/brandonperfetti",
+		"summary": "Skilled Java software engineer analyst with experience in agile software development. I have worked on various projects in different  fields from entertainment to insurance. Through my career I have been always focused on product from business as well as technical perspective making sure that development is always adding value to the final customer. I’m analytic, highly organized person, team player, able to work independently as well as in team environment and success with meeting deadlines under pressure. I’m selfmotivated,  flexible mind person with ideas and enthusiasm. Agile methodologies believer. For every moment ready to learn new tools, methodologies and techniques. I am always customer focused, interested in learning new businesses and technologies.",
+		"location": {
+			"address": "760 S Quail Circle",
+			"postalCode": "92807",
+			"city": "Anaheim",
+			"countryCode": "US",
+			"region": "California"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "Brandon Perfetti",
+				"url": "https://linkedin.com/in/brandonperfetti"
+			},
+			{
+				"network": "GitHub",
+				"username": "brandonperfetti",
+				"url": "https://github.com/brandonperfetti"
+			},
+			{
+				"network": "Twitter",
+				"username": "brandonperfetti",
+				"url": "https://twitter.com/brandonperfetti"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "Lone Wolf Technologies",
+			"position": "Software Engineer - Front End",
+			"url": "https://www.lwolf.com/",
+			"startDate": "2021-01-01",
+			"endDate": "2023-07-01",
+			"summary": "• Lead architecture and UI/UX design in refactoring our legacy data ingestion tool with React, Typescript, React Router, React Query, GraphQL, Headless UI, and Tailwind CSS with intent to serve data to 3 additional applications. \n• Minimized the time to integrate a new data source by 5x and allowed admins and the support team to address data discrepancies same day. \n• Crafted a roadmap and subsequent JIRA tickets with Figma designs for the front end team to execute on in a six month time table. \n• Wrote clear and concise documentation for Admins and API users. \n• Productized and monetized our exhaust in selling back our mapped and normalized data to third parties.",
+			"highlights": [
+				"Leadership in Architecture and UI/UX Design",
+				"Integration Time Reduction",
+				"Strategic Planning and Task Management",
+				"Documentation",
+				"Data Monetization"
+			]
+		},
+		{
+			"name": "W+R Studios",
+			"position": "Senior Data Services Engineer",
+			"url": "https://www.wrstudios.com/",
+			"startDate": "2017-07-12",
+			"endDate": "2020-12-31",
+			"summary": "• Developed a data ingestion tool to automate and administer data mapping and record ingestion with React, GraphQL, XState, and Styled Components. \n• Managed 250+ individual data feeds with daily record updates of 100K+, ~10M records in total; serving data to a suite of 5 customer facing applications via a GraphQL API . \n• Lead QA of each new integration ensuring a 1:1 of source data with limited latency for the end user. ",
+			"highlights": [
+				"Internal Tool Development",
+				"Project Management",
+				"Quality Assurance Leadership"
+			]
+		},
+		{
+			"name": "W+R Studios",
+			"position": "Custom Theme Developer",
+			"url": "https://www.wrstudios.com/",
+			"startDate": "2015-07-12",
+			"endDate": "2017-07-12",
+			"summary": "• Partnered with designers and marketing representatives of Real Estate Brokers nationwide to build and customize themes and reporting using HTML, CSS, Javascript. \n• Expanded the reach and scope of each theme by introducing team and region specific content; maximizing engagement and retention. \n• Assisted in Account Management and Support. ",
+			"highlights": [
+				"Collaborative Development",
+				"Theme Enhancement",
+				"Account Management and Support"
+			]
+		},
+		{
+			"name": "W+R Studios",
+			"position": "Data Services Engineer",
+			"url": "https://www.wrstudios.com/",
+			"startDate": "2013-07-12",
+			"endDate": "2015-07-12",
+			"summary": "• Integrated data from participating MLSs via RETS and RESO WebAPI with intent to expand nationwide market reach. \n• Integrated SSO with 100+ third parties to ensure smooth onboarding for account and enterprise users. \n• Streamlined data integration process, enabling rapid onboarding of new MLS data sources using Ruby on Rails to map and transform data. ",
+			"highlights": [
+				"Nationwide Market Expansion",
+				"Smooth User / Account Onboarding:",
+				"Efficient Data Integration"
+			]
+		}
+	],
+	"skills": [
+		{
+			"name": "PM & Leadership & Team building",
+			"level": "Intermediate",
+			"keywords": [
+				"Delegation",
+				"Interpersonal communication",
+				"Motivation",
+				"Remote management / leading a distributed team",
+				"Tailored management & leadership according to team member types",
+				"Team building"
+			]
+		},
+		{
+			"name": "Cloud",
+			"level": "Intermediate",
+			"keywords": [
+				"Auto-scaling",
+				"AWS (CloudFront, API Gateway, Lambda, Elastic, DynamoDB, SQS, etc)",
+				"CI/CD (Continuous Integration/Continuous Deployment)",
+				"Cloud Monitoring and Logging",
+				"Containerization",
+				"DevOps",
+				"Disaster Recovery",
+				"Docker",
+				"Load Balancing",
+				"Microservices",
+				"SaaS (Software as a Service)",
+				"Serverless"
+			]
+		},
+		{
+			"name": "Architecture & Design",
+			"level": "Intermediate",
+			"keywords": ["SOLID", "KISS", "DRY", "OOP", "OOD", "DDD", "TDD"]
+		},
+		{
+			"name": "Frontend",
+			"level": "Master",
+			"keywords": [
+				"Accessibility (a11y)",
+				"Agile/Scrum",
+				"Babel",
+				"Browser Developer Tools",
+				"Component Libraries",
+				"Continuous Integration/Continuous Deployment (CI/CD)",
+				"Cross-Browser Compatibility",
+				"CSS Grid",
+				"CSS",
+				"CSS3",
+				"Design Systems",
+				"ESLint",
+				"Figma",
+				"Flexbox",
+				"GraphQL",
+				"HTML",
+				"JavaScript",
+				"Jest",
+				"JIRA",
+				"Material-UI",
+				"npm",
+				"Performance Optimization",
+				"Progressive Web Apps (PWA)",
+				"React",
+				"Redux",
+				"Responsive Design",
+				"RESTful APIs",
+				"Service Workers",
+				"SVG",
+				"TypeScript",
+				"UX/UI Design Principles",
+				"Version Control (e.g., Git)",
+				"Web Components",
+				"webpack",
+        "Yarn"
+			]
+		},
+		{
+			"name": "Backend",
+			"level": "Intermediate",
+			"keywords": [
+				"Agile/Scrum",
+				"API Design and Development",
+				"API Gateway",
+				"Authentication and Authorization",
+				"Continuous Integration/Continuous Deployment (CI/CD)",
+				"Database Migration",
+				"Database Optimization",
+				"Docker",
+				"ElasticSearch",
+				"Error Handling",
+				"GraphQL",
+				"Integration Testing",
+				"JWT (JSON Web Tokens)",
+				"Load Balancing",
+				"Logging and Monitoring",
+				"Microservices",
+				"Node.js",
+				"Nosql mongoldb/cassandra/redis(cache)",
+				"OAuth",
+				"OpenID Connect",
+				"PostgresSQL",
+				"Rate Limiting",
+				"Ruby on Rails",
+				"Serverless",
+				"SQLite",
+				"Unit Testing",
+				"Version Control (e.g., Git)",
+				"Webservices (Rest/Soap)",
+				"XML, XSLT, JSON, YAML"
+			]
+		},
+		{
+			"name": "CI / CD + distributed tracing and monitoring",
+			"level": "Intermediate",
+			"keywords": [
+				"Application Performance Management (APM)",
+				"Blue-Green Deployments",
+				"Canary Releases",
+				"Confluence",
+				"Distributed Tracing",
+				"Docker Compose",
+				"Docker",
+				"ELK Stack (Elasticsearch, Logstash, Kibana)",
+				"Error Tracking",
+				"GIT",
+				"Grafana",
+				"Incident Management",
+				"Jira",
+				"Kibana",
+				"Microservices",
+				"Performance Monitoring",
+				"Postmortem Analysis",
+				"Rollback Strategies",
+				"Sentry",
+				"Serverless Framework",
+				"Slack"
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "University of California, Riverside",
+			"url": "https://www.ucr.edu/",
+			"area": "English",
+			"studyType": "BA",
+			"startDate": "2006-09-18",
+			"endDate": "2010-07-30"
+		}
+	],
+	"certificates": [
+    {
+      "name": "These can be found on my GitHub",
+      "url": "https://github.com/brandonperfetti"
+    }
+  ],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "Native speaker"
+		}
+	],
+	"interests": [
+		{
+			"name": "Health & Fitness",
+			"keywords": ["Cycling", "Hiking", "Fishing"]
+		},
+		{
+			"name": "Mindfulness",
+			"keywords": ["Meditation", "Yoga", "Introspection"]
+		},
+		{
+			"name": "Reading",
+			"keywords": ["History", "Science", "Psychology"]
+		}
+	],
+	"references": [
+		{
+			"name": "Jon Druse",
+			"reference": "Engineering Manager at Lone Wolf Technologies"
+		},
+		{
+			"name": "Paul Gustafson",
+			"reference": "Manager, Software Development, Alexa"
+		},
+		{
+			"name": "Nick Grownow",
+			"reference": "Staff Engineer at NPM"
+		},
+		{
+			"name": "Phillip Chan",
+			"reference": "SR Ruby on Rails Developer at Lone Wolf Technologies"
+		},
+		{
+			"name": "Christopher Nemeth",
+			"reference": "Jr. UX/UI Designer at Lone Wolf Technologies"
+		}
+	]
+}
