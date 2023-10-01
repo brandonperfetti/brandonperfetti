@@ -3,9 +3,9 @@ name: Publish resume in JSONResume format as Github Page
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   schedule: # Run workflow automatically
-    - cron: "0 1 * * *"
+    - cron: '0 1 * * *'
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 permissions:
@@ -14,8 +14,7 @@ permissions:
 jobs:
   check_run:
     runs-on: ubuntu-latest
-    if: '!contains(github.event.head_commit.message, "[Automated]")'
-
+    if: "! contains(github.event.head_commit.message, '[Automated]')"
     steps:
       - run: echo "${{ github.event.head_commit.message }}"
 
