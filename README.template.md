@@ -19,7 +19,7 @@
 
 I am a Front End Engineer with 10+ years of experience in developing enterprise
 SAAS applications. "My auto-generated
-<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/brandonperfetti/brandonperfetti/main/docs/index.html">CV</a>"
+<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/brandonperfetti/brandonperfetti/master/docs/index.html">CV</a>"
 
 ### My Skill Set
 
