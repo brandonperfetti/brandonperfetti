@@ -90,14 +90,15 @@
 	],
 	"skills": [
 		{
-			"name": "PM & Leadership & Team building",
+			"name": "PM, Leadership, and Team building",
 			"level": "Intermediate",
 			"keywords": [
 				"Delegation",
 				"Interpersonal communication",
 				"Motivation",
-				"Remote management / leading a distributed team",
-				"Tailored management & leadership according to team member types",
+				"Remote management",
+        "Leading a distributed team",
+				"Tailored management & leadership style",
 				"Team building"
 			]
 		},
@@ -135,7 +136,6 @@
 				"Cross-Browser Compatibility",
 				"CSS Grid",
 				"CSS",
-				"CSS3",
 				"Design Systems",
 				"ESLint",
 				"Figma",
@@ -169,7 +169,6 @@
 			"keywords": [
 				"Agile/Scrum",
 				"API Design and Development",
-				"API Gateway",
 				"Authentication and Authorization",
 				"CI/CD",
 				"Database Migration",
