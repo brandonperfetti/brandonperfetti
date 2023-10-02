@@ -111,7 +111,7 @@ My auto-generated
 
 ### My Certifications
 
-### Courses
+### Completed Courses
 
 1. [Epic Web by Kent C. Dodds](https://www.epicweb.dev/)
 2. [Advanced Remix by Kent C. Dodds](https://frontendmasters.com/courses/advanced-remix/)
