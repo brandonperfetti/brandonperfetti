@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about an quote before you go?
 
-> God always takes the simplest way.
+> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
 >
-> <p>- Albert Einstein</p>
+> <p>- Uta Hagen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
