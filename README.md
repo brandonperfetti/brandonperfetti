@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about an quote before you go?
 
-> No party has a monopoly on wisdom. No democracy works without compromise.
+> It is not uncommon for people to spend their whole life waiting to start living.
 >
-> <p>- Barack Obama</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
