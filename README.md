@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about an quote before you go?
 
-> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
+> All great achievements require time.
 >
-> <p>- Uta Hagen</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
