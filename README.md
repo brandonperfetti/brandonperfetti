@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about an quote before you go?
 
-> All great achievements require time.
+> If you only have a hammer, you tend to see every problem as a nail.
 >
-> <p>- Maya Angelou</p>
+> <p>- Abraham Maslow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
