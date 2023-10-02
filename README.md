@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about an quote before you go?
 
-> Well done is better than well said.
+> Decision is a risk rooted in the courage of being free.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Paul Tillich</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
