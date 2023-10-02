@@ -18,8 +18,7 @@
 ### ✨&nbsp; About Me
 
 I am a Full Stack Engineer with 10+ years of experience in developing enterprise
-SAAS applications.
-<br/>
+SAAS applications. <br/>
 
 My auto-generated
 <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/brandonperfetti/brandonperfetti/master/docs/index.html">Resume</a>
@@ -105,9 +104,8 @@ My auto-generated
 <br/>
 
 ### This week I spent my time on
-<details><summary> Wakatime Stats</summary>
+
 ![Wakatime stats](https://github-readme-stats-navy-sigma-84.vercel.app/api/wakatime?username=@brandonperfetti&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-</details>
 
 <br/>
 
@@ -149,9 +147,9 @@ My auto-generated
 
 ### 📣 How about an quote before you go?
 
-> Our lives are a sum total of the choices we have made.
+> One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Hannah Szenes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
