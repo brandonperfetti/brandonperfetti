@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about an quote before you go?
 
-> Decision is a risk rooted in the courage of being free.
+> True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
 >
-> <p>- Paul Tillich</p>
+> <p>- Daisaku Ikeda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
