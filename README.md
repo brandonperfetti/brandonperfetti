@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about an quote before you go?
 
-> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
+> He who can curb his wrath as soon as it arises, as a timely antidote will check snake's venom that so quickly spreads, — such a monk gives up the here and the beyond, just as a serpent sheds its worn-out skin.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
