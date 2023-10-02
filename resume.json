@@ -83,7 +83,7 @@
 			"summary": "• Integrated data from participating MLSs via RETS and RESO WebAPI with intent to expand nationwide market reach. \n• Integrated SSO with 100+ third parties to ensure smooth onboarding for account and enterprise users. \n• Streamlined data integration process, enabling rapid onboarding of new MLS data sources using Ruby on Rails to map and transform data. ",
 			"highlights": [
 				"Nationwide Market Expansion",
-				"Smooth User / Account Onboarding:",
+				"Smooth User / Account Onboarding",
 				"Efficient Data Integration"
 			]
 		}
