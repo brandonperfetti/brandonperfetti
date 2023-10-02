@@ -192,18 +192,18 @@
 				"SQLite",
 				"Unit Testing",
 				"Version Control (e.g., Git)",
-				"Webservices (Rest/Soap)",
-				"XML, XSLT, JSON, YAML"
+				"XML, JSON, YAML"
 			]
 		},
 		{
-			"name": "CI / CD + distributed tracing and monitoring",
+			"name": "CI / CD + tracing and monitoring",
 			"level": "Intermediate",
 			"keywords": [
 				"Application Performance Management (APM)",
 				"Blue-Green Deployments",
 				"Canary Releases",
 				"Confluence",
+				"Digital Ocean",
 				"Distributed Tracing",
 				"Docker Compose",
 				"Docker",
@@ -215,12 +215,14 @@
 				"Jira",
 				"Kibana",
 				"Microservices",
+				"Netlify",
 				"Performance Monitoring",
 				"Postmortem Analysis",
 				"Rollback Strategies",
 				"Sentry",
 				"Serverless Framework",
-				"Slack"
+				"Slack",
+				"Vercel"
 			]
 		}
 	],
