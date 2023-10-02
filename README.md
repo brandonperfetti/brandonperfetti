@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about an quote before you go?
 
-> It is time to remember that old wisdom our soldiers will never forget: that whether we are black or brown or white, we all bleed the same red blood of patriots, we all enjoy the same glorious freedoms, and we all salute the same great American Flag.
+> Well done is better than well said.
 >
-> <p>- Donald Trump</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
