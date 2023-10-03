@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.
+> The road of excess leads to the palace of wisdom.
 >
-> <p>- Arthur Ashe</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
