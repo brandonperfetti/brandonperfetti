@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
+> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
 >
-> <p>- Richard Bach</p>
+> <p>- Julie Morgenstern</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
