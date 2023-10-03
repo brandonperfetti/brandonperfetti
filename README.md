@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love is the flower you've got to let grow.
+> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
 >
-> <p>- John Lennon</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
