@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We are wiser than we know.
+> The more man meditates upon good thoughts, the better will be his world and the world at large.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
