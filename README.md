@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
+> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
 >
-> <p>- Julie Morgenstern</p>
+> <p>- Johann Kaspar Lavater</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
