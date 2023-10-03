@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Everything you are against weakens you. Everything you are for empowers you.
+> We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Arthur Ashe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
