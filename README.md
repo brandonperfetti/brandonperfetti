@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No garden is without its weeds.
+> Yeah, we all shine on, like the moon, and the stars, and the sun.
 >
-> <p>- Thomas Fuller</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
