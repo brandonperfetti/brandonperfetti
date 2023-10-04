@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you would take, you must first give, this is the beginning of intelligence.
+> Yesterday I dared to struggle. Today I dare to win.
 >
-> <p>- Laozi</p>
+> <p>- Bernadette Devlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
