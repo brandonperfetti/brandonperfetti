@@ -1,15 +1,11 @@
-### <div align="center">Hi there 👋</div>
-
-### <div align="center">I'm Brandon, **a** software engineer 👨‍💻 working remotely since 2015 🚀</div>
-
-<br/>
-
 [![Social banner for brandonperfetti](https://github.com/brandonperfetti/brandonperfetti/raw/master/assets/header-banner.png)](https://brandonperfetti.com)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/brandonperfetti)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brandonperfetti)
 
+### <div align="center">Hi there 👋</div>
 
+### <div align="center">I'm Brandon, **a** software engineer 👨‍💻 working remotely since 2015 🚀</div>
 
 - 🔭&nbsp; I’m currently working on [Top Timelines](https://toptimelines.com)
 - 🌱&nbsp; I’m currently learning Angular and GPT-4
@@ -103,10 +99,10 @@ My auto-generated
 <a href="https://www.elastic.co/kibana/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://resend.com/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/resend-OMIULYPP.svg" alt="Resend" height="50" /></a>
-<a href="https://sentry.io/welcome/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/sentry-6VXVIIJA.svg" alt="Sentry" height="50" /></a>
-<a href="https://stripe.com/" target="_blank"><img style="margin: 10px" src="https://media.glassdoor.com/sqll/671932/stripe-squarelogo-1610580619584.png" alt="Stripe" height="50" /></a>
-<a href="https://ohmyz.sh/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="ZSH" height="50" /></a>
+<a href="https://resend.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/109384852?s=200&v=4" alt="Resend" height="50" /></a>
+<a href="https://sentry.io/welcome/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/1396951?s=64&v=4" alt="Sentry" height="50" /></a>
+<a href="https://stripe.com/" target="_blank"><img style="margin: 10px" src="https://clipartcraft.com/images/stripe-logo-5.png" alt="Stripe" height="50" /></a>
+<a href="https://ohmyz.sh/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" alt="ZSH" height="50" /></a>
 </div>
 
 </td></tr></table></details>
@@ -165,9 +161,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To lead people walk behind them.
+> We gain the strength of the temptation we resist.
 >
-> <p>- Laozi</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
