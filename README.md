@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- George Herbert</p>
+> <p>- Robert Schuller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
