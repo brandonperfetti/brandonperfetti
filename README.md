@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The only limit to our realization of tomorrow will be our doubts of today.
+> Happiness does not come from doing easy work but from the afterglow of satisfaction that comes after the achievement of a difficult task that demanded our best.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Theodore Isaac Rubin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
