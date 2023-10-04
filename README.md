@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
+> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Marcel Proust</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
