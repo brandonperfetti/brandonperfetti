@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One of the most beautiful qualities of true friendship is to understand and to be understood.
+> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Oscar Wilde</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
