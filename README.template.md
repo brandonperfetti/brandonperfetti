@@ -8,7 +8,7 @@
 ### <div align="center">I'm Brandon, **a** full stack developer 👨‍💻 working remotely since 2017 🚀</div>
 
 - 🔭&nbsp; I’m currently working on [Top Timelines](https://toptimelines.com)
-- 🌱&nbsp; I’m currently learning Redis and GPT-4
+- 🌱&nbsp; I’m currently learning Angular and GO
 - ❓&nbsp; Ask me about anything related to JavaScript, TypeScript, React,
   NextJS, Remix, or Node!
 - ⚡&nbsp; Fun fact: I use tabs over spaces 😉
