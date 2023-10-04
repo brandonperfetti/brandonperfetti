@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg.
+> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Richard Burton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
