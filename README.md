@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
+> If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
 >
-> <p>- Helen Keller</p>
+> <p>- A. A. Milne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
