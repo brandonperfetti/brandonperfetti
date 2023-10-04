@@ -1,12 +1,12 @@
 {
 	"basics": {
 		"name": "Brandon Perfetti",
-		"label": "Full Stack Engineer",
+		"label": "Software Engineer",
 		"image": "https://ugc.production.linktr.ee/259c02c1-f43f-4216-ad76-22ba4c1f9fd8_head-shot.png?io=true&size=avatar",
 		"email": "brandon@brandonperfetti.com",
 		"phone": "+1 714 620 5260",
 		"url": "https://linktr.ee/brandonperfetti",
-		"summary": "Full Stack Engineer with 10 years of proven leadership and meaningful contributions to teams of varying size and scope. With my results-driven mentality and growth mindset, I transform teams by seeking, learning, and teaching new/efficient technologies that make aggressive deadlines consistently achievable.",
+		"summary": "Software Engineer with 10+ years of proven leadership and meaningful contributions to teams of varying size and scope. With my results-driven mentality and growth mindset, I transform teams by seeking, learning, and teaching new/efficient technologies that make aggressive deadlines consistently achievable.",
 		"location": {
 			"address": "760 S Quail Circle",
 			"postalCode": "92807",
@@ -34,8 +34,23 @@
 	},
 	"work": [
 		{
+			"name": "Freelance",
+			"position": "Full-Stack Software Engineer",
+			"url": "https://toptimelines.com/",
+			"startDate": "2023-07-01",
+			"summary": "• As a Freelance Full Stack Engineer, I steered the Top Timelines project, ensuring smooth deployment with Fly in a Docker environment. \n• The core feature was a multi-region, distributed SQLite Database powered by LiteFS for robust data management. \n• Implemented a solid authentication mechanism fortified by Two-Factor Authentication (2FA) to safeguard user access. \n• Enhanced user experience through a custom-built image hosting feature, aesthetics crafted with TailwindCSS, and a versatile Radix UI component library. \n• Ensured code integrity and app reliability with tools like Prettier, ESLint, TypeScript, Zod, and Sentry.",
+			"highlights": [
+				"Leveraging Remix as a Full Stack Framework",
+				"Streamlining the development workflow with GitHub Actions",
+				"Type-safe forms with Conform",
+				"Role Based User Permissions",
+				"Runtime schema validation with Zod",
+				"Comprehensive testing using Playwright and Vitest"
+			]
+		},
+		{
 			"name": "Lone Wolf Technologies",
-			"position": "Software Engineer",
+			"position": "Software Engineer - Front End",
 			"url": "https://www.lwolf.com/",
 			"startDate": "2021-01-01",
 			"endDate": "2023-07-01",
@@ -90,139 +105,190 @@
 	],
 	"skills": [
 		{
-			"name": "PM, Leadership, and Team building",
-			"level": "Intermediate",
-			"keywords": [
-				"Delegation",
-				"Interpersonal communication",
-				"Motivation",
-				"Remote management",
-        "Leading a distributed team",
-				"Tailored management & leadership style",
-				"Team building"
-			]
+			"name": "API",
+			"level": "Proficient",
+			"keywords": ["Algolia API", "Stripe", "Twilio"]
 		},
 		{
-			"name": "Cloud",
-			"level": "Intermediate",
-			"keywords": [
-				"CI/CD",
-				"Cloud Monitoring and Logging",
-				"Containerization",
-				"DevOps",
-				"Disaster Recovery",
-				"Docker",
-				"Load Balancing",
-				"Microservices",
-				"SaaS (Software as a Service)",
-				"Serverless"
-			]
+			"name": "Backend Framework",
+			"level": "Advanced",
+			"keywords": ["Express", "Node.js", "Prisma", "Ruby on Rails"]
 		},
 		{
-			"name": "Architecture & Design",
-			"level": "Intermediate",
-			"keywords": ["SOLID", "KISS", "DRY", "OOP", "OOD", "DDD", "TDD"]
-		},
-		{
-			"name": "Frontend",
-			"level": "Master",
+			"name": "Build Tool",
+			"level": "Expert",
 			"keywords": [
-				"Accessibility (a11y)",
-				"Agile/Scrum",
 				"Babel",
-				"Browser Developer Tools",
-				"Component Libraries",
-				"CI/CD",
-				"Cross-Browser Compatibility",
-				"CSS Grid",
-				"CSS",
-				"Design Systems",
-				"ESLint",
-				"Figma",
-				"Flexbox",
-				"GraphQL",
-				"HTML",
-				"JavaScript",
-				"Jest",
-				"JIRA",
-				"Material-UI",
-				"npm",
-				"Performance Optimization",
-				"Progressive Web Apps (PWA)",
-				"React",
-				"Redux",
-				"Responsive Design",
-				"RESTful APIs",
-				"Service Workers",
-				"SVG",
-				"TypeScript",
-				"UX/UI Design Principles",
-				"Version Control (e.g., Git)",
-				"Web Components",
-				"webpack",
+				"Codeship",
+				"Git",
+				"GitHub Actions",
+				"NPM",
+				"Webpack",
 				"Yarn"
 			]
 		},
 		{
-			"name": "Backend",
-			"level": "Intermediate",
+			"name": "CMS",
+			"level": "Proficient",
+			"keywords": ["Contentful", "Shopify", "WordPress"]
+		},
+		{
+			"name": "Datastore",
+			"level": "Expert",
+			"keywords": ["Elasticsearch", "MongoDB", "PostgreSQL", "SQLite"]
+		},
+		{
+			"name": "Discipline",
+			"level": "Expert",
 			"keywords": [
-				"Agile/Scrum",
-				"API Design and Development",
-				"Authentication and Authorization",
+				"Account Manager",
+				"Administration",
+				"Architecture",
+				"Artificial Intelligence",
+				"Automated Testing",
+				"Big Data",
+				"Business Development",
+				"Business Intelligence",
 				"CI/CD",
-				"Database Migration",
-				"Database Optimization",
-				"Docker",
-				"ElasticSearch",
-				"Error Handling",
-				"GraphQL",
+				"Code Review",
+				"Configuration Management",
+				"Data Visualization",
+				"Database Administrator",
+				"Debugging",
+				"Incident response",
 				"Integration Testing",
-				"JWT (JSON Web Tokens)",
-				"Load Balancing",
-				"Logging and Monitoring",
-				"Microservices",
-				"Node.js",
-				"OAuth",
-				"OpenID Connect",
-				"PostgresSQL",
-				"Rate Limiting",
-				"Ruby on Rails",
-				"Serverless",
-				"SQLite",
-				"Unit Testing",
-				"Version Control (e.g., Git)",
-				"XML, JSON, YAML"
+				"Logo Design",
+				"Management",
+				"Pair Programming",
+				"Product Development",
+				"Progressive Web Apps",
+				"QA",
+				"QA Automation",
+				"QA Professional",
+				"Regular Expressions",
+				"Responsive Design",
+				"Requirements Gathering",
+				"Routing",
+				"SPA",
+				"UI/UX",
+				"Unit Testing"
 			]
 		},
 		{
-			"name": "CI / CD + tracing and monitoring",
-			"level": "Intermediate",
+			"name": "Frontend Framework",
+			"level": "Master",
+			"keywords": ["GatsbyJS", "NextJS", "React", "Remix"]
+		},
+		{
+			"name": "Infrastructure",
+			"level": "Expert",
 			"keywords": [
-				"Application Performance Management (APM)",
-				"Blue-Green Deployments",
-				"Canary Releases",
-				"Confluence",
-				"Digital Ocean",
-				"Distributed Tracing",
-				"Docker Compose",
+				"Amazon S3",
+				"DigitalOcean",
 				"Docker",
-				"ELK Stack (Elasticsearch, Logstash, Kibana)",
-				"Error Tracking",
-				"GIT",
-				"Grafana",
-				"Incident Management",
-				"Jira",
-				"Kibana",
-				"Microservices",
+				"Docker Compose",
 				"Netlify",
-				"Performance Monitoring",
-				"Postmortem Analysis",
-				"Rollback Strategies",
-				"Sentry",
-				"Serverless Framework",
-				"Slack",
 				"Vercel"
+			]
+		},
+		{
+			"name": "Language",
+			"level": "Expert",
+			"keywords": ["JavaScript", "Ruby", "TypeScript"]
+		},
+		{
+			"name": "Library",
+			"level": "Proficient",
+			"keywords": [
+				"Cypress",
+				"ESLint",
+				"Jest",
+				"Kibana",
+				"Mapbox",
+				"MapboxGL",
+				"Redux"
+			]
+		},
+		{
+			"name": "Markup",
+			"level": "Expert",
+			"keywords": ["HTML", "HTML5", "XML", "YAML"]
+		},
+		{
+			"name": "Methodology",
+			"level": "Master",
+			"keywords": [
+				"Agile",
+				"DDD",
+				"Git Flow",
+				"Greenfield",
+				"Kanban",
+				"OOD",
+				"SDLC",
+				"SOLID",
+				"Scrum",
+				"TDD"
+			]
+		},
+		{
+			"name": "Stack",
+			"level": "Master",
+			"keywords": ["MERN"]
+		},
+		{
+			"name": "Standards",
+			"level": "Advanced",
+			"keywords": [
+				"APIs",
+				"ES12",
+				"GraphQL",
+				"JSON",
+				"JWT",
+				"REST",
+				"SAML",
+				"SSO"
+			]
+		},
+		{
+			"name": "Stylesheets",
+			"level": "Master",
+			"keywords": [
+				"CSS",
+				"CSS3",
+				"CSS5",
+				"Flex",
+				"Flexbox",
+				"Grid",
+				"Styled Components",
+				"Tailwind CSS"
+			]
+		},
+		{
+			"name": "Tool",
+			"level": "Advanced",
+			"keywords": [
+				"AWS",
+				"Adobe Creative Suite",
+				"Affinity Designer",
+				"Confluence",
+				"Figma",
+				"Firebase",
+				"GPT-3",
+				"GitHub",
+				"Google Analytics",
+				"Grafana",
+				"InVision",
+				"JIRA",
+				"Mailchimp",
+				"Microsoft Visual Studio",
+				"Office365",
+				"OpenAI",
+				"Postman",
+				"PUG",
+				"SendGrid",
+				"Sentry",
+				"Storybook",
+				"Supabase"
 			]
 		}
 	],
