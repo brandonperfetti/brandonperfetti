@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Opportunity often comes disguised in the form of misfortune, or temporary defeat.
+> It isn't where you come from, it's where you're going that counts.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Ella Fitzgerald</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
