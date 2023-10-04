@@ -38,7 +38,7 @@
 			"position": "Full-Stack Software Engineer",
 			"url": "https://toptimelines.com/",
 			"startDate": "2023-07-01",
-			"summary": "• As a Freelance Full Stack Engineer, I steered the Top Timelines project, ensuring smooth deployment with Fly in a Docker environment. \n• The core feature was a multi-region, distributed SQLite Database powered by LiteFS for robust data management. \n• Implemented a solid authentication mechanism fortified by Two-Factor Authentication (2FA) to safeguard user access. \n• Enhanced user experience through a custom-built image hosting feature, aesthetics crafted with TailwindCSS, and a versatile Radix UI component library. \n• Ensured code integrity and app reliability with tools like Prettier, ESLint, TypeScript, Zod, and Sentry.",
+			"summary": "• As a Freelance Full Stack Engineer, I steer the Top Timelines project, ensuring smooth deployment with Fly in a Docker environment. \n• The core feature was a multi-region, distributed SQLite Database powered by LiteFS for robust data management. \n• Implemented a solid authentication mechanism fortified by Two-Factor Authentication (2FA) to safeguard user access. \n• Enhanced user experience through a custom-built image hosting feature, aesthetics crafted with TailwindCSS, and a versatile Radix UI component library. \n• Ensured code integrity and app reliability with tools like Prettier, ESLint, TypeScript, Zod, and Sentry.",
 			"highlights": [
 				"Leveraging Remix as a Full Stack Framework",
 				"Streamlining the development workflow with GitHub Actions",
@@ -204,7 +204,6 @@
 				"ESLint",
 				"Jest",
 				"Kibana",
-				"Mapbox",
 				"MapboxGL",
 				"Redux"
 			]
@@ -264,12 +263,11 @@
 			]
 		},
 		{
-			"name": "Tool",
+			"name": "Tools",
 			"level": "Advanced",
 			"keywords": [
 				"AWS",
 				"Adobe Creative Suite",
-				"Affinity Designer",
 				"Confluence",
 				"Figma",
 				"Firebase",
