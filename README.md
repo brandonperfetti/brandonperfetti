@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
+> You can do it if you believe you can!
 >
-> <p>- Oscar Wilde</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
