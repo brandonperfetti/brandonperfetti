@@ -147,9 +147,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Yesterday I dared to struggle. Today I dare to win.
+> If you fell down yesterday, stand up today.
 >
-> <p>- Bernadette Devlin</p>
+> <p>- H. G. Wells</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
