@@ -100,10 +100,12 @@ My auto-generated
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>
 <a href="https://www.elastic.co/kibana/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+<a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" alt="Netlify" height="50" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://resend.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/109384852?s=200&v=4" alt="Resend" height="50" /></a>
 <a href="https://sentry.io/welcome/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/1396951?s=64&v=4" alt="Sentry" height="50" /></a>
 <a href="https://stripe.com/" target="_blank"><img style="margin: 10px" src="https://clipartcraft.com/images/stripe-logo-5.png" alt="Stripe" height="50" /></a>
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" alt="Vercel" height="50" /></a>
 <a href="https://ohmyz.sh/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" alt="ZSH" height="50" /></a>
 </div>
 
