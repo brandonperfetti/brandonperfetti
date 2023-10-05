@@ -161,9 +161,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Failure will never overtake me if my determination to succeed is strong enough.
+> Impossibilities are merely things which we have not yet learned.
 >
-> <p>- Og Mandino</p>
+> <p>- Charles W. Chesnutt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
