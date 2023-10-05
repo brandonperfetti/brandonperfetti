@@ -52,6 +52,7 @@ My auto-generated
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
 <a href="https://remix.run/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Remix" height="50" /></a>
 <a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/shadcn-ui-EH6IJCJT.svg" alt="shadcn/ui" height="50" /></a>
+<a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/22632046?s=48&v=4" alt="Storybook" height="50" /></a>
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
 <a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/testing-library-NGURR4WR.png" alt="Testing Library" height="50" /></a>
