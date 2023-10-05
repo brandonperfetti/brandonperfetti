@@ -8,7 +8,7 @@
 ### <div align="center">I'm Brandon, **a** software engineer 👨‍💻 working remotely since 2015 🚀</div>
 
 - 🔭&nbsp; I’m currently working on [Top Timelines](https://toptimelines.com)
-- 🌱&nbsp; I’m currently learning Angular and GPT-4
+- 🌱&nbsp; I’m currently learning Angular and Bun
 - ❓&nbsp; Ask me about anything related to JavaScript, TypeScript, React,
   NextJS, Remix, or Node!
 - ⚡&nbsp; Fun fact: I use tabs over spaces 😉
@@ -56,6 +56,7 @@ My auto-generated
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
 <a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/testing-library-NGURR4WR.png" alt="Testing Library" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+<a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/65625612?s=64&v=4" alt="Vite" height="50" /></a>
 <a href="https://vitest.dev/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/vitest-MBMTIYCC.svg" alt="Vitest" height="50" /></a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
 <a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/zod-3ONWVJM7.svg" alt="Zod" height="50" /></a>
@@ -161,9 +162,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Who looks outside, dreams, who looks inside, awakes.
+> When a thing is done, it's done. Don't look back. Look forward to your next objective.
 >
-> <p>- Carl Jung</p>
+> <p>- George Marshall</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
