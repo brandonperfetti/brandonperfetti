@@ -161,9 +161,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In the end we retain from our studies only that which we practically apply.
+> There is no way to prosperity, prosperity is the way.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
