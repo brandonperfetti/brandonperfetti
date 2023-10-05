@@ -161,9 +161,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We gain the strength of the temptation we resist.
+> Vanity can easily overtake wisdom. It usually overtakes common sense.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Julian Casablancas</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
