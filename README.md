@@ -161,9 +161,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We lost because we told ourselves we lost.
+> Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
