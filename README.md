@@ -161,9 +161,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Success is getting what you want. Happiness is wanting what you get.
+> I'm not afraid of storms, for I'm learning how to sail my ship.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Louisa May Alcott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
