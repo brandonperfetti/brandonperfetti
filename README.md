@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
 >
-> <p>- Dalai Lama</p>
+> <p>- Sai Baba</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
