@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Opportunity does not knock, it presents itself when you beat down the door.
+> Freedom is the right to live as we wish.
 >
-> <p>- Kyle Chandler</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
