@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
+> You can't cross the sea merely by standing and staring at the water.
 >
-> <p>- Richard Bach</p>
+> <p>- Rabindranath Tagore</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
