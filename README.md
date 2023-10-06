@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Forgiveness is choosing to love. It is the first skill of self-giving love.
+> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
