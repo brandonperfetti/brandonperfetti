@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Most folks are as happy as they make up their minds to be.
+> Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Dale Carnegie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
