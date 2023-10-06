@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never idealize others. They will never live up to your expectations.
+> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Marilyn vos Savant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
