@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is nothing permanent except change.
+> Never idealize others. They will never live up to your expectations.
 >
-> <p>- Heraclitus</p>
+> <p>- Leo Buscaglia</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
