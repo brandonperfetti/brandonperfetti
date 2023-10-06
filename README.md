@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Science is organized knowledge. Wisdom is organized life.
+> The only real valuable thing is intuition.
 >
-> <p>- Immanuel Kant</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
