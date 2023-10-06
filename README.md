@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> Opportunity does not knock, it presents itself when you beat down the door.
 >
-> <p>- Sun Tzu</p>
+> <p>- Kyle Chandler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
