@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Through perseverance many people win success out of what seemed destined to be certain failure.
+> There is nothing so useless as doing efficiently that which should not be done at all.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Peter Drucker</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
