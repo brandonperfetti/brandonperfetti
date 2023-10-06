@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I gave my life to become the person I am right now. Was it worth it?
+> If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future.
 >
-> <p>- Richard Bach</p>
+> <p>- Caterina Fake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
