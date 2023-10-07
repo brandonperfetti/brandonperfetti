@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
+> Be great in act, as you have been in thought.
 >
-> <p>- Laozi</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
