@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
+> Friends are the siblings God never gave us.
 >
-> <p>- Dalai Lama</p>
+> <p>- Mencius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
