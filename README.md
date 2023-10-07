@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never bend your head. Always hold it high. Look the world right in the eye.
+> Do what you can. Want what you have. Be who you are.
 >
-> <p>- Helen Keller</p>
+> <p>- Forrest Church</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
