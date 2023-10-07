@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
 >
-> <p>- Thomas Edison</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
