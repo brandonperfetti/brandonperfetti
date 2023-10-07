@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God.
+> It is not enough to have a good mind; the main thing is to use it well.
 >
-> <p>- Aeschylus</p>
+> <p>- René Descartes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
