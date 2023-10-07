@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All wisdom does not reside in Delhi.
+> Mountains cannot be surmounted except by winding paths.
 >
-> <p>- P. Chidambaram</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
