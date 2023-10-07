@@ -82,6 +82,7 @@ My auto-generated
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/sqlite-72EFWPWS.svg" alt="SQLite" height="50" /></a>
+<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase" height="50" /></a>
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
 </div>
 
@@ -105,6 +106,7 @@ My auto-generated
 <a href="https://resend.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/109384852?s=200&v=4" alt="Resend" height="50" /></a>
 <a href="https://sentry.io/welcome/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/1396951?s=64&v=4" alt="Sentry" height="50" /></a>
 <a href="https://stripe.com/" target="_blank"><img style="margin: 10px" src="https://clipartcraft.com/images/stripe-logo-5.png" alt="Stripe" height="50" /></a>
+<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase" height="50" /></a>
 <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" alt="Vercel" height="50" /></a>
 <a href="https://ohmyz.sh/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" alt="ZSH" height="50" /></a>
 </div>
@@ -165,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be great in act, as you have been in thought.
+> Never bend your head. Always hold it high. Look the world right in the eye.
 >
-> <p>- William Shakespeare</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
