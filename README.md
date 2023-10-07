@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friends are the siblings God never gave us.
+> Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.
 >
-> <p>- Mencius</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
