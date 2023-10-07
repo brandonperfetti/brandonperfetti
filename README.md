@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do what you can. Want what you have. Be who you are.
+> It takes courage to grow up and become who you really are.
 >
-> <p>- Forrest Church</p>
+> <p>- E. E. Cummings</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
