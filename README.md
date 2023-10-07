@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is not enough to have a good mind; the main thing is to use it well.
+> Quality means doing it right when no one is looking.
 >
-> <p>- René Descartes</p>
+> <p>- Henry Ford</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
