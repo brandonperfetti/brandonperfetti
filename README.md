@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
+> All wisdom does not reside in Delhi.
 >
-> <p>- Winston Churchill</p>
+> <p>- P. Chidambaram</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
