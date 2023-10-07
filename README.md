@@ -165,9 +165,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Quality means doing it right when no one is looking.
+> It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
 >
-> <p>- Henry Ford</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
