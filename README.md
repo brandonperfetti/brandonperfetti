@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Where there is great love, there are always miracles.
+> Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.
 >
-> <p>- Willa Cather</p>
+> <p>- Barack Obama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
