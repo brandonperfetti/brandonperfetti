@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The least of things with a meaning is worth more in life than the greatest of things without it.
+> We must not say every mistake is a foolish one.
 >
-> <p>- Carl Jung</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
