@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You always succeed in producing a result.
+> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
 >
-> <p>- Tony Robbins</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
