@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Your sacred space is where you can find yourself again and again.
+> With pride, there are many curses. With humility, there come many blessings.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Ezra Taft Benson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
