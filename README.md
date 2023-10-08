@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Action is the foundational key to all success.
+> The higher we are placed, the more humbly we should walk.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
