@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Skill to do comes of doing.
+> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
