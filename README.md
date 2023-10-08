@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The doors of wisdom are never shut.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Walter Scott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
