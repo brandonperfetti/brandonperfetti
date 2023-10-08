@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In wartime, truth is so precious that she should always be attended by a bodyguard of lies.
+> Where there is great love, there are always miracles.
 >
-> <p>- Winston Churchill</p>
+> <p>- Willa Cather</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
