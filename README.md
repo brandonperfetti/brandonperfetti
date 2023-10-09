@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you spend too much time thinking about a thing, you'll never get it done.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Bruce Lee</p>
+> <p>- Lou Holtz</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
