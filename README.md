@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Communications tools don't get socially interesting until they get technologically boring.
+> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
 >
-> <p>- Clay Shirky</p>
+> <p>- Howard H. Aiken</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
