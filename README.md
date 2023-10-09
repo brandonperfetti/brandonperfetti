@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+> Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation.
 >
-> <p>- Tony Robbins</p>
+> <p>- Samuel Richardson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
