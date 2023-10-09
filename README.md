@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I can't believe that God put us on this earth to be ordinary.
+> If the shoe doesn't fit, must we change the foot?
 >
-> <p>- Lou Holtz</p>
+> <p>- Gloria Steinem</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
