@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The longer we dwell on our misfortunes, the greater is their power to harm us.
+> Life is what you make of it. Always has been, always will be.
 >
-> <p>- Voltaire</p>
+> <p>- Grandma Moses</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
