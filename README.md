@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are tiny matters compared to what lies within us.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Joseph Campbell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
