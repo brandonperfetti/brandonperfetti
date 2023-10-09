@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Sadness flies away on the wings of time.
+> You don't play against opponents, you play against the game of basketball.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Bob Knight</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
