@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
+> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
 >
-> <p>- Albert Einstein</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
