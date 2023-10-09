@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To be what we are, and to become what we are capable of becoming, is the only end of life.
+> Champions keep playing until they get it right.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Billie Jean King</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
