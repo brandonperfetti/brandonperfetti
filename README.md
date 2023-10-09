@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Champions keep playing until they get it right.
+> Sadness flies away on the wings of time.
 >
-> <p>- Billie Jean King</p>
+> <p>- Jean de La Fontaine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
