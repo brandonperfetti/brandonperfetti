@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Your sacred space is where you can find yourself again and again.
+> To be what we are, and to become what we are capable of becoming, is the only end of life.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Robert Louis Stevenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
