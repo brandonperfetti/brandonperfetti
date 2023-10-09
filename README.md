@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Three things cannot be long hidden: the sun, the moon, and the truth.
+> They must often change, who would be constant in happiness or wisdom.
 >
-> <p>- The Buddha</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
