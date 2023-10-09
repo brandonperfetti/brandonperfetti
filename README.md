@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is no expedient to which a man will not go to avoid the labor of thinking.
+> We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.
 >
-> <p>- Thomas Edison</p>
+> <p>- Frank Abagnale</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
