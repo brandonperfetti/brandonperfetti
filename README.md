@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is nothing on this earth more to be prized than true friendship.
+> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
 >
-> <p>- Thomas Aquinas</p>
+> <p>- Rumi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
