@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our greatest glory is not in never falling, but in rising every time we fall.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- Confucius</p>
+> <p>- Jane Wyman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
