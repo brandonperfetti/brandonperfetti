@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Everyone has been made for some particular work, and the desire for that work has been put in every heart.
+> The price of greatness is responsibility.
 >
-> <p>- Rumi</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
