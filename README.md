@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
+> To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.
 >
-> <p>- The Buddha</p>
+> <p>- Napoleon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
