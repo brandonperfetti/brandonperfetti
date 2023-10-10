@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Almost everything comes from nothing.
+> The greatest remedy for anger is delay.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
