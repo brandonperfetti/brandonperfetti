@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A friend is a gift you give yourself.
+> Love is rarer than genius itself. And friendship is rarer than love.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Charles Péguy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
