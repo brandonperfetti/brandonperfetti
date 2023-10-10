@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is what you make of it. Always has been, always will be.
+> There is nothing on this earth more to be prized than true friendship.
 >
-> <p>- Grandma Moses</p>
+> <p>- Thomas Aquinas</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
