@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Problems are only opportunities with thorns on them.
+> Music is a higher revelation than all wisdom and philosophy.
 >
-> <p>- Hugh Miller</p>
+> <p>- Ludwig van Beethoven</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
