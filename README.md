@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love is the attempt to form a friendship inspired by beauty.
+> A friend is a gift you give yourself.
 >
-> <p>- Cicero</p>
+> <p>- Robert Louis Stevenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
