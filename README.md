@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in.
+> A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.
 >
-> <p>- Katherine Mansfield</p>
+> <p>- Wayne Gretzky</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
