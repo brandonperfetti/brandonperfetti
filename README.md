@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Music is a higher revelation than all wisdom and philosophy.
+> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
 >
-> <p>- Ludwig van Beethoven</p>
+> <p>- Honoré de Balzac</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
