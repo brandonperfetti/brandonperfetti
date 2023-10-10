@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
 >
-> <p>- Charles Péguy</p>
+> <p>- Max Planck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
