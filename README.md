@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be sure you put your feet in the right place, then stand firm.
+> One of the tests of leadership is the ability to recognize a problem before it becomes an emergency.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Olivier Messiaen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
