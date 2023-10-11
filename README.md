@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Things turn out best for those who make the best of the way things turn out.
+> We read the world wrong and say that it deceives us.
 >
-> <p>- Jack Buck</p>
+> <p>- Rabindranath Tagore</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
