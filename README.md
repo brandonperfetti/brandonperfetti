@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do I speak at the right time, or not? Do I speak of facts, or not? Do I speak gently or harshly? Do I speak profitable words or not? Do I speak with a kindly heart, or inwardly malicious?
+> You cannot have what you do not want.
 >
-> <p>- The Buddha</p>
+> <p>- John Acosta</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
