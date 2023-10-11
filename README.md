@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The heart has its reasons which reason knows not of.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Carol Burnett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
