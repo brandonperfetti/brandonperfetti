@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Listen to what you know instead of what you fear.
+> Nothing will work unless you do.
 >
-> <p>- Richard Bach</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
