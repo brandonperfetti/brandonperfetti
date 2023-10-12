@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is not enough to have a good mind; the main thing is to use it well.
+> Don't cry because it's over. Smile because it happened.
 >
-> <p>- René Descartes</p>
+> <p>- Dr. Seuss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
