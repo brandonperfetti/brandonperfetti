@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Many of life's failures are people who did not realize how close they were to success when they gave up.
+> The minute you settle for less than you deserve, you get even less than you settled for.
 >
-> <p>- Thomas Edison</p>
+> <p>- Maureen Dowd</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
