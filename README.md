@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never reach out your hand unless you're willing to extend an arm.
+> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
 >
-> <p>- Pope Paul VI</p>
+> <p>- Volker Grassmuck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
