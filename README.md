@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> There is no retirement for an artist, it's your way of living so there is no end to it.
 >
-> <p>- Maureen Dowd</p>
+> <p>- Henry Moore</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
