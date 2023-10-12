@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
+> The simplest things are often the truest.
 >
-> <p>- A. Powell Davies</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
