@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Joseph Roux</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
