@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.
+> Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well.
 >
-> <p>- Victoria Osteen</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
