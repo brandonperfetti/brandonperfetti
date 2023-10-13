@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is the flower for which love is the honey.
+> Fears are nothing more than a state of mind.
 >
-> <p>- Victor Hugo</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
