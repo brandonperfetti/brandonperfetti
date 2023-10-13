@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A friend is a gift you give yourself.
+> Pick battles big enough to matter, small enough to win.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Jonathan Kozol</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
