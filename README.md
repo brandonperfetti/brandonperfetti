@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What you get by achieving your goals is not as important as what you become by achieving your goals.
+> A friend is a gift you give yourself.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Robert Louis Stevenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
