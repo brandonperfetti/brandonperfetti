@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I owe my solitude to other people.
+> The winner ain't the one with the fastest car it's the one who refuses to lose.
 >
-> <p>- Alan Watts</p>
+> <p>- Dale Earnhardt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
