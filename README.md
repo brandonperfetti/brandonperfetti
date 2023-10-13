@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> The minute you settle for less than you deserve, you get even less than you settled for.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- Maureen Dowd</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
