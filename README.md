@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Real success is finding your lifework in the work that you love.
+> What lies behind us and what lies before us are small matters compared to what lies within us.
 >
-> <p>- David McCullough</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
