@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any other.
+> All is flux; nothing stays still.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Heraclitus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
