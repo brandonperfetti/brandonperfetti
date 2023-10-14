@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's only when the tide goes out that you discover who's been swimming naked.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Warren Buffett</p>
+> <p>- Jean-Paul Sartre</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
