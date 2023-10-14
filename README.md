@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are small matters compared to what lies within us.
+> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
