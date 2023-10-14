@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Freedom is what you do with what's been done to you.
+> People don't notice whether it's winter or summer when they're happy.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Anton Chekhov</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
