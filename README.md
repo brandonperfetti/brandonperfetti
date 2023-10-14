@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> People don't notice whether it's winter or summer when they're happy.
+> For everything that lives is holy, life delights in life.
 >
-> <p>- Anton Chekhov</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
