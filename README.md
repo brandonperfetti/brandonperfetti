@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Remember that failure is an event, not a person.
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Farhan Akhtar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
