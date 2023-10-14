@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
+> The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.
 >
-> <p>- Farhan Akhtar</p>
+> <p>- Reinhold Niebuhr</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
