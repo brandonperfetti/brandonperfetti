@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest remedy for anger is delay.
+> A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Joseph Roux</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
