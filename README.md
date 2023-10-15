@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The most I can do for my friend is simply be his friend.
+> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Blaise Pascal</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
