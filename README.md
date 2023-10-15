@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- The Buddha</p>
+> <p>- Dale Carnegie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
