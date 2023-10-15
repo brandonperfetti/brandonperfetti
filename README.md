@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The best cure for the body is a quiet mind.
+> To be happy is to be able to become aware of oneself without fright.
 >
-> <p>- Napoleon</p>
+> <p>- Walter Benjamin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
