@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> Most great people have attained their greatest success just one step beyond their greatest failure.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
