@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you smile when no one else is around, you really mean it.
+> The best cure for the body is a quiet mind.
 >
-> <p>- Andy Rooney</p>
+> <p>- Napoleon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
