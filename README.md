@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If we open a quarrel between past and present, we shall find that we have lost the future.
+> Knowledge rests not upon truth alone, but upon error also.
 >
-> <p>- Winston Churchill</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
