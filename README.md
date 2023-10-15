@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> Nothing ever goes away until it has taught us what we need to know.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Pema Chödrön</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
