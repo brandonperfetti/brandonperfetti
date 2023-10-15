@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Where there is charity and wisdom, there is neither fear nor ignorance.
+> Yesterday I dared to struggle. Today I dare to win.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Bernadette Devlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
