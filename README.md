@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing ever goes away until it has taught us what we need to know.
+> Absence makes the heart grow fonder.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Thomas Haynes Bayly</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
