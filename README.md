@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
+> Where there is charity and wisdom, there is neither fear nor ignorance.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Francis of Assisi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
