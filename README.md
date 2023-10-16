@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never idealize others. They will never live up to your expectations.
+> I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
