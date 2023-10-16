@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Many of life's failures are people who did not realize how close they were to success when they gave up.
+> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
 >
-> <p>- Thomas Edison</p>
+> <p>- Harold Geneen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
