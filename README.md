@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
+> True friendship ought never to conceal what it thinks.
 >
-> <p>- Warren Buffett</p>
+> <p>- Jerome</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
