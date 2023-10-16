@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
+> Love is the only force capable of transforming an enemy into a friend.
 >
-> <p>- Epictetus</p>
+> <p>- Martin Luther King Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
