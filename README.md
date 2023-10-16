@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Woody Allen</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
