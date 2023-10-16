@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
+> Never idealize others. They will never live up to your expectations.
 >
-> <p>- George Foreman</p>
+> <p>- Leo Buscaglia</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
