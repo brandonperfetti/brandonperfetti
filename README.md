@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
+> I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
