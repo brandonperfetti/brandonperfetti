@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
+> The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
 >
-> <p>- Don DeLillo</p>
+> <p>- Michelangelo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
