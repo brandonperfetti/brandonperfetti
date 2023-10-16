@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friends show their love in times of trouble, not in happiness.
+> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Euripides</p>
+> <p>- Henry Miller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
