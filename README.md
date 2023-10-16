@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
+> Don't smother each other. No one can grow in the shade.
 >
-> <p>- Michelangelo</p>
+> <p>- Leo Buscaglia</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
