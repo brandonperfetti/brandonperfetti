@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
+> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
 >
-> <p>- The Buddha</p>
+> <p>- George Foreman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
