@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
 >
-> <p>- Henri Bergson</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
