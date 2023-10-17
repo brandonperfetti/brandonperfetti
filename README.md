@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world turns aside to let any man pass who knows where he is going.
+> Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.
 >
-> <p>- Epictetus</p>
+> <p>- Earl Monroe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
