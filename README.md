@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't smother each other. No one can grow in the shade.
+> Cleverness is not wisdom.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
