@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Things do not change; we change.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
