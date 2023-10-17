@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> They must often change, who would be constant in happiness or wisdom.
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- Confucius</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
