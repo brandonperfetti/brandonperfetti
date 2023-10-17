@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Blaise Pascal</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
