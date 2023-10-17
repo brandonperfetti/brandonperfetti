@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The final proof of greatness lies in being able to endure criticism without resentment.
+> The world turns aside to let any man pass who knows where he is going.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
