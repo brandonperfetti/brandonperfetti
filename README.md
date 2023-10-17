@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To keep your secret is wisdom; but to expect others to keep it is folly.
+> Technology… the knack of so arranging the world that we don't have to experience it.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Max Frisch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
