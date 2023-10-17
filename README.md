@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
