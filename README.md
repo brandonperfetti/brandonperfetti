@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
+> Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
 >
-> <p>- Melody Beattie</p>
+> <p>- John Dewey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
