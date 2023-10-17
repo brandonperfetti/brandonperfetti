@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Your big opportunity may be right where you are now.
+> Don't smother each other. No one can grow in the shade.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Leo Buscaglia</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
