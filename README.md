@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
+> Being entirely honest with oneself is a good exercise.
 >
-> <p>- Sydney J. Harris</p>
+> <p>- Sigmund Freud</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
