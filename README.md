@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> All that we see or seem is but a dream within a dream.
 >
-> <p>- Confucius</p>
+> <p>- Edgar Allan Poe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
