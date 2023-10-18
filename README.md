@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
+> Never bend your head. Always hold it high. Look the world right in the eye.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
