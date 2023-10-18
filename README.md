@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When times are bad is when the real entrepreneurs emerge.
+> Choose a job you love, and you will never have to work a day in your life.
 >
-> <p>- Robert Kiyosaki</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
