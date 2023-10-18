@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
+> When in doubt, don't.
 >
-> <p>- René Descartes</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
