@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When in doubt, don't.
+> Opportunity often comes disguised in the form of misfortune, or temporary defeat.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
