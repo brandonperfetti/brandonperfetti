@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is not fair to ask of others what you are unwilling to do yourself.
+> To avoid criticism, do nothing, say nothing, be nothing.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
