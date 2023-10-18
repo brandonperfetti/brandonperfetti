@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> It is impossible for a man to learn what he thinks he already knows.
 >
-> <p>- Henri Bergson</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
