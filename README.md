@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.
 >
-> <p>- Albert Einstein</p>
+> <p>- Avery Brooks</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
