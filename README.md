@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- J. Willard Marriott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
