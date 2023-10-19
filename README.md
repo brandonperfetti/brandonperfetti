@@ -167,7 +167,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
+> The invariable mark of wisdom is to see the miraculous in the common.
 >
 > <p>- Ralph Waldo Emerson</p>
 
