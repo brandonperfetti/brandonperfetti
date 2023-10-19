@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> If opportunity doesn't knock, build a door.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Milton Berle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
