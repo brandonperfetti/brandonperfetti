@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love has no age, no limit; and no death.
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- John Galsworthy</p>
+> <p>- Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
