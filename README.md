@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To get the full value of joy you must have someone to divide it with.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- Mark Twain</p>
+> <p>- Václav Havel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
