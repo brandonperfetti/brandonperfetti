@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A thing long expected takes the form of the unexpected when at last it comes.
+> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
 >
-> <p>- Mark Twain</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
