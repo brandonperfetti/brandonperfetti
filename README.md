@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Work for something because it is good, not just because it stands a chance to succeed.
+> Love has no age, no limit; and no death.
 >
-> <p>- Václav Havel</p>
+> <p>- John Galsworthy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
