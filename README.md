@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nobody made a greater mistake than he who did nothing because he could do only a little.
+> If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
 >
-> <p>- Edmund Burke</p>
+> <p>- Jim Rohn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
