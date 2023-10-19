@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is what happens while you are making other plans.
+> Keep your eyes on the stars and your feet on the ground.
 >
-> <p>- John Lennon</p>
+> <p>- Theodore Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
