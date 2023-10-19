@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Genius is one per cent inspiration, ninety-nine per cent perspiration.
+> A thing long expected takes the form of the unexpected when at last it comes.
 >
-> <p>- Thomas Edison</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
