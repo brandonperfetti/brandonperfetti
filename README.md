@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Jim Rohn</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
