@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah.
+> The past has no power to stop you from being present now. Only your grievance about the past can do that.
 >
-> <p>- Afrika Bambaataa</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
