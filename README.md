@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's the little details that are vital. Little things make big things happen.
+> The greatest remedy for anger is delay.
 >
-> <p>- John Wooden</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
