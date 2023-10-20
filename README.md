@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.
+> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
 >
-> <p>- Thomas Edison</p>
+> <p>- Harold Geneen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
