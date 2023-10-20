@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Walter Lippmann</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
