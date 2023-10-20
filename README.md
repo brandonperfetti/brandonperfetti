@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
 >
-> <p>- Richard Bach</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
