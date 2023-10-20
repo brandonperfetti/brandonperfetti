@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
+> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Janet Jackson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
