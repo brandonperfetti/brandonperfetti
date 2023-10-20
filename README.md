@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When something is important enough, you do it even if the odds are not in your favor.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- Elon Musk</p>
+> <p>- Ansel Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
