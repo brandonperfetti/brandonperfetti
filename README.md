@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.
+> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
 >
-> <p>- Peter Abelard</p>
+> <p>- Nikola Tesla</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
