@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
+> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.
 >
-> <p>- Harold Geneen</p>
+> <p>- Peter Abelard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
