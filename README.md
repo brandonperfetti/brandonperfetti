@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Democracy's premise rests on the notion that the collective wisdom of the majority will prove right more often than it's wrong; that given sufficient opportunity in the pursuit of happiness, your population will develop its talents, its intellect, its better judgment; that over time its capacity for discernment and self-correction will be enlarged.
+> Everyone in the world ought to do the things for which he is specially adapted. It is the part of wisdom to recognize what each one of us is best fitted for, and it is the part of education to perfect and utilize such predispositions. Because education can direct and aid nature but can never transform her.
 >
-> <p>- Ben Fountain</p>
+> <p>- Maria Montessori</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
