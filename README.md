@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Delight in heedfulness! Guard well your thoughts!
+> Technology presumes there's just one right way to do things and there never is.
 >
-> <p>- The Buddha</p>
+> <p>- Robert M. Pirsig</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
