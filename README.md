@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology… the knack of so arranging the world that we don't have to experience it.
+> Technology is teaching us to be human again.
 >
-> <p>- Max Frisch</p>
+> <p>- Simon Mainwaring</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
