@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Half the lies they tell about me aren't true.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- Yogi Berra</p>
+> <p>- Marsha Petrie Sue</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
