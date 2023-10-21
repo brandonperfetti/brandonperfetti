@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I know but one freedom and that is the freedom of the mind.
+> To succeed, we must first believe that we can.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Michael Korda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
