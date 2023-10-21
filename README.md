@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Reality is merely an illusion, albeit a very persistent one.
+> An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
 >
-> <p>- Albert Einstein</p>
+> <p>- Albert Schweitzer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
