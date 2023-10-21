@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To accomplish great things, we must dream as well as act.
+> Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway.
 >
-> <p>- Anatole France</p>
+> <p>- Mary Kay Ash</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
