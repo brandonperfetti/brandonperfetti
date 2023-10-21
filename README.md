@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology is teaching us to be human again.
+> To accomplish great things, we must dream as well as act.
 >
-> <p>- Simon Mainwaring</p>
+> <p>- Anatole France</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
