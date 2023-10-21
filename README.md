@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You cannot find yourself by going into the past. You can find yourself by coming into the present.
+> Sports do not build character. They reveal it.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Heywood Broun</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
