@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Happiness is not something ready-made. It comes from your own actions.
+> Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
 >
-> <p>- Dalai Lama</p>
+> <p>- William C. Menninger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
