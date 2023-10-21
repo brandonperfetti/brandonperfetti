@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To succeed, we must first believe that we can.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Michael Korda</p>
+> <p>- Tony Blair</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
