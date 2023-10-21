@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Genius is one percent inspiration and ninety-nine percent perspiration.
+> He who is fixed to a star does not change his mind.
 >
-> <p>- Thomas Edison</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
