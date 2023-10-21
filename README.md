@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
