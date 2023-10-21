@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To profit from good advice requires more wisdom than to give it.
+> You cannot find yourself by going into the past. You can find yourself by coming into the present.
 >
-> <p>- Wilson Mizner</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
