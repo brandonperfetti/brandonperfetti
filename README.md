@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Argue for your limitations, and sure enough they're yours.
+> Delight in heedfulness! Guard well your thoughts!
 >
-> <p>- Richard Bach</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
