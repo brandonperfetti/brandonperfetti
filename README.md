@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
+> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Isocrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
