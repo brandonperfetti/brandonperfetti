@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never interrupt someone doing what you said couldn't be done.
+> Make it your habit not to be critical about small things.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Edward Everett Hale</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
