@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is better to understand a little than to misunderstand a lot.
+> If you want to go east, don't go west.
 >
-> <p>- Anatole France</p>
+> <p>- Ramakrishna</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
