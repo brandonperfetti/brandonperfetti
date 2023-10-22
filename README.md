@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do all things with love.
+> We've got to have a dream if we are going to make a dream come true.
 >
-> <p>- Og Mandino</p>
+> <p>- Walt Disney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
