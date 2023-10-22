@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All our knowledge has its origins in our perceptions.
+> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
