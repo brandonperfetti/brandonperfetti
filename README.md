@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
+> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
 >
-> <p>- The Buddha</p>
+> <p>- Marie Curie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
