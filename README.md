@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Make it your habit not to be critical about small things.
+> Joy is the best makeup.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Anne Lamott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
