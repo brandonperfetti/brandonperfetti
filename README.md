@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> Ideas pull the trigger, but instinct loads the gun.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- Don Marquis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
