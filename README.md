@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Opportunity often comes disguised in the form of misfortune, or temporary defeat.
+> Do all things with love.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Og Mandino</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
