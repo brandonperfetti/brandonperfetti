@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To fly as fast as thought, you must begin by knowing that you have already arrived.
+> I think and that is all that I am.
 >
-> <p>- Richard Bach</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
