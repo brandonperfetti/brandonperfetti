@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
+> I'll prepare and someday my chance will come.
 >
-> <p>- Hannah Arendt</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
