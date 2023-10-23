@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
+> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
 >
-> <p>- Henry James</p>
+> <p>- Thomas Carlyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
