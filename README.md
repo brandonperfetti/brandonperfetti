@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Think for yourselves and let others enjoy the privilege to do so too.
+> To fly as fast as thought, you must begin by knowing that you have already arrived.
 >
-> <p>- Voltaire</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
