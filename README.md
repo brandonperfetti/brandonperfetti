@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Attitude is a little thing that makes a big difference.
+> Always be smarter than the people who hire you.
 >
-> <p>- Winston Churchill</p>
+> <p>- Lena Horne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
