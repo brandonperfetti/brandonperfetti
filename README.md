@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- Hannah Arendt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
