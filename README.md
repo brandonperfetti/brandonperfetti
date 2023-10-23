@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
+> If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.
 >
-> <p>- Harriet Tubman</p>
+> <p>- J. Paul Getty</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
