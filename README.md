@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
+> Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
