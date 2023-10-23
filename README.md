@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Good thoughts are no better than good dreams, unless they be executed.
+> Be as you wish to seem.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Socrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
