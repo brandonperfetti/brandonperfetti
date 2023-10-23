@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ethics change with technology.
+> For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.
 >
-> <p>- Larry Niven</p>
+> <p>- Audrey Hepburn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
