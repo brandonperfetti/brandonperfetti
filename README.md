@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
+> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
 >
-> <p>- Thomas Edison</p>
+> <p>- John Steinbeck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
