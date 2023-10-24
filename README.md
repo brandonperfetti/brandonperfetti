@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You'll see it when you believe it.
+> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Gloria Steinem</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
