@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> One man practicing sportsmanship is far better than a hundred teaching it.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Knute Rockne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
