@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is divided into the horrible and the miserable.
+> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
 >
-> <p>- Woody Allen</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
