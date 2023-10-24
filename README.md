@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you do not change direction, you may end up where you are heading.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
 >
-> <p>- Laozi</p>
+> <p>- Archimedes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
