@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Lauren Bacall</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
