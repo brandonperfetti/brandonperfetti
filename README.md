@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Plato</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
