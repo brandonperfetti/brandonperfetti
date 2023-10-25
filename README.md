@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Genuine sincerity opens people's hearts, while manipulation causes them to close.
+> Through perseverance many people win success out of what seemed destined to be certain failure.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
