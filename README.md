@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do not go where the path may lead, go instead where there is no path and leave a trail.
+> Genuine sincerity opens people's hearts, while manipulation causes them to close.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Daisaku Ikeda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
