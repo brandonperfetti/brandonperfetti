@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Through perseverance many people win success out of what seemed destined to be certain failure.
+> It's a good thing to be satisfied with what one has.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
