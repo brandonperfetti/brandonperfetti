@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every friendship is different because everyone's personality is different.
+> When I let go of what I am, I become what I might be.
 >
-> <p>- Nargis Fakhri</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
