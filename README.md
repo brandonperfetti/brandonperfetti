@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wisdom begins in wonder.
+> They can conquer who believe they can.
 >
-> <p>- Socrates</p>
+> <p>- Virgil</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
