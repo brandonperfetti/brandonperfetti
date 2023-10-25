@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The biggest adventure you can ever take is to live the life of your dreams.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Nargis Fakhri</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
