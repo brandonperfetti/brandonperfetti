@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Well done is better than well said.
+> Do not go where the path may lead, go instead where there is no path and leave a trail.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
