@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We must become the change we want to see.
+> The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Dwight D. Eisenhower</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
