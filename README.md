@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Football is football and talent is talent. But the mindset of your team makes all the difference.
+> The biggest adventure you can ever take is to live the life of your dreams.
 >
-> <p>- Robert Griffin III</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
