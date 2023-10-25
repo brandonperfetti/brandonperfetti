@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> Football is football and talent is talent. But the mindset of your team makes all the difference.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Robert Griffin III</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
