@@ -167,7 +167,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
 >
 > <p>- Dalai Lama</p>
 
