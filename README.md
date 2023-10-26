@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.
+> When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again.
 >
-> <p>- Alan Cohen</p>
+> <p>- Hugo Black</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
