@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I violated the Noah rule: Predicting rain doesn't count; building arks does.
+> The world is but a canvas to the imagination.
 >
-> <p>- Warren Buffett</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
