@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Charles Péguy</p>
+> <p>- Babe Ruth</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
