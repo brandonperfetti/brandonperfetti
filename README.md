@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.
 >
-> <p>- John Lennon</p>
+> <p>- Alan Cohen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
