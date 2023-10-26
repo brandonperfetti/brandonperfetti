@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
 >
-> <p>- Sophocles</p>
+> <p>- John Dewey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
