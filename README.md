@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.
+> The fall of dropping water wears away the Stone.
 >
-> <p>- Hannah Szenes</p>
+> <p>- Lucretius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
