@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.
+> Those who are free of resentful thoughts surely find peace.
 >
-> <p>- Winston Churchill</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
