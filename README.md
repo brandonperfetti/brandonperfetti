@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
