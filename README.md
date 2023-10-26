@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> I love you the more in that I believe you had liked me for my own sake and for nothing else.
 >
-> <p>- Confucius</p>
+> <p>- John Keats</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
