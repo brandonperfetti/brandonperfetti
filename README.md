@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Hannah Szenes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
