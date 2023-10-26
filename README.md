@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The fall of dropping water wears away the Stone.
+> All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.
 >
-> <p>- Lucretius</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
