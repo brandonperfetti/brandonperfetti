@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
+> The best way to pay for a lovely moment is to enjoy it.
 >
-> <p>- Swami Vivekananda</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
