@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We never live; we are always in the expectation of living.
+> It is not enough to have a good mind; the main thing is to use it well.
 >
-> <p>- Voltaire</p>
+> <p>- René Descartes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
