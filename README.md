@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The best way to pay for a lovely moment is to enjoy it.
+> We never live; we are always in the expectation of living.
 >
-> <p>- Richard Bach</p>
+> <p>- Voltaire</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
