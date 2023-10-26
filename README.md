@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The possibilities are numerous once we decide to act and not react.
+> Absence makes the heart grow fonder.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Thomas Haynes Bayly</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
