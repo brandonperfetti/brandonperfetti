@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
+> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
