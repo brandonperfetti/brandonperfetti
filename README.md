@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No man was ever wise by chance.
+> The only Zen you find on the tops of mountains is the Zen you bring up there.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Robert M. Pirsig</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
