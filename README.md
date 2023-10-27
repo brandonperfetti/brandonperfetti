@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
+> Happiness resides not in possessions, and not in gold, happiness dwells in the soul.
 >
-> <p>- Mia Hamm</p>
+> <p>- Democritus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
