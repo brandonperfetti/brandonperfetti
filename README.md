@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The truth is not for all men, but only for those who seek it.
+> A friend to all is a friend to none.
 >
-> <p>- Ayn Rand</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
