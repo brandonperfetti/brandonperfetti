@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
+> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
 >
-> <p>- John Wooden</p>
+> <p>- Mary Kay Ash</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
