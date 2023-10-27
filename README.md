@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own.
+> History is written by the victors.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
