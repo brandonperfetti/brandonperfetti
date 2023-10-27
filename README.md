@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Give whatever you are doing and whoever you are with the gift of your attention.
+> There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool.
 >
-> <p>- Jim Rohn</p>
+> <p>- Francis Bacon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
