@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life has no blessing like a prudent friend.
+> I have no special talent. I am only passionately curious.
 >
-> <p>- Euripides</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
