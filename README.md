@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> History is written by the victors.
+> My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind.
 >
-> <p>- Winston Churchill</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
