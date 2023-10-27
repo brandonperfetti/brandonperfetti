@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No alibi will save you from accepting the responsibility.
+> Give whatever you are doing and whoever you are with the gift of your attention.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Jim Rohn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
