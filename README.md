@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The only Zen you find on the tops of mountains is the Zen you bring up there.
+> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
