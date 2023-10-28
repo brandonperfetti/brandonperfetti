@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Opportunity often comes disguised in the form of misfortune, or temporary defeat.
+> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Louise Hay</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
