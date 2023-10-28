@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.
+> One who is too insistent on his own views, finds few to agree with him.
 >
-> <p>- The Buddha</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
