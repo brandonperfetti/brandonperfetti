@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
+> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
 >
-> <p>- Steve Jobs</p>
+> <p>- Richard Burton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
