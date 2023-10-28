@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
+> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
 >
-> <p>- Louise Hay</p>
+> <p>- Niccolò Machiavelli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
