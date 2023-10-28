@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You must do the things you think you cannot do.
+> Forgiveness is choosing to love. It is the first skill of self-giving love.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
