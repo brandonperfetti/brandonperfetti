@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?
+> You cannot step twice into the same river, for other waters are continually flowing in.
 >
-> <p>- Confucius</p>
+> <p>- Heraclitus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
