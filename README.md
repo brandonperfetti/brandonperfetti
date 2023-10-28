@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
+> When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
