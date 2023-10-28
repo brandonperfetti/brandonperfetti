@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> It always seems impossible until it's done.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
