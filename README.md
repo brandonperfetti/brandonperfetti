@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The key is to keep company only with people who uplift you, whose presence calls forth your best.
+> When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
 >
-> <p>- Epictetus</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
