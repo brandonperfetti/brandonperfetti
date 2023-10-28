@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.
+> The key is to keep company only with people who uplift you, whose presence calls forth your best.
 >
-> <p>- Confucius</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
