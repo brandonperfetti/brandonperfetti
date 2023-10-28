@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Henry Reed</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
