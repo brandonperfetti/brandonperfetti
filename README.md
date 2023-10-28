@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
+> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Vernon Cooper</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
