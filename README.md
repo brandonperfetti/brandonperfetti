@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One who is too insistent on his own views, finds few to agree with him.
+> If you can dream it, you can do it.
 >
-> <p>- Laozi</p>
+> <p>- Walt Disney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
