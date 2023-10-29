@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> No act of kindness, no matter how small, is ever wasted.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Aesop</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
