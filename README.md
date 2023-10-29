@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The first step to getting the things you want out of life is this: decide what you want.
+> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
 >
-> <p>- Ben Stein</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
