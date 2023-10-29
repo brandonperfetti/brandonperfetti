@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No act of kindness, no matter how small, is ever wasted.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Aesop</p>
+> <p>- David Bader</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
