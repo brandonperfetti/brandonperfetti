@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+> You just can't beat the person who never gives up.
 >
-> <p>- Helen Keller</p>
+> <p>- Babe Ruth</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
