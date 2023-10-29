@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I gave my life to become the person I am right now. Was it worth it?
+> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
 >
-> <p>- Richard Bach</p>
+> <p>- Muhammad Ali</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
