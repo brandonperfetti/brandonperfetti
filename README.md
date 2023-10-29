@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The universe is transformation; our life is what our thoughts make it.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Anne Bradstreet</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
