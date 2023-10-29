@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
+> There are many ways of going forward, but only one way of standing still.
 >
-> <p>- Anne Bradstreet</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
