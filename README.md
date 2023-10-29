@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+> The first step to getting the things you want out of life is this: decide what you want.
 >
-> <p>- Dalai Lama</p>
+> <p>- Ben Stein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
