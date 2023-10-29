@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.
+> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
