@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- John Lennon</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
