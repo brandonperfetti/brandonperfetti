@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Gratitude is the fairest blossom which springs from the soul.
+> In seed time learn, in harvest teach, in winter enjoy.
 >
-> <p>- Henry K. Beecher</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
