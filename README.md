@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be here now. Be someplace else later. Is that so complicated?
+> We all live with the objective of being happy; our lives are all different and yet the same.
 >
-> <p>- David Bader</p>
+> <p>- Anne Frank</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
