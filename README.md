@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
+> Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.
 >
-> <p>- Elizabeth Montagu</p>
+> <p>- Bob Feller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
