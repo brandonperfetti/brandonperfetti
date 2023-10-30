@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
+> Life is the flower for which love is the honey.
 >
-> <p>- Alan Watts</p>
+> <p>- Victor Hugo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
