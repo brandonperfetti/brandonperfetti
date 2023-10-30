@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I want you to be everything that's you, deep at the center of your being.
+> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
 >
-> <p>- Confucius</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
