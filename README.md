@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We all live with the objective of being happy; our lives are all different and yet the same.
+> Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.
 >
-> <p>- Anne Frank</p>
+> <p>- Alan Cohen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
