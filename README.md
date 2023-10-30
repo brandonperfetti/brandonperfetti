@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In seed time learn, in harvest teach, in winter enjoy.
+> I want you to be everything that's you, deep at the center of your being.
 >
-> <p>- William Blake</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
