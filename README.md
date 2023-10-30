@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.
+> Love all, trust a few, do wrong to none.
 >
-> <p>- Winston Churchill</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
