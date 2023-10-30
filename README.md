@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing happens unless first we dream.
+> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
 >
-> <p>- Carl Sandburg</p>
+> <p>- Will Durant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
