@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Difficulties are things that show a person what they are.
+> Listen to what you know instead of what you fear.
 >
-> <p>- Epictetus</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
