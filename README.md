@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
+> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Oscar Wilde</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
