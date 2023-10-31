@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All action results from thought, so it is thoughts that matter.
+> To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
 >
-> <p>- Sai Baba</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
