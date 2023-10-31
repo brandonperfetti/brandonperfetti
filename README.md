@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology is a word that describes something that doesn't work yet.
+> A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
 >
-> <p>- Douglas Adams</p>
+> <p>- Isaac Asimov</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
