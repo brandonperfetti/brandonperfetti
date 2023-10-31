@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A single rose can be my garden... a single friend, my world.
+> There are two kinds of failures: those who thought and never did, and those who did and never thought.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Laurence J. Peter</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
