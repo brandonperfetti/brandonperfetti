@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One is not called noble who harms living beings. By not harming living beings one is called noble.
+> I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun.
 >
-> <p>- The Buddha</p>
+> <p>- Chuck Swindoll</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
