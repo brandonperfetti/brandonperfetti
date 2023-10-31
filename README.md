@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
