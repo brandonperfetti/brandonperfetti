@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
+> One is not called noble who harms living beings. By not harming living beings one is called noble.
 >
-> <p>- Jane Addams</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
