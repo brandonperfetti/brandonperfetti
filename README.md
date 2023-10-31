@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never apologize for showing feelings. When you do so, you apologize for the truth.
+> 'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
