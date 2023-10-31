@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You might well remember that nothing can bring you success but yourself.
+> Never apologize for showing feelings. When you do so, you apologize for the truth.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
