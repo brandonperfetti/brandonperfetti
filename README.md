@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> From wonder into wonder existence opens.
+> Success is where preparation and opportunity meet.
 >
-> <p>- Laozi</p>
+> <p>- Bobby Unser</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
