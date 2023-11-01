@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I'd rather regret the things that I have done than the things that I have not done.
+> The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
 >
-> <p>- Lucille Ball</p>
+> <p>- Cecil B. DeMille</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
