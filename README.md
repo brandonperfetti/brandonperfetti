@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our greatest glory is not in never falling, but in rising every time we fall.
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 >
-> <p>- Confucius</p>
+> <p>- Lou Holtz</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
