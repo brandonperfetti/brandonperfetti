@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who wishes to secure the good of others, has already secured his own.
+> Error is discipline through which we advance.
 >
-> <p>- Confucius</p>
+> <p>- William Ellery Channing</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
