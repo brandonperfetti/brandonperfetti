@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Success consists of going from failure to failure without loss of enthusiasm.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- Winston Churchill</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
