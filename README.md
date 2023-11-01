@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
+> Gratitude is not only the greatest of virtues, but the parent of all the others.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
