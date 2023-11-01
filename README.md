@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Joy is the best makeup.
+> He who wishes to secure the good of others, has already secured his own.
 >
-> <p>- Anne Lamott</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
