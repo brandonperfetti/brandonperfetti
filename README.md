@@ -167,7 +167,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
+> Our greatest glory is not in never falling, but in rising every time we fall.
 >
 > <p>- Confucius</p>
 
