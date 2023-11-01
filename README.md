@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Gratitude is not only the greatest of virtues, but the parent of all the others.
+> Joy is the best makeup.
 >
-> <p>- Cicero</p>
+> <p>- Anne Lamott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
