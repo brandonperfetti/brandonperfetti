@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
+> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
 >
-> <p>- Cecil B. DeMille</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
