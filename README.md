@@ -8,7 +8,7 @@
 ### <div align="center">I'm Brandon, **a** software engineer 👨‍💻 working remotely since 2015 🚀</div>
 
 - 🔭&nbsp; I’m currently working on [Top Timelines](https://toptimelines.com)
-- 🌱&nbsp; I’m currently learning Angular and Bun
+- 🌱&nbsp; I’m currently learning Vue.js and React Native
 - ❓&nbsp; Ask me about anything related to JavaScript, TypeScript, React,
   NextJS, Remix, or Node!
 - ⚡&nbsp; Fun fact: I use tabs over spaces 😉
@@ -150,6 +150,15 @@ My auto-generated
 15. [CSS Grid by Wes Bos](https://cssgrid.io/)
 16. [Mastering Markdown by Wes Bos](https://masteringmarkdown.com/)
 17. [Command Line Power User by Wes Bos](https://commandlinepoweruser.com/)
+18. [Just Javascript by Dan Abramov and Maggie Appleton](https://justjavascript.com/)
+
+### In Progress Courses
+
+1. [Total TypeScript by Matt Pocock](https://www.totaltypescript.com/)
+2. [Testing Accessibility by Marcy Sutton](https://testingaccessibility.com/)
+3. [Pro Tailwind by Simon Vrachliotis](https://www.protailwind.com/)
+4. [VueSchool.io](https://vueschool.io/)
+5. [ShiftNudge by Matt D. Smith](https://shiftnudge.com/)
 
 <!-- ### 📝 Latest Blog Posts -->
 
@@ -167,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
+> Pitching is the art of instilling fear.
 >
-> <p>- Mia Hamm</p>
+> <p>- Sandy Koufax</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
