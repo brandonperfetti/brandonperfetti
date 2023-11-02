@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
 >
-> <p>- Will Rogers</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
