@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
+> Quick decisions are unsafe decisions.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
