@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Music in the soul can be heard by the universe.
+> To be wrong is nothing unless you continue to remember it.
 >
-> <p>- Laozi</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
