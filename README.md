@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To be wronged is nothing unless you continue to remember it.
+> Every problem has a gift for you in its hands.
 >
-> <p>- Confucius</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
