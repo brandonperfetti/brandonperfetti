@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Know how to listen, and you will profit even from those who talk badly.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- Plutarch</p>
+> <p>- John Astin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
