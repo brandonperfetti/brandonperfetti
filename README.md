@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Numberless are the worlds wonders, but none more wonderful than man.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Sophocles</p>
+> <p>- Hal Abelson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
