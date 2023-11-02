@@ -167,9 +167,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No act of kindness, no matter how small, is ever wasted.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- Aesop</p>
+> <p>- Will Rogers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
