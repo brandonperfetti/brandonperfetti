@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Music is a higher revelation than all wisdom and philosophy.
+> One fails forward toward success.
 >
-> <p>- Ludwig van Beethoven</p>
+> <p>- Charles F. Kettering</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
