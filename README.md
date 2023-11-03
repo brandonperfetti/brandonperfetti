@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The gambling known as business looks with austere disfavor upon the business known as gambling.
+> Success consists of going from failure to failure without loss of enthusiasm.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
