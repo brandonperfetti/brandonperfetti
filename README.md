@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.
+> There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
 >
-> <p>- Denis Waitley</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
