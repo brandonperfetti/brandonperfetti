@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Success consists of going from failure to failure without loss of enthusiasm.
+> The world has the habit of making room for the man whose actions show that he knows where he is going.
 >
-> <p>- Winston Churchill</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
