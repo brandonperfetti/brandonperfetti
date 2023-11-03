@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Dr. Seuss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
