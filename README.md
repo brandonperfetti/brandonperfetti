@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A wise man will make more opportunities than he finds.
+> I walk slowly, but I never walk backward.
 >
-> <p>- Francis Bacon</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
