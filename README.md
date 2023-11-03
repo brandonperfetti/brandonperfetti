@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you cannot do great things, do small things in a great way.
+> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Kurt Vonnegut</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
