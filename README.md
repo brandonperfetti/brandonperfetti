@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Make the best use of what is in your power and take the rest as it happens.
+> You were not born a winner, and you were not born a loser. You are what you make yourself be.
 >
-> <p>- Epictetus</p>
+> <p>- Lou Holtz</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
