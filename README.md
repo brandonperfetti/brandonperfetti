@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One fails forward toward success.
+> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Daisaku Ikeda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
