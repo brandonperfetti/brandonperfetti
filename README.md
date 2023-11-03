@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I walk slowly, but I never walk backward.
+> What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely. From an acting point of view, that's how I approached the part.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Christopher Reeve</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
