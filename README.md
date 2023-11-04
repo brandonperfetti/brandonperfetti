@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+> You can't stop the waves, but you can learn to surf.
 >
-> <p>- Charles Lamb</p>
+> <p>- Jon Kabat-Zinn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
