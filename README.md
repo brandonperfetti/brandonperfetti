@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Whatever you do in life, surround yourself with smart people who'll argue with you.
+> The best way to predict your future is to create it.
 >
-> <p>- John Wooden</p>
+> <p>- Peter Drucker</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
