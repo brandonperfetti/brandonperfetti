@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> Success is not final; failure is not fatal: it is the courage to continue that counts.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
