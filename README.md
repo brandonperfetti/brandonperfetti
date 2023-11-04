@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- Ovid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
