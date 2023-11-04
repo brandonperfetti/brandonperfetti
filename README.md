@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Set your goals high, and don't stop till you get there.
+> Education is the most powerful weapon which you can use to change the world.
 >
-> <p>- Bo Jackson</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
