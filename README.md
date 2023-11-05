@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Argue for your limitations, and sure enough they're yours.
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Richard Bach</p>
+> <p>- Dr. Seuss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
