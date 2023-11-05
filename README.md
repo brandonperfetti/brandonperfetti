@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Fortune befriends the bold.
+> Everyone thinks of changing the world, but no one thinks of changing himself.
 >
-> <p>- John Dryden</p>
+> <p>- Leo Tolstoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
