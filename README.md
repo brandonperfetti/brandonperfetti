@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be less curious about people and more curious about ideas.
+> Silence at the proper season is wisdom, and better than any speech.
 >
-> <p>- Marie Curie</p>
+> <p>- Plutarch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
