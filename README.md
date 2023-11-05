@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Laozi</p>
+> <p>- Walter Scott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
