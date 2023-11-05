@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I love you the more in that I believe you had liked me for my own sake and for nothing else.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- John Keats</p>
+> <p>- Og Mandino</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
