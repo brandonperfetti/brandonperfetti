@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Yesterday's home runs don't win today's games.
+> Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
 >
-> <p>- Babe Ruth</p>
+> <p>- Albert Schweitzer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
