@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> O, what a tangled web we weave when first we practice to deceive!
+> The greatest mistake you can make in life is to be continually fearing you will make one.
 >
-> <p>- Walter Scott</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
