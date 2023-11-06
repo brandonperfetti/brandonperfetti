@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The best way out is always through.
+> What lies behind us and what lies before us are tiny matters compared to what lies within us.
 >
-> <p>- Robert Frost</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
