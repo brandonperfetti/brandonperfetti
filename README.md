@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ignorance never settles a question.
+> Goals are the fuel in the furnace of achievement.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Brian Tracy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
