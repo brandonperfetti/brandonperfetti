@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The heart has its reasons which reason knows not of.
+> The best way out is always through.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Robert Frost</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
