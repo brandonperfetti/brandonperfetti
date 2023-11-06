@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You give before you get.
+> They must often change, who would be constant in happiness or wisdom.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
