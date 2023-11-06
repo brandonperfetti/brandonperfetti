@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
+> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
 >
-> <p>- Carl Jung</p>
+> <p>- John Muir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
