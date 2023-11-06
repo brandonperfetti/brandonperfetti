@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+> Nobody made a greater mistake than he who did nothing because he could do only a little.
 >
-> <p>- John Muir</p>
+> <p>- Edmund Burke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
