@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The awareness of our own strength makes us modest.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- Paul Cézanne</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
