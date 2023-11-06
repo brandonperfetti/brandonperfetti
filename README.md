@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+> There is no expedient to which a man will not go to avoid the labor of thinking.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
