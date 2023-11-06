@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest obstacle to connecting with our joy is resentment.
+> The awareness of our own strength makes us modest.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Paul Cézanne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
