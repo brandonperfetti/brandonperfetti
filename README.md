@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Imagination is not a talent of some men but is the health of every man.
+> What wisdom can you find that is greater than kindness?
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jean-Jacques Rousseau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
