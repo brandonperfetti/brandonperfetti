@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nobody made a greater mistake than he who did nothing because he could do only a little.
+> Imagination is not a talent of some men but is the health of every man.
 >
-> <p>- Edmund Burke</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
