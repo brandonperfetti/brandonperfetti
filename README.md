@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Not what we have but what we enjoy constitutes our abundance.
+> Friendship always benefits; love sometimes injures.
 >
-> <p>- Jean Antoine Petit-Senn</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
