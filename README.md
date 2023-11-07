@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Take rest; a field that has rested gives a bountiful crop.
+> Real magic in relationships means an absence of judgement of others.
 >
-> <p>- Ovid</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
