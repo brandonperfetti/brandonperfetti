@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
+> When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.
 >
-> <p>- Epictetus</p>
+> <p>- Morihei Ueshiba</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
