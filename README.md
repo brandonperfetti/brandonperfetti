@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
+> Not what we have but what we enjoy constitutes our abundance.
 >
-> <p>- Voltaire</p>
+> <p>- Jean Antoine Petit-Senn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
