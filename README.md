@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
+> If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.
 >
-> <p>- Orson Welles</p>
+> <p>- Rachel Carson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
