@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
+> We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Orson Welles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
