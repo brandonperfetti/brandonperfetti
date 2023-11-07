@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Joy is the best makeup.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- Anne Lamott</p>
+> <p>- Joe Paterno</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
