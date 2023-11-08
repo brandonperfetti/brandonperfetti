@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Fans don't boo nobodies.
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- Reggie Jackson (basketball, born 1990)</p>
+> <p>- Dale Carnegie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
