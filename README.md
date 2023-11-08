@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The universe is made of stories, not atoms.
+> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
 >
-> <p>- Muriel Rukeyser</p>
+> <p>- Jeff Bezos</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
