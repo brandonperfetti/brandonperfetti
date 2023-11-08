@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
+> Fans don't boo nobodies.
 >
-> <p>- John Wooden</p>
+> <p>- Reggie Jackson (basketball, born 1990)</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
