@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.
+> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
 >
-> <p>- John Steinbeck</p>
+> <p>- Norman Vincent Peale</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
