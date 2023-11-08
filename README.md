@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Dalai Lama</p>
+> <p>- Socrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
