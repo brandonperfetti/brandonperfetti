@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When fate hands us a lemon, let's try to make lemonade.
+> It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Henry Ward Beecher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
