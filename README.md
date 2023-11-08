@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Football is football and talent is talent. But the mindset of your team makes all the difference.
+> You are important enough to ask and you are blessed enough to receive back.
 >
-> <p>- Robert Griffin III</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
