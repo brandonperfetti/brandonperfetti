@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship.
+> Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
