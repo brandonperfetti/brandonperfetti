@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> He who lives in harmony with himself lives in harmony with the world.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
