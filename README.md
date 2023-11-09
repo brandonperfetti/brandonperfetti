@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
+> Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.
 >
-> <p>- Albert Camus</p>
+> <p>- Ralph Marston</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
