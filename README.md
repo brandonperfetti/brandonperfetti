@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> So much technology, so little talent.
+> Life is not a problem to be solved, but a reality to be experienced.
 >
-> <p>- Vernor Vinge</p>
+> <p>- Søren Kierkegaard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
