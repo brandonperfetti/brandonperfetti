@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Almost everything comes from nothing.
+> All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Albert Camus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
