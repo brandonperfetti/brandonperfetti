@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Education is the most powerful weapon which you can use to change the world.
+> No snowflake in an avalanche ever feels responsible.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Voltaire</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
