@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No snowflake in an avalanche ever feels responsible.
+> God has given you one face, and you make yourself another.
 >
-> <p>- Voltaire</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
