@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness.
+> So much technology, so little talent.
 >
-> <p>- The Buddha</p>
+> <p>- Vernor Vinge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
