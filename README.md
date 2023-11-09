@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Eustace Budgell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
