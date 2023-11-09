@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> God has given you one face, and you make yourself another.
+> Begin at once to live and count each separate day as a separate life.
 >
-> <p>- William Shakespeare</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
