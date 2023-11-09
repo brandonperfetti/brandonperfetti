@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The art challenges the technology, and the technology inspires the art.
+> I'm a great believer in luck and I find the harder I work, the more I have of it.
 >
-> <p>- John Lasseter</p>
+> <p>- Thomas Jefferson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
