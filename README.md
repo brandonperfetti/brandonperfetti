@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Kind words do not cost much. Yet they accomplish much.
+> The world is but a canvas to the imagination.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
