@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.
+> The art challenges the technology, and the technology inspires the art.
 >
-> <p>- Dalai Lama</p>
+> <p>- John Lasseter</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
