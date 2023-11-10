@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
+> Everything you are against weakens you. Everything you are for empowers you.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
