@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
+> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Marcel Proust</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
