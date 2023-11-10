@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Always be smarter than the people who hire you.
+> Whatever happens, take responsibility.
 >
-> <p>- Lena Horne</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
