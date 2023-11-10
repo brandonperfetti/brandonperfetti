@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
+> All this worldly wisdom was once the unamiable heresy of some wise man.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
