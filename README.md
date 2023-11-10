@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All this worldly wisdom was once the unamiable heresy of some wise man.
+> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Søren Kierkegaard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
