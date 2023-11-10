@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> Always be smarter than the people who hire you.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- Lena Horne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
