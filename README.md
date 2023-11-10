@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
+> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
 >
-> <p>- Cicero</p>
+> <p>- Ezra Stiles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
