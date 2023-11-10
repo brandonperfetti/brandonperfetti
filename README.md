@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
+> There is nothing so useless as doing efficiently that which should not be done at all.
 >
-> <p>- William Shakespeare</p>
+> <p>- Peter Drucker</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
