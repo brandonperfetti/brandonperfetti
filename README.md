@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed.
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.
 >
-> <p>- Blaise Pascal</p>
+> <p>- G. K. Chesterton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
