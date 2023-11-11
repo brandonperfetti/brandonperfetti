@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> In order to win, you must expect to win.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
