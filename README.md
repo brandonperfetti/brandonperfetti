@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Beauty is not in the face; beauty is a light in the heart.
+> When the world is so complicated, the simple gift of friendship is within all of our hands.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Maria Shriver</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
