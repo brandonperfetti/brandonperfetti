@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
+> Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
 >
-> <p>- Franz Grillparzer</p>
+> <p>- William C. Menninger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
