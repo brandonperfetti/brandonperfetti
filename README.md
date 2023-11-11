@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> 'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill.
+> When in doubt, tell the truth.
 >
-> <p>- The Buddha</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
