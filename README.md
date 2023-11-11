@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't talk about what you have done or what you are going to do.
+> To change one's life, start immediately, do it flamboyantly, no exceptions.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- William James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
