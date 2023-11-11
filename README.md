@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is impossible to experience one's death objectively and still carry a tune.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Woody Allen</p>
+> <p>- Bernice Reagon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
