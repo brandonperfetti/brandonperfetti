@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To change one's life, start immediately, do it flamboyantly, no exceptions.
+> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
 >
-> <p>- William James</p>
+> <p>- Judy Garland</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
