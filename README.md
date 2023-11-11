@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In order to win, you must expect to win.
+> There is a wisdom of the head, and a wisdom of the heart.
 >
-> <p>- Richard Bach</p>
+> <p>- Charles Dickens</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
