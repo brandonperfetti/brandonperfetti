@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> 'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill.
 >
-> <p>- Charles Dickens</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
