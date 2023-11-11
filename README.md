@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Always remember that you are absolutely unique. Just like everyone else.
+> I hear and I forget. I see and I remember. I do and I understand.
 >
-> <p>- Margaret Mead</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
