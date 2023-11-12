@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Start where you are. Use what you have. Do what you can.
+> The only Zen you find on the tops of mountains is the Zen you bring up there.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Robert M. Pirsig</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
