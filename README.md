@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
+> We can do no great things, only small things with great love.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
