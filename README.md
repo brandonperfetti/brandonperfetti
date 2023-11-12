@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To bring anything into your life, imagine that it's already there.
+> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
 >
-> <p>- Richard Bach</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
