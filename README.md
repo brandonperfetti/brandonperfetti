@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
+> Love does not consist of gazing at each other, but in looking together in the same direction.
 >
-> <p>- The Buddha</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
