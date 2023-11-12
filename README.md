@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.
+> How far that little candle throws its beams! So shines a good deed in a naughty world.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
