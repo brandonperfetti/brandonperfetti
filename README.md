@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
+> There is no way to happiness, happiness is the way.
 >
-> <p>- Judy Garland</p>
+> <p>- Thích Nhất Hạnh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
