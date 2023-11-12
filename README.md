@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Feeling and longing are the motive forces behind all human endeavor and human creations.
+> If you would take, you must first give, this is the beginning of intelligence.
 >
-> <p>- Albert Einstein</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
