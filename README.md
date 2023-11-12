@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We never live; we are always in the expectation of living.
+> To bring anything into your life, imagine that it's already there.
 >
-> <p>- Voltaire</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
