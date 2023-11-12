@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Difficulties are things that show a person what they are.
+> The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.
 >
-> <p>- Epictetus</p>
+> <p>- Amelia Earhart</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
