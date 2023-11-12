@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you do not change direction, you may end up where you are heading.
+> Feeling and longing are the motive forces behind all human endeavor and human creations.
 >
-> <p>- Laozi</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
