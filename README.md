@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
+> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Lisa Alther</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
