@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Adversity causes some men to break, others to break records.
+> We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Elizabeth Kapu'uwailani Lindsey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
