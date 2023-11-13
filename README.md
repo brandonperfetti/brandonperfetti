@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Quality is never an accident; it is always the result of intelligent effort.
+> Adversity causes some men to break, others to break records.
 >
-> <p>- John Ruskin</p>
+> <p>- William Arthur Ward</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
