@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Logic will get you from A to B. Imagination will take you everywhere.
+> Happiness can exist only in acceptance.
 >
-> <p>- Albert Einstein</p>
+> <p>- George Orwell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
