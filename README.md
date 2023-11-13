@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world makes way for the man who knows where he is going.
+> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jawaharlal Nehru</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
