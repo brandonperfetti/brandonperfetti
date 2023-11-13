@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What happens is not as important as how you react to what happens.
+> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
 >
-> <p>- Ellen Glasgow</p>
+> <p>- Epicurus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
