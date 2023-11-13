@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Learning without reflection is a waste, reflection without learning is dangerous.
+> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
 >
-> <p>- Confucius</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
