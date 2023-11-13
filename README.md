@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Thomas Carlyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
