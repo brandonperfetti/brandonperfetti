@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A wise person should be urgently moved on occasions that make for urgency.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- The Buddha</p>
+> <p>- John Muir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
