@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
+> Don't smother each other. No one can grow in the shade.
 >
-> <p>- Dalai Lama</p>
+> <p>- Leo Buscaglia</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
