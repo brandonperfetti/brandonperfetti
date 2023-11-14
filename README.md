@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+> The supreme art of war is to subdue the enemy without fighting.
 >
-> <p>- Mother Teresa</p>
+> <p>- Sun Tzu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
