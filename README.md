@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Sun Tzu</p>
+> <p>- Aldous Huxley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
