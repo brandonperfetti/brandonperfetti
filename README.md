@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> Believe you can and you're halfway there.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Theodore Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
