@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again.
+> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
 >
-> <p>- Hugo Black</p>
+> <p>- Volker Grassmuck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
