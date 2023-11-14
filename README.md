@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't smother each other. No one can grow in the shade.
+> When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Hugo Black</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
