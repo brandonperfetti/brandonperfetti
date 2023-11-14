@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Believe you can and you're halfway there.
+> Even if you're on the right track, you'll get run over if you just sit there.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Will Rogers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
