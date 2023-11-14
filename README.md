@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is only one corner of the universe you can be certain of improving, and that's your own self.
+> The energy of the mind is the essence of life.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
