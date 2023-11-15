@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Gratitude is the fairest blossom which springs from the soul.
+> Those who cannot learn from history are doomed to repeat it.
 >
-> <p>- Henry K. Beecher</p>
+> <p>- George Santayana</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
