@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Keep your eyes on the stars and your feet on the ground.
+> Think big thoughts but relish small pleasures.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
