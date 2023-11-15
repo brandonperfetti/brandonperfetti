@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Those who cannot learn from history are doomed to repeat it.
+> If you can't feed a hundred people, then feed just one.
 >
-> <p>- George Santayana</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
