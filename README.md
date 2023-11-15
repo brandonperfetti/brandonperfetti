@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Before we acquire great power, we must acquire wisdom to use it well.
+> Even if you're on the right track, you'll get run over if you just sit there.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Will Rogers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
