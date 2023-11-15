@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A friendship founded on business is better than a business founded on friendship.
+> If it is not right do not do it; if it is not true do not say it.
 >
-> <p>- John Locke</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
