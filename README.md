@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Even if you're on the right track, you'll get run over if you just sit there.
+> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
 >
-> <p>- Will Rogers</p>
+> <p>- Doug Larson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
