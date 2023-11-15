@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+> Do good by stealth, and blush to find it fame.
 >
-> <p>- Helen Keller</p>
+> <p>- Alexander Pope</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
