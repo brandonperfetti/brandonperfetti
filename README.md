@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Courage is going from failure to failure without losing enthusiasm.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- Winston Churchill</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
