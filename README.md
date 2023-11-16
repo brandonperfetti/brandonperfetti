@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
+> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Ben Hogan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
