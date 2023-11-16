@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I'd rather regret the things I've done than regret the things I haven't done.
+> To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.
 >
-> <p>- Lucille Ball</p>
+> <p>- Plutarch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
