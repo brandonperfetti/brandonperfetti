@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every gift from a friend is a wish for your happiness.
+> Do what you can. Want what you have. Be who you are.
 >
-> <p>- Richard Bach</p>
+> <p>- Forrest Church</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
