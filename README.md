@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I can't believe that God put us on this earth to be ordinary.
+> We've got to have a dream if we are going to make a dream come true.
 >
-> <p>- Lou Holtz</p>
+> <p>- Walt Disney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
