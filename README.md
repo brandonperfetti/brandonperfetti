@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Each day provides its own gifts.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
