@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any one thing.
+> Each day provides its own gifts.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
