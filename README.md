@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Change your life today. Don't gamble on the future, act now, without delay.
+> Do all things with love.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Og Mandino</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
