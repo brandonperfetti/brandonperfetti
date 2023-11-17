@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+> To be happy is to be able to become aware of oneself without fright.
 >
-> <p>- Thomas Edison</p>
+> <p>- Walter Benjamin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
