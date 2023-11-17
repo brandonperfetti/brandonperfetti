@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.
+> Once you choose hope, anything's possible.
 >
-> <p>- The Buddha</p>
+> <p>- Christopher Reeve</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
