@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A man is not old as long as he is seeking something.
+> Whatever happens, take responsibility.
 >
-> <p>- Edmond Rostand</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
