@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To command is to serve, nothing more and nothing less.
+> Love all, trust a few, do wrong to none.
 >
-> <p>- André Malraux</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
