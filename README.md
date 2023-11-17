@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Practice yourself, for heaven's sake in little things, and then proceed to greater.
+> A man is not old as long as he is seeking something.
 >
-> <p>- Epictetus</p>
+> <p>- Edmond Rostand</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
