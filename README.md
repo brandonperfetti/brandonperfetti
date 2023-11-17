@@ -8,7 +8,7 @@
 ### <div align="center">I'm Brandon, **a** software engineer 👨‍💻 working remotely since 2015 🚀</div>
 
 - 🔭&nbsp; I’m currently working on [Top Timelines](https://toptimelines.com)
-- 🌱&nbsp; I’m currently learning Vue.js and React Native
+- 🌱&nbsp; I’m currently learning [Angular](https://angular.io/) and [.NET](https://dotnet.microsoft.com/en-us/)
 - ❓&nbsp; Ask me about anything related to JavaScript, TypeScript, React,
   NextJS, Remix, or Node!
 - ⚡&nbsp; Fun fact: I use tabs over spaces 😉
@@ -59,6 +59,7 @@ My auto-generated
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/65625612?s=64&v=4" alt="Vite" height="50" /></a>
 <a href="https://vitest.dev/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/vitest-MBMTIYCC.svg" alt="Vitest" height="50" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6128107?s=48&v=4" alt="Vue.js" height="50" /></a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
 <a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/zod-3ONWVJM7.svg" alt="Zod" height="50" /></a>
 </div>
@@ -123,13 +124,13 @@ My auto-generated
 
 <br/>
 
-### This week I spent my time on
+### How I've been spending time lately
 
 ![Wakatime stats](https://github-readme-stats-navy-sigma-84.vercel.app/api/wakatime?username=@brandonperfetti&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <br/>
 
-### My Certifications
+<!-- ### My Certifications -->
 
 ### Completed Courses
 
@@ -151,6 +152,7 @@ My auto-generated
 16. [Mastering Markdown by Wes Bos](https://masteringmarkdown.com/)
 17. [Command Line Power User by Wes Bos](https://commandlinepoweruser.com/)
 18. [Just Javascript by Dan Abramov and Maggie Appleton](https://justjavascript.com/)
+19. [Vue School MasterClass by Alex Kyriakidis](https://vueschool.io/courses/the-vuejs-master-class)
 
 ### In Progress Courses
 
@@ -176,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>- Maureen Dowd</p>
+> <p>- Walt Disney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
