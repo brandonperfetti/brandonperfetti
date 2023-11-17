@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> Write your plans in pencil and give God the eraser.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Paulo Coelho</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
