@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Habit, if not resisted, soon becomes necessity.
+> I want my friend to miss me as long as I miss him.
 >
 > <p>- Augustine of Hippo</p>
 
