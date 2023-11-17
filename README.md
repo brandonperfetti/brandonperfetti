@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> Habit, if not resisted, soon becomes necessity.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Augustine of Hippo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
