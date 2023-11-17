@@ -176,9 +176,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Loss is nothing else but change, and change is Nature's delight.
+> Every gift from a friend is a wish for your happiness.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
