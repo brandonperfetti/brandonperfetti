@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- W. Clement Stone</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
