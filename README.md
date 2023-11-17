@@ -176,7 +176,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every gift from a friend is a wish for your happiness.
+> Strong beliefs win strong men, and then make them stronger.
 >
 > <p>- Richard Bach</p>
 
