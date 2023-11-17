@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
+> Every man takes the limits of his own field of vision for the limits of the world.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Arthur Schopenhauer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
