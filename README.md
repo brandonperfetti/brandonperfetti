@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You are never given a wish without also being given the power to make it come true. You may have to work for it, however.
+> To command is to serve, nothing more and nothing less.
 >
-> <p>- Richard Bach</p>
+> <p>- André Malraux</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
