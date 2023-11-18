@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Only I can change my life. No one can do it for me.
+> Never explain - your friends do not need it and your enemies will not believe you anyway.
 >
-> <p>- Carol Burnett</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
