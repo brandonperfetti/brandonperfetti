@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun.
+> Our distrust is very expensive.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
