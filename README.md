@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> Beauty is not in the face; beauty is a light in the heart.
 >
 > <p>- Kahlil Gibran</p>
 
