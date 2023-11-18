@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
 >
-> <p>- Ted Williams</p>
+> <p>- Archimedes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
