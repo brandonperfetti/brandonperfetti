@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Beauty is not in the face; beauty is a light in the heart.
+> Love is a friendship set to music.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Joseph Campbell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
