@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> They can do all because they think they can.
+> Happiness often sneaks in through a door you didn't know you left open.
 >
-> <p>- Virgil</p>
+> <p>- John Barrymore</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
