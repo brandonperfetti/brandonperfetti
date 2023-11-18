@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The things that one most wants to do are the things that are probably most worth doing.
+> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
 >
-> <p>- Winifred Holtby</p>
+> <p>- Mignon McLaughlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
