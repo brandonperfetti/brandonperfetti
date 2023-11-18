@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is good even for old men to learn wisdom.
+> Life without love is like a tree without blossoms or fruit.
 >
-> <p>- Aeschylus</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
