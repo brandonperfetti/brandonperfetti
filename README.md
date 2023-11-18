@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I never think of the future. It comes soon enough.
+> The things that one most wants to do are the things that are probably most worth doing.
 >
-> <p>- Albert Einstein</p>
+> <p>- Winifred Holtby</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
