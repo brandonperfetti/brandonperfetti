@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Gratitude is riches. Complaint is poverty.
+> They can do all because they think they can.
 >
-> <p>- Doris Day</p>
+> <p>- Virgil</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
