@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Give, even if you only have a little.
+> Gratitude is riches. Complaint is poverty.
 >
-> <p>- The Buddha</p>
+> <p>- Doris Day</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
