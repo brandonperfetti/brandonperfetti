@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is more wisdom in your body than in your deepest philosophy.
+> It is good even for old men to learn wisdom.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Aeschylus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
