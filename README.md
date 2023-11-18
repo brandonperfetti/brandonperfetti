@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Act as if what you do makes a difference. It does.
+> Nothing is softer or more flexible than water, yet nothing can resist it.
 >
-> <p>- William James</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
