@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ignorance never settles a question.
+> Act as if what you do makes a difference. It does.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- William James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
