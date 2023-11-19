@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Through perseverance many people win success out of what seemed destined to be certain failure.
+> Happiness resides not in possessions, and not in gold, happiness dwells in the soul.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Democritus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
