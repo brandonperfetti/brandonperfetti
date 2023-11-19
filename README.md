@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
+> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Gloria Steinem</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
