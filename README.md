@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
+> It is through science that we prove, but through intuition that we discover.
 >
-> <p>- Steven Van Zandt</p>
+> <p>- Henri Poincaré</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
