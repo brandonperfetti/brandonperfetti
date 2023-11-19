@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is through science that we prove, but through intuition that we discover.
+> Through perseverance many people win success out of what seemed destined to be certain failure.
 >
-> <p>- Henri Poincaré</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
