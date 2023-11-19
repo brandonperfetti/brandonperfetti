@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Two persons cannot long be friends if they cannot forgive each other's little failings.
+> True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.
 >
-> <p>- Jean de La Bruyère</p>
+> <p>- George Washington</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
