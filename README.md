@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The differences between friends cannot but reinforce their friendship.
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
 >
-> <p>- Mao Zedong</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
