@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.
+> The differences between friends cannot but reinforce their friendship.
 >
-> <p>- Gloria Steinem</p>
+> <p>- Mao Zedong</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
