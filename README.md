@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If opportunity doesn't knock, build a door.
+> Be less curious about people and more curious about ideas.
 >
-> <p>- Milton Berle</p>
+> <p>- Marie Curie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
