@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There are no strangers here; Only friends you haven't yet met.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- William Butler Yeats</p>
+> <p>- John Astin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
