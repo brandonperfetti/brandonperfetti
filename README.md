@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Happiness resides not in possessions, and not in gold, happiness dwells in the soul.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Democritus</p>
+> <p>- Bernice Reagon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
