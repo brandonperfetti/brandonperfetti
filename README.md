@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
+> Two persons cannot long be friends if they cannot forgive each other's little failings.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Jean de La Bruyère</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
