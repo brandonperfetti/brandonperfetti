@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you love life, don't waste time, for time is what life is made up of.
+> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
 >
-> <p>- Bruce Lee</p>
+> <p>- Steven Van Zandt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
