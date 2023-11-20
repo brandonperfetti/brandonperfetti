@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A friend may well be reckoned the masterpiece of nature.
+> To hell with circumstances, I create opportunities.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
