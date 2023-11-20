@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We can only learn to love by loving.
+> When I do good I feel good, when I do bad I feel bad, and that's my religion.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
