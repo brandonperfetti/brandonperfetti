@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When I do good I feel good, when I do bad I feel bad, and that's my religion.
+> The only limit to our realization of tomorrow will be our doubts of today.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
