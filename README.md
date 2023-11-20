@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Many men go fishing all of their lives without knowing that it is not fish they are after.
+> We can only learn to love by loving.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Iris Murdoch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
