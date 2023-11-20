@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Joy is the best makeup.
+> He that is giddy thinks the world turns round.
 >
-> <p>- Anne Lamott</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
