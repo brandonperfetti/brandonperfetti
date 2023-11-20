@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
+> The more light you allow within you, the brighter the world you live in will be.
 >
-> <p>- Winston Churchill</p>
+> <p>- Shakti Gawain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
