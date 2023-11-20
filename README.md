@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
+> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
 >
-> <p>- Eknath Easwaran</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
