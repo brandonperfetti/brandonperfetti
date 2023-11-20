@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Action is the foundational key to all success.
+> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Thomas Paine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
