@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When something is important enough, you do it even if the odds are not in your favor.
+> Don't leave a stone unturned. It's always something, to know you have done the most you could.
 >
-> <p>- Elon Musk</p>
+> <p>- Charles Dickens</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
