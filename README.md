@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you realize there is nothing lacking, the whole world belongs to you.
+> All our knowledge has its origins in our perceptions.
 >
-> <p>- Laozi</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
