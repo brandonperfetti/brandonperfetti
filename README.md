@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
 >
-> <p>- Mother Teresa</p>
+> <p>- Charles Du Bos</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
