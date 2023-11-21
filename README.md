@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I violated the Noah rule: Predicting rain doesn't count; building arks does.
+> An invasion of armies can be resisted, but not an idea whose time has come.
 >
-> <p>- Warren Buffett</p>
+> <p>- Victor Hugo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
