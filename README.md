@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What happens is not as important as how you react to what happens.
+> Ethics change with technology.
 >
-> <p>- Ellen Glasgow</p>
+> <p>- Larry Niven</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
