@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The virtue of justice consists in moderation, as regulated by wisdom.
+> I violated the Noah rule: Predicting rain doesn't count; building arks does.
 >
-> <p>- Aristotle</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
