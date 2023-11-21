@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
+> Love all, trust a few, do wrong to none.
 >
-> <p>- Bruce Lee</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
