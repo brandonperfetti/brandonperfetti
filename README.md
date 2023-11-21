@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Always tell the truth. That way, you don't have to remember what you said.
+> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
 >
-> <p>- Mark Twain</p>
+> <p>- Julie Morgenstern</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
