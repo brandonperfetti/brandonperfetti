@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A thing well said will be wit in all languages.
+> It is not so important to know everything as to appreciate what we learn.
 >
-> <p>- John Dryden</p>
+> <p>- Hannah More</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
