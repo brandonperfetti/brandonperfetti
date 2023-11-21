@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All our knowledge has its origins in our perceptions.
+> The only Zen you find on the tops of mountains is the Zen you bring up there.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Robert M. Pirsig</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
