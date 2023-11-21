@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't leave a stone unturned. It's always something, to know you have done the most you could.
+> Always tell the truth. That way, you don't have to remember what you said.
 >
-> <p>- Charles Dickens</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
