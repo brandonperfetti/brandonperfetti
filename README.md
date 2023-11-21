@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
+> I cannot always control what goes on outside. But I can always control what goes on inside.
 >
-> <p>- Julie Morgenstern</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
