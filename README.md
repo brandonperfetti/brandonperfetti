@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.
+> When something is important enough, you do it even if the odds are not in your favor.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Elon Musk</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
