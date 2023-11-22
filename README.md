@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
+> Love all, trust a few, do wrong to none.
 >
-> <p>- Horace</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
