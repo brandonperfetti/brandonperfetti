@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
+> Know, first, who you are, and then adorn yourself accordingly.
 >
-> <p>- Carrie Snow</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
