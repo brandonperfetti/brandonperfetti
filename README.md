@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
+> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
 >
-> <p>- Sidney Hook</p>
+> <p>- Morris West</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
