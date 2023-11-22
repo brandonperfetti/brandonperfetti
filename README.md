@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wherever you go, go with all your heart.
+> The power of intuitive understanding will protect you from harm until the end of your days.
 >
-> <p>- Confucius</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
