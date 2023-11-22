@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Excellence is to do a common thing in an uncommon way.
+> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Sidney Hook</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
