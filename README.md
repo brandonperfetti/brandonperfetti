@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
+> You have to do your own growing no matter how tall your grandfather was.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
