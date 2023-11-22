@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love all, trust a few, do wrong to none.
+> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
 >
-> <p>- William Shakespeare</p>
+> <p>- Carrie Snow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
