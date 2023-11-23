@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology is teaching us to be human again.
+> It is not only for what we do that we are held responsible, but also for what we do not do.
 >
-> <p>- Simon Mainwaring</p>
+> <p>- Molière</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
