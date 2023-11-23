@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Once you label me you negate me.
+> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
