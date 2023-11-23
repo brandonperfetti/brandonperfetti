@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise.
+> It is not so important to know everything as to appreciate what we learn.
 >
-> <p>- John Keats</p>
+> <p>- Hannah More</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
