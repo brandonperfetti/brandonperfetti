@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> But man is not made for defeat. A man can be destroyed but not defeated.
+> Technology is teaching us to be human again.
 >
-> <p>- Ernest Hemingway</p>
+> <p>- Simon Mainwaring</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
