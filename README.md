@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A single rose can be my garden... a single friend, my world.
+> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
