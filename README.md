@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> The heart has eyes which the brain knows nothing of.
 >
-> <p>- Ralph Marston</p>
+> <p>- Charles Henry Parkhurst</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
