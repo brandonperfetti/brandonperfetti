@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You have to do your own growing no matter how tall your grandfather was.
+> Excellence is not a skill. It is an attitude.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ralph Marston</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
