@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
+> Once you label me you negate me.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Søren Kierkegaard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
