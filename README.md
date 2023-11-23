@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is not only for what we do that we are held responsible, but also for what we do not do.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- Molière</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
