@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You are the only person on earth who can use your ability.
+> Remember always that you not only have the right to be an individual, you have an obligation to be one.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
