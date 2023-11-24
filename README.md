@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you can dream it, you can do it.
+> We love life, not because we are used to living but because we are used to loving.
 >
-> <p>- Walt Disney</p>
+> <p>- Friedrich Nietzsche</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
