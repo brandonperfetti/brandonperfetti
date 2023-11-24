@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We cannot solve our problems with the same thinking we used when we created them.
+> Experience keeps a dear school, but fools will learn in no other.
 >
-> <p>- Albert Einstein</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
