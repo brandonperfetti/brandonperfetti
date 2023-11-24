@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Experience keeps a dear school, but fools will learn in no other.
+> The more light you allow within you, the brighter the world you live in will be.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Shakti Gawain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
