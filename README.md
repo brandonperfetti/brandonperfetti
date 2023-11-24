@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A house divided against itself cannot stand.
+> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Alfred Korzybski</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
