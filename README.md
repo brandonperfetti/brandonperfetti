@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If one is lucky, a solitary fantasy can totally transform one million realities.
+> Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.
 >
-> <p>- Maya Angelou</p>
+> <p>- Zhuang Zhou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
