@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Better to have loved and lost, than to have never loved at all.
+> If one is lucky, a solitary fantasy can totally transform one million realities.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
