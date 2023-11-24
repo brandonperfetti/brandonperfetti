@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
+> Better to have loved and lost, than to have never loved at all.
 >
-> <p>- Don DeLillo</p>
+> <p>- Augustine of Hippo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
