@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Character develops itself in the stream of life.
+> Rare as is true love, true friendship is rarer.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Jean de La Fontaine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
