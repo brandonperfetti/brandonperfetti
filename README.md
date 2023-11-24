@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do good by stealth, and blush to find it fame.
+> Character develops itself in the stream of life.
 >
-> <p>- Alexander Pope</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
