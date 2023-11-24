@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Reality does not conform to the ideal but confirms it.
+> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
 >
-> <p>- Gustave Flaubert</p>
+> <p>- Joan Rivers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
