@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Much wisdom often goes with fewest words.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Sophocles</p>
+> <p>- Cory Doctorow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
