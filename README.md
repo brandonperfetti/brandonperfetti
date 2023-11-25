@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
+> Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.
 >
-> <p>- Laozi</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
