@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- René Descartes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
