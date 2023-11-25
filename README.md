@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Dalai Lama</p>
+> <p>- Eustace Budgell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
