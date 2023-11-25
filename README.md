@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Richard Bach</p>
+> <p>- Augustine of Hippo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
