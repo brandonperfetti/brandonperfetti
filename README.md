@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Along with success comes a reputation for wisdom.
+> When you come to the end of your rope, tie a knot and hang on.
 >
-> <p>- Euripides</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
