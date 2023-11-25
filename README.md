@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> When you realize there is nothing lacking, the whole world belongs to you.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
