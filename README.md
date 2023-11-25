@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you come to the end of your rope, tie a knot and hang on.
+> A friend is what the heart needs all the time.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Henry van Dyke Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
