@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.
+> But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Thomas Jefferson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
