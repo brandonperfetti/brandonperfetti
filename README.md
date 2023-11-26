@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The grand essentials of happiness are: something to do, something to love, and something to hope for.
+> Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment.
 >
-> <p>- Alexander Chalmers</p>
+> <p>- Morihei Ueshiba</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
