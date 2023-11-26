@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.
+> The supreme art of war is to subdue the enemy without fighting.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- Sun Tzu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
