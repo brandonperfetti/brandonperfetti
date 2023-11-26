@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- Morihei Ueshiba</p>
+> <p>- Robert F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
