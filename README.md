@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Cunning... is but the low mimic of wisdom.
+> The grand essentials of happiness are: something to do, something to love, and something to hope for.
 >
-> <p>- Plato</p>
+> <p>- Alexander Chalmers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
