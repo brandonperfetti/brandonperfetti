@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> There is only one success: to be able to spend your life in your own way.
 >
-> <p>- Sun Tzu</p>
+> <p>- Christopher Morley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
