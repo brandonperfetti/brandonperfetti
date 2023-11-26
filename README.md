@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
