@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> With pride, there are many curses. With humility, there come many blessings.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- Ezra Taft Benson</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
