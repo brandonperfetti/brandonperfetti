@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ellen Gilchrist</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
