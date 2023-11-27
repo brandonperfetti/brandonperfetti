@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The extreme limit of wisdom, that's what the public calls madness.
+> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
 >
-> <p>- Jean Cocteau</p>
+> <p>- Bill Bradley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
