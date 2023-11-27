@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who controls others may be powerful, but he who has mastered himself is mightier still.
+> Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements.
 >
-> <p>- Laozi</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
