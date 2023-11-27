@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A friend may well be reckoned the masterpiece of nature.
+> We never live; we are always in the expectation of living.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Voltaire</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
