@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+> Hell, there are no rules here-- we're trying to accomplish something.
 >
-> <p>- Pat Riley</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
