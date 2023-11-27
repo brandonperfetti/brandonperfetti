@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply!
+> Difficulties are things that show a person what they are.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
