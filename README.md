@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We never live; we are always in the expectation of living.
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 >
-> <p>- Voltaire</p>
+> <p>- Pat Riley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
