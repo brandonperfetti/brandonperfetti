@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
+> Life is movement-we breathe, we eat, we walk, we move!
 >
-> <p>- Richard Bach</p>
+> <p>- John Pierrakos</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
