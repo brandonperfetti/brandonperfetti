@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We must embrace pain and burn it as fuel for our journey.
+> If you do not change direction, you may end up where you are heading.
 >
-> <p>- Kenji Miyazawa</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
