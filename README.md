@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Inspiration exists, but it has to find us working.
+> The more you know yourself, the more you forgive yourself.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
