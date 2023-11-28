@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To bring anything into your life, imagine that it's already there.
+> By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.
 >
-> <p>- Richard Bach</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
