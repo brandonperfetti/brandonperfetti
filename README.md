@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The more you know yourself, the more you forgive yourself.
+> We must embrace pain and burn it as fuel for our journey.
 >
-> <p>- Confucius</p>
+> <p>- Kenji Miyazawa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
