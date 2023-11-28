@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> If you're going through hell, keep going.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
