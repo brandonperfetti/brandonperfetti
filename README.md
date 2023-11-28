@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Hell, there are no rules here-- we're trying to accomplish something.
+> Life is a succession of moments. To live each one is to succeed.
 >
-> <p>- Thomas Edison</p>
+> <p>- Corita Kent</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
