@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.
+> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
 >
-> <p>- Dalai Lama</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
