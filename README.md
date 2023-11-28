@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> They can conquer who believe they can.
+> Any sufficiently advanced technology is equivalent to magic.
 >
-> <p>- Virgil</p>
+> <p>- Arthur C. Clarke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
