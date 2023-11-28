@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> If you can't feed a hundred people, then feed just one.
 >
-> <p>- Isocrates</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
