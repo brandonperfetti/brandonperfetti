@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.
+> I'm not afraid of storms, for I'm learning how to sail my ship.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Louisa May Alcott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
