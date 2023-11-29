@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
 >
-> <p>- Ansel Adams</p>
+> <p>- Margaret Mead</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
