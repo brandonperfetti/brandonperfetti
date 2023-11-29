@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
+> Let us sacrifice our today so that our children can have a better tomorrow.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
