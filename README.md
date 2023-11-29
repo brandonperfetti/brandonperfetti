@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Holly Near</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
