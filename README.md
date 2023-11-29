@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every gift from a friend is a wish for your happiness.
+> May our hearts garden of awakening bloom with hundreds of flowers.
 >
-> <p>- Richard Bach</p>
+> <p>- Thích Nhất Hạnh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
