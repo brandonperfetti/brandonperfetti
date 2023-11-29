@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> May our hearts garden of awakening bloom with hundreds of flowers.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Naguib Mahfouz</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
