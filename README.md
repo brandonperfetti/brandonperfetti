@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In the business world, the rearview mirror is always clearer than the windshield.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- Warren Buffett</p>
+> <p>- Ansel Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
