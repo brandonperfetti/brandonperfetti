@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Faith in oneself is the best and safest course.
+> Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
 >
-> <p>- Michelangelo</p>
+> <p>- Paul Theroux</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
