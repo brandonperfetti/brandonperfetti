@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply. Willing is not enough; we must do.
+> In the business world, the rearview mirror is always clearer than the windshield.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
