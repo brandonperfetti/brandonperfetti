@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
+> Faith in oneself is the best and safest course.
 >
-> <p>- Margaret Mead</p>
+> <p>- Michelangelo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
