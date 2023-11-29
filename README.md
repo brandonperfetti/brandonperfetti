@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any other.
+> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Sri Chinmoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
