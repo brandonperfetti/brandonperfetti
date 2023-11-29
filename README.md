@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Holly Near</p>
+> <p>- Thomas Carlyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
