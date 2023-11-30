@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Go put your creed into the deed. Nor speak with double tongue.
+> You've got to go out on a limb sometimes because that's where the fruit is.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Will Rogers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
