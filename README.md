@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- Albert Einstein</p>
+> <p>- Harold Nicolson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
