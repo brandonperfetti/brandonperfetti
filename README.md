@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is no failure except in no longer trying.
+> The pain passes, but the beauty remains.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Pierre-Auguste Renoir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
