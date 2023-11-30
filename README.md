@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
