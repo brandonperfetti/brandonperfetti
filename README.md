@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
+> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
 >
-> <p>- Albert Einstein</p>
+> <p>- Thomas Jefferson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
