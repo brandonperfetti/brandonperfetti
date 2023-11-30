@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The truth is not for all men, but only for those who seek it.
+> What you get by achieving your goals is not as important as what you become by achieving your goals.
 >
-> <p>- Ayn Rand</p>
+> <p>- Zig Ziglar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
