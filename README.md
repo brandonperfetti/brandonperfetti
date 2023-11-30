@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
+> Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
