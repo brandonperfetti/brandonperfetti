@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We are all inclined to judge ourselves by our ideals; others, by their acts.
+> When times are bad is when the real entrepreneurs emerge.
 >
-> <p>- Harold Nicolson</p>
+> <p>- Robert Kiyosaki</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
