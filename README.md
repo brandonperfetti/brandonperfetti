@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You've got to go out on a limb sometimes because that's where the fruit is.
+> A friend to all is a friend to none.
 >
-> <p>- Will Rogers</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
