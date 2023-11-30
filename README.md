@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The pain passes, but the beauty remains.
+> It is the supreme art of the teacher to awaken joy in creative expression and knowledge.
 >
-> <p>- Pierre-Auguste Renoir</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
