@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Rare as is true love, true friendship is rarer.
+> The exercise of an extraordinary gift is the supremist pleasure in life.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
