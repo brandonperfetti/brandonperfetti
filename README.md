@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Happiness is found in doing, not merely possessing.
+> Rare as is true love, true friendship is rarer.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Jean de La Fontaine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
