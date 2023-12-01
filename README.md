@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> First say to yourself what you would be; and then do what you have to do.
+> Imagination is not a talent of some men but is the health of every man.
 >
-> <p>- Epictetus</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
