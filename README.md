@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.
+> Love is the master key that opens the gates of happiness.
 >
-> <p>- Reinhold Niebuhr</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
