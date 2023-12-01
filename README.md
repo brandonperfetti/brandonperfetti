@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
+> We can do no great things, only small things with great love.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
