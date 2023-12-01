@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.
+> There is only one success - to be able to spend your life in your own way.
 >
-> <p>- Audrey Hepburn</p>
+> <p>- Christopher Morley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
