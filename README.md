@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Think as a wise man but communicate in the language of the people.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- William Butler Yeats</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
