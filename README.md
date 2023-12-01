@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Creativity comes from trust. Trust your instincts. And never hope more than you work.
+> Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.
 >
-> <p>- Rita Mae Brown</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
