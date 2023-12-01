@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
+> The most technologically efficient machine that man has ever invented is the book.
 >
-> <p>- Mark Twain</p>
+> <p>- Northrop Frye</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
