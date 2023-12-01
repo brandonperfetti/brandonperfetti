@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
 >
-> <p>- Northrop Frye</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
