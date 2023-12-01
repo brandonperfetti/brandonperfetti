@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love is the master key that opens the gates of happiness.
+> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Elizabeth Arden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
