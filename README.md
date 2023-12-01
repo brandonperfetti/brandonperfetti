@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
+> If you think you can, you can. And if you think you can't, you're right.
 >
-> <p>- Elizabeth Arden</p>
+> <p>- Henry Ford</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
