@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is not only for what we do that we are held responsible, but also for what we do not do.
+> I believe in one thing only, the power of human will.
 >
-> <p>- Molière</p>
+> <p>- Joseph Stalin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
