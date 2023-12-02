@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All children are artists. The problem is how to remain an artist once he grows up.
+> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Max Planck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
