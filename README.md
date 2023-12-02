@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I believe in one thing only, the power of human will.
+> One loyal friend is worth ten thousand relatives.
 >
-> <p>- Joseph Stalin</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
