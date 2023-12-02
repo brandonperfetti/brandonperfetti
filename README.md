@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One loyal friend is worth ten thousand relatives.
+> Adversity causes some men to break, others to break records.
 >
-> <p>- Euripides</p>
+> <p>- William Arthur Ward</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
