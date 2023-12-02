@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wisdom begins at the end.
+> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
 >
-> <p>- Daniel Webster</p>
+> <p>- Samuel Johnson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
