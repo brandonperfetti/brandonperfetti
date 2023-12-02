@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
+> Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.
 >
-> <p>- Max Planck</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
