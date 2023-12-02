@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We should all be thankful for those people who rekindle the inner spirit.
+> Genius is one per cent inspiration, ninety-nine per cent perspiration.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
