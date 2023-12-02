@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing happens unless first we dream.
+> We should all be thankful for those people who rekindle the inner spirit.
 >
-> <p>- Carl Sandburg</p>
+> <p>- Albert Schweitzer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
