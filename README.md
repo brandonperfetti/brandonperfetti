@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No day in which you learn something is a complete loss.
+> It is not only for what we do that we are held responsible, but also for what we do not do.
 >
-> <p>- David Eddings</p>
+> <p>- Molière</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
