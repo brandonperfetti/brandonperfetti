@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Silence is deep as Eternity; Speech is shallow as Time.
+> If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Elon Musk</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
