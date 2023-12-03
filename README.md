@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Thomas Carlyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
