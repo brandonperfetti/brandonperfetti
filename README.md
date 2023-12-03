@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One today is worth two tomorrows.
+> Don't smother each other. No one can grow in the shade.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Leo Buscaglia</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
