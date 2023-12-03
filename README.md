@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wherever you go, go with all your heart.
+> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
 >
-> <p>- Confucius</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
