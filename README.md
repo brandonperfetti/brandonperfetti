@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I never see what has been done; I only see what remains to be done.
+> You can't win unless you learn how to lose.
 >
-> <p>- Marie Curie</p>
+> <p>- Kareem Abdul-Jabbar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
