@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing in life is to be feared. It is only to be understood.
+> They say that time changes things, but you actually have to change them yourself.
 >
-> <p>- Marie Curie</p>
+> <p>- Andy Warhol</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
