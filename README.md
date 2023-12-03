@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.
+> Never put off till tomorrow what you can do today.
 >
-> <p>- Richard Bach</p>
+> <p>- Thomas Jefferson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
