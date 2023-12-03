@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.
+> When you realize there is nothing lacking, the whole world belongs to you.
 >
-> <p>- Elon Musk</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
