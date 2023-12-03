@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Some people are born on third base and go through life thinking they hit a triple.
+> Good luck is another name for tenacity of purpose.
 >
-> <p>- Barry Switzer</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
