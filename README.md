@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never put off till tomorrow what you can do today.
+> A man should look for what is, and not for what he thinks should be.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
