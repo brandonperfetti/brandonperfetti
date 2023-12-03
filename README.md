@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> O, what a tangled web we weave when first we practice to deceive!
+> The grand essentials of happiness are: something to do, something to love, and something to hope for.
 >
-> <p>- Walter Scott</p>
+> <p>- Alexander Chalmers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
