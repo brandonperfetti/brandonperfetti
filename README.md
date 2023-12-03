@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you realize there is nothing lacking, the whole world belongs to you.
+> O, what a tangled web we weave when first we practice to deceive!
 >
-> <p>- Laozi</p>
+> <p>- Walter Scott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
