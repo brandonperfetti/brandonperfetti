@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
+> One today is worth two tomorrows.
 >
-> <p>- Woody Allen</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
