@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
+> A true friend is someone who is there for you when he'd rather be anywhere else.
 >
-> <p>- Helen Keller</p>
+> <p>- Len Wein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
