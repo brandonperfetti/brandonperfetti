@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If only wed stop trying to be happy wed have a pretty good time.
+> It has long been an axiom of mine that the little things are infinitely the most important.
 >
-> <p>- Edith Wharton</p>
+> <p>- Arthur Conan Doyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
