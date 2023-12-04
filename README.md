@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
+> How wonderful it is that nobody need wait a single moment before starting to improve the world.
 >
-> <p>- Dalai Lama</p>
+> <p>- Anne Frank</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
