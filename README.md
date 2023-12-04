@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Good luck is another name for tenacity of purpose.
+> Keep yourself to the sunshine and you cannot see the shadow.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
