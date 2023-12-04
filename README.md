@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- Kathleen Norris</p>
+> <p>- William Sloane Coffin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
