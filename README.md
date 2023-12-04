@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
+> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
 >
-> <p>- William Lyon Phelps</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
