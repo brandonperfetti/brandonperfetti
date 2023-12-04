@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To profit from good advice requires more wisdom than to give it.
+> Without courage, wisdom bears no fruit.
 >
-> <p>- Wilson Mizner</p>
+> <p>- Baltasar Gracián</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
