@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.
+> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
 >
-> <p>- Laozi</p>
+> <p>- Kathleen Norris</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
