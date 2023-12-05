@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The heart has eyes which the brain knows nothing of.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- Charles Henry Parkhurst</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
