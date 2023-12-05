@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't wait. The time will never be just right.
+> What other people may find in poetry or art museums, I find in the flight of a good drive.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Arnold Palmer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
