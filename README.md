@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It has been my experience that folks who have no vices have very few virtues.
+> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Montesquieu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
