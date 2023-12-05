@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.
+> The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.
 >
-> <p>- Sam Keen</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
