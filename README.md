@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If I were two-faced, would I be wearing this one?
+> Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Carrie Snow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
