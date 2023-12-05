@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What other people may find in poetry or art museums, I find in the flight of a good drive.
+> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
 >
-> <p>- Arnold Palmer</p>
+> <p>- Niccolò Machiavelli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
