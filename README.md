@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.
+> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
 >
-> <p>- The Buddha</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
