@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> Don't wait. The time will never be just right.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
