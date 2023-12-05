@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
+> It has been my experience that folks who have no vices have very few virtues.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
