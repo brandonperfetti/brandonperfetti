@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The meaning I picked, the one that changed my life: Overcome fear, behold wonder.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Richard Bach</p>
+> <p>- Edward Gibbon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
