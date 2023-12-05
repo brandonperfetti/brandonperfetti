@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Difficulties increase the nearer we get to the goal.
+> Technology is anything that wasn't around when you were born.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Man Ray</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
