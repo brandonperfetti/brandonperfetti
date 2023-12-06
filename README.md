@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Reviewing what you have learned and learning anew, you are fit to be a teacher.
+> Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.
 >
-> <p>- Confucius</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
