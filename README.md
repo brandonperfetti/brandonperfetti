@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wisdom often times consists of knowing what to do next.
+> No party has a monopoly on wisdom. No democracy works without compromise.
 >
-> <p>- Herbert Hoover</p>
+> <p>- Barack Obama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
