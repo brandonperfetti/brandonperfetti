@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The universe is transformation; our life is what our thoughts make it.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Joseph Campbell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
