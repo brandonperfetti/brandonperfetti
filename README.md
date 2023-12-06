@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All great achievements require time.
+> Wisdom often times consists of knowing what to do next.
 >
-> <p>- Maya Angelou</p>
+> <p>- Herbert Hoover</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
