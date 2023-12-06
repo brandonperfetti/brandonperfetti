@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.
+> Imagination will often carry us to worlds that never were. But without it we go nowhere.
 >
-> <p>- Peter Abelard</p>
+> <p>- Carl Sagan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
