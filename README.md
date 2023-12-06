@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's supposed to be automatic, but actually you have to push this button.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- John Brunner</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
