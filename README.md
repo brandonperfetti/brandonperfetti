@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is not enough to have a good mind; the main thing is to use it well.
+> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
 >
-> <p>- René Descartes</p>
+> <p>- Ravi Zacharias</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
