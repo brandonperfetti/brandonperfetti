@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To hell with circumstances, I create opportunities.
+> Love cures people - both the ones who give it and the ones who receive it.
 >
-> <p>- Bruce Lee</p>
+> <p>- Karl Menninger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
