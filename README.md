@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
+> It's supposed to be automatic, but actually you have to push this button.
 >
-> <p>- Will Durant</p>
+> <p>- John Brunner</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
