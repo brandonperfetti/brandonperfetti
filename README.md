@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When we seek to discover the best in others, we somehow bring out the best in ourselves.
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- William Arthur Ward</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
