@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.
+> It is not enough to have a good mind; the main thing is to use it well.
 >
-> <p>- The Buddha</p>
+> <p>- René Descartes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
