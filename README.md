@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Your sacred space is where you can find yourself again and again.
+> We must embrace pain and burn it as fuel for our journey.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Kenji Miyazawa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
