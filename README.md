@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Success consists of going from failure to failure without loss of enthusiasm.
+> Be the change that you want to see in the world.
 >
-> <p>- Winston Churchill</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
