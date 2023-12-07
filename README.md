@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is impossible to love and to be wise.
+> Success consists of going from failure to failure without loss of enthusiasm.
 >
-> <p>- Francis Bacon</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
