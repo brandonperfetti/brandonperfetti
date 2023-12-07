@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The real problem is not whether machines think but whether men do.
+> Never mistake motion for action.
 >
-> <p>- B. F. Skinner</p>
+> <p>- Ernest Hemingway</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
