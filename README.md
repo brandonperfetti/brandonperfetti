@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The wisest men follow their own direction.
+> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
 >
-> <p>- Euripides</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
