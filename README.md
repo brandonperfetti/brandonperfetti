@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.
+> How wonderful it is that nobody need wait a single moment before starting to improve the world.
 >
-> <p>- The Buddha</p>
+> <p>- Anne Frank</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
