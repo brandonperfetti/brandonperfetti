@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To hell with circumstances, I create opportunities.
+> Technology has to be invented or adopted.
 >
-> <p>- Bruce Lee</p>
+> <p>- Jared Diamond</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
