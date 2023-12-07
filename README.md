@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
+> The real problem is not whether machines think but whether men do.
 >
-> <p>- Dhammapada</p>
+> <p>- B. F. Skinner</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
