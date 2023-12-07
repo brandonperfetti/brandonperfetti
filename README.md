@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The most effective way to do it, is to do it.
+> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
