@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology has to be invented or adopted.
+> The most effective way to do it, is to do it.
 >
-> <p>- Jared Diamond</p>
+> <p>- Amelia Earhart</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
