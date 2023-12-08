@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary.
+> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
 >
-> <p>- Thomas Edison</p>
+> <p>- Marcel Proust</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
