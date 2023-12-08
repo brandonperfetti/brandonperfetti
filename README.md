@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We don't know a millionth of one percent about anything.
+> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
 >
-> <p>- Thomas Edison</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
