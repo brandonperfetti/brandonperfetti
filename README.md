@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+> People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge.
 >
-> <p>- Og Mandino</p>
+> <p>- Masayoshi Son</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
