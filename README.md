@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
+> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Og Mandino</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
