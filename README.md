@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
+> Commitment is an act, not a word.
 >
-> <p>- Marcel Proust</p>
+> <p>- Jean-Paul Sartre</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
