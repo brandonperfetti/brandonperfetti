@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If the shoe doesn't fit, must we change the foot?
+> The heart has eyes which the brain knows nothing of.
 >
-> <p>- Gloria Steinem</p>
+> <p>- Charles Henry Parkhurst</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
