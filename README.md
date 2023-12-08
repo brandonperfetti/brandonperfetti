@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There are no strangers here; Only friends you haven't yet met.
+> The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
 >
-> <p>- William Butler Yeats</p>
+> <p>- Mortimer J. Adler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
