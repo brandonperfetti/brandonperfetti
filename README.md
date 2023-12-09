@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The deepest craving of human nature is the need to be appreciated.
+> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
 >
-> <p>- William James</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
