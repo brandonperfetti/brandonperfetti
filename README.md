@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The extreme limit of wisdom, that's what the public calls madness.
+> The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.
 >
-> <p>- Jean Cocteau</p>
+> <p>- Bertrand Russell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
