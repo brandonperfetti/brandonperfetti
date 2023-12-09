@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
+> The extreme limit of wisdom, that's what the public calls madness.
 >
-> <p>- Albert Einstein</p>
+> <p>- Jean Cocteau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
