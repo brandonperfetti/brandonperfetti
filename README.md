@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The best preparation for tomorrow is doing your best today.
+> Numberless are the worlds wonders, but none more wonderful than man.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
