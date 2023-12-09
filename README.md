@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
+> The greater our knowledge increases the more our ignorance unfolds.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
