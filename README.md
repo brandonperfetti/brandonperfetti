@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship, like credit, is highest when it is not used.
+> Adopt the pace of nature: her secret is patience.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
