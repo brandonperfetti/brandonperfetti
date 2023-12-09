@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+> Vanity can easily overtake wisdom. It usually overtakes common sense.
 >
-> <p>- Mother Teresa</p>
+> <p>- Julian Casablancas</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
