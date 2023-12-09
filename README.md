@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.
+> The deepest craving of human nature is the need to be appreciated.
 >
-> <p>- Richard Burton</p>
+> <p>- William James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
