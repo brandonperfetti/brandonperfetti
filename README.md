@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Numberless are the worlds wonders, but none more wonderful than man.
+> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
 >
-> <p>- Sophocles</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
