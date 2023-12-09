@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Adopt the pace of nature: her secret is patience.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Ovid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
