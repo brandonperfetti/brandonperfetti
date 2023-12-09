@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Either I will find a way, or I will make one.
+> Without some goals and some efforts to reach it, no man can live.
 >
-> <p>- Philip Sidney</p>
+> <p>- John Dewey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
