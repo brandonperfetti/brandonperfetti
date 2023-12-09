@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
 >
-> <p>- Lewis Cass</p>
+> <p>- Norman Schwarzkopf</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
