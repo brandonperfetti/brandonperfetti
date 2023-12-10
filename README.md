@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing diminishes anxiety faster than action.
+> Action may not always bring happiness; but there is no happiness without action.
 >
-> <p>- Walter Inglis Anderson</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
