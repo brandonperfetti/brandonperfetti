@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All our knowledge has its origins in our perceptions.
+> To choose what is difficult all one's days, as if it were easy, that is faith.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- W. H. Auden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
