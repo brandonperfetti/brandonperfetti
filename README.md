@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can't shake hands with a clenched fist.
+> Good advice is always certain to be ignored, but that's no reason not to give it.
 >
-> <p>- Indira Gandhi</p>
+> <p>- Agatha Christie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
