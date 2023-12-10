@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
+> You can't shake hands with a clenched fist.
 >
-> <p>- Dale Turner</p>
+> <p>- Indira Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
