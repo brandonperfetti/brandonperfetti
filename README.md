@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To choose what is difficult all one's days, as if it were easy, that is faith.
+> I never think of the future - it comes soon enough.
 >
-> <p>- W. H. Auden</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
