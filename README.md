@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In the business world, the rearview mirror is always clearer than the windshield.
+> All that I am, or hope to be, I owe to my angel mother.
 >
-> <p>- Warren Buffett</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
