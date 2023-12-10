@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All that I am, or hope to be, I owe to my angel mother.
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- J. Willard Marriott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
