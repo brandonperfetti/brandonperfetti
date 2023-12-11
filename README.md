@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
+> Any sufficiently advanced technology is equivalent to magic.
 >
-> <p>- Dalai Lama</p>
+> <p>- Arthur C. Clarke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
