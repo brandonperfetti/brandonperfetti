@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Habit, if not resisted, soon becomes necessity.
+> Living at risk is jumping off the cliff and building your wings on the way down.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Ray Bradbury</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
