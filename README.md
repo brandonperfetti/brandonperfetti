@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In seed time learn, in harvest teach, in winter enjoy.
+> Start where you are. Use what you have. Do what you can.
 >
-> <p>- William Blake</p>
+> <p>- Arthur Ashe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
