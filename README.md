@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Living at risk is jumping off the cliff and building your wings on the way down.
+> People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.
 >
-> <p>- Ray Bradbury</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
