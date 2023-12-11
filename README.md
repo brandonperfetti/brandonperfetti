@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Start where you are. Use what you have. Do what you can.
+> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Jane Addams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
