@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friends are the siblings God never gave us.
+> Just because something doesn't do what you planned it to do doesn't mean it's useless.
 >
-> <p>- Mencius</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
