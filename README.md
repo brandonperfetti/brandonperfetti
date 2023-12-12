@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+> Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ted Williams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
