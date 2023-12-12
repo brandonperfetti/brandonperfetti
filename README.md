@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
+> The only person who never makes mistakes is the person who never does anything.
 >
-> <p>- The Buddha</p>
+> <p>- Denis Waitley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
