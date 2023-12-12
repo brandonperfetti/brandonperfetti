@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Only do what your heart tells you.
+> Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.
 >
-> <p>- Princess Diana</p>
+> <p>- Charles Eastman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
