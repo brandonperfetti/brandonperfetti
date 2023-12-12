@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Anybody can make history. Only a great man can write it.
+> We cannot do everything at once, but we can do something at once.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Calvin Coolidge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
