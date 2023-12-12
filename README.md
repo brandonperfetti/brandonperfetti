@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.
+> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
 >
-> <p>- Ted Williams</p>
+> <p>- Henry James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
