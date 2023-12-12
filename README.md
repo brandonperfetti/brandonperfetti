@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you only have a hammer, you tend to see every problem as a nail.
+> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more
 >
-> <p>- Abraham Maslow</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
