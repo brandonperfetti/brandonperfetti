@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
+> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
 >
-> <p>- Chanakya</p>
+> <p>- Samuel Beckett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
