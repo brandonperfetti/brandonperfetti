@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do all things with love.
+> I have always thought the actions of men the best interpreters of their thoughts.
 >
-> <p>- Og Mandino</p>
+> <p>- John Locke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
