@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+> Do all things with love.
 >
-> <p>- Samuel Beckett</p>
+> <p>- Og Mandino</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
