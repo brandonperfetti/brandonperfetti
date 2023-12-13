@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We know what we are but know not what we may be.
+> Reality leaves a lot to the imagination.
 >
-> <p>- William Shakespeare</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
