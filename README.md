@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is what happens to you while you're busy making other plans.
+> A man is great by deeds, not by birth.
 >
-> <p>- John Lennon</p>
+> <p>- Chanakya</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
