@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We cannot do everything at once, but we can do something at once.
+> Three things cannot be long hidden: the sun, the moon, and the truth.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
