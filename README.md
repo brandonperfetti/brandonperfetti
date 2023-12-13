@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>- Napoleon</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
