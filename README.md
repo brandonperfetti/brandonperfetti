@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A mind unruffled by the vagaries of fortune, from sorrow freed, from defilements cleansed, from fear liberated — this is the greatest blessing.
+> The grand essentials of happiness are: something to do, something to love, and something to hope for.
 >
-> <p>- The Buddha</p>
+> <p>- Alexander Chalmers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
