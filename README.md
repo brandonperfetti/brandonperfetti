@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Three things cannot be long hidden: the sun, the moon, and the truth.
+> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
 >
-> <p>- The Buddha</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
