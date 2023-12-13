@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A man is great by deeds, not by birth.
+> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
 >
-> <p>- Chanakya</p>
+> <p>- Swami Vivekananda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
