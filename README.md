@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
+> Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Vince Lombardi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
