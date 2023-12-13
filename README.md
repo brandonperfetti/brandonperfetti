@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Reality leaves a lot to the imagination.
+> What worries you masters you.
 >
-> <p>- John Lennon</p>
+> <p>- Haddon Robinson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
