@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
+> It isn't where you come from, it's where you're going that counts.
 >
-> <p>- Swami Vivekananda</p>
+> <p>- Ella Fitzgerald</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
