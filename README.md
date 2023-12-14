@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Walter Cronkite</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
