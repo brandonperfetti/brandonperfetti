@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All achievements, all earned riches, have their beginning in an idea.
+> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Marian Wright Edelman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
