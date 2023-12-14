@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One is not called noble who harms living beings. By not harming living beings one is called noble.
+> Think big thoughts but relish small pleasures.
 >
-> <p>- The Buddha</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
