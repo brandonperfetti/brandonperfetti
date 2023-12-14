@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> An organization, no matter how well designed, is only as good as the people who live and work in it.
+> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
 >
-> <p>- Dee Hock</p>
+> <p>- John Steinbeck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
