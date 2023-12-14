@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's not what you look at that matters, it's what you see.
+> Always seek out the seed of triumph in every adversity.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Og Mandino</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
