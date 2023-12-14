@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Meditate … do not delay, lest you later regret it.
+> I have never been hurt by anything I didn't say.
 >
-> <p>- The Buddha</p>
+> <p>- Calvin Coolidge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
