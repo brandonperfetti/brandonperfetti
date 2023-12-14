@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
+> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
