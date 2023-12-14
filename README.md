@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
+> There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
 >
-> <p>- Richard Bach</p>
+> <p>- Robert Louis Stevenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
