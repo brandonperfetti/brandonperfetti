@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You must do the things you think you cannot do.
+> It's not what you look at that matters, it's what you see.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
