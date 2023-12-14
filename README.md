@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
+> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
 >
-> <p>- John Steinbeck</p>
+> <p>- Barbara De Angelis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
