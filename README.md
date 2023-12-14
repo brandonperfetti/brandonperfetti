@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> Happiness can exist only in acceptance.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- George Orwell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
