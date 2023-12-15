@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Without courage, wisdom bears no fruit.
+> Leave no stone unturned.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
