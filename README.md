@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
+> Never deny a diagnosis but do deny the negative verdict that may go with it.
 >
-> <p>- Thomas Edison</p>
+> <p>- Norman Cousins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
