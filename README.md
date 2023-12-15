@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> However rare true love may be, it is less so than true friendship.
+> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
