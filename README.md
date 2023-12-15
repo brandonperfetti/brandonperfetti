@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Leave no stone unturned.
+> Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world.
 >
-> <p>- Euripides</p>
+> <p>- Margaret Laurence</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
