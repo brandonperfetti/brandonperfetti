@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
+> Without courage, wisdom bears no fruit.
 >
-> <p>- Eknath Easwaran</p>
+> <p>- Baltasar Gracián</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
