@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest good you can do for another is not just share your riches but reveal to them their own.
+> Yesterday's home runs don't win today's games.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Babe Ruth</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
