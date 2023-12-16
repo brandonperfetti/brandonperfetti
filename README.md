@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The grand essentials of happiness are: something to do, something to love, and something to hope for.
+> The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.
 >
-> <p>- Alexander Chalmers</p>
+> <p>- Peter Abelard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
