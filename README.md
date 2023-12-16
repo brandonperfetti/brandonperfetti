@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Yesterday I dared to struggle. Today I dare to win.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- Bernadette Devlin</p>
+> <p>- Doris Mortman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
