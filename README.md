@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.
+> You can't win unless you learn how to lose.
 >
-> <p>- The Buddha</p>
+> <p>- Kareem Abdul-Jabbar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
