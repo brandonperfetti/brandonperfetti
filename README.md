@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> All is flux; nothing stays still.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Heraclitus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
