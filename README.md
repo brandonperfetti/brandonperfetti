@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The smallest deed is better than the greatest intention.
+> You always have two choices: your commitment versus your fear.
 >
-> <p>- John Burroughs</p>
+> <p>- Sammy Davis Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
