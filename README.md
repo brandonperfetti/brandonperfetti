@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Remember that a gesture of friendship, no matter how small, is always appreciated.
+> Yesterday I dared to struggle. Today I dare to win.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Bernadette Devlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
