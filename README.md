@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To lead people walk behind them.
+> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
 >
-> <p>- Laozi</p>
+> <p>- Walter Cronkite</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
