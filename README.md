@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All is flux; nothing stays still.
+> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
 >
-> <p>- Heraclitus</p>
+> <p>- Marilyn vos Savant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
