@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What is not started today is never finished tomorrow.
+> A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Basil of Caesarea</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
