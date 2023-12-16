@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Thought is the blossom; language the bud; action the fruit behind it.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
