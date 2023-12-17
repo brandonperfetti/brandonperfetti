@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Music is a higher revelation than all wisdom and philosophy.
+> If opportunity doesn't knock, build a door.
 >
-> <p>- Ludwig van Beethoven</p>
+> <p>- Milton Berle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
