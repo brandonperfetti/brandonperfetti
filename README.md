@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love is the only force capable of transforming an enemy into a friend.
+> Every man takes the limits of his own field of vision for the limits of the world.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Arthur Schopenhauer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
