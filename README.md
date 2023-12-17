@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do not turn back when you are just at the goal.
+> Work while you have the light. You are responsible for the talent that has been entrusted to you.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
