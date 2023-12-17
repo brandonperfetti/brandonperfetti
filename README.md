@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Bernice Reagon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
