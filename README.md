@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Jawaharlal Nehru</p>
+> <p>- Ovid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
