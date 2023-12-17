@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- René Descartes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
