@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Begin at once to live and count each separate day as a separate life.
+> Do not turn back when you are just at the goal.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Publilius Syrus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
