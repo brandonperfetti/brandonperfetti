@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Lucille Ball</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
