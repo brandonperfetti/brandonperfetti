@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- Lucille Ball</p>
+> <p>- Nargis Fakhri</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
