@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Work while you have the light. You are responsible for the talent that has been entrusted to you.
+> Music is a higher revelation than all wisdom and philosophy.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Ludwig van Beethoven</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
