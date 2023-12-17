@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Happiness resides not in possessions, and not in gold, happiness dwells in the soul.
+> You got to be careful if you don't know where you're going, because you might not get there.
 >
-> <p>- Democritus</p>
+> <p>- Yogi Berra</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
