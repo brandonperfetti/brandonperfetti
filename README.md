@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I always wanted to be somebody, but I should have been more specific.
+> Nothing will work unless you do.
 >
-> <p>- Lily Tomlin</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
