@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love is blind; friendship closes its eyes.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Charles Caleb Colton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
