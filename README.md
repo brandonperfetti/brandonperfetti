@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ideas pull the trigger, but instinct loads the gun.
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- Don Marquis</p>
+> <p>- John Updike</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
