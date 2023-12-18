@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> May our hearts garden of awakening bloom with hundreds of flowers.
+> Make it your habit not to be critical about small things.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Edward Everett Hale</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
