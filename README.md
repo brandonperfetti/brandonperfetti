@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price we'll have to pay to achieve that goal, or any goal.
+> Love is blind; friendship closes its eyes.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Friedrich Nietzsche</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
