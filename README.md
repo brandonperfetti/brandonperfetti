@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Attitude is a little thing that makes a big difference.
+> There are two ways of spreading light: to be the candle or the mirror that reflects it.
 >
-> <p>- Winston Churchill</p>
+> <p>- Edith Wharton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
