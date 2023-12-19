@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
+> Time is the most valuable thing a man can spend.
 >
-> <p>- A. A. Milne</p>
+> <p>- Theophrastus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
