@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.
+> If you can't explain it simply, you don't understand it well enough.
 >
-> <p>- Woody Allen</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
