@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One of the most beautiful qualities of true friendship is to understand and to be understood.
+> Nothing is at last sacred but the integrity of your own mind.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
