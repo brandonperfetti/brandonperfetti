@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.
+> If a man does his best, what else is there?
 >
-> <p>- Confucius</p>
+> <p>- George S. Patton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
