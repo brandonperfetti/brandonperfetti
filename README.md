@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Conquer anger with non-anger. Conquer badness with goodness. Conquer meanness with generosity. Conquer dishonesty with truth.
+> Where there is charity and wisdom, there is neither fear nor ignorance.
 >
-> <p>- The Buddha</p>
+> <p>- Francis of Assisi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
