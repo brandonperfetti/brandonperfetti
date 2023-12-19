@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I destroy my enemies when I make them my friends.
+> Real magic in relationships means an absence of judgement of others.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
