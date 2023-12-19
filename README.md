@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Real magic in relationships means an absence of judgement of others.
+> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
