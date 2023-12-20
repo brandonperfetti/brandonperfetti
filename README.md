@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
+> You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.
 >
-> <p>- Rumi</p>
+> <p>- Woodrow Wilson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
