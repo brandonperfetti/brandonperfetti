@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To follow, without halt, one aim: There is the secret of success.
+> He who hath many friends hath none.
 >
-> <p>- Anna Pavlova</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
