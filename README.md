@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Accept challenges, so that you may feel the exhilaration of victory.
+> How wonderful that we have met with a paradox. Now we have some hope of making progress.
 >
-> <p>- George S. Patton</p>
+> <p>- Niels Bohr</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
