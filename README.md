@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
+> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
 >
-> <p>- Stephen Hawking</p>
+> <p>- Michel de Montaigne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
