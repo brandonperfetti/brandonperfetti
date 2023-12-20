@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If I had only known, I would have been a locksmith.
+> Accept challenges, so that you may feel the exhilaration of victory.
 >
-> <p>- Albert Einstein</p>
+> <p>- George S. Patton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
