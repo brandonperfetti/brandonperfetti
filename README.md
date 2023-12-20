@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> To follow, without halt, one aim: There is the secret of success.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Anna Pavlova</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
