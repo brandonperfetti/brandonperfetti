@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Jonathan Swift</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
