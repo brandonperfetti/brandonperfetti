@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Bad times have a scientific value. These are occasions a good learner would not miss.
+> Business, you know, may bring you money, but friendship hardly ever does.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jane Austen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
