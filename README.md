@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
+> There is only one success - to be able to spend your life in your own way.
 >
-> <p>- Chanakya</p>
+> <p>- Christopher Morley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
