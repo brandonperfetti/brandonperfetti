@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
+> The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.
 >
-> <p>- Plato</p>
+> <p>- William James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
