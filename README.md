@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is only one success - to be able to spend your life in your own way.
+> Knowing is not enough; we must apply. Willing is not enough; we must do.
 >
-> <p>- Christopher Morley</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
