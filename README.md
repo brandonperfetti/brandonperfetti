@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology has to be invented or adopted.
+> Thought is the blossom; language the bud; action the fruit behind it.
 >
-> <p>- Jared Diamond</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
