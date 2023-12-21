@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Delight in heedfulness! Guard well your thoughts!
+> Time is the most valuable thing a man can spend.
 >
-> <p>- The Buddha</p>
+> <p>- Theophrastus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
