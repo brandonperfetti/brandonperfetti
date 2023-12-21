@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
+> Those who cannot learn from history are doomed to repeat it.
 >
-> <p>- Henri Bergson</p>
+> <p>- George Santayana</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
