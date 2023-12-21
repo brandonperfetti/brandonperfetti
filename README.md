@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply. Willing is not enough; we must do.
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Dr. Seuss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
