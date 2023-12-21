@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Business, you know, may bring you money, but friendship hardly ever does.
+> Take no thought of who is right or wrong or who is better than. Be not for or against.
 >
-> <p>- Jane Austen</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
