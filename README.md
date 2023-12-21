@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest discovery of our generation is that human beings can alter their lives by altering their attitudes of mind. As you think, so shall you be.
+> Believe deep down in your heart that you're destined to do great things.
 >
-> <p>- William James</p>
+> <p>- Joe Paterno</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
