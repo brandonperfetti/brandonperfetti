@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Time is the most valuable thing a man can spend.
+> I can, therefore I am.
 >
-> <p>- Theophrastus</p>
+> <p>- Simone Weil</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
