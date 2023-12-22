@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's easier to resist at the beginning than at the end.
+> You can do it if you believe you can!
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
