@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One who is too insistent on his own views, finds few to agree with him.
+> It is through science that we prove, but through intuition that we discover.
 >
-> <p>- Laozi</p>
+> <p>- Henri Poincaré</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
