@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship at first sight, like love at first sight, is said to be the only truth.
+> It's easier to resist at the beginning than at the end.
 >
-> <p>- Herman Melville</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
