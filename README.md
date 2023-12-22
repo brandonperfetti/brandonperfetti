@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Silence is deep as Eternity; Speech is shallow as Time.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
