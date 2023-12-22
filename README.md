@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Confucius</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
