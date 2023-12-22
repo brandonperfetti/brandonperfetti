@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology is the campfire around which we tell our stories.
+> A good head and a good heart are always a formidable combination.
 >
-> <p>- Laurie Anderson</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
