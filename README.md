@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Trust your hunches. They're usually based on facts filed away just below the conscious level.
+> Swim upstream. Go the other way. Ignore the conventional wisdom.
 >
-> <p>- Joyce Brothers</p>
+> <p>- Sam Walton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
