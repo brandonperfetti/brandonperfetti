@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is through science that we prove, but through intuition that we discover.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Henri Poincaré</p>
+> <p>- Thomas Carlyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
