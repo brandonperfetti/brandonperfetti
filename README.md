@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> Ability will never catch up with the demand for it.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
