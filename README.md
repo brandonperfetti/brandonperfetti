@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ability will never catch up with the demand for it.
+> May our hearts garden of awakening bloom with hundreds of flowers.
 >
-> <p>- Confucius</p>
+> <p>- Thích Nhất Hạnh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
