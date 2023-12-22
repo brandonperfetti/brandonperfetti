@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Your worst enemy cannot harm you as much as your own unguarded thoughts.
+> You always have two choices: your commitment versus your fear.
 >
-> <p>- The Buddha</p>
+> <p>- Sammy Davis Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
