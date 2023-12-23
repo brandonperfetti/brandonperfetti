@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is on our failures that we base a new and different and better success.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- Havelock Ellis</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
