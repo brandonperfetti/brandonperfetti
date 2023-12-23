@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- Mother Teresa</p>
+> <p>- Ivy Baker Priest</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
