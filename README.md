@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you change the way you look at things, the things you look at change.
+> The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Peter Abelard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
