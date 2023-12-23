@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Most people are about as happy as they make up their minds to be
+> A day of worry is more exhausting than a day of work.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- John Lubbock</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
