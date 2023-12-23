@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
+> Eighty percent of success is showing up.
 >
-> <p>- Kathleen Norris</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
