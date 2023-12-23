@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Gratitude is not only the greatest of virtues, but the parent of all the others.
+> If you focus on results, you will never change. If you focus on change, you will get results.
 >
-> <p>- Cicero</p>
+> <p>- Jack Dixon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
