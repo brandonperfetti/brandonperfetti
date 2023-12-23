@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
