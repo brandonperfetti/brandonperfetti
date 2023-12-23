@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
+> The beginning of knowledge is the discovery of something we do not understand.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Frank Herbert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
