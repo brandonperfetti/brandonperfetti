@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A good decision is based on knowledge and not on numbers.
+> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
 >
-> <p>- Plato</p>
+> <p>- Etty Hillesum</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
