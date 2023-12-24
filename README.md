@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No act of kindness, no matter how small, is ever wasted.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- Aesop</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
