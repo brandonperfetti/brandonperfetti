@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Theodore Isaac Rubin</p>
+> <p>- Tony Blair</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
