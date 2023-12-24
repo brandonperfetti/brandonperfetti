@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Loss is nothing else but change, and change is Nature's delight.
+> If you can't explain it simply, you don't understand it well enough.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
