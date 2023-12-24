@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
+> If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.
 >
-> <p>- Michelangelo</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
