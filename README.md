@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
+> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
 >
-> <p>- Douglas Adams</p>
+> <p>- Theodore Isaac Rubin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
