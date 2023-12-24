@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One that desires to excel should endeavor in those things that are in themselves most excellent.
+> Get busy living or get busy dying.
 >
-> <p>- Epictetus</p>
+> <p>- Stephen King</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
