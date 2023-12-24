@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our lives are a sum total of the choices we have made.
+> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Michelangelo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
