@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.
+> If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Jim Rohn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
