@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.
+> Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.
 >
-> <p>- Ralph Marston</p>
+> <p>- Rumi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
