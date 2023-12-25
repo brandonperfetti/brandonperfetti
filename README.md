@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Get busy living or get busy dying.
+> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
 >
-> <p>- Stephen King</p>
+> <p>- Louise Hay</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
