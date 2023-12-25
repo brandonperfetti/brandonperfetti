@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Those who are free of resentful thoughts surely find peace.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- The Buddha</p>
+> <p>- Walter Inglis Anderson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
