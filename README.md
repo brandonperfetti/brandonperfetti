@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
+> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
 >
-> <p>- Louise Hay</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
