@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The key is to keep company only with people who uplift you, whose presence calls forth your best.
+> Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation.
 >
-> <p>- Epictetus</p>
+> <p>- Samuel Richardson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
