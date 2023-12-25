@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> Everything that happens as it should, and if you observe carefully, you will find this to be so.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
