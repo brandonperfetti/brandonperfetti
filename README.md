@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Everything that happens as it should, and if you observe carefully, you will find this to be so.
+> Your friend is your needs answered.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
