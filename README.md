@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The only Zen you find on the tops of mountains is the Zen you bring up there.
+> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Ezra Stiles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
