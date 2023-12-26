@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The only real valuable thing is intuition.
+> Friendship is like money, easier made than kept.
 >
-> <p>- Albert Einstein</p>
+> <p>- Samuel Butler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
