@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To hell with circumstances, I create opportunities.
+> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
 >
-> <p>- Bruce Lee</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
