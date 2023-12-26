@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's only when the tide goes out that you discover who's been swimming naked.
+> Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well.
 >
 > <p>- Warren Buffett</p>
 
