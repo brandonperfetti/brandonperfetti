@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Learn from yesterday, live for today, hope for tomorrow.
+> I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.
 >
 > <p>- Albert Einstein</p>
 
