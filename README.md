@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.
+> A person who never made a mistake never tried anything new.
 >
 > <p>- Albert Einstein</p>
 
