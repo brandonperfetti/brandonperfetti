@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A person who never made a mistake never tried anything new.
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
 >
-> <p>- Albert Einstein</p>
+> <p>- Chuck Swindoll</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
