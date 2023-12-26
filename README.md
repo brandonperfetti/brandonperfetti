@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
+> The superior man understands what is right; the inferior man understands what will sell.
 >
-> <p>- Audre Lorde</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
