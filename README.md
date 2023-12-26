@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
+> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
 >
-> <p>- Joan Didion</p>
+> <p>- Audre Lorde</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
