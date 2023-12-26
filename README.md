@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+> It's only when the tide goes out that you discover who's been swimming naked.
 >
-> <p>- Dalai Lama</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
