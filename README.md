@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
+> Speak when you are angry, and you will make the best speech you will ever regret.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Ambrose Bierce</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
