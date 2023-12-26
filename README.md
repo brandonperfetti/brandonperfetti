@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
+> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
 >
-> <p>- Bruce Lee</p>
+> <p>- William Ellery Channing</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
