@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+> Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
