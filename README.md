@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be yourself; everyone else is already taken.
+> The truth you believe and cling to makes you unavailable to hear anything new.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Pema Chödrön</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
