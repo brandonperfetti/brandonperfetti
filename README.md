@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is never too late to be what you might have been.
+> To know oneself is to study oneself in action with another person.
 >
-> <p>- George Eliot</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
