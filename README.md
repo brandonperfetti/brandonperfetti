@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I walk slowly, but I never walk backward.
+> It is never too late to be what you might have been.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- George Eliot</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
