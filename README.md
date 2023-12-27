@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
+> Friendship is like money, easier made than kept.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Samuel Butler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
