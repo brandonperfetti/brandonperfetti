@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
 >
-> <p>- John Wooden</p>
+> <p>- Wolfgang Amadeus Mozart</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
