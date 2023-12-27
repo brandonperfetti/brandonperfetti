@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I never see what has been done; I only see what remains to be done.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- Marie Curie</p>
+> <p>- E. M. Forster</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
