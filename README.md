@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The superior man understands what is right; the inferior man understands what will sell.
+> Change your thoughts and you change your world.
 >
-> <p>- Confucius</p>
+> <p>- Norman Vincent Peale</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
