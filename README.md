@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you want things to be different, perhaps the answer is to become different yourself.
+> Technology has to be invented or adopted.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Jared Diamond</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
