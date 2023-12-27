@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It does not matter how slowly you go as long as you do not stop.
+> Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith.
 >
-> <p>- Confucius</p>
+> <p>- Gordon Hinckley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
