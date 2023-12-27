@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The only person who never makes mistakes is the person who never does anything.
+> If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
 >
-> <p>- Denis Waitley</p>
+> <p>- Nora Roberts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
