@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- David Brinkley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
