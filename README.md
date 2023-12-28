@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.
+> Leave no stone unturned.
 >
-> <p>- The Buddha</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
