@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing is softer or more flexible than water, yet nothing can resist it.
+> There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
 >
-> <p>- Laozi</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
