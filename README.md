@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+> Life isn't about finding yourself. Life is about creating yourself.
 >
-> <p>- Voltaire</p>
+> <p>- Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
