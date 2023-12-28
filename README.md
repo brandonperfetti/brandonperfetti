@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Opportunity is missed by most because it is dressed in overalls and looks like work.
+> Kind words do not cost much. Yet they accomplish much.
 >
-> <p>- Thomas Edison</p>
+> <p>- Blaise Pascal</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
