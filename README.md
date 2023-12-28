@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is no greater harm than that of time wasted.
+> Nature takes away any faculty that is not used.
 >
-> <p>- Michelangelo</p>
+> <p>- William Inge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
