@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship always benefits; love sometimes injures.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Mortimer J. Adler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
