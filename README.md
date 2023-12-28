@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
+> Happiness often sneaks in through a door you didn't know you left open.
 >
-> <p>- Anaïs Nin</p>
+> <p>- John Barrymore</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
