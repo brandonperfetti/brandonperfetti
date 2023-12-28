@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing but heaven itself is better than a friend who is really a friend.
+> The more you like yourself, the less you are like anyone else, which makes you unique.
 >
-> <p>- Plautus</p>
+> <p>- Walt Disney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
