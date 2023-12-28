@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
+> Nothing but heaven itself is better than a friend who is really a friend.
 >
-> <p>- Ravi Zacharias</p>
+> <p>- Plautus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
