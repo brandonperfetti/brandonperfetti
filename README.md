@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No yesterdays are ever wasted for those who give themselves to today.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Brendan Behan</p>
+> <p>- Michelangelo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
