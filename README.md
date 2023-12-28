@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
+> Opportunity is missed by most because it is dressed in overalls and looks like work.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
