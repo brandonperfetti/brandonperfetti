@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- William Inge</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
