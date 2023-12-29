@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe.
+> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
 >
-> <p>- Alan Watts</p>
+> <p>- W. Clement Stone</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
