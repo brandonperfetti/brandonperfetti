@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Subdue your appetites, my dears, and you've conquered human nature.
+> We make a living by what we get, but we make a life by what we give.
 >
-> <p>- Charles Dickens</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
