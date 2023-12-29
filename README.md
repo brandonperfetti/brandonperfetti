@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+> When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.
 >
-> <p>- Tony Robbins</p>
+> <p>- Morihei Ueshiba</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
