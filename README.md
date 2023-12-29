@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do not wait for leaders; do it alone, person to person.
+> Be like the flower, turn your face to the sun.
 >
-> <p>- Mother Teresa</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
