@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We make a living by what we get, but we make a life by what we give.
+> God always takes the simplest way.
 >
-> <p>- Winston Churchill</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
