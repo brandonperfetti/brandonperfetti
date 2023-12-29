@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you correct your mind, the rest of your life will fall into place.
+> Do not wait for leaders; do it alone, person to person.
 >
-> <p>- Laozi</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
