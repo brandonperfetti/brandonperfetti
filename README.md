@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Strength does not come from physical capacity. It comes from an indomitable will.
+> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- George Herbert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
