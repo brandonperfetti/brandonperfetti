@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I can, therefore I am.
+> Watch the little things; a small leak will sink a great ship.
 >
-> <p>- Simone Weil</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
