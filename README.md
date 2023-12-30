@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
