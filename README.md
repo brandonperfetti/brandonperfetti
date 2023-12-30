@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who fears being conquered is sure of defeat.
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 >
-> <p>- Napoleon</p>
+> <p>- John Wooden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
