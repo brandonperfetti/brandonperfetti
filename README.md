@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friends are those rare people who ask how we are and then wait to hear the answer.
+> Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.
 >
-> <p>- Ed Cunningham</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
