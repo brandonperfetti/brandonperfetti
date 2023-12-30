@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I have not failed. I've just found 10,000 ways that won't work.
+> Wisdom comes alone through suffering.
 >
-> <p>- Thomas Edison</p>
+> <p>- Aeschylus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
