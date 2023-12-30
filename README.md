@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Dreams come true. Without that possibility, nature would not incite us to have them.
+> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
 >
-> <p>- John Updike</p>
+> <p>- Yolanda Hadid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
