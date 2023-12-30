@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is what happens to you while you're busy making other plans.
+> Those who cannot learn from history are doomed to repeat it.
 >
-> <p>- John Lennon</p>
+> <p>- George Santayana</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
