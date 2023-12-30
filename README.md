@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
+> Take things as they are. Punch when you have to punch. Kick when you have to kick.
 >
-> <p>- Yolanda Hadid</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
