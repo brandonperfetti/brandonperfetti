@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> Sustaining true friendship is a lot more challenging than we give it credit for.
 >
-> <p>- John Wooden</p>
+> <p>- Mariella Frostrup</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
