@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you will never be content with what you have.
+> To want to be what one can be is purpose in life.
 >
-> <p>- Doris Mortman</p>
+> <p>- Cynthia Ozick</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
