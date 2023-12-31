@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
+> Friendship is like money, easier made than kept.
 >
-> <p>- Walter Cronkite</p>
+> <p>- Samuel Butler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
