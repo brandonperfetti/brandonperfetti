@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.
+> When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again.
 >
-> <p>- The Buddha</p>
+> <p>- Hugo Black</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
