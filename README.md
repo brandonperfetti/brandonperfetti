@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- David Brinkley</p>
+> <p>- Doris Mortman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
