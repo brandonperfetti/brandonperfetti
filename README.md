@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over.
+> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
 >
-> <p>- Octavia E. Butler</p>
+> <p>- David Brinkley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
