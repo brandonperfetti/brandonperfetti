@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Confucius</p>
+> <p>- Hannah More</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
