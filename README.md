@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Most people are about as happy as they make up their minds to be
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Dale Carnegie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
