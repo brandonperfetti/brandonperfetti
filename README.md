@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> Important principles may, and must, be inflexible.
 >
-> <p>- Hannah More</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
