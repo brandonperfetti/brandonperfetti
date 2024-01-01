@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Computers are useless. They can only give you answers.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Nargis Fakhri</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
