@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A good head and a good heart are always a formidable combination.
+> If we look at the world with a love of life, the world will reveal its beauty to us.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Daisaku Ikeda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
