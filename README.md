@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If opportunity doesn't knock, build a door.
+> And the attitude of faith is the very opposite of clinging to belief, of holding on.
 >
-> <p>- Milton Berle</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
