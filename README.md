@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you will never be content with what you have.
+> Between saying and doing, many a pair of shoes is worn out.
 >
-> <p>- Doris Mortman</p>
+> <p>- Iris Murdoch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
