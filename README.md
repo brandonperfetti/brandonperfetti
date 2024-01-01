@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you realize there is nothing lacking, the whole world belongs to you.
+> The journey of a thousand miles begins with one step.
 >
 > <p>- Laozi</p>
 
