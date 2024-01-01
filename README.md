@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Reason and free inquiry are the only effectual agents against error.
+> When you realize there is nothing lacking, the whole world belongs to you.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
