@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every friendship is different because everyone's personality is different.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- Nargis Fakhri</p>
+> <p>- Doris Mortman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
