@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The journey of a thousand miles begins with one step.
+> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
 >
-> <p>- Laozi</p>
+> <p>- Henry James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
