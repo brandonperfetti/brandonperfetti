@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If we look at the world with a love of life, the world will reveal its beauty to us.
+> Fine words and an insinuating appearance are seldom associated with true virtue
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
