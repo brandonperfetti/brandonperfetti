@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's only when the tide goes out that you discover who's been swimming naked.
+> It is fatal to enter any war without the will to win it.
 >
-> <p>- Warren Buffett</p>
+> <p>- Douglas MacArthur</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
