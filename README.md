@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ethical axioms are found and tested not very differently from the axioms of science. Truth is what stands the test of experience.
+> Life is what happens while you are making other plans.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
