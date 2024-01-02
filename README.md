@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
+> Mistakes are the usual bridge between inexperience and wisdom.
 >
-> <p>- Wolfgang Amadeus Mozart</p>
+> <p>- Phyllis Grissim-Theroux</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
