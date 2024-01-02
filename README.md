@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> But man is not made for defeat. A man can be destroyed but not defeated.
+> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
 >
-> <p>- Ernest Hemingway</p>
+> <p>- William C. Menninger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
