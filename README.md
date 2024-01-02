@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Your big opportunity may be right where you are now.
+> The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Mortimer J. Adler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
