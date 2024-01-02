@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Mistakes are the usual bridge between inexperience and wisdom.
+> How is it possible to find meaning in a finite world, given my waist and shirt size?
 >
-> <p>- Phyllis Grissim-Theroux</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
