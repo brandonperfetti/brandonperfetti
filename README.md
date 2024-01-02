@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Respect should be earned by actions, and not acquired by years.
+> Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.
 >
-> <p>- Frank Lloyd Wright</p>
+> <p>- Barack Obama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
