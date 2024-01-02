@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing in life is so exhilarating as to be shot at without result.
+> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
 >
-> <p>- Winston Churchill</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
