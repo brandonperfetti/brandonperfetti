@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
+> Where there is charity and wisdom, there is neither fear nor ignorance.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Francis of Assisi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
