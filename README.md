@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- William C. Menninger</p>
+> <p>- Ivy Baker Priest</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
