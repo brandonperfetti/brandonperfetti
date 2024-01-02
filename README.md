@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.
 >
-> <p>- Walt Disney</p>
+> <p>- Hannah Szenes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
