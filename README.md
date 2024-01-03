@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
+> The most formidable weapon against errors of every kind is reason.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Thomas Paine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
