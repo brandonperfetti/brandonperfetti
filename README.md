@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> The extreme limit of wisdom, that's what the public calls madness.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Jean Cocteau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
