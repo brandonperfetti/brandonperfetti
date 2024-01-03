@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No man can succeed in a line of endeavor which he does not like.
+> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
 >
 > <p>- Napoleon Hill</p>
 
