@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All achievements, all earned riches, have their beginning in an idea.
+> Change your life today. Don't gamble on the future, act now, without delay.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Simone de Beauvoir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
