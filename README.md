@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our greatness lies not so much in being able to remake the world as being able to remake ourselves.
+> The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
