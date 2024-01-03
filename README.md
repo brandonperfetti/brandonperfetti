@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
 >
-> <p>- Albert Einstein</p>
+> <p>- Salman Rushdie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
