@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A friend is one who knows you and loves you just the same.
+> He who is contented is rich.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
