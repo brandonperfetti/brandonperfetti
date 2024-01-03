@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every problem has a gift for you in its hands.
+> The two most powerful warriors are patience and time.
 >
-> <p>- Richard Bach</p>
+> <p>- Leo Tolstoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
