@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
+> All achievements, all earned riches, have their beginning in an idea.
 >
-> <p>- Herbert Bayard Swope</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
