@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The extreme limit of wisdom, that's what the public calls madness.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- Jean Cocteau</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
