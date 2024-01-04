@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
