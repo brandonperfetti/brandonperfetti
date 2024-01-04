@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you cannot do great things, do small things in a great way.
+> In order to win, you must expect to win.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
