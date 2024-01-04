@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We should all be thankful for those people who rekindle the inner spirit.
+> Good thoughts are no better than good dreams, unless they be executed.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
