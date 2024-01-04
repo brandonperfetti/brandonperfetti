@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
+> Friends are those rare people who ask how we are and then wait to hear the answer.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Ed Cunningham</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
