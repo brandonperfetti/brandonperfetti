@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+> It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life.
 >
-> <p>- Helen Keller</p>
+> <p>- Sigmund Freud</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
