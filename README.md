@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you're going through hell, keep going.
+> An ounce of emotion is equal to a ton of facts.
 >
-> <p>- Winston Churchill</p>
+> <p>- John Junor</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
