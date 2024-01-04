@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In order to win, you must expect to win.
+> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
 >
-> <p>- Richard Bach</p>
+> <p>- Daisaku Ikeda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
