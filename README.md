@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Winston Churchill</p>
+> <p>- Henry Ward Beecher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
