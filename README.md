@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What you do today can improve all your tomorrows.
+> If you cannot do great things, do small things in a great way.
 >
-> <p>- Ralph Marston</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
