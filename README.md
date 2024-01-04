@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.
+> What you do today can improve all your tomorrows.
 >
-> <p>- Plutarch</p>
+> <p>- Ralph Marston</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
