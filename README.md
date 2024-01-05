@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No one has ever become poor by giving.
+> When your desires are strong enough you will appear to possess superhuman powers to achieve.
 >
-> <p>- Anne Frank</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
