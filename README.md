@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Good actions give strength to ourselves and inspire good actions in others.
+> To lead people walk behind them.
 >
-> <p>- Plato</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
