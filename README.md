@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is always an overmatch for strength.
+> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
 >
-> <p>- Phil Jackson</p>
+> <p>- Booker T. Washington</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
