@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friends... they cherish one another's hopes. They are kind to one another's dreams.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Lauren Bacall</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
