@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When your desires are strong enough you will appear to possess superhuman powers to achieve.
+> Walking with a friend in the dark is better than walking alone in the light.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
