@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A good plan violently executed now is better than a perfect plan executed next week.
+> Friends... they cherish one another's hopes. They are kind to one another's dreams.
 >
-> <p>- George S. Patton</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
