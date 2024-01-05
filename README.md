@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
+> No one has ever become poor by giving.
 >
-> <p>- Aristotle</p>
+> <p>- Anne Frank</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
