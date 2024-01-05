@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We love life, not because we are used to living but because we are used to loving.
+> A good plan violently executed now is better than a perfect plan executed next week.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- George S. Patton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
