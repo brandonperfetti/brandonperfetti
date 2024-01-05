@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Walking with a friend in the dark is better than walking alone in the light.
+> The only limit to our realization of tomorrow will be our doubts of today.
 >
-> <p>- Helen Keller</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
