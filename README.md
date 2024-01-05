@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A friend is what the heart needs all the time.
+> We love life, not because we are used to living but because we are used to loving.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Friedrich Nietzsche</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
