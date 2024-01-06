@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.
+> The only way to have a friend is to be one.
 >
-> <p>- Dalai Lama</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
