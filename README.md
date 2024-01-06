@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
+> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
 >
-> <p>- Anatole France</p>
+> <p>- Pema Chödrön</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
