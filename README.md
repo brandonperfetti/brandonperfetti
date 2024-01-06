@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We can do no great things, only small things with great love.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Mother Teresa</p>
+> <p>- Desmond Tutu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
