@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Resolutely train yourself to attain peace.
+> All action results from thought, so it is thoughts that matter.
 >
-> <p>- The Buddha</p>
+> <p>- Sai Baba</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
