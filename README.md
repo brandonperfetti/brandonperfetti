@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> Resolutely train yourself to attain peace.
 >
-> <p>- Lauren Bacall</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
