@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One of the most beautiful qualities of true friendship is to understand and to be understood.
+> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Anatole France</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
