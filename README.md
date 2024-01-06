@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
+> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
 >
-> <p>- Muhammad Ali</p>
+> <p>- William Arthur Ward</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
