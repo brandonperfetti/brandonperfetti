@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You don't choose your family. They are God's gift to you, as you are to them.
+> Let us sacrifice our today so that our children can have a better tomorrow.
 >
-> <p>- Desmond Tutu</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
