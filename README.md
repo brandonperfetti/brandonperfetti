@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Kind words do not cost much. Yet they accomplish much.
+> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Johann Kaspar Lavater</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
