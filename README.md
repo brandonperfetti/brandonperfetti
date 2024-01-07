@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Only those who dare to fail greatly can ever achieve greatly.
+> He that is giddy thinks the world turns round.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
