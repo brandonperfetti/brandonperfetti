@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Truth, and goodness, and beauty are but different faces of the same all.
+> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Molière</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
