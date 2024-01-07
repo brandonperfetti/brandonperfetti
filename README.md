@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
+> Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
