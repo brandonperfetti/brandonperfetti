@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No snowflake in an avalanche ever feels responsible.
+> Kind words do not cost much. Yet they accomplish much.
 >
-> <p>- Voltaire</p>
+> <p>- Blaise Pascal</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
