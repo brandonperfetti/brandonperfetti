@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
+> Truth, and goodness, and beauty are but different faces of the same all.
 >
-> <p>- Johann Kaspar Lavater</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
