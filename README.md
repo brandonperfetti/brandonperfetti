@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The best cure for the body is a quiet mind.
+> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
 >
-> <p>- Napoleon</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
