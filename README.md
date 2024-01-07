@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.
+> The best cure for the body is a quiet mind.
 >
-> <p>- Sophocles</p>
+> <p>- Napoleon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
