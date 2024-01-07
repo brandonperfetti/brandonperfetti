@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> If you want to kill any idea in the world, get a committee working on it.
 >
-> <p>- Confucius</p>
+> <p>- Charles F. Kettering</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
