@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
+> Myths which are believed in tend to become true.
 >
-> <p>- Hannah Arendt</p>
+> <p>- George Orwell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
