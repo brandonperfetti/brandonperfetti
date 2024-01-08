@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Some people go to priests; others to poetry; I to my friends.
+> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
 >
-> <p>- Virginia Woolf</p>
+> <p>- Howard H. Aiken</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
