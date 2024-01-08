@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Kind words do not cost much. Yet they accomplish much.
+> The art challenges the technology, and the technology inspires the art.
 >
-> <p>- Blaise Pascal</p>
+> <p>- John Lasseter</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
