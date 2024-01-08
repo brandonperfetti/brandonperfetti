@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
 >
-> <p>- Laozi</p>
+> <p>- John Quincy Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
