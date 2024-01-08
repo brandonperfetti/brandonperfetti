@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The superior man is satisfied and composed; the mean man is always full of distress.
+> Happiness does not come from having much, but from being attached to little.
 >
-> <p>- Confucius</p>
+> <p>- Cheng Yen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
