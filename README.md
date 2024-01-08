@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+> Some people go to priests; others to poetry; I to my friends.
 >
-> <p>- Voltaire</p>
+> <p>- Virginia Woolf</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
