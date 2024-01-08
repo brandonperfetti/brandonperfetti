@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Desmond Tutu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
