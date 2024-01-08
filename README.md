@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+> No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto.
 >
-> <p>- Charles Lamb</p>
+> <p>- W. Clement Stone</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
