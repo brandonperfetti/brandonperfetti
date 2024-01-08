@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
+> Effort only fully releases its reward after a person refuses to quit.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
