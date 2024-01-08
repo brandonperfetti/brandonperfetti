@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
+> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
 >
-> <p>- Confucius</p>
+> <p>- Alfred Korzybski</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
