@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- Howard H. Aiken</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
