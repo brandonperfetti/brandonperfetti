@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Effort only fully releases its reward after a person refuses to quit.
+> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Voltaire</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
