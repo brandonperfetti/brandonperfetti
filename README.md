@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You don't choose your family. They are God's gift to you, as you are to them.
+> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Charles Lamb</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
