@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> The superior man is satisfied and composed; the mean man is always full of distress.
 >
-> <p>- Sophocles</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
