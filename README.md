@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Stewart Brand</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
