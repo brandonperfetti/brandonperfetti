@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We know the truth, not only by the reason, but by the heart.
+> You can stand tall without standing on someone. You can be a victor without having victims.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Harriet Woods</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
