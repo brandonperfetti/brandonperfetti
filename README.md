@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Judy Garland</p>
+> <p>- Hal Abelson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
