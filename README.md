@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
+> Love isn't something you find. Love is something that finds you.
 >
-> <p>- William Blake</p>
+> <p>- Loretta Young</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
