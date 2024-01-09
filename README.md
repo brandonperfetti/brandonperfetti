@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Happiness is when what you think, what you say, and what you do are in harmony.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
