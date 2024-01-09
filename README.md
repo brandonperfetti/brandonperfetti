@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Time you enjoy wasting, was not wasted.
+> Experience is simply the name we give our mistakes.
 >
-> <p>- John Lennon</p>
+> <p>- Oscar Wilde</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
