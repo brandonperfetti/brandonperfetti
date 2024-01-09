@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Just trust yourself, then you will know how to live.
+> There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Paramahansa Yogananda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
