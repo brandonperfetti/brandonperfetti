@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> Ardently do today what must be done. Who knows? Tomorrow, death comes.
 >
-> <p>- Tony Robbins</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
