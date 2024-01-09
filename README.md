@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Programs must be written for people to read, and only incidentally for machines to execute.
+> We must embrace pain and burn it as fuel for our journey.
 >
-> <p>- Hal Abelson</p>
+> <p>- Kenji Miyazawa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
