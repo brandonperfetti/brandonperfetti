@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Judy Garland</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
