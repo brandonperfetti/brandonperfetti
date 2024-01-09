@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love, friendship and respect do not unite people as much as a common hatred for something.
+> So much technology, so little talent.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Vernor Vinge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
