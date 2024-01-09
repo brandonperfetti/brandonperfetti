@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> The secret of getting ahead is getting started.
 >
-> <p>- Loretta Young</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
