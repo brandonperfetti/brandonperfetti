@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ardently do today what must be done. Who knows? Tomorrow, death comes.
+> I know but one freedom and that is the freedom of the mind.
 >
-> <p>- The Buddha</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
