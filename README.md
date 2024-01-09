@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
+> Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
 >
-> <p>- Helen Keller</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
