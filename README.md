@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do you know what my favorite part of the game is? The opportunity to play.
+> The young man knows the rules, but the old man knows the exceptions.
 >
-> <p>- Mike Singletary (basketball)</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
