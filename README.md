@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Not engaging in ignorance is wisdom.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- Bodhidharma</p>
+> <p>- Tom Krause</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
