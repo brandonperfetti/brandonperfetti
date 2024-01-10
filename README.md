@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Joy is what happens to us when we allow ourselves to recognize how good things really are.
+> Friendship is one mind in two bodies.
 >
-> <p>- Marianne Williamson</p>
+> <p>- Mencius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
