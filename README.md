@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?
+> You really can change the world if you care enough.
 >
-> <p>- Richard Bach</p>
+> <p>- Marian Wright Edelman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
