@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> If you have one true friend, you have more than your share.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Thomas Fuller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
