@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can stand tall without standing on someone. You can be a victor without having victims.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- Harriet Woods</p>
+> <p>- Marianne Williamson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
