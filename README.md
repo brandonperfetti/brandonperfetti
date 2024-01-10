@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To study and not think is a waste. To think and not study is dangerous.
+> If you don't know where you are going, you will probably end up somewhere else.
 >
-> <p>- Confucius</p>
+> <p>- Laurence J. Peter</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
