@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+> 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.
 >
-> <p>- Horace</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
