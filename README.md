@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you have one true friend, you have more than your share.
+> To study and not think is a waste. To think and not study is dangerous.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
