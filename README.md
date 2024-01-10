@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> Not engaging in ignorance is wisdom.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Bodhidharma</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
