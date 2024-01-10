@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Kind words can be short and easy to speak, but their echoes are truly endless.
+> Living at risk is jumping off the cliff and building your wings on the way down.
 >
-> <p>- Mother Teresa</p>
+> <p>- Ray Bradbury</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
