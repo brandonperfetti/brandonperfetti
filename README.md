@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A poem begins in delight and ends in wisdom.
+> If you don't know where you are going, you will probably end up somewhere else.
 >
-> <p>- Robert Frost</p>
+> <p>- Laurence J. Peter</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
