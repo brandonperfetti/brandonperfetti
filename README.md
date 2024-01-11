@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What other people may find in poetry or art museums, I find in the flight of a good drive.
+> He has no enemies, but is intensely disliked by his friends.
 >
-> <p>- Arnold Palmer</p>
+> <p>- Oscar Wilde</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
