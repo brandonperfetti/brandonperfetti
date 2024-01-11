@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I'd rather regret the things I've done than regret the things I haven't done.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Lucille Ball</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
