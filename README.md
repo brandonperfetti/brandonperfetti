@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Make the best use of what is in your power and take the rest as it happens.
+> To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.
 >
-> <p>- Epictetus</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
