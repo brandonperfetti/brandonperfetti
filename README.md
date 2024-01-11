@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There are many ways of going forward, but only one way of standing still.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Lucille Ball</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
