@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To support mother and father, to cherish partner and children, and to be engaged in peaceful occupation — this is the greatest blessing.
+> If there is no struggle, there is no progress.
 >
-> <p>- The Buddha</p>
+> <p>- Frederick Douglass</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
