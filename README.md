@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You are important enough to ask and you are blessed enough to receive back.
+> You can't choose up sides on a round world.
 >
 > <p>- Wayne Dyer</p>
 
