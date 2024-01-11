@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can't choose up sides on a round world.
+> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
