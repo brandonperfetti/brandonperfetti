@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If there is no struggle, there is no progress.
+> You are important enough to ask and you are blessed enough to receive back.
 >
-> <p>- Frederick Douglass</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
