@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We can only learn to love by loving.
+> What wisdom can you find that is greater than kindness?
 >
-> <p>- Iris Murdoch</p>
+> <p>- Jean-Jacques Rousseau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
