@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.
+> This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
 >
-> <p>- Victoria Osteen</p>
+> <p>- Thomas Carlyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
