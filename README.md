@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> We can only learn to love by loving.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- Iris Murdoch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
