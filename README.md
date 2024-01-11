@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Start with what is right rather than what is acceptable.
+> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
 >
-> <p>- Franz Kafka</p>
+> <p>- Søren Kierkegaard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
