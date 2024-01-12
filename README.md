@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
+> The more you know yourself, the more you forgive yourself.
 >
-> <p>- Satchel Paige</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
