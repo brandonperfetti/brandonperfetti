@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The foolish man seeks happiness in the distance, the wise grows it under his feet.
+> Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
 >
-> <p>- James Oppenheim</p>
+> <p>- John Burroughs</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
