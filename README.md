@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.
+> Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.
 >
-> <p>- Albert Einstein</p>
+> <p>- George Santayana</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
