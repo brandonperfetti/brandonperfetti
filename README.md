@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
+> Quality is never an accident; it is always the result of intelligent effort.
 >
-> <p>- Cicero</p>
+> <p>- John Ruskin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
