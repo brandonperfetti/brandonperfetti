@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is a characteristic of wisdom not to do desperate things.
+> It's easier to resist at the beginning than at the end.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
