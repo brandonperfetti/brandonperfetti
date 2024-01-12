@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.
+> Don't look back. Something might be gaining on you.
 >
-> <p>- George Santayana</p>
+> <p>- Satchel Paige</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
