@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
