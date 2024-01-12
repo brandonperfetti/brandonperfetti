@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All difficult things have their origin in that which is easy, and great things in that which is small.
+> The best thing about the future is that it only comes one day at a time.
 >
-> <p>- Laozi</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
