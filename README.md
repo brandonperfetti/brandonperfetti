@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The more you know yourself, the more you forgive yourself.
+> The foolish man seeks happiness in the distance, the wise grows it under his feet.
 >
-> <p>- Confucius</p>
+> <p>- James Oppenheim</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
