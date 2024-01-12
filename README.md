@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Everything has beauty, but not everyone sees it.
+> Kindness is the language which the deaf can hear and the blind can see.
 >
-> <p>- Confucius</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
