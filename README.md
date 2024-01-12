@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
+> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
 >
-> <p>- Confucius</p>
+> <p>- Satchel Paige</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
