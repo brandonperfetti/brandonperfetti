@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Kindness is the language which the deaf can hear and the blind can see.
+> I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.
 >
-> <p>- Mark Twain</p>
+> <p>- Marilyn Monroe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
