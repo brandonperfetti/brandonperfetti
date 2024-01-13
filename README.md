@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
 >
-> <p>- Loretta Young</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
