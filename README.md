@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I believe that every person is born with talent.
+> Believe you can and you're halfway there.
 >
-> <p>- Maya Angelou</p>
+> <p>- Theodore Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
