@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Effort only fully releases its reward after a person refuses to quit.
+> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Uta Hagen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
