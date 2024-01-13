@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All our knowledge has its origins in our perceptions.
+> Love isn't something you find. Love is something that finds you.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Loretta Young</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
