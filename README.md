@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+> Life is a succession of moments. To live each one is to succeed.
 >
-> <p>- John Muir</p>
+> <p>- Corita Kent</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
