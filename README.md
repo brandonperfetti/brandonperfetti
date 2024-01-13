@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.
+> I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.
 >
-> <p>- Chuck Norris</p>
+> <p>- Marilyn Monroe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
