@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is oftentimes nearer when we stoop than when we soar.
+> All our knowledge has its origins in our perceptions.
 >
-> <p>- William Wordsworth</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
