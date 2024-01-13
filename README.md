@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
+> Friendship is like money, easier made than kept.
 >
-> <p>- Uta Hagen</p>
+> <p>- Samuel Butler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
