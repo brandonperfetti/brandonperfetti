@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
 >
-> <p>- Helen Keller</p>
+> <p>- Brian Tracy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
