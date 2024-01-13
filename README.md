@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To know oneself is to study oneself in action with another person.
+> Wisdom is found only in truth.
 >
-> <p>- Bruce Lee</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
