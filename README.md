@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> An appeaser is one who feeds a crocodile, hoping it will eat him last.
+> I believe that every person is born with talent.
 >
-> <p>- Winston Churchill</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
