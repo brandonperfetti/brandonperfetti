@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In the middle of every difficulty lies opportunity.
+> Small opportunities are often the beginning of great enterprises.
 >
-> <p>- Albert Einstein</p>
+> <p>- Demosthenes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
