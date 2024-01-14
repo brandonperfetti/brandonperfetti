@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.
+> True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Baltasar Gracián</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
