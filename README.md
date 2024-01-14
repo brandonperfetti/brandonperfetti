@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You got to be careful if you don't know where you're going, because you might not get there.
+> Never put off till tomorrow what you can do today.
 >
-> <p>- Yogi Berra</p>
+> <p>- Thomas Jefferson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
