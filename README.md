@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Small opportunities are often the beginning of great enterprises.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- Demosthenes</p>
+> <p>- Samuel Johnson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
