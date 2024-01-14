@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't judge each day by the harvest you reap but by the seeds that you plant.
+> Always be smarter than the people who hire you.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Lena Horne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
