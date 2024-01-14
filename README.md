@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Even if you're on the right track, you'll get run over if you just sit there.
+> You got to be careful if you don't know where you're going, because you might not get there.
 >
-> <p>- Will Rogers</p>
+> <p>- Yogi Berra</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
