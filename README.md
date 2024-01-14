@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Always be smarter than the people who hire you.
+> Walking with a friend in the dark is better than walking alone in the light.
 >
-> <p>- Lena Horne</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
