@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You need chaos in your soul to give birth to a dancing star.
+> Before you put on a frown, make absolutely sure there are no smiles available.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- James M. Beggs</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
