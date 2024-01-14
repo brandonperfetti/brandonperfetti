@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Before you put on a frown, make absolutely sure there are no smiles available.
+> Trying to define yourself is like trying to bite your own teeth.
 >
-> <p>- James M. Beggs</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
