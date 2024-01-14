@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> Adopt the pace of nature: her secret is patience.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
