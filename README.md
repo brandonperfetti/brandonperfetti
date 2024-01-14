@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Walking with a friend in the dark is better than walking alone in the light.
+> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
 >
-> <p>- Helen Keller</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
