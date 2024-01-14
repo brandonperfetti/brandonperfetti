@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Trying to define yourself is like trying to bite your own teeth.
+> The universe is full of magical things, patiently waiting for our wits to grow sharper.
 >
-> <p>- Alan Watts</p>
+> <p>- Eden Phillpotts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
