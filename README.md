@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The doors of wisdom are never shut.
+> In skating over thin ice our safety is in our speed.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
