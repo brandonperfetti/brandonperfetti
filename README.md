@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.
+> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Henry Ward Beecher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
