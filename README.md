@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Marriage: A friendship recognized by the police.
+> Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- William Ellery Channing</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
