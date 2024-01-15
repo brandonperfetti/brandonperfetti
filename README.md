@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> I hear and I forget. I see and I remember. I do and I understand.
 >
-> <p>- Laozi</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
