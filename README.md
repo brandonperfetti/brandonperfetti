@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- Confucius</p>
+> <p>- A. A. Milne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
