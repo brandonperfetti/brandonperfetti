@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
+> Your talent is God's gift to you. What you do with it is your gift back to God.
 >
-> <p>- A. A. Milne</p>
+> <p>- Leo Buscaglia</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
