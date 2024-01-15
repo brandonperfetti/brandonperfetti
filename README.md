@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> Know, first, who you are, and then adorn yourself accordingly.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
