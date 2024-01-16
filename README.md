@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
+> A single lamp may light hundreds of thousands of lamps without itself being diminished.
 >
-> <p>- Muhammad Ali</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
