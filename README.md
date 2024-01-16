@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
+> Never deny a diagnosis but do deny the negative verdict that may go with it.
 >
-> <p>- Tony Robbins</p>
+> <p>- Norman Cousins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
