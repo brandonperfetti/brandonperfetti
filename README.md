@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Vernon Cooper</p>
+> <p>- Lauren Bacall</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
