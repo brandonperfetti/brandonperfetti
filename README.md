@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Some people go to priests; others to poetry; I to my friends.
+> The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can.
 >
-> <p>- Virginia Woolf</p>
+> <p>- Neil Gaiman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
