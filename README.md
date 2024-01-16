@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We don't stop playing because we grow old; we grow old because we stop playing.
+> I hope we shall crush in its birth the aristocracy of our monied corporations which dare already to challenge our government to a trial by strength, and bid defiance to the laws of our country.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Thomas Jefferson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
