@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No man has a good enough memory to be a successful liar.
+> We don't stop playing because we grow old; we grow old because we stop playing.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
