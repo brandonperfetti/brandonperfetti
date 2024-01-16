@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
+> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
 >
-> <p>- Peter Drucker</p>
+> <p>- Wolfgang Amadeus Mozart</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
