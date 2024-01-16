@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The mind unlearns with difficulty what it has long learned.
+> Let there be no purpose in friendship save the deepening of the spirit.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
