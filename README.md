@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A single lamp may light hundreds of thousands of lamps without itself being diminished.
+> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
 >
-> <p>- The Buddha</p>
+> <p>- Peter Drucker</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
