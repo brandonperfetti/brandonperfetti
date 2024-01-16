@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Vernon Cooper</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
