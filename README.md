@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
+> The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.
 >
-> <p>- Wolfgang Amadeus Mozart</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
