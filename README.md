@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Imagination is the highest kite one can fly.
+> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
 >
-> <p>- Lauren Bacall</p>
+> <p>- Horace</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
