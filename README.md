@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> An ounce of emotion is equal to a ton of facts.
+> He who has imagination without learning has wings but no feet.
 >
-> <p>- John Junor</p>
+> <p>- Joseph Joubert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
