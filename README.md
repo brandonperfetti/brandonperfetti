@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One's friends are that part of the human race with which one can be human.
+> A goal without a plan is just a wish.
 >
-> <p>- George Santayana</p>
+> <p>- Larry Elder</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
