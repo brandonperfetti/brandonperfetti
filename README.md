@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- William C. Menninger</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
