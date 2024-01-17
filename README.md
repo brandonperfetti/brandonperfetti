@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Age does not protect you from love. But love, to some extent, protects you from age.
+> Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Buckminster Fuller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
