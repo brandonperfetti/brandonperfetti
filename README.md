@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> And the attitude of faith is the very opposite of clinging to belief, of holding on.
+> An ounce of emotion is equal to a ton of facts.
 >
-> <p>- Alan Watts</p>
+> <p>- John Junor</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
