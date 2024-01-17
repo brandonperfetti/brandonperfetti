@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?
+> One's friends are that part of the human race with which one can be human.
 >
-> <p>- Richard Bach</p>
+> <p>- George Santayana</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
