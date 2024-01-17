@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Build a better mousetrap and the world will beat a path to your door.
+> I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Ken Venturi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
