@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A goal without a plan is just a wish.
+> Build a better mousetrap and the world will beat a path to your door.
 >
-> <p>- Larry Elder</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
