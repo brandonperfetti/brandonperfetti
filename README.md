@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
+> And the attitude of faith is the very opposite of clinging to belief, of holding on.
 >
-> <p>- Ken Venturi</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
