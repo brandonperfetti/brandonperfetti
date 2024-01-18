@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The philosophy of the school room in one generation will be the philosophy of government in the next.
+> One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Albert Schweitzer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
