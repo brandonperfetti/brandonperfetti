@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We know what we are but know not what we may be.
+> God has given you one face, and you make yourself another.
 >
 > <p>- William Shakespeare</p>
 
