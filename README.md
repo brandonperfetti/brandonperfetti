@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.
+> The past has no power to stop you from being present now. Only your grievance about the past can do that.
 >
-> <p>- John Wooden</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
