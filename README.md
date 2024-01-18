@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
 >
-> <p>- William Inge</p>
+> <p>- Marilyn vos Savant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
