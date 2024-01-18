@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
+> History is written by the victors.
 >
-> <p>- Albert Camus</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
