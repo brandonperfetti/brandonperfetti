@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Speak low, if you speak love.
+> Kind words do not cost much. Yet they accomplish much.
 >
-> <p>- William Shakespeare</p>
+> <p>- Blaise Pascal</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
