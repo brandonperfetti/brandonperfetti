@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To study and not think is a waste. To think and not study is dangerous.
+> Where there is charity and wisdom, there is neither fear nor ignorance.
 >
-> <p>- Confucius</p>
+> <p>- Francis of Assisi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
