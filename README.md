@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Not what we have but what we enjoy constitutes our abundance.
+> Two persons cannot long be friends if they cannot forgive each other's little failings.
 >
-> <p>- Jean Antoine Petit-Senn</p>
+> <p>- Jean de La Bruyère</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
