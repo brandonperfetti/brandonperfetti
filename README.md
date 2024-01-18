@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who knows, does not speak. He who speaks, does not know.
+> Always keep an open mind and a compassionate heart.
 >
-> <p>- Laozi</p>
+> <p>- Phil Jackson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
