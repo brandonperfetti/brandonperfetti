@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
+> We don't know a millionth of one percent about anything.
 >
-> <p>- Marilyn vos Savant</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
