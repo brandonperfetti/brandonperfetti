@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The past has no power to stop you from being present now. Only your grievance about the past can do that.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
