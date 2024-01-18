@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A goal is a dream with a deadline.
+> The philosophy of the school room in one generation will be the philosophy of government in the next.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
