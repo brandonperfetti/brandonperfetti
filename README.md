@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You always succeed in producing a result.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- Tony Robbins</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
