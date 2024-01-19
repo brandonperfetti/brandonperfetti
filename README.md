@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> Remember that the most valuable antiques are dear old friends.
 >
 > <p>- H. Jackson Brown Jr.</p>
 
