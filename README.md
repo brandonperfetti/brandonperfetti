@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The grand essentials of happiness are: something to do, something to love, and something to hope for.
+> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
 >
-> <p>- Alexander Chalmers</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
