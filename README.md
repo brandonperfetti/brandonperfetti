@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't leave a stone unturned. It's always something, to know you have done the most you could.
+> Truth is powerful and it prevails.
 >
-> <p>- Charles Dickens</p>
+> <p>- Sojourner Truth</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
