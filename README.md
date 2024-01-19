@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Yeah, we all shine on, like the moon, and the stars, and the sun.
+> Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
 >
-> <p>- John Lennon</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
