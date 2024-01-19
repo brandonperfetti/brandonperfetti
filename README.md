@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> They must often change, who would be constant in happiness or wisdom.
+> You got to be careful if you don't know where you're going, because you might not get there.
 >
-> <p>- Confucius</p>
+> <p>- Yogi Berra</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
