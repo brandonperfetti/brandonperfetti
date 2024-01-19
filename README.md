@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I am always doing that which I cannot do, in order that I may learn how to do it.
+> They must often change, who would be constant in happiness or wisdom.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
