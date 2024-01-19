@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Silence at the proper season is wisdom, and better than any speech.
+> Think big thoughts but relish small pleasures.
 >
-> <p>- Plutarch</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
