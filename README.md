@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wisdom alone is the science of other sciences.
+> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
 >
-> <p>- Plato</p>
+> <p>- Amy Tan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
