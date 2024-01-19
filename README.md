@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You got to be careful if you don't know where you're going, because you might not get there.
+> Always bear in mind that your own resolution to succeed is more important than any other.
 >
-> <p>- Yogi Berra</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
