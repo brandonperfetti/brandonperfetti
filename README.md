@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One secret of success in life is for a man to be ready for his opportunity when it comes.
+> Fear grows in darkness; if you think there's a bogeyman around, turn on the light.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Dorothy Thompson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
