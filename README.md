@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Fear grows in darkness; if you think there's a bogeyman around, turn on the light.
+> There is no friendship, no love, like that of the parent for the child.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Henry Ward Beecher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
