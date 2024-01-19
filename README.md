@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
+> I am always doing that which I cannot do, in order that I may learn how to do it.
 >
-> <p>- Amy Tan</p>
+> <p>- Pablo Picasso</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
