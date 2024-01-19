@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+> Silence at the proper season is wisdom, and better than any speech.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Plutarch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
