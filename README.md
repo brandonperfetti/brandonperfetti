@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you only have a hammer, you tend to see every problem as a nail.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
