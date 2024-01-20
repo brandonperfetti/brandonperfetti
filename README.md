@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One may say the eternal mystery of the world is its comprehensibility.
+> Love is the only force capable of transforming an enemy into a friend.
 >
-> <p>- Albert Einstein</p>
+> <p>- Martin Luther King Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
