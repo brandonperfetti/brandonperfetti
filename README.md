@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
+> If you only have a hammer, you tend to see every problem as a nail.
 >
-> <p>- Margaret Cousins</p>
+> <p>- Abraham Maslow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
