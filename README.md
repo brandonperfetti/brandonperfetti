@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The only journey is the one within.
+> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
 >
-> <p>- Rainer Maria Rilke</p>
+> <p>- Margaret Cousins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
