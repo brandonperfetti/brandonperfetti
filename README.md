@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our greatest glory is not in never falling, but in rising every time we fall.
+> Time is the wisest counsellor of all.
 >
-> <p>- Confucius</p>
+> <p>- Pericles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
