@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Mistakes are the usual bridge between inexperience and wisdom.
+> Of all possessions a friend is the most precious.
 >
-> <p>- Phyllis Grissim-Theroux</p>
+> <p>- Herodotus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
