@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Of all possessions a friend is the most precious.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Herodotus</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
