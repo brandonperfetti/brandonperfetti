@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure.
+> God has given you one face, and you make yourself another.
 >
-> <p>- The Buddha</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
