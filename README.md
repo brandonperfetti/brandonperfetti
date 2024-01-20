@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I hope we shall crush in its birth the aristocracy of our monied corporations which dare already to challenge our government to a trial by strength, and bid defiance to the laws of our country.
+> The only journey is the one within.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Rainer Maria Rilke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
