@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> God has given you one face, and you make yourself another.
+> We can do no great things, only small things with great love.
 >
-> <p>- William Shakespeare</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
