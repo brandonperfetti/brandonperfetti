@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We can do no great things, only small things with great love.
+> Mistakes are the usual bridge between inexperience and wisdom.
 >
-> <p>- Mother Teresa</p>
+> <p>- Phyllis Grissim-Theroux</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
