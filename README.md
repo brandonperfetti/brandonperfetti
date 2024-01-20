@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Time is the wisest counsellor of all.
+> So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.
 >
-> <p>- Pericles</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
