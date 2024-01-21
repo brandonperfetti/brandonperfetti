@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Quality is not an act; it is a habit.
+> Your talent is God's gift to you. What you do with it is your gift back to God.
 >
-> <p>- Aristotle</p>
+> <p>- Leo Buscaglia</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
