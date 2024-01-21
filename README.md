@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never complain and never explain.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Walter Winchell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
