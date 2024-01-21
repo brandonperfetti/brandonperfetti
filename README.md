@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Joseph Campbell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
