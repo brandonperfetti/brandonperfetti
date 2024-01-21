@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He is no fool who gives what he cannot keep to gain what he cannot lose.
+> I always wanted to be somebody, but I should have been more specific.
 >
-> <p>- Jim Elliot</p>
+> <p>- Lily Tomlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
