@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To follow, without halt, one aim: There is the secret of success.
+> All action results from thought, so it is thoughts that matter.
 >
-> <p>- Anna Pavlova</p>
+> <p>- Sai Baba</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
