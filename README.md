@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are tiny matters compared to what lies within us.
+> The free man is he who does not fear to go to the end of his thought.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Léon Blum</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
