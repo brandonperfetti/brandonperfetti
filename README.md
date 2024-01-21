@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Goals are the fuel in the furnace of achievement.
+> He is no fool who gives what he cannot keep to gain what he cannot lose.
 >
-> <p>- Brian Tracy</p>
+> <p>- Jim Elliot</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
