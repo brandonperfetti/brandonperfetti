@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One loyal friend is worth ten thousand relatives.
+> To follow, without halt, one aim: There is the secret of success.
 >
-> <p>- Euripides</p>
+> <p>- Anna Pavlova</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
