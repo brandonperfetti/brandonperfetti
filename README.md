@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I always wanted to be somebody, but I should have been more specific.
+> Write your plans in pencil and give God the eraser.
 >
-> <p>- Lily Tomlin</p>
+> <p>- Paulo Coelho</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
