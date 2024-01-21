@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ask yourself the secret of your success. Listen to your answer and practice it.
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 >
-> <p>- Richard Bach</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
