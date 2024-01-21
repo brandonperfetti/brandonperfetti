@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Write your plans in pencil and give God the eraser.
+> The wisest men follow their own direction.
 >
-> <p>- Paulo Coelho</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
