@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> If I had only known, I would have been a locksmith.
 >
-> <p>- Sophocles</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
