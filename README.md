@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The wisest men follow their own direction.
+> I have learned that to be with those I like is enough.
 >
-> <p>- Euripides</p>
+> <p>- Walt Whitman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
