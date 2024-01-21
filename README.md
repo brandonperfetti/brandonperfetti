@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> One loyal friend is worth ten thousand relatives.
 >
-> <p>- Walter Winchell</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
