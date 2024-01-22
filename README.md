@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Where there is charity and wisdom, there is neither fear nor ignorance.
+> The beginning is always today.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Mary Wollstonecraft</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
