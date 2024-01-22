@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never deny a diagnosis but do deny the negative verdict that may go with it.
+> To follow, without halt, one aim: There is the secret of success.
 >
-> <p>- Norman Cousins</p>
+> <p>- Anna Pavlova</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
