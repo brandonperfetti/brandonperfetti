@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply!
+> Accept challenges, so that you may feel the exhilaration of victory.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- George S. Patton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
