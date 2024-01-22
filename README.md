@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To follow, without halt, one aim: There is the secret of success.
+> Knowing is not enough; we must apply!
 >
-> <p>- Anna Pavlova</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
