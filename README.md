@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Accept challenges, so that you may feel the exhilaration of victory.
+> Where there is charity and wisdom, there is neither fear nor ignorance.
 >
-> <p>- George S. Patton</p>
+> <p>- Francis of Assisi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
