@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The free man is he who does not fear to go to the end of his thought.
+> Mountains cannot be surmounted except by winding paths.
 >
-> <p>- Léon Blum</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
