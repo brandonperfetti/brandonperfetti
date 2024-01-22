@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> Important principles may, and must, be inflexible.
 >
-> <p>- Confucius</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
