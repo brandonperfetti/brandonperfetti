@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do not go where the path may lead, go instead where there is no path and leave a trail.
+> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Etty Hillesum</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
