@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You must do the things you think you cannot do.
+> We must embrace pain and burn it as fuel for our journey.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Kenji Miyazawa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
