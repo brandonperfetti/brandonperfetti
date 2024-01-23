@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We cannot solve our problems with the same thinking we used when we created them.
+> Be slow of tongue and quick of eye.
 >
-> <p>- Albert Einstein</p>
+> <p>- Miguel de Cervantes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
