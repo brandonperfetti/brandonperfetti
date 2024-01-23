@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The friendship that can cease has never been real.
+> Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
 >
-> <p>- Jerome</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
