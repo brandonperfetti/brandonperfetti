@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> The first step to getting the things you want out of life is this: decide what you want.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Ben Stein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
