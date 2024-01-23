@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship is always a sweet responsibility, never an opportunity.
+> It takes courage to grow up and become who you really are.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- E. E. Cummings</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
