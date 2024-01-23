@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Woody Allen</p>
+> <p>- Cory Doctorow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
