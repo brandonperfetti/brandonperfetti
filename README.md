@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Farhan Akhtar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
