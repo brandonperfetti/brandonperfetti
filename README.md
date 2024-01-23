@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It takes courage to grow up and become who you really are.
+> The doorstep to the temple of wisdom is a knowledge of our own ignorance.
 >
-> <p>- E. E. Cummings</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
