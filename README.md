@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> This is why I loved technology: if you used it right, it could give you power and privacy.
+> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
 >
-> <p>- Cory Doctorow</p>
+> <p>- Robert Graves</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
