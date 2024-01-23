@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
+> When in doubt, tell the truth.
 >
-> <p>- Confucius</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
