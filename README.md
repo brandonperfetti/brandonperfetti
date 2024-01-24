@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> So long as a person is capable of self-renewal they are a living being.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
