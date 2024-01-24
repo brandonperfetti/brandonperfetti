@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Allow the world to live as it chooses, and allow yourself to live as you choose.
+> Life is a succession of moments. To live each one is to succeed.
 >
-> <p>- Richard Bach</p>
+> <p>- Corita Kent</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
