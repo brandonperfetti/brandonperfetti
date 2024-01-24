@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> Resolutely train yourself to attain peace.
 >
-> <p>- Mother Teresa</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
