@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is what happens while you are making other plans.
+> Mistakes are always forgivable, if one has the courage to admit them.
 >
-> <p>- John Lennon</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
