@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Mistakes are always forgivable, if one has the courage to admit them.
+> Never do things others can do and will do, if there are things others cannot do or will not do.
 >
-> <p>- Bruce Lee</p>
+> <p>- Amelia Earhart</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
