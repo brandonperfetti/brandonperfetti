@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology presumes there's just one right way to do things and there never is.
+> Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
