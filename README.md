@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The journey of a thousand miles begins with one step.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- Laozi</p>
+> <p>- Blaise Pascal</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
