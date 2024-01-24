@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him.
+> The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
 >
 > <p>- Johann Wolfgang von Goethe</p>
 
