@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> Allow the world to live as it chooses, and allow yourself to live as you choose.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
