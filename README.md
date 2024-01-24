@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The two most powerful warriors are patience and time.
+> Our lives are a sum total of the choices we have made.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
