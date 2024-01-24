@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
+> The two most powerful warriors are patience and time.
 >
-> <p>- George S. Patton</p>
+> <p>- Leo Tolstoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
