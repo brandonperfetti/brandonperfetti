@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
+> Wisdom begins at the end.
 >
-> <p>- Albert Einstein</p>
+> <p>- Daniel Webster</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
