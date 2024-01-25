@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is never enough time to do everything, but there is always enough time to do the most important thing.
+> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
 >
-> <p>- Brian Tracy</p>
+> <p>- William Lyon Phelps</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
