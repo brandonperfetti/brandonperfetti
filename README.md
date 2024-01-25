@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 >
-> <p>- Joseph Addison</p>
+> <p>- Brian Tracy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
