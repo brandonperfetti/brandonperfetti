@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
+> You're never a loser until you quit trying.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Mike Ditka</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
