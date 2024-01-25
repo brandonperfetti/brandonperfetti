@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
+> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
 >
-> <p>- William Lyon Phelps</p>
+> <p>- Bill Bradley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
