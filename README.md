@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology is anything that wasn't around when you were born.
+> Ethical axioms are found and tested not very differently from the axioms of science. Truth is what stands the test of experience.
 >
-> <p>- Man Ray</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
