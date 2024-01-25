@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'
+> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
 >
-> <p>- Bill Bradley</p>
+> <p>- Henry James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
