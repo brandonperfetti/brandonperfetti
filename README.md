@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
+> Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief.
 >
-> <p>- Henry James</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
