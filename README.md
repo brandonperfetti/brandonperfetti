@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+> A short saying often contains much wisdom.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
