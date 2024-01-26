@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The superior man is satisfied and composed; the mean man is always full of distress.
+> Either I will find a way, or I will make one.
 >
-> <p>- Confucius</p>
+> <p>- Philip Sidney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
