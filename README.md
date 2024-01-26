@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In every walk with nature, one receives far more than he seeks.
+> The world is but a canvas to the imagination.
 >
-> <p>- John Muir</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
