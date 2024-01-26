@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A short saying often contains much wisdom.
+> Yesterday I dared to struggle. Today I dare to win.
 >
-> <p>- Sophocles</p>
+> <p>- Bernadette Devlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
