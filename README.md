@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't wait. The time will never be just right.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- Napoleon Hill</p>
+> <p>- John Muir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
