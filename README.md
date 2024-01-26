@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> Think how hard physics would be if particles could think.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Murray Gell-Mann</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
