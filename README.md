@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never reach out your hand unless you're willing to extend an arm.
+> I begin with an idea and then it becomes something else.
 >
-> <p>- Pope Paul VI</p>
+> <p>- Pablo Picasso</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
