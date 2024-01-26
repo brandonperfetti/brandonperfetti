@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
+> The world has the habit of making room for the man whose actions show that he knows where he is going.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
