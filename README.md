@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Think how hard physics would be if particles could think.
+> Don't wait. The time will never be just right.
 >
-> <p>- Murray Gell-Mann</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
