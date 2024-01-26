@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.
+> It has long been an axiom of mine that the little things are infinitely the most important.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Arthur Conan Doyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
