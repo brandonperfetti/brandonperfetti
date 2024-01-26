@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+> Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
