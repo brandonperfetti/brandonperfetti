@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
+> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
 >
-> <p>- Max Planck</p>
+> <p>- Thornton Wilder</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
