@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
+> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Max Planck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
