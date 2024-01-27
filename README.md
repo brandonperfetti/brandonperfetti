@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We don't stop playing because we grow old; we grow old because we stop playing.
+> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Diogenes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
