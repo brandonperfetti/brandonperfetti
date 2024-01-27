@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
+> The things that one most wants to do are the things that are probably most worth doing.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Winifred Holtby</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
