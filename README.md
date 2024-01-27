@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Attitude is a little thing that makes a big difference.
+> You've got to go out on a limb sometimes because that's where the fruit is.
 >
-> <p>- Winston Churchill</p>
+> <p>- Will Rogers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
