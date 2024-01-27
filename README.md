@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> First-rate people hire first-rate people; second-rate people hire third-rate people.
+> Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
 >
-> <p>- Leo Rosten</p>
+> <p>- Friedrich Nietzsche</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
