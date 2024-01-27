@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
+> Attitude is a little thing that makes a big difference.
 >
-> <p>- Thornton Wilder</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
