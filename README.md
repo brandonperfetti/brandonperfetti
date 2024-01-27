@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.
+> We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- Marcel Proust</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
