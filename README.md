@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is no failure except in no longer trying.
+> The mind unlearns with difficulty what it has long learned.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
