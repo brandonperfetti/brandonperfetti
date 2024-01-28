@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
+> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
 >
-> <p>- Brian O'Driscoll</p>
+> <p>- Woodrow Wilson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
