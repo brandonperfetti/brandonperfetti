@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
+> The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Vince Lombardi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
