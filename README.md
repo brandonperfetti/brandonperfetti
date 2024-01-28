@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
+> Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.
 >
-> <p>- John Steinbeck</p>
+> <p>- Johann Kaspar Lavater</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
