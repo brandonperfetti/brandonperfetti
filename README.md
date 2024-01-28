@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest good you can do for another is not just share your riches but reveal to them their own.
+> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- John Steinbeck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
