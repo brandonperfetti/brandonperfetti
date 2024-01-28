@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Decision is a risk rooted in the courage of being free.
+> Remember that a gesture of friendship, no matter how small, is always appreciated.
 >
-> <p>- Paul Tillich</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
