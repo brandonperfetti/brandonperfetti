@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To know oneself is to study oneself in action with another person.
+> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
 >
-> <p>- Bruce Lee</p>
+> <p>- Sai Baba</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
