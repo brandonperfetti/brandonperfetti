@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you would take, you must first give, this is the beginning of intelligence.
+> A man cannot be said to succeed in this life who does not satisfy one friend.
 >
-> <p>- Laozi</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
