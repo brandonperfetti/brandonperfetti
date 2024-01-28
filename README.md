@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
 >
-> <p>- George Jean Nathan</p>
+> <p>- Brian O'Driscoll</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
