@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.
+> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Brooks Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
