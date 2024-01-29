@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What you do not want done to yourself, do not do to others.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Confucius</p>
+> <p>- John Locke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
