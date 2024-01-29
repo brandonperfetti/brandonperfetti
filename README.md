@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Lose an hour in the morning, and you will spend all day looking for it.
+> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
 >
-> <p>- Richard Whately</p>
+> <p>- George Foreman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
