@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Smile, breathe and go slowly.
+> Lose an hour in the morning, and you will spend all day looking for it.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Richard Whately</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
