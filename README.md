@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To hell with circumstances, I create opportunities.
+> Smile, breathe and go slowly.
 >
-> <p>- Bruce Lee</p>
+> <p>- Thích Nhất Hạnh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
