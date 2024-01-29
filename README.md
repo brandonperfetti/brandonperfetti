@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One must be fond of people and trust them if one is not to make a mess of life.
+> It is in your moments of decision that your destiny is shaped.
 >
-> <p>- E. M. Forster</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
