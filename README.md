@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Meaning is not what you start with but what you end up with.
+> To change one's life, start immediately, do it flamboyantly, no exceptions.
 >
-> <p>- Peter Elbow</p>
+> <p>- William James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
