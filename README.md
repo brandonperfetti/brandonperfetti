@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To change one's life, start immediately, do it flamboyantly, no exceptions.
+> I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing.
 >
-> <p>- William James</p>
+> <p>- Michel de Montaigne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
