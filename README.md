@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> Those that know, do. Those that understand, teach.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
