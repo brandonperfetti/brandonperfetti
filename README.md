@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All our dreams can come true, if we have the courage to pursue them.
+> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
 >
-> <p>- Walt Disney</p>
+> <p>- Theodore Isaac Rubin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
