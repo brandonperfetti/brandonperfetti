@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Sadness flies away on the wings of time.
+> Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
