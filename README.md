@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When times are bad is when the real entrepreneurs emerge.
+> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
 >
-> <p>- Robert Kiyosaki</p>
+> <p>- Nikola Tesla</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
