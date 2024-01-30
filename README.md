@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.
+> Problems are only opportunities with thorns on them.
 >
-> <p>- Anne Frank</p>
+> <p>- Hugh Miller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
