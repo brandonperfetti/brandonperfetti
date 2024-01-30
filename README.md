@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
+> When times are bad is when the real entrepreneurs emerge.
 >
-> <p>- Dale Turner</p>
+> <p>- Robert Kiyosaki</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
