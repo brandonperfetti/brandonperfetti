@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you don't know where you are going, any road will get you there.
+> Start where you are. Use what you have. Do what you can.
 >
-> <p>- Lewis Carroll</p>
+> <p>- Arthur Ashe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
