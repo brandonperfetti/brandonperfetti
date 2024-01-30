@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
+> Education is the most powerful weapon which you can use to change the world.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
