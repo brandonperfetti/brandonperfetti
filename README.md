@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All great achievements require time.
+> Sadness flies away on the wings of time.
 >
-> <p>- Maya Angelou</p>
+> <p>- Jean de La Fontaine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
