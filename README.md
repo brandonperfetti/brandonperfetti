@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
+> If you don't know where you are going, any road will get you there.
 >
-> <p>- Theodore Isaac Rubin</p>
+> <p>- Lewis Carroll</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
