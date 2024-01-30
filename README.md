@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's not what happens to you, but how you react to it that matters.
+> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
 >
-> <p>- Epictetus</p>
+> <p>- Dale Turner</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
