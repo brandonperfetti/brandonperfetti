@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Dale Turner</p>
+> <p>- Aldous Huxley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
