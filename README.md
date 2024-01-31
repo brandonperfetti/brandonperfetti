@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world is round so that friendship may encircle it.
+> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
 >
-> <p>- Pierre Teilhard de Chardin</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
