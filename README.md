@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What we achieve inwardly will change outer reality.
+> The shoe that fits one person pinches another; there is no recipe for living that suits all cases.
 >
-> <p>- Plutarch</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
