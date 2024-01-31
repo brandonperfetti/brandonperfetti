@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.
+> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
 >
-> <p>- Dalai Lama</p>
+> <p>- Tryon Edwards</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
