@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
+> I have learned that to be with those I like is enough.
 >
-> <p>- Mia Hamm</p>
+> <p>- Walt Whitman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
