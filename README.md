@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
+> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
 >
-> <p>- Dalai Lama</p>
+> <p>- Joseph Prince</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
