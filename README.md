@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A short saying often contains much wisdom.
+> If you change the way you look at things, the things you look at change.
 >
-> <p>- Sophocles</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
