@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
+> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
 >
-> <p>- Tryon Edwards</p>
+> <p>- Mia Hamm</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
