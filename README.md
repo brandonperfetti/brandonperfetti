@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is the quality of our work which will please God, not the quantity.
+> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
