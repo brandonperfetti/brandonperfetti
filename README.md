@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you change the way you look at things, the things you look at change.
+> The world is round so that friendship may encircle it.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Pierre Teilhard de Chardin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
