@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every great advance in science has issued from a new audacity of the imagination.
+> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
 >
-> <p>- John Dewey</p>
+> <p>- Volker Grassmuck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
