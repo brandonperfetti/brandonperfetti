@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All experiences are preceded by mind, having mind as their master, created by mind.
+> The exercise of an extraordinary gift is the supremist pleasure in life.
 >
-> <p>- The Buddha</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
