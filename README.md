@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To hell with circumstances, I create opportunities.
+> Memory is the mother of all wisdom.
 >
-> <p>- Bruce Lee</p>
+> <p>- Samuel Johnson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
