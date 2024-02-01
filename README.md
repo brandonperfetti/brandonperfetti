@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If there is no struggle, there is no progress.
+> Every great advance in science has issued from a new audacity of the imagination.
 >
-> <p>- Frederick Douglass</p>
+> <p>- John Dewey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
