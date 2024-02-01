@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All I can say about life is, Oh God, enjoy it!
+> Nobody will believe in you unless you believe in yourself.
 >
-> <p>- Bob Newhart</p>
+> <p>- Liberace</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
