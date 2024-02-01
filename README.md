@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
