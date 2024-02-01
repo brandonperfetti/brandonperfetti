@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No bird soars too high if he soars with his own wings.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- William Blake</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
