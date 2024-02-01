@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology is the campfire around which we tell our stories.
+> No bird soars too high if he soars with his own wings.
 >
-> <p>- Laurie Anderson</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
