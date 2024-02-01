@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Study the past, if you would divine the future.
+> To hell with circumstances, I create opportunities.
 >
-> <p>- Confucius</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
