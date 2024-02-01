@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> If there is no struggle, there is no progress.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Frederick Douglass</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
