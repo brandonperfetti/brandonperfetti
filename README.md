@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
+> The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.
 >
-> <p>- Rabbi Hillel</p>
+> <p>- Margaret Chase Smith</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
