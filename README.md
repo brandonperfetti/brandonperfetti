@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We all live with the objective of being happy; our lives are all different and yet the same.
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
 >
-> <p>- Anne Frank</p>
+> <p>- Chuck Swindoll</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
