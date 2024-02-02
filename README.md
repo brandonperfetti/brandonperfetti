@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.
+> We all live with the objective of being happy; our lives are all different and yet the same.
 >
-> <p>- Margaret Chase Smith</p>
+> <p>- Anne Frank</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
