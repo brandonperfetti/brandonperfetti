@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance.
+> You don't play against opponents, you play against the game of basketball.
 >
-> <p>- Akhenaten</p>
+> <p>- Bob Knight</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
