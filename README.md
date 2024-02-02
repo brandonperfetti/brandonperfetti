@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.
+> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
 >
-> <p>- Confucius</p>
+> <p>- Rabbi Hillel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
