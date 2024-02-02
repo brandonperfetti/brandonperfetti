@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You don't play against opponents, you play against the game of basketball.
+> One today is worth two tomorrows.
 >
-> <p>- Bob Knight</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
