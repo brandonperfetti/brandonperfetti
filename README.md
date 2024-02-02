@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- Chuck Swindoll</p>
+> <p>- Walter Inglis Anderson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
