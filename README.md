@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.
+> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
 >
-> <p>- Morihei Ueshiba</p>
+> <p>- Melody Beattie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
