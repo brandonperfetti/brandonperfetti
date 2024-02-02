@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Your attitude, not your aptitude, will determine your altitude.
+> It is more shameful to distrust our friends than to be deceived by them.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
