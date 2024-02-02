@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> Change in all things is sweet.
 >
-> <p>- Isocrates</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
