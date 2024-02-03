@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When we seek to discover the best in others, we somehow bring out the best in ourselves.
+> All I required to be happy was friendship and people I could admire.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Christian Dior</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
