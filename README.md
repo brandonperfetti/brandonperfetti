@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All I required to be happy was friendship and people I could admire.
+> The more you care, the stronger you can be.
 >
-> <p>- Christian Dior</p>
+> <p>- Jim Rohn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
