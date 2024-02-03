@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The more light you allow within you, the brighter the world you live in will be.
+> Never deny a diagnosis but do deny the negative verdict that may go with it.
 >
-> <p>- Shakti Gawain</p>
+> <p>- Norman Cousins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
