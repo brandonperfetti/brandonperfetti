@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Blessed is the man who expects nothing, for he shall never be disappointed.
+> To be what we are, and to become what we are capable of becoming, is the only end of life.
 >
-> <p>- Alexander Pope</p>
+> <p>- Robert Louis Stevenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
