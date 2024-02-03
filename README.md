@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The secret of business is to know something that nobody else knows.
+> Blessed is the man who expects nothing, for he shall never be disappointed.
 >
-> <p>- Aristotle Onassis</p>
+> <p>- Alexander Pope</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
