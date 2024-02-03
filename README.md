@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Not all those who wander are lost.
+> The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.
 >
-> <p>- J. R. R. Tolkien</p>
+> <p>- Ralph Abernathy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
