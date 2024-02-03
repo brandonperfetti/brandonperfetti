@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A good plan violently executed now is better than a perfect plan executed next week.
+> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
 >
-> <p>- George S. Patton</p>
+> <p>- Robert Graves</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
