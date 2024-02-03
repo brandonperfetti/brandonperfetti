@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To be what we are, and to become what we are capable of becoming, is the only end of life.
+> All of our technology is completely unnecessary to a happy life.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Tom Hodgkinson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
