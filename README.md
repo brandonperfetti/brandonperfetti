@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The secret of business is to know something that nobody else knows.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- Aristotle Onassis</p>
+> <p>- E. M. Forster</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
