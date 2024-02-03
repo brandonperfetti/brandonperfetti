@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All of our technology is completely unnecessary to a happy life.
+> No one is useless in this world who lightens the burdens of another.
 >
-> <p>- Tom Hodgkinson</p>
+> <p>- Charles Dickens</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
