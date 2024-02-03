@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
+> I love you the more in that I believe you had liked me for my own sake and for nothing else.
 >
-> <p>- Robert Graves</p>
+> <p>- John Keats</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
