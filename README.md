@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I love you the more in that I believe you had liked me for my own sake and for nothing else.
+> Pick battles big enough to matter, small enough to win.
 >
-> <p>- John Keats</p>
+> <p>- Jonathan Kozol</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
