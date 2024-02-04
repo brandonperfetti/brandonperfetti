@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
+> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Harriet Tubman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
