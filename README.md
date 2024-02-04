@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
+> The most technologically efficient machine that man has ever invented is the book.
 >
-> <p>- Brooks Adams</p>
+> <p>- Northrop Frye</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
