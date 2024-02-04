@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
 >
-> <p>- Northrop Frye</p>
+> <p>- Jawaharlal Nehru</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
