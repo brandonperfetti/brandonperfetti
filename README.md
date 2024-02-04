@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can't win unless you learn how to lose.
+> Wisdom begins in wonder.
 >
-> <p>- Kareem Abdul-Jabbar</p>
+> <p>- Socrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
