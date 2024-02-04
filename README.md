@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is a learning experience, only if you learn.
+> You can't win unless you learn how to lose.
 >
-> <p>- Yogi Berra</p>
+> <p>- Kareem Abdul-Jabbar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
