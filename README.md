@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Napoleon</p>
+> <p>- Edward Gibbon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
