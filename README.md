@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
+> Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Katherine Mansfield</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
