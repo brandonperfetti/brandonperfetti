@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Brooks Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
