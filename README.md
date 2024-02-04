@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Hermann Hesse</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
