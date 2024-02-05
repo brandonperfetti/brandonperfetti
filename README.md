@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You give before you get.
+> Happiness is found in doing, not merely possessing.
 >
 > <p>- Napoleon Hill</p>
 
