@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
+> The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom.
 >
-> <p>- Isocrates</p>
+> <p>- William Hurt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
