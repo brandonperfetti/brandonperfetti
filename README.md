@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- Mignon McLaughlin</p>
+> <p>- Jim Morrison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
