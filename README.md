@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I have not failed. I've just found 10,000 ways that won't work.
+> In all things of nature there is something of the marvelous.
 >
-> <p>- Thomas Edison</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
