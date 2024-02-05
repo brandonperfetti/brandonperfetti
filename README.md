@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 >
-> <p>- Mother Teresa</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
