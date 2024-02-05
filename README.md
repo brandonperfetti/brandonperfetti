@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Good luck is another name for tenacity of purpose.
+> The most certain sign of wisdom is cheerfulness.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Michel de Montaigne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
