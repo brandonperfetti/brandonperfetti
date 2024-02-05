@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions.
+> Meaning is not what you start with but what you end up with.
 >
-> <p>- Albert Einstein</p>
+> <p>- Peter Elbow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
