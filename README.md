@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The most certain sign of wisdom is cheerfulness.
+> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- Mignon McLaughlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
