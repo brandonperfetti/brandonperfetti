@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
+> Good luck is another name for tenacity of purpose.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
