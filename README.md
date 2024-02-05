@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Meaning is not what you start with but what you end up with.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- Peter Elbow</p>
+> <p>- Arthur Rubinstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
