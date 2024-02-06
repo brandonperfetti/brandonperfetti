@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- John Adams</p>
+> <p>- Jim Morrison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
