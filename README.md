@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
+> Many sophisticated, intelligent people lack wisdom and common sense.
 >
-> <p>- Fawn M. Brodie</p>
+> <p>- Joyce Meyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
