@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We cannot solve our problems with the same thinking we used when we created them.
+> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
 >
-> <p>- Albert Einstein</p>
+> <p>- Mary Kay Ash</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
