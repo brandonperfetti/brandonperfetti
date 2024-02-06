@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
 >
-> <p>- John Muir</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
