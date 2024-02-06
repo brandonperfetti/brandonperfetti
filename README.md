@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Give whatever you are doing and whoever you are with the gift of your attention.
+> There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded.
 >
-> <p>- Jim Rohn</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
