@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.
+> When times are bad is when the real entrepreneurs emerge.
 >
-> <p>- Woody Allen</p>
+> <p>- Robert Kiyosaki</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
