@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our strength grows out of our weaknesses.
+> You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Dr. Seuss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
