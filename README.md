@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Many sophisticated, intelligent people lack wisdom and common sense.
+> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
 >
-> <p>- Joyce Meyer</p>
+> <p>- John Muir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
