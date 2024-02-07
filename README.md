@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be content with your lot; one cannot be first in everything.
+> The function of wisdom is to discriminate between good and evil.
 >
-> <p>- Aesop</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
