@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
+> Your mind will answer most questions if you learn to relax and wait for the answer.
 >
-> <p>- Michelangelo</p>
+> <p>- William Burroughs</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
