@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The function of wisdom is to discriminate between good and evil.
+> They can do all because they think they can.
 >
-> <p>- Cicero</p>
+> <p>- Virgil</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
