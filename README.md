@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Trouble is only opportunity in work clothes.
+> Be content with your lot; one cannot be first in everything.
 >
-> <p>- Henry J. Kaiser</p>
+> <p>- Aesop</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
