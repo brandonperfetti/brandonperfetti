@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ardently do today what must be done. Who knows? Tomorrow, death comes.
+> We are masters of the unsaid words, but slaves of those we let slip out.
 >
-> <p>- The Buddha</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
