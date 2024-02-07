@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Your mind will answer most questions if you learn to relax and wait for the answer.
+> Life is just a chance to grow a soul.
 >
-> <p>- William Burroughs</p>
+> <p>- A. Powell Davies</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
