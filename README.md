@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Democracy's premise rests on the notion that the collective wisdom of the majority will prove right more often than it's wrong; that given sufficient opportunity in the pursuit of happiness, your population will develop its talents, its intellect, its better judgment; that over time its capacity for discernment and self-correction will be enlarged.
+> Learning is the beginning of wealth. Learning is the beginning of health. Learning is the beginning of spirituality. Searching and learning is where the miracle process all begins.
 >
-> <p>- Ben Fountain</p>
+> <p>- Jim Rohn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
