@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Strong beliefs win strong men, and then make them stronger.
+> Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
 >
-> <p>- Richard Bach</p>
+> <p>- Douglas Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
