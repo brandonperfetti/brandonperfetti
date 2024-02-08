@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We know what we are but know not what we may be.
+> Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.
 >
-> <p>- William Shakespeare</p>
+> <p>- Dhammapada</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
