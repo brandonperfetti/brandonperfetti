@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Freedom is what you do with what's been done to you.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- George Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
