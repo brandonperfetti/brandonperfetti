@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never apologize for showing feeling. When you do so, you apologize for truth.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Jean-Paul Sartre</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
