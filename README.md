@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
+> Write your plans in pencil and give God the eraser.
 >
-> <p>- Maya Angelou</p>
+> <p>- Paulo Coelho</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
