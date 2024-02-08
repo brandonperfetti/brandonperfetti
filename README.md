@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The possibilities are numerous once we decide to act and not react.
+> Once you choose hope, anything's possible.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Christopher Reeve</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
