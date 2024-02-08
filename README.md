@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Always do your best. What you plant now, you will harvest later.
+> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
 >
-> <p>- Og Mandino</p>
+> <p>- Sidney Hook</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
