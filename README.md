@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Everything that happens as it should, and if you observe carefully, you will find this to be so.
+> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Margaret Thatcher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
