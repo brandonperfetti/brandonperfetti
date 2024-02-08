@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
+> An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
 >
-> <p>- Sidney Hook</p>
+> <p>- Jack Welch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
