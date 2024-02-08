@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Listen to what you know instead of what you fear.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- Richard Bach</p>
+> <p>- Denis Waitley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
