@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Gratitude is the fairest blossom which springs from the soul.
+> If you focus on results, you will never change. If you focus on change, you will get results.
 >
-> <p>- Henry K. Beecher</p>
+> <p>- Jack Dixon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
