@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All achievements, all earned riches, have their beginning in an idea.
+> When you learn, teach. When you get, give.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
