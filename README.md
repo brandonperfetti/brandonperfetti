@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you learn, teach. When you get, give.
+> Real magic in relationships means an absence of judgement of others.
 >
-> <p>- Maya Angelou</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
