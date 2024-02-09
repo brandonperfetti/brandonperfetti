@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
 >
-> <p>- Isocrates</p>
+> <p>- Anne Brontë</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
