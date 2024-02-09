@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Action may not always bring happiness; but there is no happiness without action.
+> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Edith Wharton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
