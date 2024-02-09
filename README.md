@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To command is to serve, nothing more and nothing less.
+> The noblest worship is to make yourself as good and as just as you can.
 >
-> <p>- André Malraux</p>
+> <p>- Isocrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
