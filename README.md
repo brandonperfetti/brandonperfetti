@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let the beauty of what you love be what you do.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- Rumi</p>
+> <p>- Jane Wyman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
