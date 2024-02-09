@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+> Let the beauty of what you love be what you do.
 >
-> <p>- Charles Lamb</p>
+> <p>- Rumi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
