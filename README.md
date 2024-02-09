@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
+> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
 >
-> <p>- Anne Brontë</p>
+> <p>- Charles Lamb</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
