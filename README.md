@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.
+> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
 >
-> <p>- The Buddha</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
