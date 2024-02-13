@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
+> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more
 >
-> <p>- Judy Garland</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
