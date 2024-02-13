@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is so constructed that an event does not, cannot, will not, match the expectation.
+> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- Paavo Nurmi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
