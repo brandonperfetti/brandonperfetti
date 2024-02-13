@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> The fewer rules a coach has, the fewer rules there are for players to break.
 >
-> <p>- Paavo Nurmi</p>
+> <p>- John Madden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
