@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Interestingly, according to modern astronomers, space is finite. This is a very comforting thought-- particularly for people who can never remember where they have left things.
+> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
 >
-> <p>- Woody Allen</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
