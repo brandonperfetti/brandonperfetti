@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Peace begins with a smile.
+> Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.
 >
-> <p>- Mother Teresa</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
