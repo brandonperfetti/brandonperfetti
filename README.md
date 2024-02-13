@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> The superior man understands what is right; the inferior man understands what will sell.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
