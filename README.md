@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The superior man understands what is right; the inferior man understands what will sell.
+> Well done is better than well said.
 >
-> <p>- Confucius</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
