@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The friendship that can cease has never been real.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Jerome</p>
+> <p>- Aldous Huxley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
