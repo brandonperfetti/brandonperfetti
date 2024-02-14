@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.
+> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
 >
-> <p>- Sophocles</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
