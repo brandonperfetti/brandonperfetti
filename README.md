@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Remember that sometimes not getting what you want is a wonderful stroke of luck.
+> The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
 >
-> <p>- Dalai Lama</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
