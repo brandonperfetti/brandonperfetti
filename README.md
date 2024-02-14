@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our character is what we do when we think no one is looking.
+> The biggest adventure you can ever take is to live the life of your dreams.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
