@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One man practicing sportsmanship is far better than a hundred teaching it.
+> Mistakes are always forgivable, if one has the courage to admit them.
 >
-> <p>- Knute Rockne</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
