@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
 >
-> <p>- Mother Teresa</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
