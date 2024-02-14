@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
+> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
 >
-> <p>- The Buddha</p>
+> <p>- Holly Near</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
