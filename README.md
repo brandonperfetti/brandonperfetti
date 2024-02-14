@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The biggest adventure you can ever take is to live the life of your dreams.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Augustine of Hippo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
