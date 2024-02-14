@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
+> Let us always meet each other with smile, for the smile is the beginning of love.
 >
-> <p>- Mia Hamm</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
