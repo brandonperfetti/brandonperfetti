@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship without self-interest is one of the rare and beautiful things of life.
+> It is good even for old men to learn wisdom.
 >
-> <p>- James F. Byrnes</p>
+> <p>- Aeschylus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
