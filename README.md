@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The road of excess leads to the palace of wisdom.
+> Don't cry because it's over. Smile because it happened.
 >
-> <p>- William Blake</p>
+> <p>- Dr. Seuss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
