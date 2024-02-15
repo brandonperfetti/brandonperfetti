@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Try not to become a man of success, but rather try to become a man of value.
+> Freedom is what you do with what's been done to you.
 >
-> <p>- Albert Einstein</p>
+> <p>- Jean-Paul Sartre</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
