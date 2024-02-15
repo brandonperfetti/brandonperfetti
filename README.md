@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Get busy living or get busy dying.
+> Try not to become a man of success, but rather try to become a man of value.
 >
-> <p>- Stephen King</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
