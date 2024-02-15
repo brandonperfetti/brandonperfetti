@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
+> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
 >
-> <p>- Colin Powell</p>
+> <p>- Daniel J. Boorstin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
