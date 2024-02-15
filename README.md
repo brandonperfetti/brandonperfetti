@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
+> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
 >
-> <p>- Jim Bouton</p>
+> <p>- Immanuel Kant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
