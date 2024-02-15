@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.
+> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
 >
-> <p>- The Buddha</p>
+> <p>- Jim Bouton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
