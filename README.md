@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
+> Absence makes the heart grow fonder.
 >
-> <p>- Immanuel Kant</p>
+> <p>- Thomas Haynes Bayly</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
