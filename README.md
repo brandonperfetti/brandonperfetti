@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> None knows the weight of another's burden.
+> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
 >
-> <p>- George Herbert</p>
+> <p>- Colin Powell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
