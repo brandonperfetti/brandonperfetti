@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One's friends are that part of the human race with which one can be human.
+> Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.
 >
-> <p>- George Santayana</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
