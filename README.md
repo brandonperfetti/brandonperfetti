@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Freedom is what you do with what's been done to you.
+> None knows the weight of another's burden.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- George Herbert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
