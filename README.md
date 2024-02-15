@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.
+> Make the best use of what is in your power and take the rest as it happens.
 >
-> <p>- Laozi</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
