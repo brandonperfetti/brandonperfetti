@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't cry because it's over. Smile because it happened.
+> Friendship without self-interest is one of the rare and beautiful things of life.
 >
-> <p>- Dr. Seuss</p>
+> <p>- James F. Byrnes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
