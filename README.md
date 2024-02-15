@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Truth is generally the best vindication against slander.
+> One's friends are that part of the human race with which one can be human.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- George Santayana</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
