@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The price of greatness is responsibility.
+> Our intention creates our reality.
 >
-> <p>- Winston Churchill</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
