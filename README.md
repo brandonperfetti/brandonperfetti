@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If we did the things we are capable of, we would astound ourselves.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Thomas Edison</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
