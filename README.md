@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I never did a day's work in my life.  It was all fun.
+> He who hath many friends hath none.
 >
-> <p>- Thomas Edison</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
