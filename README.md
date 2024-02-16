@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To want to be what one can be is purpose in life.
+> Friendship is one mind in two bodies.
 >
-> <p>- Cynthia Ozick</p>
+> <p>- Mencius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
