@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
+> Decision is a risk rooted in the courage of being free.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Paul Tillich</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
