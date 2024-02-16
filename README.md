@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
