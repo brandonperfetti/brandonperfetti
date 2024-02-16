@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We can change our lives. We can do, have, and be exactly what we wish.
+> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
 >
-> <p>- Tony Robbins</p>
+> <p>- Booker T. Washington</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
