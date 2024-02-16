@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Decision is a risk rooted in the courage of being free.
+> I never did a day's work in my life.  It was all fun.
 >
-> <p>- Paul Tillich</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
