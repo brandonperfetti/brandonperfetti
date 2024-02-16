@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
+> We can change our lives. We can do, have, and be exactly what we wish.
 >
-> <p>- Dalai Lama</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
