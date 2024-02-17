@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> Pitching is the art of instilling fear.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Sandy Koufax</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
