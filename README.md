@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.
+> Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.
 >
-> <p>- Epictetus</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
