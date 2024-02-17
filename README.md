@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The heart has eyes which the brain knows nothing of.
+> We could never learn to be brave and patient if there were only joy in the world.
 >
-> <p>- Charles Henry Parkhurst</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
