@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you smile when no one else is around, you really mean it.
+> Love is flower like; Friendship is like a sheltering tree.
 >
-> <p>- Andy Rooney</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
