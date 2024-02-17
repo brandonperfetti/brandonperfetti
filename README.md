@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
+> The grand essentials of happiness are: something to do, something to love, and something to hope for.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Alexander Chalmers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
