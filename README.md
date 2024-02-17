@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is far better to be alone, than to be in bad company.
+> If you smile when no one else is around, you really mean it.
 >
-> <p>- George Washington</p>
+> <p>- Andy Rooney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
