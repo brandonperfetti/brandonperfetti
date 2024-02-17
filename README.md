@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You don't choose your family. They are God's gift to you, as you are to them.
+> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Margaret Cousins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
