@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The grand essentials of happiness are: something to do, something to love, and something to hope for.
+> It is far better to be alone, than to be in bad company.
 >
-> <p>- Alexander Chalmers</p>
+> <p>- George Washington</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
