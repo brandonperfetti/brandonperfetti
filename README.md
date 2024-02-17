@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love is flower like; Friendship is like a sheltering tree.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Desmond Tutu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
