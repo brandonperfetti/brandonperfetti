@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
+> Courage is not the absence of fear, but simply moving on with dignity despite that fear.
 >
-> <p>- Elizabeth Montagu</p>
+> <p>- Pat Riley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
