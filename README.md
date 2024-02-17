@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
+> I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
