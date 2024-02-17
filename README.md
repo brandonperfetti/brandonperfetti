@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Build a better mousetrap and the world will beat a path to your door.
+> Smile, breathe and go slowly.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thích Nhất Hạnh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
