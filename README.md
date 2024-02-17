@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Keep yourself to the sunshine and you cannot see the shadow.
+> Autumn is a second spring when every leaf is a flower.
 >
-> <p>- Helen Keller</p>
+> <p>- Albert Camus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
