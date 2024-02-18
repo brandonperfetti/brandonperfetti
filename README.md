@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Robert Fulghum</p>
+> <p>- Hubert Humphrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
