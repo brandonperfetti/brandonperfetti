@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
+> A man is not old as long as he is seeking something.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Edmond Rostand</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
