@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing is at last sacred but the integrity of your own mind.
+> Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
