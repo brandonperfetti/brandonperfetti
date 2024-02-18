@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If I were two-faced, would I be wearing this one?
+> Anticipate the difficult by managing the easy.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
