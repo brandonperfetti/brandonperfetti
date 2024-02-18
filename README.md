@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
+> Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
 >
-> <p>- Margaret Cousins</p>
+> <p>- Friedrich Nietzsche</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
