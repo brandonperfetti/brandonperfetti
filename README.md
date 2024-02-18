@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Habit, if not resisted, soon becomes necessity.
+> If I were two-faced, would I be wearing this one?
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
