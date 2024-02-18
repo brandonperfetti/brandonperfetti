@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A garden is always a series of losses set against a few triumphs, like life itself.
+> Let the beauty of what you love be what you do.
 >
-> <p>- May Sarton</p>
+> <p>- Rumi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
