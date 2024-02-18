@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.
+> Habit, if not resisted, soon becomes necessity.
 >
-> <p>- Charles Lindbergh</p>
+> <p>- Augustine of Hippo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
