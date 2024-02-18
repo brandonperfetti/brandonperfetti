@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let the beauty of what you love be what you do.
+> If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.
 >
-> <p>- Rumi</p>
+> <p>- Robert Fulghum</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
