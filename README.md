@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
+> If a man watches three football games in a row, he should be declared legally dead.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Erma Bombeck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
