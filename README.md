@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What you get by achieving your goals is not as important as what you become by achieving your goals.
+> Be less curious about people and more curious about ideas.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Marie Curie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
