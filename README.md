@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You cannot escape the responsibility of tomorrow by evading it today.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Torquato Tasso</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
