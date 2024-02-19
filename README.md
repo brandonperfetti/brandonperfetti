@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
 >
-> <p>- Sophocles</p>
+> <p>- Hannah Arendt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
