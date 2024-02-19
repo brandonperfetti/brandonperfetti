@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be less curious about people and more curious about ideas.
+> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
 >
-> <p>- Marie Curie</p>
+> <p>- Hanya Yanagihara</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
