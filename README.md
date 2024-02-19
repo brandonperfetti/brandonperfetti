@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 >
-> <p>- Torquato Tasso</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
