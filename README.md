@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
+> Happiness is not something ready-made. It comes from your own actions.
 >
-> <p>- John Steinbeck</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
