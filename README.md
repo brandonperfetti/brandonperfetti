@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We've got to have a dream if we are going to make a dream come true.
+> You cannot escape the responsibility of tomorrow by evading it today.
 >
-> <p>- Walt Disney</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
