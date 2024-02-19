@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
+> What you get by achieving your goals is not as important as what you become by achieving your goals.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Zig Ziglar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
