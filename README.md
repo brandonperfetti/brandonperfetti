@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Good luck is another name for tenacity of purpose.
+> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
