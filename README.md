@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let us sacrifice our today so that our children can have a better tomorrow.
+> All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
