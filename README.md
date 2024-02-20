@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
+> Let us sacrifice our today so that our children can have a better tomorrow.
 >
-> <p>- The Buddha</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
