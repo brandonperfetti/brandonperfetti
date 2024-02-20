@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care.
+> It's so simple to be wise. Just think of something stupid to say and then don't say it.
 >
-> <p>- William C. Menninger</p>
+> <p>- Sam Levenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
