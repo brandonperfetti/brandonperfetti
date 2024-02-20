@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's so simple to be wise. Just think of something stupid to say and then don't say it.
+> My best friend is the one who brings out the best in me.
 >
-> <p>- Sam Levenson</p>
+> <p>- Henry Ford</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
