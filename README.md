@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Blessed are the hearts that can bend; they shall never be broken.
+> Resolutely train yourself to attain peace.
 >
-> <p>- Albert Camus</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
