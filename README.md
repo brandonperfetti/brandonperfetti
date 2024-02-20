@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> My best friend is the one who brings out the best in me.
+> Whatever happens, take responsibility.
 >
-> <p>- Henry Ford</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
