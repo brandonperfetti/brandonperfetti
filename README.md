@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Strong beliefs win strong men, and then make them stronger.
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- Richard Bach</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
