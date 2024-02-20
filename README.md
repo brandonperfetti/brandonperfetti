@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Resolutely train yourself to attain peace.
+> Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
 >
 > <p>- The Buddha</p>
 
