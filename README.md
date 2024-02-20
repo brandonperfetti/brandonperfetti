@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's better to be a lion for a day than a sheep all your life.
+> You cannot be lonely if you like the person you're alone with.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
