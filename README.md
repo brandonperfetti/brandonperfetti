@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We should not give up and we should not allow the problem to defeat us.
+> It's better to be a lion for a day than a sheep all your life.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Elizabeth Kenny</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
