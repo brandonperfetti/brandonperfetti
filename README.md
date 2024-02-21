@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is never enough time to do everything, but there is always enough time to do the most important thing.
+> Pitching is the art of instilling fear.
 >
-> <p>- Brian Tracy</p>
+> <p>- Sandy Koufax</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
