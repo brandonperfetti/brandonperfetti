@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> There are two kinds of failures: those who thought and never did, and those who did and never thought.
 >
-> <p>- Albert Einstein</p>
+> <p>- Laurence J. Peter</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
