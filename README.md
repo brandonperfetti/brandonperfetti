@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Pitching is the art of instilling fear.
+> A good plan violently executed now is better than a perfect plan executed next week.
 >
-> <p>- Sandy Koufax</p>
+> <p>- George S. Patton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
