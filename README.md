@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you would take, you must first give, this is the beginning of intelligence.
+> Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.
 >
-> <p>- Laozi</p>
+> <p>- Dale Carnegie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
