@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The cause is hidden. The effect is visible to all.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- Ovid</p>
+> <p>- Will Rogers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
