@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.
+> As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer.
 >
-> <p>- Bernard Shaw</p>
+> <p>- James Gleick</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
