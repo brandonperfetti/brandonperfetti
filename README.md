@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> There are many ways of going forward, but only one way of standing still.
 >
-> <p>- Will Rogers</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
