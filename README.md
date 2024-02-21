@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There are two kinds of failures: those who thought and never did, and those who did and never thought.
+> Science is organized knowledge. Wisdom is organized life.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Immanuel Kant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
