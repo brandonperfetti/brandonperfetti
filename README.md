@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The least of things with a meaning is worth more in life than the greatest of things without it.
+> The truest greatness lies in being kind, the truest wisdom in a happy mind.
 >
-> <p>- Carl Jung</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
