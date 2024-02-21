@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.
 >
-> <p>- Richard Bach</p>
+> <p>- Harvey Mackay</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
