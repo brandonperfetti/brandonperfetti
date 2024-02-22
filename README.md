@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
+> The self is not something ready-made, but something in continuous formation through choice of action.
 >
-> <p>- Montesquieu</p>
+> <p>- John Dewey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
