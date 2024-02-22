@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Before we acquire great power, we must acquire wisdom to use it well.
+> Technology is the campfire around which we tell our stories.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Laurie Anderson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
