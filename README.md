@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology is the campfire around which we tell our stories.
+> Begin, be bold, and venture to be wise.
 >
-> <p>- Laurie Anderson</p>
+> <p>- Horace</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
