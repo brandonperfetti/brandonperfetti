@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Most folks are as happy as they make up their minds to be.
+> In all things of nature there is something of the marvelous.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
