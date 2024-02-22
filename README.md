@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To study and not think is a waste. To think and not study is dangerous.
+> The self is not something ready-made, but something in continuous formation through choice of action.
 >
-> <p>- Confucius</p>
+> <p>- John Dewey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
