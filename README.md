@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In all things of nature there is something of the marvelous.
+> I have often regretted my speech, never my silence.
 >
-> <p>- Aristotle</p>
+> <p>- Publilius Syrus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
