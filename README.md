@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The self is not something ready-made, but something in continuous formation through choice of action.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- John Dewey</p>
+> <p>- George Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
