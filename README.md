@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
+> An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
 >
-> <p>- Og Mandino</p>
+> <p>- Thomas Fuller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
