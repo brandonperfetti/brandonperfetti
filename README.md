@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- Winston Churchill</p>
+> <p>- Theodore Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
