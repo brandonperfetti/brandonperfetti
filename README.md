@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
+> We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.
 >
-> <p>- Rumi</p>
+> <p>- Sam Keen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
