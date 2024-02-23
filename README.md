@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Self-trust is the first secret of success.
+> Short words are best and the old words when short are best of all.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
