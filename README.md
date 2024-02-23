@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Short words are best and the old words when short are best of all.
+> Business, you know, may bring you money, but friendship hardly ever does.
 >
-> <p>- Winston Churchill</p>
+> <p>- Jane Austen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
