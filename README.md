@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
+> Never deny a diagnosis but do deny the negative verdict that may go with it.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Norman Cousins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
