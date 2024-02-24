@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Most folks are as happy as they make up their minds to be.
+> Quality means doing it right when no one is looking.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Henry Ford</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
