@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
+> Change your thoughts and you change your world.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Norman Vincent Peale</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
