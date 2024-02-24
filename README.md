@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Business, you know, may bring you money, but friendship hardly ever does.
+> Some do not understand that we must die, But those who do realize this settle their quarrels.
 >
-> <p>- Jane Austen</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
