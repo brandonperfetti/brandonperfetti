@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> They say that time changes things, but you actually have to change them yourself.
+> In order to succeed, we must first believe that we can.
 >
-> <p>- Andy Warhol</p>
+> <p>- Nikos Kazantzakis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
