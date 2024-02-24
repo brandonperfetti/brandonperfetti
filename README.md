@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You are the only person on earth who can use your ability.
+> Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Henry van Dyke Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
