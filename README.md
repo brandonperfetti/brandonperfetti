@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> My friends are my estate.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Emily Dickinson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
