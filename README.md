@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Don Miguel Ruiz</p>
+> <p>- May Sarton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
