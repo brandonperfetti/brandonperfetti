@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
+> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Marie Curie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
