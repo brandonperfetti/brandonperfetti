@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is no great genius without some touch of madness.
+> Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Howard H. Aiken</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
