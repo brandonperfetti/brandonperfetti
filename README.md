@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Cory Doctorow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
