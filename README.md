@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A garden is always a series of losses set against a few triumphs, like life itself.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 >
-> <p>- May Sarton</p>
+> <p>- Charles Caleb Colton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
