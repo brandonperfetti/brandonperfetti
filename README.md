@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life isn't about finding yourself. Life is about creating yourself.
+> Think like a man of action; act like a man of thought.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Henri Bergson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
