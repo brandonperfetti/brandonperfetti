@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To know oneself is to study oneself in action with another person.
+> The past has no power to stop you from being present now. Only your grievance about the past can do that.
 >
-> <p>- Bruce Lee</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
