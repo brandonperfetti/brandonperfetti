@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
+> All human wisdom is summed up in two words; wait and hope.
 >
-> <p>- Albert Einstein</p>
+> <p>- Alexandre Dumas</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
