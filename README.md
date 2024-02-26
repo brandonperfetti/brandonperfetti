@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- François de La Rochefoucauld</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
