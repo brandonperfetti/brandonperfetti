@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To be great is to be misunderstood.
+> The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Hugh Jackman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
