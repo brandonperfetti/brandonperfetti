@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
+> Life's most persistent and urgent question is, 'What are you doing for others?'
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Martin Luther King Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
