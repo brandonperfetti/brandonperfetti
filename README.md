@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Habit, if not resisted, soon becomes necessity.
+> If you focus on results, you will never change. If you focus on change, you will get results.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Jack Dixon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
