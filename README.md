@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
+> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
 >
-> <p>- John Wooden</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
