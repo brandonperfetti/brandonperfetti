@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Henri Bergson</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
