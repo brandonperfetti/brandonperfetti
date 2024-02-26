@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All human wisdom is summed up in two words; wait and hope.
+> You can't let praise or criticism get to you. It's a weakness to get caught up in either one.
 >
-> <p>- Alexandre Dumas</p>
+> <p>- John Wooden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
