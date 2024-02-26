@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you think you can, you can. And if you think you can't, you're right.
+> Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
 >
-> <p>- Henry Ford</p>
+> <p>- Thích Nhất Hạnh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
