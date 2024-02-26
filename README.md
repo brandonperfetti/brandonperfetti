@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Logic is the beginning of wisdom, not the end.
+> Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it.
 >
-> <p>- Leonard Nimoy</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
