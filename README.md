@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We don't know a millionth of one percent about anything.
+> The greatest mistake you can make in life is to be continually fearing you will make one.
 >
-> <p>- Thomas Edison</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
