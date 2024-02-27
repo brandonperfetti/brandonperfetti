@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The journey of a thousand miles begins with one step.
+> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
 >
-> <p>- Laozi</p>
+> <p>- Steven Van Zandt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
