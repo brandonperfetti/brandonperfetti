@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest mistake you can make in life is to be continually fearing you will make one.
+> We do not quit playing because we grow old, we grow old because we quit playing.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
