@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The poor man is not he who is without a cent, but he who is without a dream.
+> Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity.
 >
-> <p>- Harry Kemp</p>
+> <p>- Calvin Coolidge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
