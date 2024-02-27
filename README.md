@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
+> Friends are those rare people who ask how we are and then wait to hear the answer.
 >
-> <p>- Steven Van Zandt</p>
+> <p>- Ed Cunningham</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
