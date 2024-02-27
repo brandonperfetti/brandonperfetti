@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The young man knows the rules, but the old man knows the exceptions.
+> The journey of a thousand miles begins with one step.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
