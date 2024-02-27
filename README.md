@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We can only learn to love by loving.
+> The poor man is not he who is without a cent, but he who is without a dream.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Harry Kemp</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
