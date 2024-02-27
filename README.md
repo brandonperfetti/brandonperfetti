@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To listen well is as powerful a means of communication and influence as to talk well.
+> How is it possible to find meaning in a finite world, given my waist and shirt size?
 >
-> <p>- John Marshall</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
