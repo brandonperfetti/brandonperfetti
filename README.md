@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If I know what love is, it is because of you.
+> I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
