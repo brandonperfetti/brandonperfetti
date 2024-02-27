@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Creativity comes from trust. Trust your instincts. And never hope more than you work.
+> To listen well is as powerful a means of communication and influence as to talk well.
 >
-> <p>- Rita Mae Brown</p>
+> <p>- John Marshall</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
