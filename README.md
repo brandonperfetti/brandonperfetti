@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Learning never exhausts the mind.
+> To climb steep hills requires a slow pace at first.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
