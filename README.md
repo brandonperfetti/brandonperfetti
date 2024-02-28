@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> When people are like each other they tend to like each other.
 >
-> <p>- Sophocles</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
