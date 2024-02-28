@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A friend in power is a friend lost.
+> Most people never run far enough on their first wind to find out they've got a second.
 >
-> <p>- Henry Adams</p>
+> <p>- William James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
