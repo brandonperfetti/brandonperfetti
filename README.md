@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+> When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Morihei Ueshiba</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
