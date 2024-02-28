@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Most people never run far enough on their first wind to find out they've got a second.
+> Share your smile with the world. It's a symbol of friendship and peace.
 >
-> <p>- William James</p>
+> <p>- Christie Brinkley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
