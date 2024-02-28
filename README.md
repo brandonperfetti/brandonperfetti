@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No one has ever become poor by giving.
+> Technological progress has merely provided us with more efficient means for going backwards.
 >
-> <p>- Anne Frank</p>
+> <p>- Aldous Huxley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
