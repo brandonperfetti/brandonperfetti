@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Value your friendship. Value your relationships.
+> No man has a good enough memory to be a successful liar.
 >
-> <p>- Barbara Bush</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
