@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Appearances are often deceiving.
+> The thing always happens that you really believe in; and the belief in a thing makes it happen.
 >
-> <p>- Aesop</p>
+> <p>- Frank Lloyd Wright</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
