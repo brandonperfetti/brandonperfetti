@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Share your smile with the world. It's a symbol of friendship and peace.
+> Appearances are often deceiving.
 >
-> <p>- Christie Brinkley</p>
+> <p>- Aesop</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
