@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Whatever has the nature of arising has the nature of ceasing.
+> Go to your bosom: Knock there and ask your heart what it doth know.
 >
-> <p>- The Buddha</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
