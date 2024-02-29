@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The path to success is to take massive, determined action.
+> The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.
 >
-> <p>- Tony Robbins</p>
+> <p>- Peter Abelard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
