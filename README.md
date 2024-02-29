@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> Love doesn't make the world go round; love is what makes the ride worthwhile.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Elizabeth Browning</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
