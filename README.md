@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> You were not born a winner, and you were not born a loser. You are what you make yourself be.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Lou Holtz</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
