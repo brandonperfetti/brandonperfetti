@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You were not born a winner, and you were not born a loser. You are what you make yourself be.
+> Always remember that you are absolutely unique. Just like everyone else.
 >
-> <p>- Lou Holtz</p>
+> <p>- Margaret Mead</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
