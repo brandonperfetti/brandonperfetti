@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Go to your bosom: Knock there and ask your heart what it doth know.
+> All serious daring starts from within.
 >
-> <p>- William Shakespeare</p>
+> <p>- Harriet Beecher Stowe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
