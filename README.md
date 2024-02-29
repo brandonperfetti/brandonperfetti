@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The biggest adventure you can ever take is to live the life of your dreams.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Walt Disney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
