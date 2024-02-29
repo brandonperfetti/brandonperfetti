@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All serious daring starts from within.
+> Chaos and Order are not enemies, only opposites.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Richard Garriott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
