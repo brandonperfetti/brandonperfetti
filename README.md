@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All our dreams can come true, if we have the courage to pursue them.
+> Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.
 >
-> <p>- Walt Disney</p>
+> <p>- Swami Vivekananda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
