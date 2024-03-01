@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The ladder of success is never crowded at the top.
+> To bring anything into your life, imagine that it's already there.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
