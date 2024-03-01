@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> Never mistake activity for achievement.
 >
-> <p>- Gail Sheehy</p>
+> <p>- John Wooden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
