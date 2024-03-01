@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
+> To be tested is good. The challenged life may be the best therapist.
 >
-> <p>- Franz Grillparzer</p>
+> <p>- Gail Sheehy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
