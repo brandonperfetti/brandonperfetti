@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The best thing about the future is that it only comes one day at a time.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- John Locke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
