@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never mistake activity for achievement.
+> You can't cross the sea merely by standing and staring at the water.
 >
-> <p>- John Wooden</p>
+> <p>- Rabindranath Tagore</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
