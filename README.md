@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A friendship founded on business is better than a business founded on friendship.
+> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
 >
-> <p>- John Locke</p>
+> <p>- Franz Grillparzer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
