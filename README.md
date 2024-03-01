@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You don't look out there for God, something in the sky, you look in you.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Alan Watts</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
