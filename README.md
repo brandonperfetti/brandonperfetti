@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Music is a higher revelation than all wisdom and philosophy.
+> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
 >
-> <p>- Ludwig van Beethoven</p>
+> <p>- Etty Hillesum</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
