@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Kindness is the golden chain by which society is bound together.
+> Friends are the siblings God never gave us.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Mencius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
