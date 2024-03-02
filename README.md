@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+> Lose an hour in the morning, and you will spend all day looking for it.
 >
-> <p>- Benjamin Haydon</p>
+> <p>- Richard Whately</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
