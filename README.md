@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Where all think alike, no one thinks very much.
+> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Dale Turner</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
