@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To study and not think is a waste. To think and not study is dangerous.
+> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
 >
-> <p>- Confucius</p>
+> <p>- Thomas Paine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
