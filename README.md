@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Coming together is a beginning; keeping together is progress; working together is success.
+> Fine words and an insinuating appearance are seldom associated with true virtue
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
