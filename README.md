@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
+> A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.
 >
-> <p>- Thomas Paine</p>
+> <p>- Isaac Asimov</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
