@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
+> Kindness is the golden chain by which society is bound together.
 >
-> <p>- The Buddha</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
