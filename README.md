@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is nothing on this earth more to be prized than true friendship.
+> To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform.
 >
-> <p>- Thomas Aquinas</p>
+> <p>- Theodore H. White</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
