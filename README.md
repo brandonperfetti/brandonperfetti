@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is more shameful to distrust our friends than to be deceived by them.
+> Kindness is the golden chain by which society is bound together.
 >
-> <p>- Confucius</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
