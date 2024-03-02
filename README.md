@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friends are the siblings God never gave us.
+> When something is important enough, you do it even if the odds are not in your favor.
 >
-> <p>- Mencius</p>
+> <p>- Elon Musk</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
