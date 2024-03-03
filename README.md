@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In the business world, the rearview mirror is always clearer than the windshield.
+> To succeed, we must first believe that we can.
 >
-> <p>- Warren Buffett</p>
+> <p>- Michael Korda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
