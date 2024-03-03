@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Honesty is the best policy.
+> What we see depends mainly on what we look for.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- John Lubbock</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
