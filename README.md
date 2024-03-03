@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What is necessary to change a person is to change his awareness of himself.
+> In the business world, the rearview mirror is always clearer than the windshield.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
