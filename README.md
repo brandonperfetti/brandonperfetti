@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wrinkles should merely indicate where smiles have been.
+> It is the quality of our work which will please God, not the quantity.
 >
-> <p>- Mark Twain</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
