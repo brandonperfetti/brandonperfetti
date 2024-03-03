@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All our dreams can come true, if we have the courage to pursue them.
+> A thing well said will be wit in all languages.
 >
-> <p>- Walt Disney</p>
+> <p>- John Dryden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
