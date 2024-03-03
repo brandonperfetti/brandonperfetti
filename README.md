@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When something is important enough, you do it even if the odds are not in your favor.
+> Our kindness may be the most persuasive argument for that which we believe.
 >
-> <p>- Elon Musk</p>
+> <p>- Gordon Hinckley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
