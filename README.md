@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A man who doesn't trust himself can never really trust anyone else.
+> It is the mark of an educated mind to be able to entertain a thought without accepting it.
 >
-> <p>- Jean François Paul de Gondi</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
