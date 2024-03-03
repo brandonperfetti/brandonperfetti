@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A thing well said will be wit in all languages.
+> Technology presumes there's just one right way to do things and there never is.
 >
-> <p>- John Dryden</p>
+> <p>- Robert M. Pirsig</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
