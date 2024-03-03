@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I had three chairs in my house; one for solitude, two for friendship, three for society.
+> A man who doesn't trust himself can never really trust anyone else.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Jean François Paul de Gondi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
