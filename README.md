@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
 >
-> <p>- Paavo Nurmi</p>
+> <p>- Ernie Banks</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
