@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What we see depends mainly on what we look for.
+> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
 >
-> <p>- John Lubbock</p>
+> <p>- Nathaniel Hawthorne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
