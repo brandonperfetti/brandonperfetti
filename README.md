@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No one has ever become poor by giving.
+> What is necessary to change a person is to change his awareness of himself.
 >
-> <p>- Anne Frank</p>
+> <p>- Abraham Maslow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
