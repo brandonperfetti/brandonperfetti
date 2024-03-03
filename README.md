@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
+> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Paavo Nurmi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
