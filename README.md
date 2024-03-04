@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
+> We've got to have a dream if we are going to make a dream come true.
 >
-> <p>- Thomas à Kempis</p>
+> <p>- Walt Disney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
