@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Time stays long enough for anyone who will use it.
+> Much wisdom often goes with fewest words.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
