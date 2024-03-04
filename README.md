@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
+> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
 >
-> <p>- René Descartes</p>
+> <p>- Thomas à Kempis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
