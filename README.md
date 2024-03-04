@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The ego is nothing other than the focus of conscious attention.
+> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
 >
-> <p>- Alan Watts</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
