@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
+> Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
 >
 > <p>- William Blake</p>
 
