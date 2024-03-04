@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.
+> Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.
 >
-> <p>- Lucille Ball</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
