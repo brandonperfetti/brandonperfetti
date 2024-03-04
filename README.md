@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 >
-> <p>- Elizabeth Arden</p>
+> <p>- René Descartes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
