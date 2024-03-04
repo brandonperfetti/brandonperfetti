@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do you know what my favorite part of the game is? The opportunity to play.
+> You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
 >
-> <p>- Mike Singletary (basketball)</p>
+> <p>- Brian Tracy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
