@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.
+> Do you know what my favorite part of the game is? The opportunity to play.
 >
-> <p>- Robert Fulghum</p>
+> <p>- Mike Singletary (basketball)</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
