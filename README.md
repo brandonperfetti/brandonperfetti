@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
 >
-> <p>- Walt Disney</p>
+> <p>- Elizabeth Arden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
