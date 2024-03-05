@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We can only learn to love by loving.
+> Just trust yourself, then you will know how to live.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
