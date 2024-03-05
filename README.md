@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A friend is one who knows you and loves you just the same.
+> As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
