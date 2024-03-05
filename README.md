@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friends are the siblings God never gave us.
+> A friend is one who knows you and loves you just the same.
 >
-> <p>- Mencius</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
