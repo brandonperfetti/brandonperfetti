@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We cannot do everything at once, but we can do something at once.
+> Appearances are often deceiving.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Aesop</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
