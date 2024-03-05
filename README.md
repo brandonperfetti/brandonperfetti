@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Genius is one percent inspiration and ninety-nine percent perspiration.
+> Without hard work, nothing grows but weeds.
 >
-> <p>- Thomas Edison</p>
+> <p>- Gordon Hinckley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
