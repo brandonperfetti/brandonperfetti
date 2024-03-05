@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+> We can only learn to love by loving.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Iris Murdoch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
