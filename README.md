@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nobody will believe in you unless you believe in yourself.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 >
-> <p>- Liberace</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
