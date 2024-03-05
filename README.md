@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who wishes to secure the good of others, has already secured his own.
+> Nobody will believe in you unless you believe in yourself.
 >
-> <p>- Confucius</p>
+> <p>- Liberace</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
