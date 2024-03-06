@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When we seek to discover the best in others, we somehow bring out the best in ourselves.
+> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Henri Bergson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
