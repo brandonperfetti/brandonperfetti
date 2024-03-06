@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When the world is so complicated, the simple gift of friendship is within all of our hands.
+> So long as a person is capable of self-renewal they are a living being.
 >
-> <p>- Maria Shriver</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
