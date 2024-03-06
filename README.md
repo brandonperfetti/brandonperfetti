@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
+> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
 >
-> <p>- Plutarch</p>
+> <p>- Horace</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
