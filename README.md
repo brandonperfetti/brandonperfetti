@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Happiness does not come from having much, but from being attached to little.
+> It's supposed to be automatic, but actually you have to push this button.
 >
-> <p>- Cheng Yen</p>
+> <p>- John Brunner</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
