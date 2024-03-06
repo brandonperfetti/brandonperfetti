@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+> There are no limitations to the mind except those we acknowledge.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
