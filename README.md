@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
+> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
