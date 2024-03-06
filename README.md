@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Listen to what you know instead of what you fear.
+> When we seek to discover the best in others, we somehow bring out the best in ourselves.
 >
-> <p>- Richard Bach</p>
+> <p>- William Arthur Ward</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
