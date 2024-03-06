@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Everything comes to him who hustles while he waits.
+> Happiness does not come from having much, but from being attached to little.
 >
-> <p>- Thomas Edison</p>
+> <p>- Cheng Yen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
