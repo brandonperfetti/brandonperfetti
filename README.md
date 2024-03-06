@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> The higher we are placed, the more humbly we should walk.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
