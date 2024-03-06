@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Knowledge speaks, but wisdom listens.
+> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
 >
-> <p>- Jimi Hendrix</p>
+> <p>- George Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
