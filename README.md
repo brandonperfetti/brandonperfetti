@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+> The gambling known as business looks with austere disfavor upon the business known as gambling.
 >
-> <p>- Thomas Edison</p>
+> <p>- Ambrose Bierce</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
