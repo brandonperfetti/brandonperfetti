@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
+> Change in all things is sweet.
 >
-> <p>- The Buddha</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
