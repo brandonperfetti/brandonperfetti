@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
+> Friendship at first sight, like love at first sight, is said to be the only truth.
 >
-> <p>- Tony Robbins</p>
+> <p>- Herman Melville</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
