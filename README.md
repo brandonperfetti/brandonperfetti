@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
+> Music in the soul can be heard by the universe.
 >
-> <p>- Billie Jean King</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
