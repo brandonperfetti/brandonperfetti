@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Ezra Stiles</p>
+> <p>- Toni Morrison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
