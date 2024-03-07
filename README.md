@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
 > <p>- Elbert Hubbard</p>
 
