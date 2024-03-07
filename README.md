@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you surrender to the wind, you can ride it.
+> It is easy to be brave from a safe distance.
 >
-> <p>- Toni Morrison</p>
+> <p>- Aesop</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
