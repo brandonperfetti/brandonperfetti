@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love, friendship and respect do not unite people as much as a common hatred for something.
+> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Ezra Stiles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
