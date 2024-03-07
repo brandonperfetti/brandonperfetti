@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A goal without a plan is just a wish.
+> The superior man is satisfied and composed; the mean man is always full of distress.
 >
-> <p>- Larry Elder</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
