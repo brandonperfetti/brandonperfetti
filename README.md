@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You don't play against opponents, you play against the game of basketball.
+> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
 >
-> <p>- Bob Knight</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
