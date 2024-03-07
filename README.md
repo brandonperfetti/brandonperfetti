@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The gambling known as business looks with austere disfavor upon the business known as gambling.
+> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Billie Jean King</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
