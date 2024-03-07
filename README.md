@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There's power in looking silly and not caring that you do.
+> A goal without a plan is just a wish.
 >
-> <p>- Amy Poehler</p>
+> <p>- Larry Elder</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
