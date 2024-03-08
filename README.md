@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is always an overmatch for strength.
+> Obstacles are those things you see when you take your eyes off the goal.
 >
-> <p>- Phil Jackson</p>
+> <p>- Hannah More</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
