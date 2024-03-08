@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is what you make of it. Always has been, always will be.
+> Trust only movement. Life happens at the level of events, not of words. Trust movement.
 >
-> <p>- Grandma Moses</p>
+> <p>- Alfred Adler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
