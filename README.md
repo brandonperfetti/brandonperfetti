@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
+> Life is what you make of it. Always has been, always will be.
 >
-> <p>- Marcia Fudge</p>
+> <p>- Grandma Moses</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
