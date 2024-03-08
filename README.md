@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you only have a hammer, you tend to see every problem as a nail.
+> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
 >
-> <p>- Abraham Maslow</p>
+> <p>- Edith Wharton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
