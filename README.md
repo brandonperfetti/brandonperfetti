@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The only real mistake is the one from which we learn nothing.
+> From error to error one discovers the entire truth.
 >
-> <p>- John Powell</p>
+> <p>- Sigmund Freud</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
