@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship at first sight, like love at first sight, is said to be the only truth.
+> Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
 >
-> <p>- Herman Melville</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
