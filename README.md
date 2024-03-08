@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you can't explain it simply, you don't understand it well enough.
+> You are never given a wish without also being given the power to make it come true. You may have to work for it, however.
 >
-> <p>- Albert Einstein</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
