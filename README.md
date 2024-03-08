@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> From error to error one discovers the entire truth.
+> I believe that every person is born with talent.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
