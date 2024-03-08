@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.
+> Wisdom is always an overmatch for strength.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Phil Jackson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
