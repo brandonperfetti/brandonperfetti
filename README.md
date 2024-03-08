@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Obstacles are those things you see when you take your eyes off the goal.
+> The only real mistake is the one from which we learn nothing.
 >
-> <p>- Hannah More</p>
+> <p>- John Powell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
