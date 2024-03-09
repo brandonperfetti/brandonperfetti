@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
+> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
 >
-> <p>- Billy Wilder</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
