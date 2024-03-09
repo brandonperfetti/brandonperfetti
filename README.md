@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.
+> The ideals which have lighted my way, and time after time have given me new courage to face life cheerfully, have been Kindness, Beauty, and Truth. The trite subjects of human efforts, possessions, outward success, luxury have always seemed to me contemptible.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
