@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- Doris Mortman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
