@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> Life is divided into the horrible and the miserable.
 >
-> <p>- Walter Winchell</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
