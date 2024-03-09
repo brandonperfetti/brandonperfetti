@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> Truth is powerful and it prevails.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Sojourner Truth</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
