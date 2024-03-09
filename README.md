@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Learning never exhausts the mind.
+> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Joan Rivers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
