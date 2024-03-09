@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Marsha Petrie Sue</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
