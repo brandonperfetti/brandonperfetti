@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.
+> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
 >
-> <p>- Chuck Norris</p>
+> <p>- Billy Wilder</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
