@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I will not be concerned at other men's not knowing me; I will be concerned at my own want of ability.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>- Confucius</p>
+> <p>- Walter Winchell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
