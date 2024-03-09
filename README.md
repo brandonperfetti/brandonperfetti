@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Truth is powerful and it prevails.
+> A goal is a dream with a deadline.
 >
-> <p>- Sojourner Truth</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
