@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life has no blessing like a prudent friend.
+> Important principles may, and must, be inflexible.
 >
-> <p>- Euripides</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
