@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> An appeaser is one who feeds a crocodile, hoping it will eat him last.
+> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
 >
-> <p>- Winston Churchill</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
