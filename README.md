@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> Never apologize for showing feelings. When you do so, you apologize for the truth.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
