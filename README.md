@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never apologize for showing feelings. When you do so, you apologize for the truth.
+> He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Pablo Picasso</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
