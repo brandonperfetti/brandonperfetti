@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's a good thing to be satisfied with what one has.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- The Buddha</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
