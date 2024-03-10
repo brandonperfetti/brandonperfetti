@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
+> Nobody made a greater mistake than he who did nothing because he could do only a little.
 >
-> <p>- Mark Twain</p>
+> <p>- Edmund Burke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
