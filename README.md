@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
+> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
 >
-> <p>- Woody Allen</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
