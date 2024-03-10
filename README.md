@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is nothing on this earth more to be prized than true friendship.
+> Life has no blessing like a prudent friend.
 >
-> <p>- Thomas Aquinas</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
