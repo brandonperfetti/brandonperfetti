@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Silence is the sleep that nourishes wisdom.
+> It's a good thing to be satisfied with what one has.
 >
-> <p>- Francis Bacon</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
