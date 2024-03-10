@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> An ant on the move does more than a dozing ox
+> He who has imagination without learning has wings but no feet.
 >
-> <p>- Laozi</p>
+> <p>- Joseph Joubert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
