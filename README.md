@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The beginning of knowledge is the discovery of something we do not understand.
+> I believe that every person is born with talent.
 >
-> <p>- Frank Herbert</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
