@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Chaos and Order are not enemies, only opposites.
+> True friends stab you in the front.
 >
-> <p>- Richard Garriott</p>
+> <p>- Oscar Wilde</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
