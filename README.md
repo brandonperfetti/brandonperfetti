@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
 >
-> <p>- Charles Péguy</p>
+> <p>- Niccolò Machiavelli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
