@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
+> Our most intimate friend is not he to whom we show the worst, but the best of our nature.
 >
-> <p>- Lisa Alther</p>
+> <p>- Nathaniel Hawthorne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
