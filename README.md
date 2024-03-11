@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing great was ever achieved without enthusiasm.
+> Remember always that you not only have the right to be an individual, you have an obligation to be one.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
