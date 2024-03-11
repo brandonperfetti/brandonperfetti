@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The best argument against democracy is a five-minute conversation with the average voter.
+> We must never forget that it is through our actions, words, and thoughts that we have a choice.
 >
-> <p>- Winston Churchill</p>
+> <p>- Sogyal Rinpoche</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
