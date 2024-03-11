@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest healing therapy is friendship and love.
+> Nothing great was ever achieved without enthusiasm.
 >
-> <p>- Hubert Humphrey</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
