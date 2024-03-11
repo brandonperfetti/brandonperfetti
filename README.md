@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Difficulties are things that show a person what they are.
+> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
 >
-> <p>- Epictetus</p>
+> <p>- Diogenes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
