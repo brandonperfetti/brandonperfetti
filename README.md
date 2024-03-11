@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> True friends stab you in the front.
+> The greatest healing therapy is friendship and love.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Hubert Humphrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
