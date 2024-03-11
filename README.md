@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can't cross the sea merely by standing and staring at the water.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Anne Bradstreet</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
