@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Eighty percent of success is showing up.
+> An appeaser is one who feeds a crocodile, hoping it will eat him last.
 >
-> <p>- Woody Allen</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
