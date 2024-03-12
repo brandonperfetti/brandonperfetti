@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be slow of tongue and quick of eye.
+> Love demands infinitely less than friendship.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- George Jean Nathan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
