@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing in life is so exhilarating as to be shot at without result.
+> He who lives in harmony with himself lives in harmony with the universe.
 >
-> <p>- Winston Churchill</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
