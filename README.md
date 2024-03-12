@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To lead people walk behind them.
+> If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.
 >
-> <p>- Laozi</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
