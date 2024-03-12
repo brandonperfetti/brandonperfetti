@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't judge each day by the harvest you reap but by the seeds that you plant.
+> We are made wise not by the recollection of our past, but by the responsibility for our future.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
