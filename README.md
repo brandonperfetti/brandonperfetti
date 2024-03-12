@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All our knowledge has its origins in our perceptions.
+> Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
