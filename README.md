@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> All our knowledge has its origins in our perceptions.
 >
-> <p>- George Jean Nathan</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
