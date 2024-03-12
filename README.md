@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the universe.
+> Don't judge each day by the harvest you reap but by the seeds that you plant.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Robert Louis Stevenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
