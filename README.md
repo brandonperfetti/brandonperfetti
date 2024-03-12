@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> An appeaser is one who feeds a crocodile, hoping it will eat him last.
+> Nothing in life is so exhilarating as to be shot at without result.
 >
 > <p>- Winston Churchill</p>
 
