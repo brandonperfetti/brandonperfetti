@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The superior man acts before he speaks, and afterwards speaks according to his action.
+> Eighty percent of success is showing up.
 >
-> <p>- Confucius</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
