@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can observe a lot just by watching.
+> The noblest worship is to make yourself as good and as just as you can.
 >
-> <p>- Yogi Berra</p>
+> <p>- Isocrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
