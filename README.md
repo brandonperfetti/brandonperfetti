@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
+> Be slow of tongue and quick of eye.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Miguel de Cervantes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
