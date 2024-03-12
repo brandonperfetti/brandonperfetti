@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Liberty, taking the word in its concrete sense, consists in the ability to choose.
+> Happiness is when what you think, what you say, and what you do are in harmony.
 >
-> <p>- Simone Weil</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
