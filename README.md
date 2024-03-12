@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We are made wise not by the recollection of our past, but by the responsibility for our future.
+> To lead people walk behind them.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
