@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The self is not something ready-made, but something in continuous formation through choice of action.
+> You can observe a lot just by watching.
 >
-> <p>- John Dewey</p>
+> <p>- Yogi Berra</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
