@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Who looks outside, dreams, who looks inside, awakes.
+> Liberty, taking the word in its concrete sense, consists in the ability to choose.
 >
-> <p>- Carl Jung</p>
+> <p>- Simone Weil</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
