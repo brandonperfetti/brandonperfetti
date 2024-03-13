@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is not uncommon for people to spend their whole life waiting to start living.
+> He who knows others is wise. He who knows himself is enlightened.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
