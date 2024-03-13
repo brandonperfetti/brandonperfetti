@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I never see what has been done; I only see what remains to be done.
+> Purity and impurity depend on oneself; no one can purify another.
 >
-> <p>- Marie Curie</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
