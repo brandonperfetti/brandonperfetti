@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Yesterday I dared to struggle. Today I dare to win.
+> Silence is the sleep that nourishes wisdom.
 >
-> <p>- Bernadette Devlin</p>
+> <p>- Francis Bacon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
