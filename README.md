@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never idealize others. They will never live up to your expectations.
+> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Barbara De Angelis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
