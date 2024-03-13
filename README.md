@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you.
+> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
 >
-> <p>- Janet Jackson</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
