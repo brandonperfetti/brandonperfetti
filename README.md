@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you can dream it, you can do it.
+> Living at risk is jumping off the cliff and building your wings on the way down.
 >
-> <p>- Walt Disney</p>
+> <p>- Ray Bradbury</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
