@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> When you reach the end of your rope, tie a knot in it and hang on.
 >
-> <p>- Laozi</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
