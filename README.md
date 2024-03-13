@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Myths which are believed in tend to become true.
+> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
 >
-> <p>- George Orwell</p>
+> <p>- Joseph Addison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
