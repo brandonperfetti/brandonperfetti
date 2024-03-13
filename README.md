@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We know what we are but know not what we may be.
+> Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
 >
-> <p>- William Shakespeare</p>
+> <p>- John McCain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
