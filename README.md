@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> I don't want to achieve immortality through my work... I want to achieve it through not dying.
 >
-> <p>- Richard Bach</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
