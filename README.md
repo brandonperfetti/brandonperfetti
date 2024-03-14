@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The most formidable weapon against errors of every kind is reason.
+> Whatever happens, take responsibility.
 >
-> <p>- Thomas Paine</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
