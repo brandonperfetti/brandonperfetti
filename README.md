@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do good by stealth, and blush to find it fame.
+> I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.
 >
-> <p>- Alexander Pope</p>
+> <p>- Victoria Osteen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
