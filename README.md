@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It isn't where you come from, it's where you're going that counts.
+> Listen to what you know instead of what you fear.
 >
-> <p>- Ella Fitzgerald</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
