@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Vusi Mahlasela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
