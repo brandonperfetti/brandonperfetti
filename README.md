@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Success is not final; failure is not fatal: it is the courage to continue that counts.
+> Action may not always bring happiness; but there is no happiness without action.
 >
-> <p>- Winston Churchill</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
