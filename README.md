@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> All I required to be happy was friendship and people I could admire.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Christian Dior</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
