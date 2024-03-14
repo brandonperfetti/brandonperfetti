@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
+> Music in the soul can be heard by the universe.
 >
-> <p>- Joseph Prince</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
