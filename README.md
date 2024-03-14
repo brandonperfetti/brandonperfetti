@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
+> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
 >
-> <p>- Epictetus</p>
+> <p>- Joseph Prince</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
