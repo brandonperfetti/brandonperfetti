@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Whatever happens, take responsibility.
+> It isn't where you come from, it's where you're going that counts.
 >
-> <p>- Tony Robbins</p>
+> <p>- Ella Fitzgerald</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
