@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+> Action is the foundational key to all success.
 >
-> <p>- Samuel Beckett</p>
+> <p>- Pablo Picasso</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
