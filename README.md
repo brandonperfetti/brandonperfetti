@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Action is the foundational key to all success.
+> I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than you and keep doing what you love. Do what you love, and you will find the way to get it out to the world.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Judy Collins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
