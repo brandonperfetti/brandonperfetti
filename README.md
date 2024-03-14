@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Action may not always bring happiness; but there is no happiness without action.
+> Some people go to priests; others to poetry; I to my friends.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Virginia Woolf</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
