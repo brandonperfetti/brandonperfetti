@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing in life is so exhilarating as to be shot at without result.
+> All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
 >
-> <p>- Winston Churchill</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
