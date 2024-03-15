@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love is the only force capable of transforming an enemy into a friend.
+> Nothing in life is so exhilarating as to be shot at without result.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
