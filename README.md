@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One fails forward toward success.
+> What you get by achieving your goals is not as important as what you become by achieving your goals.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Zig Ziglar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
