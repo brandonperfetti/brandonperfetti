@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
+> I have learned that to be with those I like is enough.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Walt Whitman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
