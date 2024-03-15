@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What you get by achieving your goals is not as important as what you become by achieving your goals.
+> The world is round so that friendship may encircle it.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Pierre Teilhard de Chardin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
