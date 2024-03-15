@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
+> The only person who never makes mistakes is the person who never does anything.
 >
-> <p>- Bruce Lee</p>
+> <p>- Denis Waitley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
