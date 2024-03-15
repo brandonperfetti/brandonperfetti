@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be like the flower, turn your face to the sun.
+> Happiness is not something ready-made. It comes from your own actions.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
