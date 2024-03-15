@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> No man was ever wise by chance.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
