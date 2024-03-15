@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.
+> Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
 >
-> <p>- Richard Bach</p>
+> <p>- Arthur Conan Doyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
