@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+> If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Rabbi Hillel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
