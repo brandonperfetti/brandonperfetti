@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
+> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
 >
-> <p>- Etty Hillesum</p>
+> <p>- Edith Wharton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
