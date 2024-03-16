@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue.
+> You cannot have what you do not want.
 >
-> <p>- Edith Wharton</p>
+> <p>- John Acosta</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
