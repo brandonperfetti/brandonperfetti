@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> Trust only movement. Life happens at the level of events, not of words. Trust movement.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- Alfred Adler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
