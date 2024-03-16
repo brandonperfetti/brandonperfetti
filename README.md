@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We must not allow ourselves to become like the system we oppose.
+> To hell with circumstances, I create opportunities.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
