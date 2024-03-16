@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Nikos Kazantzakis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
