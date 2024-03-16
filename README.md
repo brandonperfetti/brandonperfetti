@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You cannot have what you do not want.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- John Acosta</p>
+> <p>- Ivy Baker Priest</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
