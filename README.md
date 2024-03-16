@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is not so important to know everything as to appreciate what we learn.
+> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
 >
-> <p>- Hannah More</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
