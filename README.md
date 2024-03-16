@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To fly, we have to have resistance.
+> It is not so much our friends' help that helps us, as the confidence of their help.
 >
-> <p>- Maya Lin</p>
+> <p>- Epicurus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
