@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A friend in power is a friend lost.
+> The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.
 >
-> <p>- Henry Adams</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
