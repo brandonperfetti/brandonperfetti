@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A man is not old as long as he is seeking something.
+> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
 >
-> <p>- Edmond Rostand</p>
+> <p>- Ravi Zacharias</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
