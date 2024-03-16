@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can observe a lot just by watching.
+> To study and not think is a waste. To think and not study is dangerous.
 >
-> <p>- Yogi Berra</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
