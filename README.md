@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All great achievements require time.
+> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
 >
-> <p>- Maya Angelou</p>
+> <p>- Etty Hillesum</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
