@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To hell with circumstances, I create opportunities.
+> If we look at the world with a love of life, the world will reveal its beauty to us.
 >
-> <p>- Bruce Lee</p>
+> <p>- Daisaku Ikeda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
