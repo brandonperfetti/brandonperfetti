@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> By believing passionately in something that does not yet exist, we create it.
+> Radiate boundless love towards the entire world…
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
