@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To invent, you need a good imagination and a pile of junk.
+> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
 >
-> <p>- Thomas Edison</p>
+> <p>- Nikola Tesla</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
