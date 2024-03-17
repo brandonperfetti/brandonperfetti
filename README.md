@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
+> Life's most persistent and urgent question is, 'What are you doing for others?'
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Martin Luther King Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
