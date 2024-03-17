@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All that I am, or hope to be, I owe to my angel mother.
+> Happiness often sneaks in through a door you didn't know you left open.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- John Barrymore</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
