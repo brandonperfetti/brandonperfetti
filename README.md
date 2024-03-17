@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Act as if what you do makes a difference. It does.
+> All that I am, or hope to be, I owe to my angel mother.
 >
-> <p>- William James</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
