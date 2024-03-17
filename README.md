@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> One of the advantages of being disorderly is that one is constantly making exciting discoveries.
 >
-> <p>- Will Rogers</p>
+> <p>- A. A. Milne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
