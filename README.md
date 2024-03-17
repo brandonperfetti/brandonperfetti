@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> To invent, you need a good imagination and a pile of junk.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
