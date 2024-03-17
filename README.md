@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
+> Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.
 >
-> <p>- Albert Einstein</p>
+> <p>- David Rockefeller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
