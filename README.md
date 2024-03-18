@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The poor man is not he who is without a cent, but he who is without a dream.
+> Your friend is your needs answered.
 >
-> <p>- Harry Kemp</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
