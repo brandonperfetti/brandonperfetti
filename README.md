@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What is a weed? A plant whose virtues have not yet been discovered.
+> The trick is in what one emphasizes. We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Carlos Castaneda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
