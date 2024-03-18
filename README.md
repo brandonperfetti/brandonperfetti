@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.
+> A goal without a plan is just a wish.
 >
-> <p>- Woody Allen</p>
+> <p>- Larry Elder</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
