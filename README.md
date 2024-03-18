@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Set your goals high, and don't stop till you get there.
+> It all depends on how we look at things, and not how they are in themselves.
 >
-> <p>- Bo Jackson</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
