@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The future belongs to those who believe in the beauty of their dreams.
+> Time is the most valuable thing a man can spend.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Theophrastus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
