@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.
+> What is a weed? A plant whose virtues have not yet been discovered.
 >
-> <p>- Hugh Jackman</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
