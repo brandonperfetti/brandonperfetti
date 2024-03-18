@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
+> Set your goals high, and don't stop till you get there.
 >
-> <p>- William Saroyan</p>
+> <p>- Bo Jackson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
