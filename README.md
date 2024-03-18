@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You'll see it when you believe it.
+> In the depth of winter, I finally learned that there was within me an invincible summer.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Albert Camus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
