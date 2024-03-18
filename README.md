@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A goal without a plan is just a wish.
+> Commitment is an act, not a word.
 >
-> <p>- Larry Elder</p>
+> <p>- Jean-Paul Sartre</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
