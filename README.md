@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
+> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
 >
-> <p>- Mignon McLaughlin</p>
+> <p>- William Saroyan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
