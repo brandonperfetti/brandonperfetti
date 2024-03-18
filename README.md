@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> The fall of dropping water wears away the Stone.
 >
-> <p>- Mother Teresa</p>
+> <p>- Lucretius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
