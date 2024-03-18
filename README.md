@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To change one's life, start immediately, do it flamboyantly, no exceptions.
+> Anybody can make history. Only a great man can write it.
 >
-> <p>- William James</p>
+> <p>- Oscar Wilde</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
