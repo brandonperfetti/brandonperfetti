@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.
+> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Mignon McLaughlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
