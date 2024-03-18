@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In the depth of winter, I finally learned that there was within me an invincible summer.
+> I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me.
 >
-> <p>- Albert Camus</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
