@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Commitment is an act, not a word.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Aldous Huxley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
