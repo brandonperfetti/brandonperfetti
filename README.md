@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
+> I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
