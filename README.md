@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It all depends on how we look at things, and not how they are in themselves.
+> There's power in looking silly and not caring that you do.
 >
-> <p>- Carl Jung</p>
+> <p>- Amy Poehler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
