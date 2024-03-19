@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be.
+> Everything in the universe goes by indirection. There are no straight lines.
 >
-> <p>- Alan Watts</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
