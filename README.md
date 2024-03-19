@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Just because something doesn't do what you planned it to do doesn't mean it's useless.
+> Reality is merely an illusion, albeit a very persistent one.
 >
-> <p>- Thomas Edison</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
