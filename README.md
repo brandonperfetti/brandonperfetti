@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Everything in the universe goes by indirection. There are no straight lines.
+> Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- George Foreman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
