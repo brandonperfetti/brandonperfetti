@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You don't look out there for God, something in the sky, you look in you.
+> There is never enough time to do everything, but there is always enough time to do the most important thing.
 >
-> <p>- Alan Watts</p>
+> <p>- Brian Tracy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
