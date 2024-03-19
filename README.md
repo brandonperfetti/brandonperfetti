@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do not wait for leaders; do it alone, person to person.
+> Don't watch the clock; do what it does. Keep going.
 >
-> <p>- Mother Teresa</p>
+> <p>- Sam Levenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
