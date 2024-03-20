@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When the world is so complicated, the simple gift of friendship is within all of our hands.
+> If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.
 >
-> <p>- Maria Shriver</p>
+> <p>- Mary Pickford</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
