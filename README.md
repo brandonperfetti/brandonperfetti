@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing in life is so exhilarating as to be shot at without result.
+> If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
 >
-> <p>- Winston Churchill</p>
+> <p>- Rollo May</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
