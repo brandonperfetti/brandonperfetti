@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our character is what we do when we think no one is looking.
+> When the world is so complicated, the simple gift of friendship is within all of our hands.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Maria Shriver</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
