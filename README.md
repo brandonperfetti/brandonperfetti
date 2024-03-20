@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+> Much wisdom often goes with fewest words.
 >
-> <p>- Og Mandino</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
