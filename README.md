@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
+> Our character is what we do when we think no one is looking.
 >
-> <p>- The Buddha</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
