@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If I know what love is, it is because of you.
+> I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Og Mandino</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
