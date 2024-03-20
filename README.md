@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
+> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
 >
-> <p>- Dalai Lama</p>
+> <p>- Wolfgang Amadeus Mozart</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
