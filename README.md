@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship is a very taxing and arduous form of leisure activity.
+> If I know what love is, it is because of you.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Hermann Hesse</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
