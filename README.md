@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Silence is a source of great strength.
+> Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
 >
-> <p>- Laozi</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
