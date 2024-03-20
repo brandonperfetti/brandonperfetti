@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> Mistakes are always forgivable, if one has the courage to admit them.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
