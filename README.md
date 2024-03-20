@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Much wisdom often goes with fewest words.
+> Silence is a source of great strength.
 >
-> <p>- Sophocles</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
