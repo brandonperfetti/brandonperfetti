@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Technology is anything that wasn't around when you were born.
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- Man Ray</p>
+> <p>- Jim Morrison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
