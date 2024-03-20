@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> By accepting yourself and being fully what you are, your presence can make others happy.
+> The real danger is not that computers will begin to think like men, but that men will begin to think like computers.
 >
-> <p>- Jane Roberts</p>
+> <p>- Sydney J. Harris</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
