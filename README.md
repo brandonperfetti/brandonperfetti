@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greatest part of our happiness depends on our dispositions, not our circumstances.
+> Technology is anything that wasn't around when you were born.
 >
-> <p>- Martha Washington</p>
+> <p>- Man Ray</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
