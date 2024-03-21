@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Character develops itself in the stream of life.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
