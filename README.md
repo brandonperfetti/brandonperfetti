@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
+> What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely. From an acting point of view, that's how I approached the part.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Christopher Reeve</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
