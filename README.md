@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The function of wisdom is to discriminate between good and evil.
+> Every man takes the limits of his own field of vision for the limits of the world.
 >
-> <p>- Cicero</p>
+> <p>- Arthur Schopenhauer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
