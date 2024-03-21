@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You cannot be lonely if you like the person you're alone with.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
