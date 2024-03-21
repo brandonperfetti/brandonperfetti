@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The less effort, the faster and more powerful you will be.
+> Cleverness is not wisdom.
 >
-> <p>- Bruce Lee</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
