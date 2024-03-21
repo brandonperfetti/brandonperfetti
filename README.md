@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Either you run the day or the day runs you.
+> If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
 >
-> <p>- Jim Rohn</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
