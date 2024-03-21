@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
+> Character develops itself in the stream of life.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
