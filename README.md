@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
+> The longer we dwell on our misfortunes, the greater is their power to harm us.
 >
-> <p>- Dalai Lama</p>
+> <p>- Voltaire</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
