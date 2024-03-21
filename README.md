@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The longer we dwell on our misfortunes, the greater is their power to harm us.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- Voltaire</p>
+> <p>- Leonard Nimoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
