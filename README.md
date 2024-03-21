@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Every man takes the limits of his own field of vision for the limits of the world.
+> Try not to become a man of success, but rather try to become a man of value.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
