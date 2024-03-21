@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If we did the things we are capable of, we would astound ourselves.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Thomas Edison</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
