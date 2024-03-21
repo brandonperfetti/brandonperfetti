@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> We can change our lives. We can do, have, and be exactly what we wish.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
