@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What is not started today is never finished tomorrow.
+> It is a characteristic of wisdom not to do desperate things.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
