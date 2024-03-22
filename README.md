@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The opportunity for brotherhood presents itself every time you meet a human being.
+> To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
 >
-> <p>- Jane Wyman</p>
+> <p>- Joan Didion</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
