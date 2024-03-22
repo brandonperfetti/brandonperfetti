@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Tony Robbins</p>
+> <p>- Jimmy Dean</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
