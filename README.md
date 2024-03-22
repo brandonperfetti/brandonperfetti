@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Blessed are the hearts that can bend; they shall never be broken.
+> Some people go to priests; others to poetry; I to my friends.
 >
-> <p>- Albert Camus</p>
+> <p>- Virginia Woolf</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
