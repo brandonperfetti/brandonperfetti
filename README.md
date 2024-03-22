@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Never promise more than you can perform.
+> Life is the flower for which love is the honey.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Victor Hugo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
