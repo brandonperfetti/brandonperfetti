@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is a characteristic of wisdom not to do desperate things.
+> Good actions give strength to ourselves and inspire good actions in others.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
