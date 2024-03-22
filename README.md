@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I never worry about action, but only inaction.
+> I always wanted to be somebody, but I should have been more specific.
 >
-> <p>- Winston Churchill</p>
+> <p>- Lily Tomlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
