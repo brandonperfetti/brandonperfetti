@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Good actions give strength to ourselves and inspire good actions in others.
+> Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.
 >
-> <p>- Plato</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
