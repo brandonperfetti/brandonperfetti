@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I always wanted to be somebody, but I should have been more specific.
+> You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.
 >
-> <p>- Lily Tomlin</p>
+> <p>- Ravi Zacharias</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
