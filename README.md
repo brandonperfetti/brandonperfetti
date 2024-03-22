@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is the flower for which love is the honey.
+> Speak when you are angry, and you will make the best speech you will ever regret.
 >
-> <p>- Victor Hugo</p>
+> <p>- Ambrose Bierce</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
