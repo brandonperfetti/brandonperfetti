@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.
+> Obstacles are those frightful things you see when you take your eyes off your goal.
 >
-> <p>- Laozi</p>
+> <p>- Henry Ford</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
