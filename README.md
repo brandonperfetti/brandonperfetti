@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Speak when you are angry, and you will make the best speech you will ever regret.
+> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Jessamyn West</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
