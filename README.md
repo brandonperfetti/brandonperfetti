@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The more you care, the stronger you can be.
+> Friends... they cherish one another's hopes. They are kind to one another's dreams.
 >
-> <p>- Jim Rohn</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
