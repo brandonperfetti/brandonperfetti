@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In order to win, you must expect to win.
+> I had three chairs in my house; one for solitude, two for friendship, three for society.
 >
-> <p>- Richard Bach</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
