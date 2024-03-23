@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A failure is a man who has blundered but is not capable of cashing in on the experience.
+> Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
