@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A poem begins in delight and ends in wisdom.
+> The more you care, the stronger you can be.
 >
-> <p>- Robert Frost</p>
+> <p>- Jim Rohn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
