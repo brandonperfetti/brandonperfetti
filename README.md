@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One's friends are that part of the human race with which one can be human.
+> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
 >
-> <p>- George Santayana</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
