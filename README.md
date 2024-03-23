@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You do not become good by trying to be good, but by finding the goodness that is already within you.
+> In order to win, you must expect to win.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
