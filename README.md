@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is with words as with sunbeams. The more they are condensed, the deeper they burn.
+> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
 >
-> <p>- Robert Southey</p>
+> <p>- Colin Powell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
