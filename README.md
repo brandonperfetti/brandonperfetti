@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day.
+> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
 >
-> <p>- John Wooden</p>
+> <p>- Henry James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
