@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
+> All that we see or seem is but a dream within a dream.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Edgar Allan Poe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
