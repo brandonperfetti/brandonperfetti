@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> He who lives in harmony with himself lives in harmony with the world.
+> You do not become good by trying to be good, but by finding the goodness that is already within you.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
