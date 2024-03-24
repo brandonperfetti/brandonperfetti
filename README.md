@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The truest greatness lies in being kind, the truest wisdom in a happy mind.
+> So much technology, so little talent.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Vernor Vinge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
