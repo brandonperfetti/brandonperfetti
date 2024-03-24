@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Before God we are all equally wise - and equally foolish.
+> Conditions fall apart. Persist with diligence.
 >
-> <p>- Albert Einstein</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
