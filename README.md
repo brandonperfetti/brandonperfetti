@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> People don't notice whether it's winter or summer when they're happy.
+> In the middle of every difficulty lies opportunity.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
