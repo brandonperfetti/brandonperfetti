@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one.
+> Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
 >
-> <p>- Chuck Norris</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
