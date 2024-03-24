@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The only limit to your impact is your imagination and commitment.
+> There is no failure except in no longer trying.
 >
-> <p>- Tony Robbins</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
