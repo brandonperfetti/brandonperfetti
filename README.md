@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure.
+> God made me fast. And when I run, I feel His pleasure.
 >
-> <p>- The Buddha</p>
+> <p>- Eric Liddell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
