@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Doing what you love is the cornerstone of having abundance in your life.
+> It is not wisdom but Authority that makes a law.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Thomas Hobbes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
