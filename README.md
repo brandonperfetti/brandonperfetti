@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is the mark of an educated mind to be able to entertain a thought without accepting it.
+> Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.
 >
-> <p>- Aristotle</p>
+> <p>- Ted Williams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
