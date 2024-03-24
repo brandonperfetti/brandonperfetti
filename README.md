@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.
+> Life has no blessing like a prudent friend.
 >
-> <p>- Colin Powell</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
