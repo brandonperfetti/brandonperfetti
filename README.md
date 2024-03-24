@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> God made me fast. And when I run, I feel His pleasure.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Eric Liddell</p>
+> <p>- May Sarton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
