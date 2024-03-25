@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Computers are like bikinis. They save people a lot of guesswork.
+> Truth is generally the best vindication against slander.
 >
-> <p>- Sam Ewing</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
