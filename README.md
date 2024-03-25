@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> Our work is the presentation of our capabilities.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Edward Gibbon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
