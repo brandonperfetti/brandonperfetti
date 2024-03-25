@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Unless one is able to live fully in the present, the future is a hoax.
+> Wisdom is the power to put our time and our knowledge to the proper use.
 >
-> <p>- Alan Watts</p>
+> <p>- Thomas J. Watson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
