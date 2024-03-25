@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> To be great is to be misunderstood.
 >
-> <p>- Richard Bach</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
