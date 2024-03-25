@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
+> Truth is powerful and it prevails.
 >
-> <p>- Whoopi Goldberg</p>
+> <p>- Sojourner Truth</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
