@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is the power to put our time and our knowledge to the proper use.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- Thomas J. Watson</p>
+> <p>- Judy Garland</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
