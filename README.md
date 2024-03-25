@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A thing long expected takes the form of the unexpected when at last it comes.
+> Meaning is not what you start with but what you end up with.
 >
-> <p>- Mark Twain</p>
+> <p>- Peter Elbow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
