@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Truth is powerful and it prevails.
+> It's so simple to be wise. Just think of something stupid to say and then don't say it.
 >
-> <p>- Sojourner Truth</p>
+> <p>- Sam Levenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
