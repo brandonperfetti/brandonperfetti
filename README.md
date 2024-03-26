@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Faith in oneself is the best and safest course.
+> Ignorant men don't know what good they hold in their hands until they've flung it away.
 >
-> <p>- Michelangelo</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
