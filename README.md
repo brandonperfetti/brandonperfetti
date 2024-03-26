@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
