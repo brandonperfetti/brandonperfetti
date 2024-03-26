@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> The secret of success is constancy to purpose.
 >
-> <p>- Charles Dickens</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
