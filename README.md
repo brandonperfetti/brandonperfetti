@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
 >
-> <p>- John Burroughs</p>
+> <p>- Henry Reed</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
