@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The greater our knowledge increases the more our ignorance unfolds.
+> The years teach much which the days never know.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
