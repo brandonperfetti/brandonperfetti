@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Learning never exhausts the mind.
+> The only time to buy these is on a day with no 'y' in it.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
