@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> They can do all because they think they can.
+> To be tested is good. The challenged life may be the best therapist.
 >
-> <p>- Virgil</p>
+> <p>- Gail Sheehy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
