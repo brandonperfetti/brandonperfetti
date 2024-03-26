@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The secret of success is constancy to purpose.
+> In seed time learn, in harvest teach, in winter enjoy.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
