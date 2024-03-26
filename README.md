@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You are never given a wish without also being given the power to make it come true. You may have to work for it, however.
+> Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.
 >
 > <p>- Richard Bach</p>
 
