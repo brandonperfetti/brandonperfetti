@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> In seed time learn, in harvest teach, in winter enjoy.
+> If you only have a hammer, you tend to see every problem as a nail.
 >
-> <p>- William Blake</p>
+> <p>- Abraham Maslow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
