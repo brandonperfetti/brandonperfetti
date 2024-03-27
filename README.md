@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love, friendship and respect do not unite people as much as a common hatred for something.
+> We choose our joys and sorrows long before we experience them.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
