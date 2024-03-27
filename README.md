@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Billy Wilder</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
