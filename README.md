@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I will prepare and someday my chance will come.
+> Change your life today. Don't gamble on the future, act now, without delay.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Simone de Beauvoir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
