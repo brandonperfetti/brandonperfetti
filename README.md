@@ -178,7 +178,7 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You always succeed in producing a result.
+> The only limit to your impact is your imagination and commitment.
 >
 > <p>- Tony Robbins</p>
 
