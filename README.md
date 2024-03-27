@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Well begun is half done.
+> As we are liberated from our own fear, our presence automatically liberates others.
 >
-> <p>- Aristotle</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
