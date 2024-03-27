@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
