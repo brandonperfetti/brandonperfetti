@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
+> Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
