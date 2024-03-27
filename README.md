@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The only limit to your impact is your imagination and commitment.
+> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
 >
-> <p>- Tony Robbins</p>
+> <p>- Caroline Myss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
