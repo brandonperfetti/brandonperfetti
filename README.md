@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> As we are liberated from our own fear, our presence automatically liberates others.
+> The energy of the mind is the essence of life.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
