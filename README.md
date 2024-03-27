@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be faithful in small things because it is in them that your strength lies.
+> Every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving.
 >
-> <p>- Mother Teresa</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
