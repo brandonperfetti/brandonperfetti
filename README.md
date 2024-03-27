@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
+> I will prepare and someday my chance will come.
 >
-> <p>- The Buddha</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
