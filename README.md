@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+> Irony is the gaiety of reflection and the joy of wisdom.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Anatole France</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
