@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's better to be a lion for a day than a sheep all your life.
+> The free man is he who does not fear to go to the end of his thought.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Léon Blum</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
