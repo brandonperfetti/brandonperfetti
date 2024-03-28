@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The free man is he who does not fear to go to the end of his thought.
+> We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
 >
-> <p>- Léon Blum</p>
+> <p>- Stephen Covey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
