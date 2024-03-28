@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Irony is the gaiety of reflection and the joy of wisdom.
+> It's better to be a lion for a day than a sheep all your life.
 >
-> <p>- Anatole France</p>
+> <p>- Elizabeth Kenny</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
