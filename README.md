@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+> Technology is teaching us to be human again.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Simon Mainwaring</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
