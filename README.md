@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> Unless one is able to live fully in the present, the future is a hoax.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
