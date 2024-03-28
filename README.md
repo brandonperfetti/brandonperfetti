@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship is certainly the finest balm for the pangs of disappointed love.
+> If you smile when no one else is around, you really mean it.
 >
-> <p>- Jane Austen</p>
+> <p>- Andy Rooney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
