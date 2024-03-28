@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
+> Friendship is certainly the finest balm for the pangs of disappointed love.
 >
-> <p>- Woody Allen</p>
+> <p>- Jane Austen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
