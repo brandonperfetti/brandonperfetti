@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The differences between friends cannot but reinforce their friendship.
+> Honesty is the best policy.
 >
-> <p>- Mao Zedong</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
