@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You are always free to change your mind and choose a different future, or a different past.
+> The gambling known as business looks with austere disfavor upon the business known as gambling.
 >
-> <p>- Richard Bach</p>
+> <p>- Ambrose Bierce</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
