@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A man cannot be said to succeed in this life who does not satisfy one friend.
+> All truths are easy to understand once they are discovered; the point is to discover them.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Galileo Galilei</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
