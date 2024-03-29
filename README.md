@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
 >
-> <p>- Stephen Covey</p>
+> <p>- Archimedes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
