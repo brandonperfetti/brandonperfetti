@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
+> The world makes way for the man who knows where he is going.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
