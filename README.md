@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love, friendship and respect do not unite people as much as a common hatred for something.
+> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Denis Waitley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
