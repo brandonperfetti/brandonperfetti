@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Perfection of means and confusion of ends seems to characterize our age.
+> Beware lest you lose the substance by grasping at the shadow.
 >
-> <p>- Albert Einstein</p>
+> <p>- Aesop</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
