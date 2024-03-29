@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Where all think alike, no one thinks very much.
+> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Julie Morgenstern</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
