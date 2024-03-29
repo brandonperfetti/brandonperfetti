@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
 >
-> <p>- John Muir</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
