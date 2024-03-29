@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There never was a good knife made of bad steel.
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
