@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
+> Our work is the presentation of our capabilities.
 >
-> <p>- Denis Waitley</p>
+> <p>- Edward Gibbon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
