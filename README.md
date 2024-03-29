@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Our work is the presentation of our capabilities.
+> Where all think alike, no one thinks very much.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Walter Lippmann</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
