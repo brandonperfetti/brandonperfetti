@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
+> One fails forward toward success.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Charles F. Kettering</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
