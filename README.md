@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
+> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
 >
-> <p>- Julie Morgenstern</p>
+> <p>- Edmund Burke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
