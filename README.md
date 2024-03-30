@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
+> Error is discipline through which we advance.
 >
-> <p>- Chanakya</p>
+> <p>- William Ellery Channing</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
