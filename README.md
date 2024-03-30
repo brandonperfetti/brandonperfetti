@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A garden is always a series of losses set against a few triumphs, like life itself.
+> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
 >
-> <p>- May Sarton</p>
+> <p>- Babatunde Olatunji</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
