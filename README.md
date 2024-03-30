@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Error is discipline through which we advance.
+> All things must come to the soul from its roots, from where it is planted.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Teresa of Ávila</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
