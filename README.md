@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> True knowledge exists in knowing that you know nothing.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Isocrates</p>
+> <p>- Toni Morrison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
