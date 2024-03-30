@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Keep silence for the most part, and speak only when you must, and then briefly.
+> Your worst enemy cannot harm you as much as your own unguarded thoughts.
 >
-> <p>- Epictetus</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
