@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
+> I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Victoria Osteen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
