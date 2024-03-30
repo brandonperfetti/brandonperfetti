@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
+> The longer we dwell on our misfortunes, the greater is their power to harm us.
 >
-> <p>- Will Durant</p>
+> <p>- Voltaire</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
