@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you surrender to the wind, you can ride it.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Toni Morrison</p>
+> <p>- May Sarton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
