@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
+> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
 >
-> <p>- William Shakespeare</p>
+> <p>- Will Durant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
