@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> You can't shake hands with a clenched fist.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- Indira Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
