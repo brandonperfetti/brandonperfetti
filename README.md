@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> Meaning is not what you start with but what you end up with.
 >
-> <p>- Isocrates</p>
+> <p>- Peter Elbow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
