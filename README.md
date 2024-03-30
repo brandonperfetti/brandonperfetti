@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
