@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Henri Bergson</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
