@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To get the full value of joy you must have someone to divide it with.
+> Whatever you do in life, surround yourself with smart people who'll argue with you.
 >
-> <p>- Mark Twain</p>
+> <p>- John Wooden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
