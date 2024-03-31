@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
+> The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
 >
-> <p>- Colin Powell</p>
+> <p>- Cecil B. DeMille</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
