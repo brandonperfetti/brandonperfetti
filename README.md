@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.
+> Fans don't boo nobodies.
 >
-> <p>- Bertrand Russell</p>
+> <p>- Reggie Jackson (basketball, born 1990)</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
