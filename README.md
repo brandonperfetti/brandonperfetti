@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Bertrand Russell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
