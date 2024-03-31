@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> More often than not, anger is actually an indication of weakness rather than of strength.
+> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
 >
-> <p>- Dalai Lama</p>
+> <p>- Colin Powell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
