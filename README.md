@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you don't like something, change it. If you can't change it, change your attitude.
+> I never see what has been done; I only see what remains to be done.
 >
-> <p>- Maya Angelou</p>
+> <p>- Marie Curie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
