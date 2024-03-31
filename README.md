@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Men are disturbed not by things, but by the view which they take of them.
+> Make it your habit not to be critical about small things.
 >
-> <p>- Epictetus</p>
+> <p>- Edward Everett Hale</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
