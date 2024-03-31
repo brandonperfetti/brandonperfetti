@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I never see what has been done; I only see what remains to be done.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Marie Curie</p>
+> <p>- Mortimer J. Adler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
