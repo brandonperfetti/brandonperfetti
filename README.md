@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Business, you know, may bring you money, but friendship hardly ever does.
+> More often than not, anger is actually an indication of weakness rather than of strength.
 >
-> <p>- Jane Austen</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
