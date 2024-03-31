@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Fans don't boo nobodies.
+> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
 >
-> <p>- Reggie Jackson (basketball, born 1990)</p>
+> <p>- Henri Bergson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
