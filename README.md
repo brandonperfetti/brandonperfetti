@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be yourself; everyone else is already taken.
+> It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Edward de Bono</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
