@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.
+> There is no way to happiness, happiness is the way.
 >
-> <p>- Woody Allen</p>
+> <p>- Thích Nhất Hạnh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
