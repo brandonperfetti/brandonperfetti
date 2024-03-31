@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> Men are disturbed not by things, but by the view which they take of them.
 >
-> <p>- Isocrates</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
