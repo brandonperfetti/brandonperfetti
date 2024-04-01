@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Communications tools don't get socially interesting until they get technologically boring.
+> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
 >
-> <p>- Clay Shirky</p>
+> <p>- Simone de Beauvoir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
