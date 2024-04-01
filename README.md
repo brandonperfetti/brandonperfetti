@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Step with care and great tact and remember that Life's a Great Balancing Act.
+> All wisdom does not reside in Delhi.
 >
-> <p>- Dr. Seuss</p>
+> <p>- P. Chidambaram</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
