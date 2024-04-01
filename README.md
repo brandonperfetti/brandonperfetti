@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Irony is the gaiety of reflection and the joy of wisdom.
+> The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
 >
-> <p>- Anatole France</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
