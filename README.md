@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The power of intuitive understanding will protect you from harm until the end of your days.
+> Step with care and great tact and remember that Life's a Great Balancing Act.
 >
-> <p>- Laozi</p>
+> <p>- Dr. Seuss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
