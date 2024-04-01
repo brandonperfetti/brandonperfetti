@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We know the truth, not only by the reason, but by the heart.
+> The power of intuitive understanding will protect you from harm until the end of your days.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
