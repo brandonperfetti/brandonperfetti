@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Watch the little things; a small leak will sink a great ship.
+> Even youngish men can acquire wisdom as time goes by.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- John Bercow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
