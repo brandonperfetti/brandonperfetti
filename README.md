@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Even youngish men can acquire wisdom as time goes by.
+> Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- John Bercow</p>
+> <p>- Ovid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
