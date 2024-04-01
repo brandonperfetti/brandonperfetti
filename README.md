@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Motivation is the art of getting people to do what you want them to do because they want to do it.
+> It takes courage to grow up and become who you really are.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- E. E. Cummings</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
