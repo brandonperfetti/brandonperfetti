@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
+> No alibi will save you from accepting the responsibility.
 >
-> <p>- Simone de Beauvoir</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
