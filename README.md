@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Love all, trust a few, do wrong to none.
+> Irony is the gaiety of reflection and the joy of wisdom.
 >
-> <p>- William Shakespeare</p>
+> <p>- Anatole France</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
