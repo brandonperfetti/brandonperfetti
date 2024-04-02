@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Those who cling to perceptions and views wander the world offending people.
+> A thing well said will be wit in all languages.
 >
-> <p>- The Buddha</p>
+> <p>- John Dryden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
