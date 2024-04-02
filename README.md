@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I walk slowly, but I never walk backward.
+> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- John Muir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
