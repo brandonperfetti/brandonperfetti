@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Life is a learning experience, only if you learn.
+> Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
 >
-> <p>- Yogi Berra</p>
+> <p>- Harriet Tubman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
