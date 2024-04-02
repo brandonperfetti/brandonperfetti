@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The young man knows the rules, but the old man knows the exceptions.
+> If you change the way you look at things, the things you look at change.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
