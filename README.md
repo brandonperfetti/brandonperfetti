@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
+> If the shoe doesn't fit, must we change the foot?
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Gloria Steinem</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
