@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+> If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Margaret Thatcher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
