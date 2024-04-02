@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
+> A friend in power is a friend lost.
 >
-> <p>- Aristotle</p>
+> <p>- Henry Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
