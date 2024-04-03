@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> He is no fool who gives what he cannot keep to gain what he cannot lose.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Jim Elliot</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
