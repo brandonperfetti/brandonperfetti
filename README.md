@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You can do it if you believe you can!
+> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Jean-Paul Sartre</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
