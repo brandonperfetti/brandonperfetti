@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It's only when the tide goes out that you discover who's been swimming naked.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Warren Buffett</p>
+> <p>- Aldous Huxley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
