@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A friend to all is a friend to none.
+> We choose our joys and sorrows long before we experience them.
 >
-> <p>- Aristotle</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
