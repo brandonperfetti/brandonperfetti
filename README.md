@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you realize there is nothing lacking, the whole world belongs to you.
+> It's only when the tide goes out that you discover who's been swimming naked.
 >
-> <p>- Laozi</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
