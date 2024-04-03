@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Whatever you do in life, surround yourself with smart people who'll argue with you.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- John Wooden</p>
+> <p>- Arthur Rubinstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
