@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
+> The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.
 >
-> <p>- Arthur Rubinstein</p>
+> <p>- Peter Abelard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
