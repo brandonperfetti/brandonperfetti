@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Norman Schwarzkopf</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
