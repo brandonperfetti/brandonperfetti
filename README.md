@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> To change one's life, start immediately, do it flamboyantly, no exceptions.
+> The energy of the mind is the essence of life.
 >
-> <p>- William James</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
