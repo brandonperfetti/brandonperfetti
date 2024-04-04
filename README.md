@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Where there is great love, there are always miracles.
+> We lost because we told ourselves we lost.
 >
-> <p>- Willa Cather</p>
+> <p>- Leo Tolstoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
