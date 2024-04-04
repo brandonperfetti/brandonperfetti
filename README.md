@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I know not age, nor weariness nor defeat.
+> The world is a book, and those who do not travel read only a page.
 >
-> <p>- Rose Kennedy</p>
+> <p>- Augustine of Hippo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
