@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The energy of the mind is the essence of life.
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- Aristotle</p>
+> <p>- Farhan Akhtar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
