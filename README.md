@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> The key is to keep company only with people who uplift you, whose presence calls forth your best.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
