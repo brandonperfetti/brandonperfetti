@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Imagination will often carry us to worlds that never were. But without it we go nowhere.
+> A thing well said will be wit in all languages.
 >
-> <p>- Carl Sagan</p>
+> <p>- John Dryden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
