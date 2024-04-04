@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Success is not final; failure is not fatal: it is the courage to continue that counts.
+> Where there is great love, there are always miracles.
 >
-> <p>- Winston Churchill</p>
+> <p>- Willa Cather</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
