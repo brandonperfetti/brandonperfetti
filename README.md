@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
+> I know not age, nor weariness nor defeat.
 >
-> <p>- Farhan Akhtar</p>
+> <p>- Rose Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
