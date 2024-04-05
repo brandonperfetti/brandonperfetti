@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- William Saroyan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
