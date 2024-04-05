@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Intuition will tell the thinking mind where to look next.
+> Wise men talk because they have something to say; fools, because they have to say something.
 >
-> <p>- Jonas Salk</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
