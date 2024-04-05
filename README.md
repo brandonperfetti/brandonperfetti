@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The invariable mark of wisdom is to see the miraculous in the common.
+> Correction does much, but encouragement does more.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
