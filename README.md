@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
+> What you do not want done to yourself, do not do to others.
 >
-> <p>- Bruce Lee</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
