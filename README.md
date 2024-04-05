@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What you do not want done to yourself, do not do to others.
+> If you spend too much time thinking about a thing, you'll never get it done.
 >
-> <p>- Confucius</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
