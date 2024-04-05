@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
+> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Søren Kierkegaard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
