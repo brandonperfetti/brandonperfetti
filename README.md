@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
+> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
