@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Wise men talk because they have something to say; fools, because they have to say something.
+> There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.
 >
-> <p>- Plato</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
