@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Experience keeps a dear school, but fools will learn in no other.
+> Nothing strengthens authority so much as silence.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
