@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> True knowledge exists in knowing that you know nothing.
+> Love is flower like; Friendship is like a sheltering tree.
 >
-> <p>- Isocrates</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
