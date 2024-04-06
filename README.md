@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> You win the victory when you yield to friends.
+> As a cure for worrying, work is better than whisky.
 >
-> <p>- Sophocles</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
