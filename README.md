@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you're changing the world, you're working on important things. You're excited to get up in the morning.
+> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
 >
-> <p>- Larry Page</p>
+> <p>- Dhammapada</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
