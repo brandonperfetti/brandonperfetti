@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> A prudent question is one half of wisdom.
+> You win the victory when you yield to friends.
 >
-> <p>- Francis Bacon</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
