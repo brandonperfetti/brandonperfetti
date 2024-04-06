@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> One must be fond of people and trust them if one is not to make a mess of life.
+> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
 >
-> <p>- E. M. Forster</p>
+> <p>- Peter Drucker</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
