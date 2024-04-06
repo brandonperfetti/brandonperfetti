@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
+> Either I will find a way, or I will make one.
 >
-> <p>- The Buddha</p>
+> <p>- Philip Sidney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
