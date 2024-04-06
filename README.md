@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Either I will find a way, or I will make one.
+> The more man meditates upon good thoughts, the better will be his world and the world at large.
 >
-> <p>- Philip Sidney</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
