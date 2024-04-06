@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you spend too much time thinking about a thing, you'll never get it done.
+> There is no greater harm than that of time wasted.
 >
-> <p>- Bruce Lee</p>
+> <p>- Michelangelo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
