@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The fewer rules a coach has, the fewer rules there are for players to break.
+> We lost because we told ourselves we lost.
 >
-> <p>- John Madden</p>
+> <p>- Leo Tolstoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
