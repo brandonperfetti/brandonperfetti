@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> The fewer rules a coach has, the fewer rules there are for players to break.
 >
-> <p>- Charles Dickens</p>
+> <p>- John Madden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
