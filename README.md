@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> It is fatal to enter any war without the will to win it.
+> If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself.
 >
-> <p>- Douglas MacArthur</p>
+> <p>- Rollo May</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
