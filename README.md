@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The more man meditates upon good thoughts, the better will be his world and the world at large.
+> There is a wisdom of the head, and a wisdom of the heart.
 >
-> <p>- Confucius</p>
+> <p>- Charles Dickens</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
