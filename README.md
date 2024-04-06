@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.
+> It is fatal to enter any war without the will to win it.
 >
-> <p>- The Buddha</p>
+> <p>- Douglas MacArthur</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
