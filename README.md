@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you will never be content with what you have.
+> The past has no power to stop you from being present now. Only your grievance about the past can do that.
 >
-> <p>- Doris Mortman</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
