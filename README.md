@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- Thomas à Kempis</p>
+> <p>- Anne Bradstreet</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
