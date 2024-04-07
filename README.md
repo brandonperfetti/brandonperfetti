@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- Og Mandino</p>
+> <p>- Doris Mortman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
