@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Every problem has a gift for you in its hands.
+> I will prepare and some day my chance will come.
 >
-> <p>- Richard Bach</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
