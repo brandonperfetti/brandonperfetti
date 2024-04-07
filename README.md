@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Faith in oneself is the best and safest course.
+> Love is the wisdom of the fool and the folly of the wise.
 >
-> <p>- Michelangelo</p>
+> <p>- Samuel Johnson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
