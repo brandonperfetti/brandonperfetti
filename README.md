@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> Excellence is to do a common thing in an uncommon way.
 >
-> <p>- Will Rogers</p>
+> <p>- Booker T. Washington</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
