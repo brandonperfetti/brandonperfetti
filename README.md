@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> Forgiveness is choosing to love. It is the first skill of self-giving love.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
