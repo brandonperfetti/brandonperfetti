@@ -82,7 +82,7 @@ SAAS applications. <br/>
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>
-<a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Senior-Technical-Consultant_24WD76267?locationCountry=bc33aa3152ec42d4995f4791a106ed09" alt="SQLite" height="50" /></a>
+<a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/48680494?v=4" alt="SQLite" height="50" /></a>
 <a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase" height="50" /></a>
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
 </div>
@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I will prepare and some day my chance will come.
+> Faith in oneself is the best and safest course.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Michelangelo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
