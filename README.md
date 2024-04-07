@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> The past has no power to stop you from being present now. Only your grievance about the past can do that.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Ovid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
