@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him.
+> I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Marilyn Monroe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
