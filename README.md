@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> How wonderful that we have met with a paradox. Now we have some hope of making progress.
+> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
 >
-> <p>- Niels Bohr</p>
+> <p>- Thomas à Kempis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
