@@ -20,8 +20,8 @@
 I am a software engineer with 10+ years of experience in developing enterprise
 SAAS applications. <br/>
 
-My auto-generated
-<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/brandonperfetti/brandonperfetti/master/docs/index.html">Resume</a>
+<!-- My auto-generated
+<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/brandonperfetti/brandonperfetti/master/docs/index.html">Resume</a> -->
 
 ### My Skill Set
 
