@@ -20,8 +20,8 @@
 I am a software engineer with 10+ years of experience in developing enterprise
 SAAS applications. <br/>
 
-My auto-generated
-<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/brandonperfetti/brandonperfetti/master/docs/index.html">Resume</a>
+<!-- My auto-generated
+<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/brandonperfetti/brandonperfetti/master/docs/index.html">Resume</a> -->
 
 ### My Skill Set
 
@@ -33,8 +33,8 @@ My auto-generated
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://eslint.org/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/eslint-VPOTK7W4.svg" alt="ESLint" height="50" /></a>
-<a href="https://fakerjs.dev/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/faker-OAT6X3K3.svg" alt="Faker.js" height="50" /></a>
+<a href="https://eslint.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6019716?s=200&v=4" alt="ESLint" height="50" /></a>
+<a href="https://fakerjs.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/97165289?s=200&v=4" alt="Faker.js" height="50" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 <a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" /></a>
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
@@ -43,25 +43,25 @@ My auto-generated
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-<a href="https://mswjs.io/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/msw-WSUAYRZN.svg" alt="MSW" height="50" /></a>
+<a href="https://mswjs.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/64637271?s=200&v=4" alt="MSW" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
-<a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/playwright-JNNUWCNI.svg" alt="Playwright" height="50" /></a>
-<a href="https://prettier.io/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/prettier-NMKTJYDI.svg" alt="Prettier" height="50" /></a>
+<a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="50" /></a>
+<a href="https://prettier.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" alt="Prettier" height="50" /></a>
 <a href="https://www.radix-ui.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/75042455?v=4" alt="Radix UI" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
 <a href="https://remix.run/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Remix" height="50" /></a>
-<a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/shadcn-ui-EH6IJCJT.svg" alt="shadcn/ui" height="50" /></a>
+<a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" height="50" /></a>
 <a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/22632046?s=48&v=4" alt="Storybook" height="50" /></a>
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/testing-library-NGURR4WR.png" alt="Testing Library" height="50" /></a>
+<a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="Testing Library" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/65625612?s=64&v=4" alt="Vite" height="50" /></a>
-<a href="https://vitest.dev/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/vitest-MBMTIYCC.svg" alt="Vitest" height="50" /></a>
+<a href="https://vitest.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/95747107?s=200&v=4" alt="Vitest" height="50" /></a>
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6128107?s=48&v=4" alt="Vue.js" height="50" /></a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
-<a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://epicstack.dev/build/_assets/zod-3ONWVJM7.svg" alt="Zod" height="50" /></a>
+<a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/colinhacks/zod/raw/master/logo.svg" alt="Zod" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you'll never be content with what you have.
+> True friendship ought never to conceal what it thinks.
 >
-> <p>- Doris Mortman</p>
+> <p>- Jerome</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
