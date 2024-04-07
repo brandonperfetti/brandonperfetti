@@ -178,9 +178,9 @@ My auto-generated
 
 ### 📣 How about a quote before you go?
 
-> Believe you can and you're halfway there.
+> Until you make peace with who you are, you'll never be content with what you have.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Doris Mortman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
