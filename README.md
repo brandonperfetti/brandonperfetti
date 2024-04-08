@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> I have done my best: that is about all the philosophy of living one needs.
 >
-> <p>- Laozi</p>
+> <p>- Lin Yutang</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
