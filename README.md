@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.
+> Love is a serious mental disease.
 >
-> <p>- Wayne Gretzky</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
