@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
