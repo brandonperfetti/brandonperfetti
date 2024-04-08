@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To get the full value of joy you must have someone to divide it with.
+> Never promise more than you can perform.
 >
-> <p>- Mark Twain</p>
+> <p>- Publilius Syrus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
