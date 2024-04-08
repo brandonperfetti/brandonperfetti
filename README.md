@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.
+> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
 >
-> <p>- Winston Churchill</p>
+> <p>- Chanakya</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
