@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.
+> Of all possessions a friend is the most precious.
 >
-> <p>- The Buddha</p>
+> <p>- Herodotus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
