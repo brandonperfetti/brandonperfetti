@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is composed of a single soul inhabiting two bodies.
+> Friendship is essentially a partnership.
 >
 > <p>- Aristotle</p>
 
