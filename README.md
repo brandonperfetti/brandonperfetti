@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
+> Knowledge speaks, but wisdom listens.
 >
-> <p>- Dan Gable</p>
+> <p>- Jimi Hendrix</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
