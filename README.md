@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have done my best: that is about all the philosophy of living one needs.
+> We must become the change we want to see.
 >
-> <p>- Lin Yutang</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
