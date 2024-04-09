@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best way to pay for a lovely moment is to enjoy it.
+> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
 >
-> <p>- Richard Bach</p>
+> <p>- Mia Hamm</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
