@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never explain - your friends do not need it and your enemies will not believe you anyway.
+> Imagination rules the world.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Napoleon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
