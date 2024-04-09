@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> The two most powerful warriors are patience and time.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- Leo Tolstoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
