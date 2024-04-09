@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A man's growth is seen in the successive choirs of his friends
+> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
 >
 > <p>- Ralph Waldo Emerson</p>
 
