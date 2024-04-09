@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
+> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- William Penn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
