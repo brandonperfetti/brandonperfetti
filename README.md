@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
+> Pick battles big enough to matter, small enough to win.
 >
-> <p>- Mia Hamm</p>
+> <p>- Jonathan Kozol</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
