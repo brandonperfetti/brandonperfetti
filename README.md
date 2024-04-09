@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> Life is what you make of it. Always has been, always will be.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Grandma Moses</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
