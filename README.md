@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The energy of the mind is the essence of life.
+> The best way to pay for a lovely moment is to enjoy it.
 >
-> <p>- Aristotle</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
