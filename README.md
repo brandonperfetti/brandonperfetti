@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
+> The language of friendship is not words but meanings.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
