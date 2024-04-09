@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The language of friendship is not words but meanings.
+> Never explain - your friends do not need it and your enemies will not believe you anyway.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
