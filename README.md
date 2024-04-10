@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I want you to be everything that's you, deep at the center of your being.
+> Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
 >
-> <p>- Confucius</p>
+> <p>- Thomas à Kempis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
