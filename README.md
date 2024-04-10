@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Winners never quit and quitters never win.
+> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Everett Dirksen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
