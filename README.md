@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I am a man of fixed and unbending principles, the first of which is to be flexible at all times.
+> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
 >
-> <p>- Everett Dirksen</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
