@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Being entirely honest with oneself is a good exercise.
+> The great myth of our times is that technology is communication.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Libby Larsen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
