@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+> Blessed is the man who expects nothing, for he shall never be disappointed.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Alexander Pope</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
