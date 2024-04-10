@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Happiness often sneaks in through a door you didn't know you left open.
+> Short words are best and the old words when short are best of all.
 >
-> <p>- John Barrymore</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
