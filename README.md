@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Short words are best and the old words when short are best of all.
+> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
 >
-> <p>- Winston Churchill</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
