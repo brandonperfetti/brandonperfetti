@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It's not what you look at that matters, it's what you see.
+> Winners never quit and quitters never win.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Vince Lombardi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
