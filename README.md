@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
+> Change is the law of life. And those who look only to the past or present are certain to miss the future.
 >
-> <p>- Albert Camus</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
