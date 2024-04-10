@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The great myth of our times is that technology is communication.
+> Happiness often sneaks in through a door you didn't know you left open.
 >
-> <p>- Libby Larsen</p>
+> <p>- John Barrymore</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
