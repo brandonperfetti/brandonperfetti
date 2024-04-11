@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is the mark of an educated mind to be able to entertain a thought without accepting it.
+> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
 >
-> <p>- Aristotle</p>
+> <p>- Doug Larson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
