@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Everything in the universe goes by indirection. There are no straight lines.
+> The most formidable weapon against errors of every kind is reason.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thomas Paine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
