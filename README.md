@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The secret of success is constancy to purpose.
+> Everything in the universe goes by indirection. There are no straight lines.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
