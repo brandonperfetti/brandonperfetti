@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
+> Those who dream by day are cognizant of many things which escape those who dream only by night.
 >
-> <p>- Ovid</p>
+> <p>- Edgar Allan Poe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
