@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Problems are only opportunities with thorns on them.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Hugh Miller</p>
+> <p>- John Locke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
