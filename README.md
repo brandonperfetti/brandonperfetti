@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Those who dream by day are cognizant of many things which escape those who dream only by night.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- Edgar Allan Poe</p>
+> <p>- Judy Garland</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
