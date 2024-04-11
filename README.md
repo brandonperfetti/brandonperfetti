@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Ovid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
