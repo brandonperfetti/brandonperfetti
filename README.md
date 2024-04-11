@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> It is the mark of an educated mind to be able to entertain a thought without accepting it.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
