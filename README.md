@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only real mistake is the one from which we learn nothing.
+> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
 >
-> <p>- John Powell</p>
+> <p>- Don DeLillo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
