@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To find a man's true character, play golf with him.
+> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 >
-> <p>- P. G. Wodehouse</p>
+> <p>- Barack Obama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
