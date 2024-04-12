@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
+> The best way out is always through.
 >
-> <p>- Laozi</p>
+> <p>- Robert Frost</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
