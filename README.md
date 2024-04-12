@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
+> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
 >
-> <p>- Holly Near</p>
+> <p>- Lisa Alther</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
