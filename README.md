@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+> To find a man's true character, play golf with him.
 >
-> <p>- John Muir</p>
+> <p>- P. G. Wodehouse</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
