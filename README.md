@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I believe that we are fundamentally the same and have the same basic potential.
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 >
-> <p>- Dalai Lama</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
