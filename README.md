@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
+> You give before you get.
 >
-> <p>- Paul Theroux</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
