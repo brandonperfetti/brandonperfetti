@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> We must not say every mistake is a foolish one.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
