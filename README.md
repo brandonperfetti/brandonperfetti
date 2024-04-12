@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The three great essentials to achieve anything worthwhile are: Hard work, Stick-to-itiveness, and Common sense.
+> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
 >
-> <p>- Thomas Edison</p>
+> <p>- John Muir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
