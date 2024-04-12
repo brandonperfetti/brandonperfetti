@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You give before you get.
+> Fortune befriends the bold.
 >
-> <p>- Napoleon Hill</p>
+> <p>- John Dryden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
