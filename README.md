@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+> I believe that we are fundamentally the same and have the same basic potential.
 >
-> <p>- Barack Obama</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
