@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best way out is always through.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Robert Frost</p>
+> <p>- Edward Gibbon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
