@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
+> The higher we are placed, the more humbly we should walk.
 >
-> <p>- Winston Churchill</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
