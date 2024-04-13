@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+> Life shrinks or expands in proportion to one's courage.
 >
-> <p>- Aristotle</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
