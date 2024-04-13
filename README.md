@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
+> All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
 >
-> <p>- Elizabeth Arden</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
