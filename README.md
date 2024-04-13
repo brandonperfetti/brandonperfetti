@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
+> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
 >
-> <p>- William Saroyan</p>
+> <p>- William C. Menninger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
