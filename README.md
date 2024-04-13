@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
+> Respect should be earned by actions, and not acquired by years.
 >
-> <p>- Charles Darwin</p>
+> <p>- Frank Lloyd Wright</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
