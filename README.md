@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you are content to be simply yourself and don't compare or compete, everybody will respect you.
+> Light tomorrow with today!
 >
-> <p>- Laozi</p>
+> <p>- Elizabeth Browning</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
