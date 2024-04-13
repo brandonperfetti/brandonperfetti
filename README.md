@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not uncommon for people to spend their whole life waiting to start living.
+> To improve is to change; to be perfect is to change often.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
