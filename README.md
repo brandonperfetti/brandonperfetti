@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Action is eloquence.
+> A good decision is based on knowledge and not on numbers.
 >
-> <p>- William Shakespeare</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
