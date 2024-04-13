@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population.
+> The art challenges the technology, and the technology inspires the art.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Lasseter</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
