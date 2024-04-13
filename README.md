@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life shrinks or expands in proportion to one's courage.
+> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Charles Darwin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
