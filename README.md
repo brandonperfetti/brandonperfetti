@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never apologize for showing feeling. When you do so, you apologize for truth.
+> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- William Saroyan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
