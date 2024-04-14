@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude.
+> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
 >
-> <p>- Colin Powell</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
