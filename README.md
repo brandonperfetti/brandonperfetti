@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> How wonderful it is that nobody need wait a single moment before starting to improve the world.
+> Ability will never catch up with the demand for it.
 >
-> <p>- Anne Frank</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
