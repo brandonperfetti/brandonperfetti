@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not uncommon for people to spend their whole life waiting to start living.
+> I never think of the future. It comes soon enough.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
