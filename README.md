@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
+> How wonderful it is that nobody need wait a single moment before starting to improve the world.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Anne Frank</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
