@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have never been hurt by anything I didn't say.
+> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
