@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I never think of the future. It comes soon enough.
+> If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude.
 >
-> <p>- Albert Einstein</p>
+> <p>- Colin Powell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
