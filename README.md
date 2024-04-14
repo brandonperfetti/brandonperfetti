@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> When fate hands us a lemon, let's try to make lemonade.
 >
-> <p>- Lewis Cass</p>
+> <p>- Dale Carnegie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
