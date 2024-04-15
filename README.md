@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A creative man is motivated by the desire to achieve, not by the desire to beat others.
+> You can't win unless you learn how to lose.
 >
-> <p>- Ayn Rand</p>
+> <p>- Kareem Abdul-Jabbar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
