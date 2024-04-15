@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
 >
-> <p>- John F. Kennedy</p>
+> <p>- John Quincy Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
