@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> Things turn out best for those who make the best of the way things turn out.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Jack Buck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
