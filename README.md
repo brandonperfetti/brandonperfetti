@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
+> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
 >
-> <p>- Nikola Tesla</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
