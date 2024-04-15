@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+> A creative man is motivated by the desire to achieve, not by the desire to beat others.
 >
-> <p>- John Quincy Adams</p>
+> <p>- Ayn Rand</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
