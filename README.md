@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Things turn out best for those who make the best of the way things turn out.
+> The truth you believe and cling to makes you unavailable to hear anything new.
 >
-> <p>- Jack Buck</p>
+> <p>- Pema Chödrön</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
