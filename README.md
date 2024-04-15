@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Applause is a receipt, not a bill.
+> It isn't where you come from, it's where you're going that counts.
 >
-> <p>- Dale Carnegie</p>
+> <p>- Ella Fitzgerald</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
