@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Each day provides its own gifts.
+> Step with care and great tact and remember that Life's a Great Balancing Act.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Dr. Seuss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
