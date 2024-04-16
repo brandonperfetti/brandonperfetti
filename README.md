@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
 >
-> <p>- Henry Miller</p>
+> <p>- Montesquieu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
