@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have always found that mercy bears richer fruits than strict justice.
+> Be kind whenever possible. It is always possible.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
