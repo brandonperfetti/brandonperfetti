@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Technology… the knack of so arranging the world that we don't have to experience it.
+> Wisdom has never made a bigot, but learning has.
 >
-> <p>- Max Frisch</p>
+> <p>- Josh Billings</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
