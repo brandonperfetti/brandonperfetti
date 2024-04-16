@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When times are bad is when the real entrepreneurs emerge.
+> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
 >
-> <p>- Robert Kiyosaki</p>
+> <p>- Anne Lindbergh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
