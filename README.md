@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Make it your habit not to be critical about small things.
+> Fortune befriends the bold.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- John Dryden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
