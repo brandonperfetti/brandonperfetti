@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No man is free who is not master of himself.
+> If you find yourself in a hole, the first thing to do is stop digging.
 >
-> <p>- Epictetus</p>
+> <p>- Will Rogers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
