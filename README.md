@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply!
+> Never deny a diagnosis but do deny the negative verdict that may go with it.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Norman Cousins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
