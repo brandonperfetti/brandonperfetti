@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Having nothing, nothing can he lose.
+> When times are bad is when the real entrepreneurs emerge.
 >
-> <p>- William Shakespeare</p>
+> <p>- Robert Kiyosaki</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
