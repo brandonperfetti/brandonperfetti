@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
+> Those who will play with cats must expect to be scratched.
 >
-> <p>- Jessamyn West</p>
+> <p>- Miguel de Cervantes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
