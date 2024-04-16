@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
 >
-> <p>- Mother Teresa</p>
+> <p>- Jessamyn West</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
