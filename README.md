@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
+> Make it your habit not to be critical about small things.
 >
-> <p>- Dalai Lama</p>
+> <p>- Edward Everett Hale</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
