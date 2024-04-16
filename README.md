@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Those who will play with cats must expect to be scratched.
+> Having nothing, nothing can he lose.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
