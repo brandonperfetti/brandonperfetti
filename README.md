@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have done my best: that is about all the philosophy of living one needs.
+> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
 >
-> <p>- Lin Yutang</p>
+> <p>- Caroline Myss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
