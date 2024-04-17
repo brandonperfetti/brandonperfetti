@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best preparation for tomorrow is doing your best today.
+> Beware of missing chances; otherwise it may be altogether too late someday.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Franz Liszt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
