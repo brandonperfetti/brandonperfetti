@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
+> Friendship brings in a lot of honesty and trust into any relationship, especially a marriage.
 >
-> <p>- Eustace Budgell</p>
+> <p>- Farhan Akhtar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
