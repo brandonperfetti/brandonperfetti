@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No one can make you feel inferior without your consent.
+> I have done my best: that is about all the philosophy of living one needs.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Lin Yutang</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
