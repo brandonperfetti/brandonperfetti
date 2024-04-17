@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Beware of missing chances; otherwise it may be altogether too late someday.
+> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
 >
-> <p>- Franz Liszt</p>
+> <p>- Chanakya</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
