@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't settle for a relationship that won't let you be yourself.
+> To see things in the seed, that is genius.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
