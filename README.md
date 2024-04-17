@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Your sacred space is where you can find yourself again and again.
+> The minute you settle for less than you deserve, you get even less than you settled for.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Maureen Dowd</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
