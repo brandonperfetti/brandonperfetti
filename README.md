@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is found only in truth.
+> Success is not final; failure is not fatal: it is the courage to continue that counts.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
