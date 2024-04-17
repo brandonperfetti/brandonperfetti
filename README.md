@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> Your sacred space is where you can find yourself again and again.
 >
-> <p>- William Hazlitt</p>
+> <p>- Joseph Campbell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
