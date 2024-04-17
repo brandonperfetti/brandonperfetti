@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Finding good players is easy. Getting them to play as a team is another story.
+> He who knows, does not speak. He who speaks, does not know.
 >
-> <p>- Casey Stengel</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
