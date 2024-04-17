@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
+> Finding good players is easy. Getting them to play as a team is another story.
 >
-> <p>- Chanakya</p>
+> <p>- Casey Stengel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
