@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float.
+> Just as much as we see in others, we have in ourselves.
 >
-> <p>- Alan Watts</p>
+> <p>- William Hazlitt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
