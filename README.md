@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You are never given a wish without also being given the power to make it come true. You may have to work for it, however.
+> Don't settle for a relationship that won't let you be yourself.
 >
-> <p>- Richard Bach</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
