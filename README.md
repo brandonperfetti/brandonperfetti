@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Eternal nothingness is fine if you happen to be dressed for it.
+> What you do today can improve all your tomorrows.
 >
-> <p>- Woody Allen</p>
+> <p>- Ralph Marston</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
