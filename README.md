@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who fears being conquered is sure of defeat.
+> Our intention creates our reality.
 >
-> <p>- Napoleon</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
