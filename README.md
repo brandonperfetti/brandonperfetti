@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What you do today can improve all your tomorrows.
+> Get busy living or get busy dying.
 >
-> <p>- Ralph Marston</p>
+> <p>- Stephen King</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
