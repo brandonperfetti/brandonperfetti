@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Get busy living or get busy dying.
+> We are stuck with technology when what we really want is just stuff that works.
 >
-> <p>- Stephen King</p>
+> <p>- Douglas Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
