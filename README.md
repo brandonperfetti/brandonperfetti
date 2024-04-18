@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> If you don't know where you are going, you will probably end up somewhere else.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Laurence J. Peter</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
