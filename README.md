@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The bird of paradise alights only upon the hand that does not grasp.
+> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
 >
-> <p>- John Berry</p>
+> <p>- Walter Lippmann</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
