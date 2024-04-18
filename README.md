@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+> Eternal nothingness is fine if you happen to be dressed for it.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
