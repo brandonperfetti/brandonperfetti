@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> Always seek out the seed of triumph in every adversity.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Og Mandino</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
