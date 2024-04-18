@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.
+> If you're changing the world, you're working on important things. You're excited to get up in the morning.
 >
-> <p>- Woodrow Wilson</p>
+> <p>- Larry Page</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
