@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
+> To be tested is good. The challenged life may be the best therapist.
 >
-> <p>- The Buddha</p>
+> <p>- Gail Sheehy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
