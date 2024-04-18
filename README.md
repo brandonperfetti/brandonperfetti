@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who knows, does not speak. He who speaks, does not know.
+> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
 >
-> <p>- Laozi</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
