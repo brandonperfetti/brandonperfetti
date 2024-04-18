@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you're changing the world, you're working on important things. You're excited to get up in the morning.
+> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
 >
-> <p>- Larry Page</p>
+> <p>- G. K. Chesterton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
