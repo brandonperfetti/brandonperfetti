@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A noble one produces an abundance of merit by having a compassionate mind towards all living beings.
+> To fly as fast as thought, you must begin by knowing that you have already arrived.
 >
-> <p>- The Buddha</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
