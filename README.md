@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is composed of a single soul inhabiting two bodies.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- Aristotle</p>
+> <p>- John Astin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
