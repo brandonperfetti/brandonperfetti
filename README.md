@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A garden is always a series of losses set against a few triumphs, like life itself.
+> One may say the eternal mystery of the world is its comprehensibility.
 >
-> <p>- May Sarton</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
