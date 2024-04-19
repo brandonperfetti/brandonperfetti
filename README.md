@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A hero is no braver than an ordinary man, but he is braver five minutes longer.
+> The deepest craving of human nature is the need to be appreciated.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- William James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
