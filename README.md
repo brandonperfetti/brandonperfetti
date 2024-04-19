@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In the middle of every difficulty lies opportunity.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- Albert Einstein</p>
+> <p>- Theodore Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
