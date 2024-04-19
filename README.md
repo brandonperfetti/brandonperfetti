@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are three faithful friends - an old wife, an old dog, and ready money.
+> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Arthur M. Schlesinger Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
