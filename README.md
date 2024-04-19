@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
+> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
 >
-> <p>- Dalai Lama</p>
+> <p>- Joan Rivers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
