@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
+> Without some goals and some efforts to reach it, no man can live.
 >
-> <p>- John Astin</p>
+> <p>- John Dewey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
