@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is movement-we breathe, we eat, we walk, we move!
+> Nothing in life is so exhilarating as to be shot at without result.
 >
-> <p>- John Pierrakos</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
