@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nothing in life is so exhilarating as to be shot at without result.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Winston Churchill</p>
+> <p>- May Sarton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
