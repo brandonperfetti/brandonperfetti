@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you focus on results, you will never change. If you focus on change, you will get results.
+> Life is movement-we breathe, we eat, we walk, we move!
 >
-> <p>- Jack Dixon</p>
+> <p>- John Pierrakos</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
