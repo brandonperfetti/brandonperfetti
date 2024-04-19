@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One may say the eternal mystery of the world is its comprehensibility.
+> Love is composed of a single soul inhabiting two bodies.
 >
-> <p>- Albert Einstein</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
