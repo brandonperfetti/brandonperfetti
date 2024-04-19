@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Ideas pull the trigger, but instinct loads the gun.
+> In the middle of every difficulty lies opportunity.
 >
-> <p>- Don Marquis</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
