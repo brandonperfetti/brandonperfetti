@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have done my best: that is about all the philosophy of living one needs.
+> No snowflake in an avalanche ever feels responsible.
 >
-> <p>- Lin Yutang</p>
+> <p>- Voltaire</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
