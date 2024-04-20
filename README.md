@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We must never forget that it is through our actions, words, and thoughts that we have a choice.
+> I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
 >
-> <p>- Sogyal Rinpoche</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
