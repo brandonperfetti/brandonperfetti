@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship at first sight, like love at first sight, is said to be the only truth.
+> The differences between friends cannot but reinforce their friendship.
 >
-> <p>- Herman Melville</p>
+> <p>- Mao Zedong</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
