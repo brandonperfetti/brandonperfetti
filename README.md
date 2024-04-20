@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No snowflake in an avalanche ever feels responsible.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Voltaire</p>
+> <p>- Torquato Tasso</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
