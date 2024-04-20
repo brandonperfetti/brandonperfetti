@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+> Our passion is our strength.
 >
-> <p>- Sophocles</p>
+> <p>- Billie Armstrong</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
