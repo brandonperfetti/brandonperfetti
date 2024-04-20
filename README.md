@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
