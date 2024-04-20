@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We must not allow ourselves to become like the system we oppose.
+> I have done my best: that is about all the philosophy of living one needs.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Lin Yutang</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
