@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such fabulous arabesque of nerves as the brain can experience itself anything less than a god.
+> Friendship at first sight, like love at first sight, is said to be the only truth.
 >
-> <p>- Alan Watts</p>
+> <p>- Herman Melville</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
