@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> We must never forget that it is through our actions, words, and thoughts that we have a choice.
 >
-> <p>- William Hazlitt</p>
+> <p>- Sogyal Rinpoche</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
