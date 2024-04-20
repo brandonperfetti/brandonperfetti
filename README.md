@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- Anne Lindbergh</p>
+> <p>- William Sloane Coffin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
