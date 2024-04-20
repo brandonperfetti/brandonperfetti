@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
+> A good plan violently executed now is better than a perfect plan executed next week.
 >
-> <p>- Torquato Tasso</p>
+> <p>- George S. Patton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
