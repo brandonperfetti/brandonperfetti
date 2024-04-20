@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
+> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
 >
-> <p>- Isocrates</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
