@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The differences between friends cannot but reinforce their friendship.
+> I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
 >
-> <p>- Mao Zedong</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
