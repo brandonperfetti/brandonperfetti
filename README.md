@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Hope arouses, as nothing else can arouse, a passion for the possible.
+> No one has ever become poor by giving.
 >
-> <p>- William Sloane Coffin</p>
+> <p>- Anne Frank</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
