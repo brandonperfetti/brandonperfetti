@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Positive thinking will let you do everything better than negative thinking will.
+> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
