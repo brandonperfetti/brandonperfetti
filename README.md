@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Short words are best and the old words when short are best of all.
+> Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.
 >
-> <p>- Winston Churchill</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
