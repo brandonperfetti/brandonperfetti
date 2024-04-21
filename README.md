@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is good even for old men to learn wisdom.
+> Short words are best and the old words when short are best of all.
 >
-> <p>- Aeschylus</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
