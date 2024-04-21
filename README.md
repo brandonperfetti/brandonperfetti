@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Blessed are the hearts that can bend; they shall never be broken.
+> If you change the way you look at things, the things you look at change.
 >
-> <p>- Albert Camus</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
