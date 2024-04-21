@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The beginning is always today.
+> Let the beauty of what you love be what you do.
 >
-> <p>- Mary Wollstonecraft</p>
+> <p>- Rumi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
