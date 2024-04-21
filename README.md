@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No man has a good enough memory to be a successful liar.
+> Positive thinking will let you do everything better than negative thinking will.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Zig Ziglar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
