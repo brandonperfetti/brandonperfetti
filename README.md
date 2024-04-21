@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is a very taxing and arduous form of leisure activity.
+> It is good even for old men to learn wisdom.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Aeschylus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
