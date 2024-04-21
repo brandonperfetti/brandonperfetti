@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Let the beauty of what you love be what you do.
+> There is only one success - to be able to spend your life in your own way.
 >
-> <p>- Rumi</p>
+> <p>- Christopher Morley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
