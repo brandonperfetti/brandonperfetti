@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Numberless are the worlds wonders, but none more wonderful than man.
+> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
 >
-> <p>- Sophocles</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
