@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
+> The beginning is always today.
 >
-> <p>- John Burroughs</p>
+> <p>- Mary Wollstonecraft</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
