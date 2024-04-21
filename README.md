@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
+> There is nothing on this earth more to be prized than true friendship.
 >
-> <p>- George Herbert</p>
+> <p>- Thomas Aquinas</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
