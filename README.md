@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Always be smarter than the people who hire you.
+> Study the past, if you would divine the future.
 >
-> <p>- Lena Horne</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
