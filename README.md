@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is the mark of an educated mind to be able to entertain a thought without accepting it.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- Aristotle</p>
+> <p>- Walter Inglis Anderson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
