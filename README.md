@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A friend is, as it were, a second self.
+> The only limit to your impact is your imagination and commitment.
 >
-> <p>- Cicero</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
