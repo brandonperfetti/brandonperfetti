@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One is not called noble who harms living beings. By not harming living beings one is called noble.
+> Opportunity often comes disguised in the form of misfortune, or temporary defeat.
 >
-> <p>- The Buddha</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
