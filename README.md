@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Only do what your heart tells you.
+> It is the mark of an educated mind to be able to entertain a thought without accepting it.
 >
-> <p>- Princess Diana</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
