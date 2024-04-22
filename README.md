@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only limit to your impact is your imagination and commitment.
+> One is not called noble who harms living beings. By not harming living beings one is called noble.
 >
-> <p>- Tony Robbins</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
