@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Make the most of yourself, for that is all there is of you.
+> The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alfred Tennyson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
