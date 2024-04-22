@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> A friend is, as it were, a second self.
 >
-> <p>- Paavo Nurmi</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
