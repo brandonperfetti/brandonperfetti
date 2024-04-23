@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love isn't something you find. Love is something that finds you.
+> It has long been an axiom of mine that the little things are infinitely the most important.
 >
-> <p>- Loretta Young</p>
+> <p>- Arthur Conan Doyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
