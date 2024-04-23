@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship without self-interest is one of the rare and beautiful things of life.
+> A hero is no braver than an ordinary man, but he is braver five minutes longer.
 >
-> <p>- James F. Byrnes</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
