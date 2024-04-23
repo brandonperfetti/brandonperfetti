@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A hero is no braver than an ordinary man, but he is braver five minutes longer.
+> Love isn't something you find. Love is something that finds you.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Loretta Young</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
