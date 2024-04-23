@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Better than a thousand hollow words, is one word that brings peace.
+> We do not quit playing because we grow old, we grow old because we quit playing.
 >
-> <p>- The Buddha</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
