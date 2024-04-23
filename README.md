@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not uncommon for people to spend their whole life waiting to start living.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Toni Morrison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
