@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We can change our lives. We can do, have, and be exactly what we wish.
+> One of the most beautiful qualities of true friendship is to understand and to be understood.
 >
-> <p>- Tony Robbins</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
