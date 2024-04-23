@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One of the most beautiful qualities of true friendship is to understand and to be understood.
+> You can't stop the waves, but you can learn to surf.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Jon Kabat-Zinn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
