@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> Friendship without self-interest is one of the rare and beautiful things of life.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- James F. Byrnes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
