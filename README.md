@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+> Successful people ask better questions, and as a result, they get better answers.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
