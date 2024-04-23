@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We do not quit playing because we grow old, we grow old because we quit playing.
+> It is not uncommon for people to spend their whole life waiting to start living.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
