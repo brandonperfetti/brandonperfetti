@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Decision is a risk rooted in the courage of being free.
+> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
 >
-> <p>- Paul Tillich</p>
+> <p>- M. Scott Peck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
