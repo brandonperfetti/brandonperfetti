@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It has long been an axiom of mine that the little things are infinitely the most important.
+> Kind words do not cost much. Yet they accomplish much.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Blaise Pascal</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
