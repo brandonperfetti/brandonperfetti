@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Happiness is found in doing, not merely possessing.
+> He who knows that enough is enough will always have enough.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
