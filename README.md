@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> The poor man is not he who is without a cent, but he who is without a dream.
 >
-> <p>- Laozi</p>
+> <p>- Harry Kemp</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
