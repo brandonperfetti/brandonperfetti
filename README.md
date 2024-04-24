@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
+> Half the lies they tell about me aren't true.
 >
-> <p>- Woodrow Wilson</p>
+> <p>- Yogi Berra</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
