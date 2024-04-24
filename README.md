@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I don't want to achieve immortality through my work... I want to achieve it through not dying.
+> No snowflake in an avalanche ever feels responsible.
 >
-> <p>- Woody Allen</p>
+> <p>- Voltaire</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
