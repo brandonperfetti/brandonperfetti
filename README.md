@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Setting goals is the first step in turning the invisible into the visible.
+> Change in all things is sweet.
 >
-> <p>- Tony Robbins</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
