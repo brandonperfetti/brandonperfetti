@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.
+> When I do good I feel good, when I do bad I feel bad, and that's my religion.
 >
 > <p>- Abraham Lincoln</p>
 
