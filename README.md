@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
+> If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.
 >
-> <p>- The Buddha</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
