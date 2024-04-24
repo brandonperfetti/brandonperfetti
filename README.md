@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Theodore Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
