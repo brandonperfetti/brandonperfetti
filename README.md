@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
+> A thing well said will be wit in all languages.
 >
-> <p>- Marilyn vos Savant</p>
+> <p>- John Dryden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
