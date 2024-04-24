@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The poor man is not he who is without a cent, but he who is without a dream.
+> To acquire knowledge, one must study; but to acquire wisdom, one must observe.
 >
-> <p>- Harry Kemp</p>
+> <p>- Marilyn vos Savant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
