@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
+> I don't want to achieve immortality through my work... I want to achieve it through not dying.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
