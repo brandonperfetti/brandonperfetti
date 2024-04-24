@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.
+> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
 >
-> <p>- Sophocles</p>
+> <p>- Woodrow Wilson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
