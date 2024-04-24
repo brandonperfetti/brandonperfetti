@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When I do good I feel good, when I do bad I feel bad, and that's my religion.
+> Setting goals is the first step in turning the invisible into the visible.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
