@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Half the lies they tell about me aren't true.
+> We have committed the Golden Rule to memory; let us now commit it to life.
 >
-> <p>- Yogi Berra</p>
+> <p>- Edwin Markham</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
