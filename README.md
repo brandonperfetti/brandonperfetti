@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
+> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Montesquieu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
