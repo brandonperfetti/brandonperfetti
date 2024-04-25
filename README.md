@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
 >
-> <p>- Mother Teresa</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
