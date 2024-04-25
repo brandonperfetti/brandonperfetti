@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our lives are a sum total of the choices we have made.
+> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
