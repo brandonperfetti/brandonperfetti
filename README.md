@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.
+> Always be smarter than the people who hire you.
 >
-> <p>- Og Mandino</p>
+> <p>- Lena Horne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
