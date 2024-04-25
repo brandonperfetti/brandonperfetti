@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The sum of wisdom is that time is never lost that is devoted to work.
+> Genius is one percent inspiration and ninety-nine percent perspiration.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
