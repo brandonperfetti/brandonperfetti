@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is the supreme part of happiness.
+> I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
 >
-> <p>- Sophocles</p>
+> <p>- G. K. Chesterton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
