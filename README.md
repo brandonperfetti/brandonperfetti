@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best argument against democracy is a five-minute conversation with the average voter.
+> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
 >
-> <p>- Winston Churchill</p>
+> <p>- Will Durant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
