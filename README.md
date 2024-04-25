@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+> May our hearts garden of awakening bloom with hundreds of flowers.
 >
-> <p>- Aristotle</p>
+> <p>- Thích Nhất Hạnh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
