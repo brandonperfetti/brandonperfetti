@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is never too late to be what you might have been.
+> I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
 >
-> <p>- George Eliot</p>
+> <p>- Kurt Vonnegut</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
