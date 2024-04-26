@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The supreme art of war is to subdue the enemy without fighting.
+> I am an optimist. It does not seem too much use being anything else.
 >
-> <p>- Sun Tzu</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
