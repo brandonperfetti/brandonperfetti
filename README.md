@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world.
+> Build a better mousetrap and the world will beat a path to your door.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
