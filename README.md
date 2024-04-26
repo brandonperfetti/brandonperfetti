@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A person who never made a mistake never tried anything new.
+> God has given you one face, and you make yourself another.
 >
-> <p>- Albert Einstein</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
