@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+> A person who never made a mistake never tried anything new.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
