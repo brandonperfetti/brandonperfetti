@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be kind whenever possible. It is always possible.
+> Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
 >
-> <p>- Dalai Lama</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
