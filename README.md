@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Build a better mousetrap and the world will beat a path to your door.
+> In life, all good things come hard, but wisdom is the hardest to come by.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Lucille Ball</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
