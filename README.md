@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
+> The supreme art of war is to subdue the enemy without fighting.
 >
-> <p>- Woodrow Wilson</p>
+> <p>- Sun Tzu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
