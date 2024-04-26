@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Action may not always bring happiness; but there is no happiness without action.
+> Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Woodrow Wilson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
