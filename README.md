@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I am an optimist. It does not seem too much use being anything else.
+> It is never too late to be what you might have been.
 >
-> <p>- Winston Churchill</p>
+> <p>- George Eliot</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
