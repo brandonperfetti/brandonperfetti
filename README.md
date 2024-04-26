@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nobody made a greater mistake than he who did nothing because he could do only a little.
+> It is impossible to experience one's death objectively and still carry a tune.
 >
-> <p>- Edmund Burke</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
