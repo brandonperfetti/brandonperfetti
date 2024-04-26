@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only real valuable thing is intuition.
+> All action results from thought, so it is thoughts that matter.
 >
-> <p>- Albert Einstein</p>
+> <p>- Sai Baba</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
