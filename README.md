@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All action results from thought, so it is thoughts that matter.
+> Be kind whenever possible. It is always possible.
 >
-> <p>- Sai Baba</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
