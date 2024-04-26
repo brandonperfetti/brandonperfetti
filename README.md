@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In life, all good things come hard, but wisdom is the hardest to come by.
+> To fly, we have to have resistance.
 >
-> <p>- Lucille Ball</p>
+> <p>- Maya Lin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
