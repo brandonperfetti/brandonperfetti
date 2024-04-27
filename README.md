@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
+> It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
 >
-> <p>- Nora Roberts</p>
+> <p>- Mignon McLaughlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
