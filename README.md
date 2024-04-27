@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
+> It isn't where you come from, it's where you're going that counts.
 >
-> <p>- Jawaharlal Nehru</p>
+> <p>- Ella Fitzgerald</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
