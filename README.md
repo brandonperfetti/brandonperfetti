@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
+> If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Nora Roberts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
