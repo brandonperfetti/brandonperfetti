@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
