@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It isn't where you come from, it's where you're going that counts.
+> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 >
-> <p>- Ella Fitzgerald</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
