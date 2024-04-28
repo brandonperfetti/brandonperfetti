@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We do not quit playing because we grow old, we grow old because we quit playing.
+> The pain passes, but the beauty remains.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Pierre-Auguste Renoir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
