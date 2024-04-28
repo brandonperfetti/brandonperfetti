@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We read the world wrong and say that it deceives us.
+> Never reach out your hand unless you're willing to extend an arm.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Pope Paul VI</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
