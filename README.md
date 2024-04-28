@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We could never learn to be brave and patient if there were only joy in the world.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- Helen Keller</p>
+> <p>- J. M. Barrie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
