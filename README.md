@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Make it your habit not to be critical about small things.
+> First-rate people hire first-rate people; second-rate people hire third-rate people.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Leo Rosten</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
