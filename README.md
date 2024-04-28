@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Carol Burnett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
