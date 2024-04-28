@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We never understand how little we need in this world until we know the loss of it.
+> The world is round so that friendship may encircle it.
 >
-> <p>- J. M. Barrie</p>
+> <p>- Pierre Teilhard de Chardin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
