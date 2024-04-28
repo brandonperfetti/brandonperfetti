@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> First-rate people hire first-rate people; second-rate people hire third-rate people.
+> We could never learn to be brave and patient if there were only joy in the world.
 >
-> <p>- Leo Rosten</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
