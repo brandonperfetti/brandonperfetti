@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Intuition will tell the thinking mind where to look next.
+> Our kindness may be the most persuasive argument for that which we believe.
 >
-> <p>- Jonas Salk</p>
+> <p>- Gordon Hinckley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
