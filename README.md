@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply!
+> The superior man acts before he speaks, and afterwards speaks according to his action.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
