@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Reality leaves a lot to the imagination.
+> Be great in act, as you have been in thought.
 >
-> <p>- John Lennon</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
