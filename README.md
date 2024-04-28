@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The superior man acts before he speaks, and afterwards speaks according to his action.
+> We do not quit playing because we grow old, we grow old because we quit playing.
 >
-> <p>- Confucius</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
