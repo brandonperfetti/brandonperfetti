@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
+> It is through science that we prove, but through intuition that we discover.
 >
-> <p>- Henry James</p>
+> <p>- Henri Poincaré</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
