@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Ideas are the beginning points of all fortunes.
+> The greatest healing therapy is friendship and love.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Hubert Humphrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
