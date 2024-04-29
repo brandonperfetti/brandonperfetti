@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Octavia E. Butler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
