@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is through science that we prove, but through intuition that we discover.
+> Once you label me you negate me.
 >
-> <p>- Henri Poincaré</p>
+> <p>- Søren Kierkegaard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
