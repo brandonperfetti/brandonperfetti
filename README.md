@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life has no blessing like a prudent friend.
+> There is only one success - to be able to spend your life in your own way.
 >
-> <p>- Euripides</p>
+> <p>- Christopher Morley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
