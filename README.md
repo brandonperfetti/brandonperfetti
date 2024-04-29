@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
+> I'll prepare and someday my chance will come.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
