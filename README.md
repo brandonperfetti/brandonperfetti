@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Only I can change my life. No one can do it for me.
+> A real friend is one who walks in when the rest of the world walks out.
 >
-> <p>- Carol Burnett</p>
+> <p>- Walter Winchell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
