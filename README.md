@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A real friend is one who walks in when the rest of the world walks out.
+> No garden is without its weeds.
 >
-> <p>- Walter Winchell</p>
+> <p>- Thomas Fuller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
