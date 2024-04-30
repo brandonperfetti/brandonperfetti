@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Many men go fishing all of their lives without knowing that it is not fish they are after.
+> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Steve Jobs</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
