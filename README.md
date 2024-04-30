@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.
+> Many men go fishing all of their lives without knowing that it is not fish they are after.
 >
-> <p>- The Buddha</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
