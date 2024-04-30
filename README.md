@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Imagination rules the world.
+> Only those who dare to fail greatly can ever achieve greatly.
 >
-> <p>- Napoleon</p>
+> <p>- Robert F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
