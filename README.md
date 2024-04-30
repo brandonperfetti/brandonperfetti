@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The greatest way to live with honor in this world is to be what we pretend to be.
+> Having nothing, nothing can he lose.
 >
-> <p>- Socrates</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
