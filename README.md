@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't turn away from possible futures before you're certain you don't have anything to learn from them.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Richard Bach</p>
+> <p>- Socrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
