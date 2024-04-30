@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Only those who dare to fail greatly can ever achieve greatly.
+> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
