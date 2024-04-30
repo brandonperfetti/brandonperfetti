@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Having nothing, nothing can he lose.
+> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
 >
-> <p>- William Shakespeare</p>
+> <p>- Chanakya</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
