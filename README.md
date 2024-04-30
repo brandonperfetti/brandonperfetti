@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+> Technology is the campfire around which we tell our stories.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Laurie Anderson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
