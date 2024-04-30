@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not fair to ask of others what you are unwilling to do yourself.
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
