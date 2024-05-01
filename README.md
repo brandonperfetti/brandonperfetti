@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best way out is always through.
+> When you come to the end of your rope, tie a knot and hang on.
 >
-> <p>- Robert Frost</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
