@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you come to the end of your rope, tie a knot and hang on.
+> It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
