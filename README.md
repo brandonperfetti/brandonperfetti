@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
+> I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
