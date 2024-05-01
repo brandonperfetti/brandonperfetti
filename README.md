@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A man sees in the world what he carries in his heart.
+> Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Henry Wadsworth Longfellow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
