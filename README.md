@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To be wronged is nothing unless you continue to remember it.
+> Silence is the true friend that never betrays.
 >
 > <p>- Confucius</p>
 
