@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
+> Do you know what my favorite part of the game is? The opportunity to play.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Mike Singletary (basketball)</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
