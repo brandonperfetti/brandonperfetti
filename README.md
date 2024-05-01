@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.
+> The smallest deed is better than the greatest intention.
 >
-> <p>- Winston Churchill</p>
+> <p>- John Burroughs</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
