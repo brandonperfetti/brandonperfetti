@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
+> A man sees in the world what he carries in his heart.
 >
-> <p>- Molière</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
