@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The truest wisdom is a resolute determination.
+> How wonderful that we have met with a paradox. Now we have some hope of making progress.
 >
-> <p>- Napoleon</p>
+> <p>- Niels Bohr</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
