@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
+> To be wronged is nothing unless you continue to remember it.
 >
-> <p>- Theodore Isaac Rubin</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
