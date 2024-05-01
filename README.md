@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Silence is the true friend that never betrays.
+> For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.
 >
-> <p>- Confucius</p>
+> <p>- Mary Kay Ash</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
