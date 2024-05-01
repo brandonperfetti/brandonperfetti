@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do you know what my favorite part of the game is? The opportunity to play.
+> The truest wisdom is a resolute determination.
 >
-> <p>- Mike Singletary (basketball)</p>
+> <p>- Napoleon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
