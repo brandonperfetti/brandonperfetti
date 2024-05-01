@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be yourself; everyone else is already taken.
+> Knowing your own darkness is the best method for dealing with the darkness of other people.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
