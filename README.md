@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Knowing your own darkness is the best method for dealing with the darkness of other people.
+> Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity.
 >
-> <p>- Carl Jung</p>
+> <p>- Calvin Coolidge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
