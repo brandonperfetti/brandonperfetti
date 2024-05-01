@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Better be ignorant of a matter than half know it.
+> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Theodore Isaac Rubin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
