@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The beginning is always today.
+> I prefer the folly of enthusiasm to the indifference of wisdom.
 >
-> <p>- Mary Wollstonecraft</p>
+> <p>- Anatole France</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
