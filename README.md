@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The language of friendship is not words but meanings.
+> A garden is always a series of losses set against a few triumphs, like life itself.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- May Sarton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
