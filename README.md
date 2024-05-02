@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> While we stop to think, we often miss our opportunity.
+> None knows the weight of another's burden.
 >
-> <p>- Publilius Syrus</p>
+> <p>- George Herbert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
