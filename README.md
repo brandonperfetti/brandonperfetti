@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Technology presumes there's just one right way to do things and there never is.
+> He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- William C. Menninger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
