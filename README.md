@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One who is too insistent on his own views, finds few to agree with him.
+> While we stop to think, we often miss our opportunity.
 >
-> <p>- Laozi</p>
+> <p>- Publilius Syrus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
