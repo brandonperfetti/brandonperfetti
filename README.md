@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is no charm equal to tenderness of heart.
+> Technology presumes there's just one right way to do things and there never is.
 >
-> <p>- Jane Austen</p>
+> <p>- Robert M. Pirsig</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
