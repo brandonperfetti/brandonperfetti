@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
+> Ethics change with technology.
 >
-> <p>- Robert Southey</p>
+> <p>- Larry Niven</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
