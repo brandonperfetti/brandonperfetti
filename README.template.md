@@ -7,7 +7,7 @@
 
 ### <div align="center">I'm Brandon, **a** software engineer 👨‍💻 working remotely since 2015 🚀</div>
 
-- 🔭&nbsp; I’m currently working on [Top Timelines](https://toptimelines.com)
+<!-- - 🔭&nbsp; I’m currently working on [Top Timelines](https://toptimelines.com) -->
 - 🌱&nbsp; I’m currently learning [Angular](https://angular.io/) and [.NET](https://dotnet.microsoft.com/en-us/)
 - ❓&nbsp; Ask me about anything related to JavaScript, TypeScript, React,
   NextJS, Remix, or Node!
@@ -124,7 +124,7 @@ SAAS applications. <br/>
 
 <br/>
 
-### How I've been spending time lately
+### How I've been spending time this year
 
 ![Wakatime stats](https://github-readme-stats-navy-sigma-84.vercel.app/api/wakatime?username=@brandonperfetti&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
