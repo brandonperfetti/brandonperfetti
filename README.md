@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Freedom is not worth having if it does not connote freedom to err.
+> The friendship that can cease has never been real.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Jerome</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
