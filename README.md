@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
+> An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Jack Welch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
