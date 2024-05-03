@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> Knowledge is of no value unless you put it into practice.
 >
-> <p>- Albert Einstein</p>
+> <p>- Anton Chekhov</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
