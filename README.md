@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Nargis Fakhri</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
