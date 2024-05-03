@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Champions keep playing until they get it right.
+> I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
 >
-> <p>- Billie Jean King</p>
+> <p>- Muhammad Ali</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
