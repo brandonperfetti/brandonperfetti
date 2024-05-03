@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Every friendship is different because everyone's personality is different.
+> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
 >
-> <p>- Nargis Fakhri</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
