@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Before we acquire great power, we must acquire wisdom to use it well.
+> Much wisdom often goes with fewer words.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
