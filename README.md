@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Marriage: A friendship recognized by the police.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- Marsha Petrie Sue</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
