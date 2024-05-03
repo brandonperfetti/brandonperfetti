@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> Creativity comes from trust. Trust your instincts. And never hope more than you work.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- Rita Mae Brown</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
