@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.
+> Before we acquire great power, we must acquire wisdom to use it well.
 >
-> <p>- Plutarch</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
