@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Knowledge is of no value unless you put it into practice.
+> Accept challenges, so that you may feel the exhilaration of victory.
 >
-> <p>- Anton Chekhov</p>
+> <p>- George S. Patton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
