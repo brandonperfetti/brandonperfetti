@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
+> What is necessary to change a person is to change his awareness of himself.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Abraham Maslow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
