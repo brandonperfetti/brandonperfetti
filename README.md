@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.
+> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
 >
-> <p>- Confucius</p>
+> <p>- Lisa Alther</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
