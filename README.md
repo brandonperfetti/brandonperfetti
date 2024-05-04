@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Luck is what happens when preparation meets opportunity.
+> You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Woodrow Wilson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
