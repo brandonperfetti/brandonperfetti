@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A true friend is one who overlooks your failures and tolerates your success!
+> To be wrong is nothing unless you continue to remember it.
 >
-> <p>- Doug Larson</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
