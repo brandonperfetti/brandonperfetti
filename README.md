@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- Tony Robbins</p>
+> <p>- Theodore Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
