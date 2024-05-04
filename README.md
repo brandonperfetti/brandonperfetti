@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> The minute you settle for less than you deserve, you get even less than you settled for.
 >
-> <p>- Albert Einstein</p>
+> <p>- Maureen Dowd</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
