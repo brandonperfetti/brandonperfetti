@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts.
+> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Muhammad Ali</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
