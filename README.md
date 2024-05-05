@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In order to win, you must expect to win.
+> If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.
 >
-> <p>- Richard Bach</p>
+> <p>- Robert Fulghum</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
