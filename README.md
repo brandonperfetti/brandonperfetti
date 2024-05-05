@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
 >
-> <p>- Maureen Dowd</p>
+> <p>- Satchel Paige</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
