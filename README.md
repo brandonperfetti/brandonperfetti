@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you focus on results, you will never change. If you focus on change, you will get results.
+> Keep silence for the most part, and speak only when you must, and then briefly.
 >
-> <p>- Jack Dixon</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
