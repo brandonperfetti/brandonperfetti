@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A good head and a good heart are always a formidable combination.
+> It's important to know that words don't move mountains. Work, exacting work moves mountains.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Danilo Dolci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
