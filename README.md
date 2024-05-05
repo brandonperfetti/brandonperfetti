@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It's important to know that words don't move mountains. Work, exacting work moves mountains.
+> Life is what you make of it. Always has been, always will be.
 >
-> <p>- Danilo Dolci</p>
+> <p>- Grandma Moses</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
