@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We need never be ashamed of our tears.
+> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
 >
-> <p>- Charles Dickens</p>
+> <p>- Will Durant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
