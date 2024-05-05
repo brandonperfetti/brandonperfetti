@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Keep silence for the most part, and speak only when you must, and then briefly.
+> The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
 >
-> <p>- Epictetus</p>
+> <p>- William Arthur Ward</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
