@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> Blessed is the man who expects nothing, for he shall never be disappointed.
 >
-> <p>- Walt Whitman</p>
+> <p>- Alexander Pope</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
