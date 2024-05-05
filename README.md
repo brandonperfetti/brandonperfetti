@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best thing in every noble dream is the dreamer...
+> A good head and a good heart are always a formidable combination.
 >
-> <p>- Moncure D. Conway</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
