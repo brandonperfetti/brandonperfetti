@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never apologize for showing feeling. When you do so, you apologize for truth.
+> Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Plotinus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
