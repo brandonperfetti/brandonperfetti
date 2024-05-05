@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You got to be careful if you don't know where you're going, because you might not get there.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- Yogi Berra</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
