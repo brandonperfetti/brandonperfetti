@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is what you make of it. Always has been, always will be.
+> In seed time learn, in harvest teach, in winter enjoy.
 >
-> <p>- Grandma Moses</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
