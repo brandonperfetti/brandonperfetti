@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
+> If you focus on results, you will never change. If you focus on change, you will get results.
 >
-> <p>- Satchel Paige</p>
+> <p>- Jack Dixon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
