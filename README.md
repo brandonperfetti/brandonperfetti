@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Every man is a volume if you know how to read him.
+> Everything you are against weakens you. Everything you are for empowers you.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
