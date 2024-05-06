@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
+> Dreams come true. Without that possibility, nature would not incite us to have them.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- John Updike</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
