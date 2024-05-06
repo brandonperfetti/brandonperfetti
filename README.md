@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The years teach much which the days never know.
+> Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Henry van Dyke Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
