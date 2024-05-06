@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom begins at the end.
+> We should all be thankful for those people who rekindle the inner spirit.
 >
-> <p>- Daniel Webster</p>
+> <p>- Albert Schweitzer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
