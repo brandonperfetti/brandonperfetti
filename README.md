@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Remember that sometimes not getting what you want is a wonderful stroke of luck.
+> The beginning is always today.
 >
-> <p>- Dalai Lama</p>
+> <p>- Mary Wollstonecraft</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
