@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We should all be thankful for those people who rekindle the inner spirit.
+> Life is not a problem to be solved, but a reality to be experienced.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Søren Kierkegaard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
