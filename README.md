@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Chuck Norris</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
