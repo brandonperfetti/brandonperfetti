@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Quality means doing it right when no one is looking.
+> If there is no struggle, there is no progress.
 >
-> <p>- Henry Ford</p>
+> <p>- Frederick Douglass</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
