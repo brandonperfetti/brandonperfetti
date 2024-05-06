@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One's friends are that part of the human race with which one can be human.
+> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
 >
-> <p>- George Santayana</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
