@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is divided into the horrible and the miserable.
+> Wisdom begins at the end.
 >
-> <p>- Woody Allen</p>
+> <p>- Daniel Webster</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
