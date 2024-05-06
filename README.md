@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Everything you are against weakens you. Everything you are for empowers you.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Doris Mortman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
