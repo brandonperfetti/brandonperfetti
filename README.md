@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The beginning is always today.
+> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
 >
-> <p>- Mary Wollstonecraft</p>
+> <p>- M. Scott Peck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
