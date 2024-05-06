@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
+> Life is divided into the horrible and the miserable.
 >
-> <p>- Helen Keller</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
