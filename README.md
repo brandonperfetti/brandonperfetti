@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
+> The heart has its reasons which reason knows not of.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Blaise Pascal</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
