@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you will never be content with what you have.
+> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
 >
-> <p>- Doris Mortman</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
