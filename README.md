@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The heart has its reasons which reason knows not of.
+> A man who doesn't trust himself can never really trust anyone else.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Jean François Paul de Gondi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
