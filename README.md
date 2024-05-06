@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is not a problem to be solved, but a reality to be experienced.
+> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Muhammad Ali</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
