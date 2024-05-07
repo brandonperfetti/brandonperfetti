@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To be tested is good. The challenged life may be the best therapist.
+> Yesterday I dared to struggle. Today I dare to win.
 >
-> <p>- Gail Sheehy</p>
+> <p>- Bernadette Devlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
