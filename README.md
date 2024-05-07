@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
+> Quality means doing it right when no one is looking.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Henry Ford</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
