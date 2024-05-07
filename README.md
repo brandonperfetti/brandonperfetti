@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be kind whenever possible. It is always possible.
+> Learning is finding out what you already know.
 >
-> <p>- Dalai Lama</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
