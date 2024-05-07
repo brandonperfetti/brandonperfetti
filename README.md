@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
+> It is easier to live through someone else than to become complete yourself.
 >
-> <p>- Confucius</p>
+> <p>- Betty Friedan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
