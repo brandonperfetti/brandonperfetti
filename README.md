@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Dreams come true. Without that possibility, nature would not incite us to have them.
+> When deeds and words are in accord, the whole world is transformed.
 >
-> <p>- John Updike</p>
+> <p>- Zhuang Zhou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
