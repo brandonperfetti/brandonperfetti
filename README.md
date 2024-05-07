@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time.
+> I never teach my pupils. I only attempt to provide the conditions in which they can learn.
 >
-> <p>- Jim Bouton</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
