@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you wish to be a writer, write.
+> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
 >
-> <p>- Epictetus</p>
+> <p>- Lord Byron</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
