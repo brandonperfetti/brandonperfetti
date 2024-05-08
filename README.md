@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It's not what happens to you, but how you react to it that matters.
+> If there is no struggle, there is no progress.
 >
-> <p>- Epictetus</p>
+> <p>- Frederick Douglass</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
