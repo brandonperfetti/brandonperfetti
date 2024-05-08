@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
+> Ability will never catch up with the demand for it.
 >
-> <p>- Winston Churchill</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
