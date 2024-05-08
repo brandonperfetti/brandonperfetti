@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best argument against democracy is a five-minute conversation with the average voter.
+> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 >
-> <p>- Winston Churchill</p>
+> <p>- Barack Obama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
