@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nothing is softer or more flexible than water, yet nothing can resist it.
+> Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
 >
-> <p>- Laozi</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
