@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The wisest men follow their own direction.
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- Euripides</p>
+> <p>- Jim Morrison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
