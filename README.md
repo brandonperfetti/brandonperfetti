@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Winners never quit and quitters never win.
+> A man sees in the world what he carries in his heart.
 >
-> <p>- Vince Lombardi</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
