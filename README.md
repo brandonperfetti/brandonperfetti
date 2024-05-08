@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In wisdom gathered over time I have found that every experience is a form of exploration.
+> The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Ansel Adams</p>
+> <p>- Henry Miller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
