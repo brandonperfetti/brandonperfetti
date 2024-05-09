@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> There is nothing impossible to him who will try.
 >
-> <p>- Isocrates</p>
+> <p>- Alexander the Great</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
