@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> There are no strangers here; Only friends you haven't yet met.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- William Butler Yeats</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
