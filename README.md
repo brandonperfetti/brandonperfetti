@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
+> God gave us the gift of life; it is up to us to give ourselves the gift of living well.
 >
-> <p>- Eric Hoffer</p>
+> <p>- Voltaire</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
