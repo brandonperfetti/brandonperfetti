@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Norman Schwarzkopf</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
