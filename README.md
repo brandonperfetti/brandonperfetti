@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
+> The minute you settle for less than you deserve, you get even less than you settled for.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Maureen Dowd</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
