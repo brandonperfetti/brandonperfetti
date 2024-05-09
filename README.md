@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Genius is one per cent inspiration, ninety-nine per cent perspiration.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Thomas Edison</p>
+> <p>- Aldous Huxley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
