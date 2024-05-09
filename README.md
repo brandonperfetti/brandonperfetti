@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
+> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
 >
-> <p>- Montesquieu</p>
+> <p>- Niccolò Machiavelli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
