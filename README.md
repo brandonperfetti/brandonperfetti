@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
+> Only put off until tomorrow what you are willing to die having left undone.
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- Pablo Picasso</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
