@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
+> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
 >
-> <p>- Volker Grassmuck</p>
+> <p>- Salman Rushdie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
