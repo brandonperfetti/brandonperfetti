@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Richard Bach</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
