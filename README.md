@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love and friendship exclude each other.
+> I never see what has been done; I only see what remains to be done.
 >
-> <p>- Jean de La Bruyère</p>
+> <p>- Marie Curie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
