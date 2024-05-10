@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our greatest glory is not in never falling, but in rising every time we fall.
+> Friends are those rare people who ask how we are and then wait to hear the answer.
 >
-> <p>- Confucius</p>
+> <p>- Ed Cunningham</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
