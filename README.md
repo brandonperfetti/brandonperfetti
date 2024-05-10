@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err.
+> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Volker Grassmuck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
