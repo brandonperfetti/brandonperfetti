@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The way you see people is the way you treat them, and the way you treat them is what they become.
+> Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
