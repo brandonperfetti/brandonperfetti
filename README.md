@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The minute you settle for less than you deserve, you get even less than you settled for.
+> You really can change the world if you care enough.
 >
-> <p>- Maureen Dowd</p>
+> <p>- Marian Wright Edelman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
