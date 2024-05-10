@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Doing what you love is the cornerstone of having abundance in your life.
+> Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.
 >
-> <p>- Wayne Dyer</p>
+> <p>- George Herbert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
