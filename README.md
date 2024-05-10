@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Most powerful is he who has himself in his own power.
+> You teach best what you most need to learn.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
