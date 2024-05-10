@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are wiser than we know.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- E. M. Forster</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
