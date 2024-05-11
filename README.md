@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nothing will work unless you do.
+> Get busy living or get busy dying.
 >
-> <p>- Maya Angelou</p>
+> <p>- Stephen King</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
