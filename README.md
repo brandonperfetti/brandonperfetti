@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The greatest way to live with honor in this world is to be what we pretend to be.
+> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
 >
-> <p>- Socrates</p>
+> <p>- Elie Wiesel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
