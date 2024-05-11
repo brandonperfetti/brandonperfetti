@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Fortune befriends the bold.
+> Through perseverance many people win success out of what seemed destined to be certain failure.
 >
-> <p>- John Dryden</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
