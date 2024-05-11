@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Genius is one percent inspiration and ninety-nine percent perspiration.
+> There is nothing impossible to him who will try.
 >
-> <p>- Thomas Edison</p>
+> <p>- Alexander the Great</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
