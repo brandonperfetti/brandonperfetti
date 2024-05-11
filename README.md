@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Through perseverance many people win success out of what seemed destined to be certain failure.
+> What we achieve inwardly will change outer reality.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Plutarch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
