@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We do not quit playing because we grow old, we grow old because we quit playing.
+> Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Harriet Lerner</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
