@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you do not change direction, you may end up where you are heading.
+> To follow, without halt, one aim: There is the secret of success.
 >
-> <p>- Laozi</p>
+> <p>- Anna Pavlova</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
