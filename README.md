@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> When I do good I feel good, when I do bad I feel bad, and that's my religion.
 >
-> <p>- Walt Whitman</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
