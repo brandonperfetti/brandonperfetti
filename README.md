@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Always seek out the seed of triumph in every adversity.
+> Difficulties are things that show a person what they are.
 >
-> <p>- Og Mandino</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
