@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Difficulties are things that show a person what they are.
+> Technology frightens me to death. It's designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.
 >
-> <p>- Epictetus</p>
+> <p>- John Cleese</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
