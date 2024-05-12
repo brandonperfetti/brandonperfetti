@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Until you make peace with who you are, you will never be content with what you have.
+> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
 >
-> <p>- Doris Mortman</p>
+> <p>- Mary Kay Ash</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
