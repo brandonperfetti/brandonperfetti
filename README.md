@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
+> You can't choose up sides on a round world.
 >
-> <p>- Anatole France</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
