@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
+> All great achievements require time.
 >
-> <p>- Jack Welch</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
