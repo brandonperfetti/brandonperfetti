@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can't choose up sides on a round world.
+> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
