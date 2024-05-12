@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.
+> I have never been hurt by anything I didn't say.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Calvin Coolidge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
