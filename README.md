@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.
+> Take no thought of who is right or wrong or who is better than. Be not for or against.
 >
-> <p>- Denis Waitley</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
