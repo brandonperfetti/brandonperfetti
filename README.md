@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Memory is the mother of all wisdom.
+> Opportunity often comes disguised in the form of misfortune, or temporary defeat.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
