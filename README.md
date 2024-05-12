@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can always count on Americans to do the right thing - after they've tried everything else.
+> Memory is the mother of all wisdom.
 >
-> <p>- Winston Churchill</p>
+> <p>- Samuel Johnson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
