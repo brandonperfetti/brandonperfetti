@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Take no thought of who is right or wrong or who is better than. Be not for or against.
+> You can always count on Americans to do the right thing - after they've tried everything else.
 >
-> <p>- Bruce Lee</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
