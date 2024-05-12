@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Technology frightens me to death. It's designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- John Cleese</p>
+> <p>- Jimmy Dean</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
