@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Opportunity often comes disguised in the form of misfortune, or temporary defeat.
+> Until you make peace with who you are, you will never be content with what you have.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Doris Mortman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
