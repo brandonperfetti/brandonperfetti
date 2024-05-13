@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Whoever is happy will make others happy, too.
+> Faith in oneself is the best and safest course.
 >
-> <p>- Mark Twain</p>
+> <p>- Michelangelo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
