@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never promise more than you can perform.
+> Doing nothing is better than being busy doing nothing.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
