@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> People grow through experience if they meet life honestly and courageously. This is how character is built.
 >
-> <p>- Ralph Marston</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
