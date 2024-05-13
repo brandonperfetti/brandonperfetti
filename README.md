@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Independence is happiness.
+> Only those who dare to fail greatly can ever achieve greatly.
 >
-> <p>- Susan B. Anthony</p>
+> <p>- Robert F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
