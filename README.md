@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.
+> The foolish man seeks happiness in the distance, the wise grows it under his feet.
 >
-> <p>- The Buddha</p>
+> <p>- James Oppenheim</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
