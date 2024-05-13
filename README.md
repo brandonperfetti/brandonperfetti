@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Only those who dare to fail greatly can ever achieve greatly.
+> Love does not consist of gazing at each other, but in looking together in the same direction.
 >
-> <p>- Robert F. Kennedy</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
