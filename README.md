@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All great achievements require time.
+> Change your thoughts and you change your world.
 >
-> <p>- Maya Angelou</p>
+> <p>- Norman Vincent Peale</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
