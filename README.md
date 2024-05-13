@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Change your thoughts and you change your world.
+> Remember always that you not only have the right to be an individual, you have an obligation to be one.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
