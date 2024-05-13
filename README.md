@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> People grow through experience if they meet life honestly and courageously. This is how character is built.
+> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Babatunde Olatunji</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
