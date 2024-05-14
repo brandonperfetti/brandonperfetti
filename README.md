@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You have to do your own growing no matter how tall your grandfather was.
+> A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- François de La Rochefoucauld</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
