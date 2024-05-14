@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
+> Life is so constructed that an event does not, cannot, will not, match the expectation.
 >
-> <p>- Uta Hagen</p>
+> <p>- Charlotte Brontë</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
