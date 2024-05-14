@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
+> The more you care, the stronger you can be.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Jim Rohn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
