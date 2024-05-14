@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only limit to our realization of tomorrow will be our doubts of today.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Desmond Tutu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
