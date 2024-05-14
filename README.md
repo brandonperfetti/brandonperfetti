@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The world has the habit of making room for the man whose actions show that he knows where he is going.
+> When the solution is simple, God is answering.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
