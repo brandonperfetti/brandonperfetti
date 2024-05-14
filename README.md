@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Only when we are no longer afraid do we begin to live.
+> The world has the habit of making room for the man whose actions show that he knows where he is going.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
