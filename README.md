@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is only one happiness in life, to love and be loved.
+> Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.
 >
-> <p>- George Sand</p>
+> <p>- Nikola Tesla</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
