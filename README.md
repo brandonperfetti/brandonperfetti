@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't settle for a relationship that won't let you be yourself.
+> You do not become good by trying to be good, but by finding the goodness that is already within you.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
