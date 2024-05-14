@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You do not become good by trying to be good, but by finding the goodness that is already within you.
+> We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Uta Hagen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
