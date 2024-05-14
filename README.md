@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love demands infinitely less than friendship.
+> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
 >
-> <p>- George Jean Nathan</p>
+> <p>- John Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
