@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is only one corner of the universe you can be certain of improving, and that's your own self.
+> Ignorance never settles a question.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
