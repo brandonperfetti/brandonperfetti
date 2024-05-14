@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> Never apologize for showing feeling. When you do so, you apologize for truth.
 >
-> <p>- Albert Einstein</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
