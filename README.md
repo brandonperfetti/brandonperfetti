@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Ignorance never settles a question.
+> Don't settle for a relationship that won't let you be yourself.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
