@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.
+> Everyone in the world ought to do the things for which he is specially adapted. It is the part of wisdom to recognize what each one of us is best fitted for, and it is the part of education to perfect and utilize such predispositions. Because education can direct and aid nature but can never transform her.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Maria Montessori</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
