@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- John Adams</p>
+> <p>- Aldous Huxley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
