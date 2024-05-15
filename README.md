@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Sports do not build character. They reveal it.
+> All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.
 >
-> <p>- Heywood Broun</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
