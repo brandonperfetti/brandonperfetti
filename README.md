@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill.
+> Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.
 >
-> <p>- The Buddha</p>
+> <p>- Barack Obama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
