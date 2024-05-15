@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.
+> Silence at the proper season is wisdom, and better than any speech.
 >
-> <p>- Barack Obama</p>
+> <p>- Plutarch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
