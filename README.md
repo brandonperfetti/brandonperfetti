@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> Fortune befriends the bold.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John Dryden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
