@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is a succession of moments. To live each one is to succeed.
+> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
 >
-> <p>- Corita Kent</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
