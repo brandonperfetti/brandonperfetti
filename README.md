@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.
+> Nothing is at last sacred but the integrity of your own mind.
 >
-> <p>- Thomas Edison</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
