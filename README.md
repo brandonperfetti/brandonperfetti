@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> How far that little candle throws its beams! So shines a good deed in a naughty world.
+> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
 >
-> <p>- William Shakespeare</p>
+> <p>- Barack Obama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
