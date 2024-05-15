@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.
+> Love is a friendship set to music.
 >
-> <p>- Woody Allen</p>
+> <p>- Joseph Campbell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
