@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Try not to become a man of success, but rather try to become a man of value.
+> Most of the shadows of life are caused by standing in our own sunshine.
 >
-> <p>- Albert Einstein</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
