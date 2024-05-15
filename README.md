@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+> Government of the people, by the people, for the people, shall not perish from the Earth.
 >
-> <p>- Barack Obama</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
