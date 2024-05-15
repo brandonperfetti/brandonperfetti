@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
+> Life is a succession of moments. To live each one is to succeed.
 >
-> <p>- Thomas Paine</p>
+> <p>- Corita Kent</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
