@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
+> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Thomas Paine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
