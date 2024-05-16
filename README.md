@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are masters of the unsaid words, but slaves of those we let slip out.
+> A thing well said will be wit in all languages.
 >
-> <p>- Winston Churchill</p>
+> <p>- John Dryden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
