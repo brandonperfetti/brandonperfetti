@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
