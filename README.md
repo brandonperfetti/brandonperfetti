@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Maxim for life: You get treated in life the way you teach people to treat you.
+> You don't choose your family. They are God's gift to you, as you are to them.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Desmond Tutu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
