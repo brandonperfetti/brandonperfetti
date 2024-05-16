@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The more light you allow within you, the brighter the world you live in will be.
+> An organization, no matter how well designed, is only as good as the people who live and work in it.
 >
-> <p>- Shakti Gawain</p>
+> <p>- Dee Hock</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
