@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The biggest adventure you can ever take is to live the life of your dreams.
+> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Vernon Cooper</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
