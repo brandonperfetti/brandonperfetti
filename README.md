@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't cry because it's over. Smile because it happened.
+> At the center of your being, you have the answer; you know who you are, and you know what you want.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
