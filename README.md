@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- Harold Geneen</p>
+> <p>- Isocrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
