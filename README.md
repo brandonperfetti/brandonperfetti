@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The biggest adventure you can ever take is to live the life of your dreams.
+> Remember that the most valuable antiques are dear old friends.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
