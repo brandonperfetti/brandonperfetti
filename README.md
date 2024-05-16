@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A thing well said will be wit in all languages.
+> The biggest adventure you can ever take is to live the life of your dreams.
 >
-> <p>- John Dryden</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
