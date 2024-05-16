@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
 >
-> <p>- Richard Bach</p>
+> <p>- Harold Geneen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
