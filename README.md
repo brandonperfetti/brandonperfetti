@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> People don't notice whether it's winter or summer when they're happy.
+> Don't cry because it's over. Smile because it happened.
 >
-> <p>- Anton Chekhov</p>
+> <p>- Dr. Seuss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
