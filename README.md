@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You don't choose your family. They are God's gift to you, as you are to them.
+> People don't notice whether it's winter or summer when they're happy.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Anton Chekhov</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
