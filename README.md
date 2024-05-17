@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
+> It is the quality of our work which will please God, not the quantity.
 >
-> <p>- Eric Hoffer</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
