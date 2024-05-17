@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I never think of the future. It comes soon enough.
+> Never put off till tomorrow what you can do today.
 >
-> <p>- Albert Einstein</p>
+> <p>- Thomas Jefferson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
