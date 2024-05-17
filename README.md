@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is the quality of our work which will please God, not the quantity.
+> If you cannot do great things, do small things in a great way.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
