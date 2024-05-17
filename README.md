@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Spectacular achievement is always preceded by unspectacular preparation.
+> Nothing in life is so exhilarating as to be shot at without result.
 >
-> <p>- Robert Schuller</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
