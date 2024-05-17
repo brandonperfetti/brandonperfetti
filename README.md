@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When watching after yourself, you watch after others. When watching after others, you watch after yourself.
+> The only way to have a friend is to be one.
 >
-> <p>- The Buddha</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
