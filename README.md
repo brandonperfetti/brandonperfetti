@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Technology presumes there's just one right way to do things and there never is.
+> A failure is a man who has blundered but is not capable of cashing in on the experience.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
