@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Most folks are as happy as they make up their minds to be.
+> Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Joe Adcock</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
