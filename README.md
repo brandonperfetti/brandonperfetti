@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> Spectacular achievement is always preceded by unspectacular preparation.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Robert Schuller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
