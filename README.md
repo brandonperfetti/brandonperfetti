@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster.
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
 >
-> <p>- Joe Adcock</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
