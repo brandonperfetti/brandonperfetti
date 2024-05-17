@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Men are disturbed not by things, but by the view which they take of them.
+> When watching after yourself, you watch after others. When watching after others, you watch after yourself.
 >
-> <p>- Epictetus</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
