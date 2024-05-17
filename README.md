@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+> Nothing is at last sacred but the integrity of your own mind.
 >
-> <p>- Tony Robbins</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
