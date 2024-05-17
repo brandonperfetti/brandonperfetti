@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never put off till tomorrow what you can do today.
+> Most folks are as happy as they make up their minds to be.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
