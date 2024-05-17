@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The exercise of an extraordinary gift is the supremist pleasure in life.
+> Technology presumes there's just one right way to do things and there never is.
 >
-> <p>- Mark Twain</p>
+> <p>- Robert M. Pirsig</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
