@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The less effort, the faster and more powerful you will be.
+> Our passion is our strength.
 >
-> <p>- Bruce Lee</p>
+> <p>- Billie Armstrong</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
