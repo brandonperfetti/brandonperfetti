@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.
+> Be less curious about people and more curious about ideas.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Marie Curie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
