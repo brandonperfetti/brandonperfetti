@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is what happens to you while you're busy making other plans.
+> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
 >
-> <p>- John Lennon</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
