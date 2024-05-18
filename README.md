@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
 >
-> <p>- Billie Armstrong</p>
+> <p>- Vernon Cooper</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
