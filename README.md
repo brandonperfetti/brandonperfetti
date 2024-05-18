@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+> He who has imagination without learning has wings but no feet.
 >
-> <p>- John Muir</p>
+> <p>- Joseph Joubert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
