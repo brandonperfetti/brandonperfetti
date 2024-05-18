@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.
+> Logic will get you from A to B. Imagination will take you everywhere.
 >
-> <p>- Laozi</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
