@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> Always be a first-rate version of yourself, instead of a second-rate version of somebody else.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Judy Garland</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
