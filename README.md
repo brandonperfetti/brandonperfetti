@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are stuck with technology when what we really want is just stuff that works.
+> If you aren't going all the way, why go at all?
 >
-> <p>- Douglas Adams</p>
+> <p>- Joe Namath</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
