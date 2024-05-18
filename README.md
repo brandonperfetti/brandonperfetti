@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
+> In all things of nature there is something of the marvelous.
 >
-> <p>- Bruce Lee</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
