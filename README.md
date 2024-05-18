@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be less curious about people and more curious about ideas.
+> We are stuck with technology when what we really want is just stuff that works.
 >
-> <p>- Marie Curie</p>
+> <p>- Douglas Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
