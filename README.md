@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You should ignore that person’s impure behavior by way of speech and body, and focus on the fact that they get an openness and clarity of heart from time to time. That’s how to get rid of resentment for that person.
+> Truth, and goodness, and beauty are but different faces of the same all.
 >
-> <p>- The Buddha</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
