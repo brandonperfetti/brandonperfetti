@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
+> Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Bob Feller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
