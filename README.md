@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is the master key that opens the gates of happiness.
+> The winds and waves are always on the side of the ablest navigators.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Edward Gibbon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
