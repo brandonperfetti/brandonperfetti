@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Real magic in relationships means an absence of judgement of others.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Aldous Huxley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
