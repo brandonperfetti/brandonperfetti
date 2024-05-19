@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are no failures. Just experiences and your reactions to them.
+> To find a man's true character, play golf with him.
 >
-> <p>- Tom Krause</p>
+> <p>- P. G. Wodehouse</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
