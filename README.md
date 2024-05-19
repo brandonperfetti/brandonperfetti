@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We don't stop playing because we grow old; we grow old because we stop playing.
+> He who is fixed to a star does not change his mind.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
