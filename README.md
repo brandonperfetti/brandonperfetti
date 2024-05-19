@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
+> Nothing but heaven itself is better than a friend who is really a friend.
 >
-> <p>- Maya Angelou</p>
+> <p>- Plautus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
