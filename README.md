@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
+> Knowledge is of no value unless you put it into practice.
 >
-> <p>- Winston Churchill</p>
+> <p>- Anton Chekhov</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
