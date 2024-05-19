@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> You do not become good by trying to be good, but by finding the goodness that is already within you.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
