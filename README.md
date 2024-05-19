@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.
+> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
