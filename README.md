@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The essence of true friendship is to make allowance for another's little lapses.
+> To study and not think is a waste. To think and not study is dangerous.
 >
-> <p>- Ovid</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
