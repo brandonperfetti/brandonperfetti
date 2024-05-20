@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love all, trust a few, do wrong to none.
+> The opportunity for brotherhood presents itself every time you meet a human being.
 >
-> <p>- William Shakespeare</p>
+> <p>- Jane Wyman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
