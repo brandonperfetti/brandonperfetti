@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> But man is not made for defeat. A man can be destroyed but not defeated.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Ernest Hemingway</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
