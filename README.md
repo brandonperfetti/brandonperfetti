@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Problems are not stop signs, they are guidelines.
+> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
 >
-> <p>- Robert Schuller</p>
+> <p>- Harold Geneen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
