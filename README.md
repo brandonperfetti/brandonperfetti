@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our intention creates our reality.
+> Problems are not stop signs, they are guidelines.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Robert Schuller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
