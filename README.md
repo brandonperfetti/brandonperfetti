@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The winds and waves are always on the side of the ablest navigators.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
