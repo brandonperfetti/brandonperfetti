@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness.
+> All of our technology is completely unnecessary to a happy life.
 >
-> <p>- Rumi</p>
+> <p>- Tom Hodgkinson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
