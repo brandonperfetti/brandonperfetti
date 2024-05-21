@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.
+> Wishing to be friends is quick work, but friendship is a slow ripening fruit.
 >
-> <p>- Alan Watts</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
