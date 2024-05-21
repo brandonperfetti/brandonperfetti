@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Make the most of yourself, for that is all there is of you.
+> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Margaret Thatcher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
