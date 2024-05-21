@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> They can conquer who believe they can.
+> To be happy is to be able to become aware of oneself without fright.
 >
-> <p>- Virgil</p>
+> <p>- Walter Benjamin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
