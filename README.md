@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you fell down yesterday, stand up today.
+> And when the world is created, it is created in such a way that those eternal objects of God's loving wisdom become actualities - interacting with one another, relating to God in the finite realm.
 >
-> <p>- H. G. Wells</p>
+> <p>- Rowan Williams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
