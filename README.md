@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
 >
-> <p>- Walter Benjamin</p>
+> <p>- Napoleon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
