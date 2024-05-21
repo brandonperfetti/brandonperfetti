@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> And when the world is created, it is created in such a way that those eternal objects of God's loving wisdom become actualities - interacting with one another, relating to God in the finite realm.
+> Kindness is the language which the deaf can hear and the blind can see.
 >
-> <p>- Rowan Williams</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
