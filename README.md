@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best thing about the future is that it only comes one day at a time.
+> The weak can never forgive. Forgiveness is the attribute of the strong.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
