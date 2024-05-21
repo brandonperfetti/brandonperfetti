@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Truth is generally the best vindication against slander.
+> Set your goals high, and don't stop till you get there.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Bo Jackson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
