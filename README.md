@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.
+> Intuition will tell the thinking mind where to look next.
 >
-> <p>- Dalai Lama</p>
+> <p>- Jonas Salk</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
