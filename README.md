@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+> One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Albert Schweitzer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
