@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
+> I love you the more in that I believe you had liked me for my own sake and for nothing else.
 >
-> <p>- Archimedes</p>
+> <p>- John Keats</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
