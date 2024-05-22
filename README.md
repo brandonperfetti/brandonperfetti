@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If there is no struggle, there is no progress.
+> You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?
 >
-> <p>- Frederick Douglass</p>
+> <p>- W. Clement Stone</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
