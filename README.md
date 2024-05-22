@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
