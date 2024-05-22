@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who knows, does not speak. He who speaks, does not know.
+> Friendship is certainly the finest balm for the pangs of disappointed love.
 >
-> <p>- Laozi</p>
+> <p>- Jane Austen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
