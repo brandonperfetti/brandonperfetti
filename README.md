@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is certainly the finest balm for the pangs of disappointed love.
+> One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness.
 >
-> <p>- Jane Austen</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
