@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Archimedes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
