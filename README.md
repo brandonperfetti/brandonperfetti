@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Music is a higher revelation than all wisdom and philosophy.
+> Between saying and doing, many a pair of shoes is worn out.
 >
-> <p>- Ludwig van Beethoven</p>
+> <p>- Iris Murdoch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
