@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have always found that mercy bears richer fruits than strict justice.
+> Music is a higher revelation than all wisdom and philosophy.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ludwig van Beethoven</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
