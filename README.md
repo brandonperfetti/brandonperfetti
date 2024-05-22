@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>- Winston Churchill</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
