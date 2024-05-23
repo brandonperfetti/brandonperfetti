@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
