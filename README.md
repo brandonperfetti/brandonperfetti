@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care.
+> They must often change, who would be constant in happiness or wisdom.
 >
-> <p>- William C. Menninger</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
