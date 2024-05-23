@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
+> Many of life's failures are people who did not realize how close they were to success when they gave up.
 >
-> <p>- Jerome</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
