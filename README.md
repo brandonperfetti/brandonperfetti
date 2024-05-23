@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We know what we are but know not what we may be.
+> The young man knows the rules, but the old man knows the exceptions.
 >
-> <p>- William Shakespeare</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
