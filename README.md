@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is the quality of our work which will please God, not the quantity.
+> Don't be afraid to go out on a limb. That's where the fruit is.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
