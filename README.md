@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.
+> You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless.
 >
-> <p>- Richard Bach</p>
+> <p>- Caroline Myss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
