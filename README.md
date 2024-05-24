@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
+> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
