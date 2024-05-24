@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
+> The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.
 >
-> <p>- Jim Rohn</p>
+> <p>- Amelia Earhart</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
