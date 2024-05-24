@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Give, even if you only have a little.
+> Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
 >
-> <p>- The Buddha</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
