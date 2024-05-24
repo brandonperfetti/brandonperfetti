@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Ideas are the beginning points of all fortunes.
+> You can't shake hands with a clenched fist.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Indira Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
