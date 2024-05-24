@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is the quality of our work which will please God, not the quantity.
+> It is never too late to be what you might have been.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- George Eliot</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
