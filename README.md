@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
+> Ideas are the beginning points of all fortunes.
 >
-> <p>- Joan Didion</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
