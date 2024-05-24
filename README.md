@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is never too late to be what you might have been.
+> Work for something because it is good, not just because it stands a chance to succeed.
 >
-> <p>- George Eliot</p>
+> <p>- Václav Havel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
