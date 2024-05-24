@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
+> The ballot is stronger than the bullet.
 >
-> <p>- Winston Churchill</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
