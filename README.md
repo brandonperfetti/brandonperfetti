@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The time to repair the roof is when the sun is shining.
+> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
