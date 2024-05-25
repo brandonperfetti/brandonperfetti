@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never do things others can do and will do, if there are things others cannot do or will not do.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Amelia Earhart</p>
+> <p>- Bernice Reagon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
