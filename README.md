@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never reach out your hand unless you're willing to extend an arm.
+> My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging.
 >
-> <p>- Pope Paul VI</p>
+> <p>- Hank Aaron</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
