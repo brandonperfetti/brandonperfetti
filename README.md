@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
+> Love is flower like; Friendship is like a sheltering tree.
 >
-> <p>- Edmund Burke</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
