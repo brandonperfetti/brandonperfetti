@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are small matters compared to what lies within us.
+> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Amber Valletta</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
