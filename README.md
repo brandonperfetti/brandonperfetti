@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Real success is finding your lifework in the work that you love.
+> Never do things others can do and will do, if there are things others cannot do or will not do.
 >
-> <p>- David McCullough</p>
+> <p>- Amelia Earhart</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
