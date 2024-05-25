@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts.
+> If there is such a thing as a good marriage, it is because it resembles friendship rather than love.
 >
-> <p>- Charles Darwin</p>
+> <p>- Michel de Montaigne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
