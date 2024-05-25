@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint.
 >
-> <p>- Bernice Reagon</p>
+> <p>- Edmund Burke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
