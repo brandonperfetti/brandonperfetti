@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is flower like; Friendship is like a sheltering tree.
+> What lies behind us and what lies before us are small matters compared to what lies within us.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
