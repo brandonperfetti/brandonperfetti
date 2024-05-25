@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I gave my life to become the person I am right now. Was it worth it?
+> The time to repair the roof is when the sun is shining.
 >
-> <p>- Richard Bach</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
