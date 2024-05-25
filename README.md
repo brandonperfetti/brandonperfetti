@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Where there is charity and wisdom, there is neither fear nor ignorance.
+> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Pema Chödrön</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
