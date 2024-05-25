@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
+> Wisdom begins at the end.
 >
-> <p>- Amber Valletta</p>
+> <p>- Daniel Webster</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
