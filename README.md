@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
+> In action a great heart is the chief qualification. In work, a great head.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Arthur Schopenhauer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
