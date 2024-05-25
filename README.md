@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nothing is at last sacred but the integrity of your own mind.
+> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
