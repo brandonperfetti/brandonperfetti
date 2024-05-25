@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+> Real success is finding your lifework in the work that you love.
 >
-> <p>- Mark Twain</p>
+> <p>- David McCullough</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
