@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
+> I know but one freedom and that is the freedom of the mind.
 >
-> <p>- Dale Turner</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
