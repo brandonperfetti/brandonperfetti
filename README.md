@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I know but one freedom and that is the freedom of the mind.
+> Never reach out your hand unless you're willing to extend an arm.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Pope Paul VI</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
