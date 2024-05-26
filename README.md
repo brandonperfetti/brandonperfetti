@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Ignorance never settles a question.
+> Whatever has the nature of arising has the nature of ceasing.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
