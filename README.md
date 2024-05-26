@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The man of knowledge must be able not only to love his enemies but also to hate his friends.
+> Ignorance never settles a question.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
