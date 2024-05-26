@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
+> Write your plans in pencil and give God the eraser.
 >
-> <p>- Norman Schwarzkopf</p>
+> <p>- Paulo Coelho</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
