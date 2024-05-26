@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+> The truth of the matter is that you always know the right thing to do. The hard part is doing it.
 >
-> <p>- Dalai Lama</p>
+> <p>- Norman Schwarzkopf</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
