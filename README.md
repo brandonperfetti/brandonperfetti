@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.
+> There is only one happiness in life, to love and be loved.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- George Sand</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
