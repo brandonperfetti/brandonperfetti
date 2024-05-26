@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Write your plans in pencil and give God the eraser.
+> Let yourself be silently drawn by the stronger pull of what you really love.
 >
-> <p>- Paulo Coelho</p>
+> <p>- Rumi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
