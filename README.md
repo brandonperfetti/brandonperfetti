@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Whatever has the nature of arising has the nature of ceasing.
+> You really can change the world if you care enough.
 >
-> <p>- The Buddha</p>
+> <p>- Marian Wright Edelman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
