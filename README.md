@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You really can change the world if you care enough.
+> Price is what you pay. Value is what you get.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
