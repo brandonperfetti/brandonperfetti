@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A wise person should be urgently moved on occasions that make for urgency.
+> Age does not protect you from love. But love, to some extent, protects you from age.
 >
-> <p>- The Buddha</p>
+> <p>- Anaïs Nin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
