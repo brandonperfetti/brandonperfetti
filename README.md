@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is only one happiness in life, to love and be loved.
+> Friendship often ends in love, but love in friendship - never.
 >
-> <p>- George Sand</p>
+> <p>- Albert Camus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
