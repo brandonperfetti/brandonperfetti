@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A man cannot be said to succeed in this life who does not satisfy one friend.
+> A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- William C. Menninger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
