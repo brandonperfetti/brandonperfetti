@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Speak when you are angry, and you will make the best speech you will ever regret.
+> The world has the habit of making room for the man whose actions show that he knows where he is going.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
