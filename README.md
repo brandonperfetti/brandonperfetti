@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Yesterday I dared to struggle. Today I dare to win.
+> I'm not afraid of storms, for I'm learning how to sail my ship.
 >
-> <p>- Bernadette Devlin</p>
+> <p>- Louisa May Alcott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
