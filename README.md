@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Choose a job you love, and you will never have to work a day in your life.
+> Most great people have attained their greatest success just one step beyond their greatest failure.
 >
-> <p>- Confucius</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
