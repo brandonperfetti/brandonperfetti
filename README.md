@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Everything that irritates us about others can lead us to an understanding of ourselves.
+> Yesterday I dared to struggle. Today I dare to win.
 >
-> <p>- Carl Jung</p>
+> <p>- Bernadette Devlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
