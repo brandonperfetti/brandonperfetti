@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Most great people have attained their greatest success just one step beyond their greatest failure.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
