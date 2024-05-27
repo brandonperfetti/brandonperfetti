@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Memory is the mother of all wisdom.
+> A man cannot be said to succeed in this life who does not satisfy one friend.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
