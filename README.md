@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not in the stars to hold our destiny but in ourselves.
+> Whatever you do in life, surround yourself with smart people who'll argue with you.
 >
-> <p>- William Shakespeare</p>
+> <p>- John Wooden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
