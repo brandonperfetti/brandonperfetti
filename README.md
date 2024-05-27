@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> What you get by achieving your goals is not as important as what you become by achieving your goals.
 >
-> <p>- Ralph Marston</p>
+> <p>- Zig Ziglar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
