@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary.
+> Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.
 >
-> <p>- Winston Churchill</p>
+> <p>- Ralph Marston</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
