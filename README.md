@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To know oneself is to study oneself in action with another person.
+> Life without love is like a tree without blossoms or fruit.
 >
-> <p>- Bruce Lee</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
