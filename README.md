@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best thing about the future is that it only comes one day at a time.
+> Setting an example is not the main means of influencing another, it is the only means.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
