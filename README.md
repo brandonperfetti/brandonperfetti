@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If I know what love is, it is because of you.
+> A man sees in the world what he carries in his heart.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
