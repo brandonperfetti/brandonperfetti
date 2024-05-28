@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.
+> The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger.
 >
-> <p>- William Shakespeare</p>
+> <p>- Michelle Obama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
