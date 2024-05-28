@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
+> To know oneself is to study oneself in action with another person.
 >
-> <p>- Louise Hay</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
