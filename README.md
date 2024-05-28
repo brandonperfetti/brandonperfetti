@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
+> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
 >
-> <p>- Helen Keller</p>
+> <p>- Etty Hillesum</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
