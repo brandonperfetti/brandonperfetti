@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A man sees in the world what he carries in his heart.
+> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Max Planck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
