@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The biggest room in the world is room for improvement.
+> The energy of the mind is the essence of life.
 >
-> <p>- Helmut Schmidt</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
