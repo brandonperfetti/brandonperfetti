@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
+> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
 >
-> <p>- Max Planck</p>
+> <p>- Louise Hay</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
