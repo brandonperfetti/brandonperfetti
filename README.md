@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
+> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
 >
-> <p>- Susan Orlean</p>
+> <p>- Plutarch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
