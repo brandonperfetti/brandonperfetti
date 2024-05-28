@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.
+> Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.
 >
-> <p>- Plutarch</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
