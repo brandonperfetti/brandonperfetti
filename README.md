@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The ballot is stronger than the bullet.
+> Knowing others is wisdom, knowing yourself is Enlightenment.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
