@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.
+> Experience is not what happens to you; it's what you do with what happens to you.
 >
-> <p>- Denis Waitley</p>
+> <p>- Aldous Huxley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
