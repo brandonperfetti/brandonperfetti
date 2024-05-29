@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The most successful people are those who are good at plan B.
+> We must embrace pain and burn it as fuel for our journey.
 >
-> <p>- James A. Yorke</p>
+> <p>- Kenji Miyazawa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
