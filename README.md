@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
+> Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
 >
-> <p>- Montesquieu</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
