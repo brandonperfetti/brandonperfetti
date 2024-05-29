@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- John Wooden</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
