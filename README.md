@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If we did the things we are capable of, we would astound ourselves.
+> The universe is transformation; our life is what our thoughts make it.
 >
-> <p>- Thomas Edison</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
