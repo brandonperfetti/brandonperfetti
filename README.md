@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The universe is transformation; our life is what our thoughts make it.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Eustace Budgell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
