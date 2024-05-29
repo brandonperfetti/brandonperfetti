@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Always keep an open mind and a compassionate heart.
+> Whoever is happy will make others happy, too.
 >
-> <p>- Phil Jackson</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
