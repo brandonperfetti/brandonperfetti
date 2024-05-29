@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
+> Always keep an open mind and a compassionate heart.
 >
-> <p>- Jim Rohn</p>
+> <p>- Phil Jackson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
