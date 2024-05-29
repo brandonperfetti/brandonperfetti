@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> He who knows that enough is enough will always have enough.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
