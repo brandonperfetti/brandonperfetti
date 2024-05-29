@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We must embrace pain and burn it as fuel for our journey.
+> If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
 >
-> <p>- Kenji Miyazawa</p>
+> <p>- Jim Rohn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
