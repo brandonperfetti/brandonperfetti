@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Champions keep playing until they get it right.
+> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
 >
-> <p>- Billie Jean King</p>
+> <p>- Amy Tan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
