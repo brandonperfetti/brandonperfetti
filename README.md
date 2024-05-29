@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
 >
-> <p>- Laozi</p>
+> <p>- Montesquieu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
