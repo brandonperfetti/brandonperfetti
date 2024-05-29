@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who angers you conquers you.
+> Nothing diminishes anxiety faster than action.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Walter Inglis Anderson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
