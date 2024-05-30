@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Anything you really want, you can attain, if you really go after it.
+> Vanity can easily overtake wisdom. It usually overtakes common sense.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Julian Casablancas</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
