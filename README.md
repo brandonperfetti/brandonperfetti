@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> Never apologize for showing feelings. When you do so, you apologize for the truth.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
