@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- Morris West</p>
+> <p>- Arthur Rubinstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
