@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never apologize for showing feelings. When you do so, you apologize for the truth.
+> The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Afrika Bambaataa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
