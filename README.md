@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship multiplies the good of life and divides the evil.
+> Love all, trust a few, do wrong to none.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
