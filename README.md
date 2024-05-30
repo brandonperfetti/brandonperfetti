@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nothing happens unless first we dream.
+> You cannot have what you do not want.
 >
-> <p>- Carl Sandburg</p>
+> <p>- John Acosta</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
