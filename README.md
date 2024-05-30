@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
+> It is never too late to be what you might have been.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- George Eliot</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
