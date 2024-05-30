@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A quarrel between friends, when made up, adds a new tie to friendship.
+> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
 >
-> <p>- Francis de Sales</p>
+> <p>- Morris West</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
