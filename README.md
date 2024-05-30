@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> Ethics change with technology.
 >
-> <p>- John Lennon</p>
+> <p>- Larry Niven</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
