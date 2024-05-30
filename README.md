@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is never too late to be what you might have been.
+> What do we live for, if it is not to make life less difficult for each other?
 >
 > <p>- George Eliot</p>
 
