@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
+> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Friedrich Nietzsche</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
