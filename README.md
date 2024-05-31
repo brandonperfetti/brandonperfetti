@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A man sees in the world what he carries in his heart.
+> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Frederick Douglass</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
