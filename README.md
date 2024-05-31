@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our strength grows out of our weaknesses.
+> A man sees in the world what he carries in his heart.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
