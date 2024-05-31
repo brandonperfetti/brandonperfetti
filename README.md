@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I'll prepare and someday my chance will come.
+> Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Diogenes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
