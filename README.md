@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Denis Waitley</p>
+> <p>- David Bader</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
