@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is one of the blessings of old friends that you can afford to be stupid with them.
+> We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Sam Keen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
