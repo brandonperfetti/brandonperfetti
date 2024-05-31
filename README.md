@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be here now. Be someplace else later. Is that so complicated?
+> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
 >
-> <p>- David Bader</p>
+> <p>- Steven Van Zandt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
