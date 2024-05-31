@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Perfection of means and confusion of ends seems to characterize our age.
+> If I were two-faced, would I be wearing this one?
 >
-> <p>- Albert Einstein</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
