@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Self-trust is the first secret of success.
+> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Eric Hoffer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
