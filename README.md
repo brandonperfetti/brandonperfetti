@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- Chuck Norris</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
