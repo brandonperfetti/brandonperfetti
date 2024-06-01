@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To follow, without halt, one aim: There is the secret of success.
+> Courage is going from failure to failure without losing enthusiasm.
 >
-> <p>- Anna Pavlova</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
