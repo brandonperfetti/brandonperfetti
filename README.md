@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I believe that we are fundamentally the same and have the same basic potential.
+> Self-trust is the first secret of success.
 >
-> <p>- Dalai Lama</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
