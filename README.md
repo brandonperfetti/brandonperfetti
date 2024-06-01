@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The essence of true friendship is to make allowance for another's little lapses.
+> To follow, without halt, one aim: There is the secret of success.
 >
-> <p>- Ovid</p>
+> <p>- Anna Pavlova</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
