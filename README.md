@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If we did the things we are capable of, we would astound ourselves.
+> The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.
 >
-> <p>- Thomas Edison</p>
+> <p>- Ralph Abernathy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
