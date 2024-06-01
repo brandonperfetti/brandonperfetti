@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Without hard work, nothing grows but weeds.
+> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Chuck Norris</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
