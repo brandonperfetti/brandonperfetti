@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It has never been my object to record my dreams, just to realize them.
+> This is why I loved technology: if you used it right, it could give you power and privacy.
 >
-> <p>- Man Ray</p>
+> <p>- Cory Doctorow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
