@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You'll see it when you believe it.
+> Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
