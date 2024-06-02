@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To listen well is as powerful a means of communication and influence as to talk well.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- John Marshall</p>
+> <p>- Tom Krause</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
