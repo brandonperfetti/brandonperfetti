@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We must become the change we want to see.
+> If you aren't going all the way, why go at all?
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Joe Namath</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
