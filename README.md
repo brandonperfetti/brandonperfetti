@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
+> Even youngish men can acquire wisdom as time goes by.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- John Bercow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
