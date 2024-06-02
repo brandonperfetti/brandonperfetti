@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if already dead.
+> Those who dream by day are cognizant of many things which escape those who dream only by night.
 >
-> <p>- The Buddha</p>
+> <p>- Edgar Allan Poe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
