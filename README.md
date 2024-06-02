@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Even youngish men can acquire wisdom as time goes by.
+> You'll see it when you believe it.
 >
-> <p>- John Bercow</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
