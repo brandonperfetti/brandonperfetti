@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity.
+> There is nothing happens to any person but what was in his power to go through with.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
