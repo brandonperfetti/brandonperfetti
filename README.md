@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is nothing happens to any person but what was in his power to go through with.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Naguib Mahfouz</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
