@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Remember that the most valuable antiques are dear old friends.
+> Gratitude is the fairest blossom which springs from the soul.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Henry K. Beecher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
