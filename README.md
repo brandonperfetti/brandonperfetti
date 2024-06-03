@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The doors of wisdom are never shut.
+> Opportunity is missed by most because it is dressed in overalls and looks like work.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
