@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Opportunity is missed by most because it is dressed in overalls and looks like work.
+> It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life.
 >
-> <p>- Thomas Edison</p>
+> <p>- Sigmund Freud</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
