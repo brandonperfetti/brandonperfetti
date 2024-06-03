@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.
+> Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity.
 >
-> <p>- Lisa Alther</p>
+> <p>- Calvin Coolidge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
