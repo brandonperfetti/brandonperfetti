@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is flower like; Friendship is like a sheltering tree.
+> And the attitude of faith is the very opposite of clinging to belief, of holding on.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
