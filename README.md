@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.
+> A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
 >
-> <p>- Thomas Edison</p>
+> <p>- Horace</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
