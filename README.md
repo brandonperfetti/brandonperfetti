@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A poem begins in delight and ends in wisdom.
+> Everything that irritates us about others can lead us to an understanding of ourselves.
 >
-> <p>- Robert Frost</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
