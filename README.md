@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit.
+> Most people are about as happy as they make up their minds to be
 >
-> <p>- The Buddha</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
