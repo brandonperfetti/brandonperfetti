@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any other.
+> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Elisabeth Kübler-Ross</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
