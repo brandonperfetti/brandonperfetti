@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You always have two choices: your commitment versus your fear.
+> To fly, we have to have resistance.
 >
-> <p>- Sammy Davis Jr.</p>
+> <p>- Maya Lin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
