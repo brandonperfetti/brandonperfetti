@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To know oneself is to study oneself in action with another person.
+> A poem begins in delight and ends in wisdom.
 >
-> <p>- Bruce Lee</p>
+> <p>- Robert Frost</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
