@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Most people are about as happy as they make up their minds to be
+> Always bear in mind that your own resolution to succeed is more important than any other.
 >
 > <p>- Abraham Lincoln</p>
 
