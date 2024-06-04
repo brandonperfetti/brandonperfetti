@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
+> Do I speak at the right time, or not? Do I speak of facts, or not? Do I speak gently or harshly? Do I speak profitable words or not? Do I speak with a kindly heart, or inwardly malicious?
 >
-> <p>- Elisabeth Kübler-Ross</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
