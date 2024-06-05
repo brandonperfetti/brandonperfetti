@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
+> When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
 >
-> <p>- Alexis Carrel</p>
+> <p>- A. Powell Davies</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
