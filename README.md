@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The superior man understands what is right; the inferior man understands what will sell.
+> All of our technology is completely unnecessary to a happy life.
 >
-> <p>- Confucius</p>
+> <p>- Tom Hodgkinson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
