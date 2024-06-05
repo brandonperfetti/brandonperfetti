@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
+> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
 >
-> <p>- Sidney Hook</p>
+> <p>- Alexis Carrel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
