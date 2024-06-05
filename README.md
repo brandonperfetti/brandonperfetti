@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> God made me fast. And when I run, I feel His pleasure.
+> If a man does his best, what else is there?
 >
-> <p>- Eric Liddell</p>
+> <p>- George S. Patton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
