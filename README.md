@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.
+> What wisdom can you find that is greater than kindness?
 >
-> <p>- Don DeLillo</p>
+> <p>- Jean-Jacques Rousseau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
