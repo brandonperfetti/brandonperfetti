@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Argue for your limitations, and sure enough they're yours.
+> God made me fast. And when I run, I feel His pleasure.
 >
-> <p>- Richard Bach</p>
+> <p>- Eric Liddell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
