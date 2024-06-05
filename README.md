@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All of our technology is completely unnecessary to a happy life.
+> Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit.
 >
-> <p>- Tom Hodgkinson</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
