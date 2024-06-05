@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Meditate … do not delay, lest you later regret it.
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
 >
-> <p>- The Buddha</p>
+> <p>- John Quincy Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
