@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Whenever something negative happens to you, there is a deep lesson concealed within it.
+> Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- John Dewey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
