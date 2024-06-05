@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
+> Just as much as we see in others, we have in ourselves.
 >
-> <p>- A. Powell Davies</p>
+> <p>- William Hazlitt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
