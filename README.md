@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Just as much as we see in others, we have in ourselves.
+> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
 >
-> <p>- William Hazlitt</p>
+> <p>- Melody Beattie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
