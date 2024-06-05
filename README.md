@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What wisdom can you find that is greater than kindness?
+> Don't wait. The time will never be just right.
 >
-> <p>- Jean-Jacques Rousseau</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
