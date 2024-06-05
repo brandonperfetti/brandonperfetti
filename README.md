@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't wait. The time will never be just right.
+> Argue for your limitations, and sure enough they're yours.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
