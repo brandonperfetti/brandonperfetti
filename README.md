@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Let us always meet each other with smile, for the smile is the beginning of love.
+> Whenever something negative happens to you, there is a deep lesson concealed within it.
 >
-> <p>- Mother Teresa</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
