@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One friend in a lifetime is much; two are many; three are hardly possible. Friendship needs a certain parallelism of life, a community of thought, a rivalry of aim.
+> The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.
 >
-> <p>- Brooks Adams</p>
+> <p>- Babe Ruth</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
