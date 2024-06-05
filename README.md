@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nobody will believe in you unless you believe in yourself.
+> The superior man understands what is right; the inferior man understands what will sell.
 >
-> <p>- Liberace</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
