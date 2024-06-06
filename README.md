@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
+> Computers are useless. They can only give you answers.
 >
-> <p>- Whoopi Goldberg</p>
+> <p>- Pablo Picasso</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
