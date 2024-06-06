@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err.
+> Technology made large populations possible; large populations now make technology indispensable.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Joseph Wood Krutch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
