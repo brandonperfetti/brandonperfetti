@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You won't skid if you stay in a rut.
+> Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
 >
-> <p>- Kin Hubbard</p>
+> <p>- Whoopi Goldberg</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
