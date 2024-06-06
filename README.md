@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
+> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Audre Lorde</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
