@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Technology made large populations possible; large populations now make technology indispensable.
+> You have to do your own growing no matter how tall your grandfather was.
 >
-> <p>- Joseph Wood Krutch</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
