@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you want things to be different, perhaps the answer is to become different yourself.
+> Everything that exists is in a manner the seed of that which will be.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
