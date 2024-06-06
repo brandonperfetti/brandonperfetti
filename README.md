@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The function of wisdom is to discriminate between good and evil.
+> The most formidable weapon against errors of every kind is reason.
 >
-> <p>- Cicero</p>
+> <p>- Thomas Paine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
