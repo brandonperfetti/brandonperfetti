@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Computers are useless. They can only give you answers.
+> The greatest minds are capable of the greatest vices as well as of the greatest virtues.
 >
-> <p>- Pablo Picasso</p>
+> <p>- René Descartes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
