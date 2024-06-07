@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.
+> To listen well is as powerful a means of communication and influence as to talk well.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- John Marshall</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
