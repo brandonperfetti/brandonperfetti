@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We the people are the rightful masters of both Congress and the courts, not to overthrow the Constitution but to overthrow the men who pervert the Constitution.
+> In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Eric Hoffer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
