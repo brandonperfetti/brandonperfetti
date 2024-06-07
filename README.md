@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You need chaos in your soul to give birth to a dancing star.
+> The higher we are placed, the more humbly we should walk.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
