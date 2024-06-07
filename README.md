@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The higher we are placed, the more humbly we should walk.
+> The person who lives life fully, glowing with life's energy, is the person who lives a successful life.
 >
-> <p>- Cicero</p>
+> <p>- Daisaku Ikeda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
