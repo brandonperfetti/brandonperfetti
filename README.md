@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> God made me fast. And when I run, I feel His pleasure.
+> To command is to serve, nothing more and nothing less.
 >
-> <p>- Eric Liddell</p>
+> <p>- André Malraux</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
