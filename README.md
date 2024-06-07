@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I do not know the American gentleman, god forgive me for putting two such words together.
+> Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> <p>- Charles Dickens</p>
+> <p>- Hal Abelson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
