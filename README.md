@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We can only learn to love by loving.
+> God made me fast. And when I run, I feel His pleasure.
 >
-> <p>- Iris Murdoch</p>
+> <p>- Eric Liddell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
