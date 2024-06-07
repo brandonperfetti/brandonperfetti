@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To command is to serve, nothing more and nothing less.
+> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
 >
-> <p>- André Malraux</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
