@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
+> No day in which you learn something is a complete loss.
 >
-> <p>- Wayne Dyer</p>
+> <p>- David Eddings</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
