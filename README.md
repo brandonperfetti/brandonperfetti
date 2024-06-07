@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
+> Friendship often ends in love, but love in friendship - never.
 >
-> <p>- Elisabeth Kübler-Ross</p>
+> <p>- Albert Camus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
