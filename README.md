@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never find fault with the absent.
+> Nature takes away any faculty that is not used.
 >
-> <p>- Alexander Pope</p>
+> <p>- William Inge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
