@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Freedom is the right to live as we wish.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Epictetus</p>
+> <p>- Hubert Humphrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
