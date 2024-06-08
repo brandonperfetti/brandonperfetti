@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To enjoy life, we must touch much of it lightly.
+> The ladder of success is never crowded at the top.
 >
-> <p>- Voltaire</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
