@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The ladder of success is never crowded at the top.
+> Never find fault with the absent.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Alexander Pope</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
