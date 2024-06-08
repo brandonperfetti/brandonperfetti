@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have often regretted my speech, never my silence.
+> To enjoy life, we must touch much of it lightly.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Voltaire</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
