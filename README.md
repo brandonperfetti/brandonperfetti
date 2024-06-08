@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
