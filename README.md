@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Strong beliefs win strong men, and then make them stronger.
+> The extreme limit of wisdom, that's what the public calls madness.
 >
-> <p>- Richard Bach</p>
+> <p>- Jean Cocteau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
