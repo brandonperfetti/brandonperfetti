@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nature takes away any faculty that is not used.
+> I am an optimist. It does not seem too much use being anything else.
 >
-> <p>- William Inge</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
