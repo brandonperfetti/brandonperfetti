@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The extreme limit of wisdom, that's what the public calls madness.
+> Be yourself; everyone else is already taken.
 >
-> <p>- Jean Cocteau</p>
+> <p>- Oscar Wilde</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
