@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom, compassion, and courage are the three universally recognized moral qualities of men.
+> Be your own hero, it's cheaper than a movie ticket.
 >
-> <p>- Confucius</p>
+> <p>- Doug Horton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
