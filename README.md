@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> The foolish man seeks happiness in the distance, the wise grows it under his feet.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- James Oppenheim</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
