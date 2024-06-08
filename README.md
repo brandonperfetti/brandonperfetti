@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nothing diminishes anxiety faster than action.
+> Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Walter Inglis Anderson</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
