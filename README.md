@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> Until you make peace with who you are, you'll never be content with what you have.
 >
-> <p>- Doug Horton</p>
+> <p>- Doris Mortman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
