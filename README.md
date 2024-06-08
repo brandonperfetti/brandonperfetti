@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I am an optimist. It does not seem too much use being anything else.
+> Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
 >
-> <p>- Winston Churchill</p>
+> <p>- Paul Theroux</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
