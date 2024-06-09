@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who knows that enough is enough will always have enough.
+> Knowledge without justice ought to be called cunning rather than wisdom.
 >
-> <p>- Laozi</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
