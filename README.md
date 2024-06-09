@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We should not give up and we should not allow the problem to defeat us.
+> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Louis Pasteur</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
