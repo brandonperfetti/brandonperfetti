@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You yourself must strive. The Buddhas only point the way.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- The Buddha</p>
+> <p>- Tom Krause</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
