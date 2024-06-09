@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who is fixed to a star does not change his mind.
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
