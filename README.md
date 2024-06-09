@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are no failures. Just experiences and your reactions to them.
+> I can, therefore I am.
 >
-> <p>- Tom Krause</p>
+> <p>- Simone Weil</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
