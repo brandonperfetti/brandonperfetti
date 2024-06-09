@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Winston Churchill</p>
+> <p>- Tony Blair</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
