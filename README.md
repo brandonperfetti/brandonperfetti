@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
+> You yourself must strive. The Buddhas only point the way.
 >
-> <p>- Tony Blair</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
