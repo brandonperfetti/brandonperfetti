@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Cunning... is but the low mimic of wisdom.
+> Life is a succession of lessons, which must be lived to be understood.
 >
-> <p>- Plato</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
