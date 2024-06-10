@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
+> The smaller the mind the greater the conceit.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Aesop</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
