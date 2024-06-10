@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Sincerity is the way of Heaven. The attainment of sincerity is the way of men.
+> Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
 >
-> <p>- Confucius</p>
+> <p>- Hermann Hesse</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
