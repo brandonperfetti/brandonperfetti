@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Difficulties are things that show a person what they are.
+> This is the final test of a gentleman: his respect for those who can be of no possible value to him.
 >
-> <p>- Epictetus</p>
+> <p>- William Lyon Phelps</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
