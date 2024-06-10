@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Numberless are the worlds wonders, but none more wonderful than man.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Sophocles</p>
+> <p>- Henry Ward Beecher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
