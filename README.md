@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Think for yourselves and let others enjoy the privilege to do so too.
+> If you want things to be different, perhaps the answer is to become different yourself.
 >
-> <p>- Voltaire</p>
+> <p>- Norman Vincent Peale</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
