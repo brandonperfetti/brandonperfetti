@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The greatest healing therapy is friendship and love.
+> Difficulties are things that show a person what they are.
 >
-> <p>- Hubert Humphrey</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
