@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
+> It has never been my object to record my dreams, just to realize them.
 >
-> <p>- Louis Pasteur</p>
+> <p>- Man Ray</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
