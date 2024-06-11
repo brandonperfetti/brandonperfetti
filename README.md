@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
+> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
 >
-> <p>- The Buddha</p>
+> <p>- François de La Rochefoucauld</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
