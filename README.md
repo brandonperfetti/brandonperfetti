@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I cannot make my days longer, so I strive to make them better.
+> We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Chuck Swindoll</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
