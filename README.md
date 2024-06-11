@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Silence is deep as Eternity; Speech is shallow as Time.
+> He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
