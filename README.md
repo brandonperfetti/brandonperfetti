@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The most successful people are those who are good at plan B.
+> The most technologically efficient machine that man has ever invented is the book.
 >
-> <p>- James A. Yorke</p>
+> <p>- Northrop Frye</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
