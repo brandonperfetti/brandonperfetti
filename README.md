@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The man of knowledge must be able not only to love his enemies but also to hate his friends.
+> In three words I can sum up everything I've learned about life: it goes on.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Robert Frost</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
