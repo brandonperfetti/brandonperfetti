@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+> In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Harold Geneen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
