@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds.
+> I cannot make my days longer, so I strive to make them better.
 >
-> <p>- Will Durant</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
