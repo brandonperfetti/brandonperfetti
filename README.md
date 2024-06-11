@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
+> Go for it now. The future is promised to no one.
 >
-> <p>- Naguib Mahfouz</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
