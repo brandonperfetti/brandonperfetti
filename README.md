@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To improve is to change; to be perfect is to change often.
+> Conditions fall apart. Persist with diligence.
 >
-> <p>- Winston Churchill</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
