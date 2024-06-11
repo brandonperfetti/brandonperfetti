@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In three words I can sum up everything I've learned about life: it goes on.
+> The most successful people are those who are good at plan B.
 >
-> <p>- Robert Frost</p>
+> <p>- James A. Yorke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
