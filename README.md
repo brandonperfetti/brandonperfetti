@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Excellence is to do a common thing in an uncommon way.
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Isaac Asimov</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
