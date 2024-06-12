@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Rare as is true love, true friendship is rarer.
+> Success consists of going from failure to failure without loss of enthusiasm.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
