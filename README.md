@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can't win unless you learn how to lose.
+> I always wanted to be somebody, but I should have been more specific.
 >
-> <p>- Kareem Abdul-Jabbar</p>
+> <p>- Lily Tomlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
