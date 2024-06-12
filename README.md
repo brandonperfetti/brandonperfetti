@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
+> No person is your friend who demands your silence or denies your right to grow.
 >
-> <p>- Joseph Prince</p>
+> <p>- Alice Walker</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
