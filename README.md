@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One fails forward toward success.
+> We cannot do everything at once, but we can do something at once.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Calvin Coolidge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
