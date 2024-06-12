@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+> As you walk in God's divine wisdom, you will surely begin to see a greater measure of victory and good success in your life.
 >
-> <p>- Isaac Asimov</p>
+> <p>- Joseph Prince</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
