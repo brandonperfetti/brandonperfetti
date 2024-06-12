@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All great achievements require time.
+> Excellence is to do a common thing in an uncommon way.
 >
-> <p>- Maya Angelou</p>
+> <p>- Booker T. Washington</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
