@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Success consists of going from failure to failure without loss of enthusiasm.
+> Follow your instincts. That is where true wisdom manifests itself.
 >
-> <p>- Winston Churchill</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
