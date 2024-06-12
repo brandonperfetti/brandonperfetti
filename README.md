@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
+> Peace begins with a smile.
 >
-> <p>- Robert Southey</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
