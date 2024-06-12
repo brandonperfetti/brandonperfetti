@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
+> The sincere friends of this world are as ship lights in the stormiest of nights.
 >
-> <p>- Louise Hay</p>
+> <p>- Giotto</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
