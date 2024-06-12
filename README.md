@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Follow your instincts. That is where true wisdom manifests itself.
+> The thoughts we choose to think are the tools we use to paint the canvas of our lives.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Louise Hay</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
