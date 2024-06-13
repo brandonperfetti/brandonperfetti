@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> Failure doesn't mean you are a failure it just means you haven't succeeded yet.
 >
-> <p>- Doug Horton</p>
+> <p>- Robert Schuller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
