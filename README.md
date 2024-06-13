@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Walking with a friend in the dark is better than walking alone in the light.
+> It is not so much our friends' help that helps us, as the confidence of their help.
 >
-> <p>- Helen Keller</p>
+> <p>- Epicurus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
