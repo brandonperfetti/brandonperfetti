@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A lie gets halfway around the world before the truth has a chance to get its pants on.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- Winston Churchill</p>
+> <p>- George Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
