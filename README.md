@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You don't choose your family. They are God's gift to you, as you are to them.
+> How we spend our days is, of course, how we spend our lives.
 >
-> <p>- Desmond Tutu</p>
+> <p>- Annie Dillard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
