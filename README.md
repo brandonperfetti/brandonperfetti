@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Many sophisticated, intelligent people lack wisdom and common sense.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> <p>- Joyce Meyer</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
