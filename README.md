@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> How we spend our days is, of course, how we spend our lives.
+> I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.
 >
-> <p>- Annie Dillard</p>
+> <p>- Michael Jordan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
