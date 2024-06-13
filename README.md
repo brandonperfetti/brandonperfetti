@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not so much our friends' help that helps us, as the confidence of their help.
+> Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.
 >
-> <p>- Epicurus</p>
+> <p>- Charles Dickens</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
