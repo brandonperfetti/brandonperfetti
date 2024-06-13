@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Difficulties increase the nearer we get to the goal.
+> Many sophisticated, intelligent people lack wisdom and common sense.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Joyce Meyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
