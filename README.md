@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Humanity is acquiring all the right technology for all the wrong reasons.
+> For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.
 >
-> <p>- Buckminster Fuller</p>
+> <p>- Judy Garland</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
