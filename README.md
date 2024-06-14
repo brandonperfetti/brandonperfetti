@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do good by stealth, and blush to find it fame.
+> Success is getting what you want. Happiness is wanting what you get.
 >
-> <p>- Alexander Pope</p>
+> <p>- Dale Carnegie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
