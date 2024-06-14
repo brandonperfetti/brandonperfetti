@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Only I can change my life. No one can do it for me.
+> It is on our failures that we base a new and different and better success.
 >
-> <p>- Carol Burnett</p>
+> <p>- Havelock Ellis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
