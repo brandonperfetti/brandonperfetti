@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
+> Life is movement-we breathe, we eat, we walk, we move!
 >
-> <p>- Sri Chinmoy</p>
+> <p>- John Pierrakos</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
