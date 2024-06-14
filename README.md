@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- Albert Einstein</p>
+> <p>- Carol Burnett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
