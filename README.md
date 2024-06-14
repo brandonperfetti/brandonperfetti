@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
 >
-> <p>- Sophocles</p>
+> <p>- Sri Chinmoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
