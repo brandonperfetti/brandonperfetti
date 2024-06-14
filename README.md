@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
+> Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
