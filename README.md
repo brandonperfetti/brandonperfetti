@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is on our failures that we base a new and different and better success.
+> Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> <p>- Havelock Ellis</p>
+> <p>- Buckminster Fuller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
