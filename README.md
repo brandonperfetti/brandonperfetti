@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our strength grows out of our weaknesses.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Socrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
