@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
+> There are no failures. Just experiences and your reactions to them.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Tom Krause</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
