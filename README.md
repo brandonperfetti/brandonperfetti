@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> 'As I am, so are these. As are these, so am I.' Drawing the parallel to yourself, neither kill nor get others to kill.
+> And as we let our own light shine, we unconsciously give other people permission to do the same.
 >
-> <p>- The Buddha</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
