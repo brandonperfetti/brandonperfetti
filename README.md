@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is the neglect of timely repair that makes rebuilding necessary.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
-> <p>- Richard Whately</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
