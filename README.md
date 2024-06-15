@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Coming together is a beginning; keeping together is progress; working together is success.
+> By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
