@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
+> The art of progress is to preserve order amid change, and to preserve change amid order.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Alfred North Whitehead</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
