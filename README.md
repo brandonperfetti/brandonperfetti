@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wise men speak because they have something to say; Fools because they have to say something.
+> Adopt the pace of nature: her secret is patience.
 >
-> <p>- Plato</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
