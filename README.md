@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is nothing on this earth more to be prized than true friendship.
+> Whoever doesn't flare up at someone who's angry wins a battle hard to win.
 >
-> <p>- Thomas Aquinas</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
