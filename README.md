@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friends are the siblings God never gave us.
+> There is nothing on this earth more to be prized than true friendship.
 >
-> <p>- Mencius</p>
+> <p>- Thomas Aquinas</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
