@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
+> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Barbara De Angelis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
