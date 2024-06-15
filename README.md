@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
+> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Henry Miller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
