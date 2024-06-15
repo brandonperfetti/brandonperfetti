@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- Barbara De Angelis</p>
+> <p>- Edward Everett Hale</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
