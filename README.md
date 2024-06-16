@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The energy of the mind is the essence of life.
+> All truths are easy to understand once they are discovered; the point is to discover them.
 >
-> <p>- Aristotle</p>
+> <p>- Galileo Galilei</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
