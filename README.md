@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is one mind in two bodies.
+> There is nothing permanent except change.
 >
-> <p>- Mencius</p>
+> <p>- Heraclitus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
