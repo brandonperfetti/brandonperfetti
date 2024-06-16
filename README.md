@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A man who doesn't trust himself can never really trust anyone else.
+> Friendship is certainly the finest balm for the pangs of disappointed love.
 >
-> <p>- Jean François Paul de Gondi</p>
+> <p>- Jane Austen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
