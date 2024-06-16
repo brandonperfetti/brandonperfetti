@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Strength does not come from physical capacity. It comes from an indomitable will.
+> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- J. Willard Marriott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
