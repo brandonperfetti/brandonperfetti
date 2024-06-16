@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A man's growth is seen in the successive choirs of his friends
+> A man who doesn't trust himself can never really trust anyone else.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Jean François Paul de Gondi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
