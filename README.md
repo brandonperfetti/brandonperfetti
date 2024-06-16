@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+> The energy of the mind is the essence of life.
 >
-> <p>- J. Willard Marriott</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
