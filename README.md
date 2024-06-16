@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+> Strength does not come from physical capacity. It comes from an indomitable will.
 >
-> <p>- Dalai Lama</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
