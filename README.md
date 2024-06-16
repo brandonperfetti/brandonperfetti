@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Better than a thousand useless words is one useful word, upon hearing which one attains peace.
+> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
 >
-> <p>- The Buddha</p>
+> <p>- Jane Addams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
