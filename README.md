@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To hell with circumstances, I create opportunities.
+> Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity.
 >
-> <p>- Bruce Lee</p>
+> <p>- Robert Louis Stevenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
