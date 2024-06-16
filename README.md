@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friends... they cherish one another's hopes. They are kind to one another's dreams.
+> Better than a thousand useless words is one useful word, upon hearing which one attains peace.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
