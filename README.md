@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
+> Let your hook always be cast; in the pool where you least expect it, there will be a fish.
 >
-> <p>- Paul Theroux</p>
+> <p>- Ovid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
