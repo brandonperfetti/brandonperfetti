@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I can't believe that God put us on this earth to be ordinary.
+> Friendship is also about liking a person for their failings, their weakness. It's also about mutual help, not about exploitation.
 >
-> <p>- Lou Holtz</p>
+> <p>- Paul Theroux</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
