@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Fine words and an insinuating appearance are seldom associated with true virtue
+> Friendship is one mind in two bodies.
 >
-> <p>- Confucius</p>
+> <p>- Mencius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
