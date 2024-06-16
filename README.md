@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be the change that you want to see in the world.
+> Be like the flower, turn your face to the sun.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
