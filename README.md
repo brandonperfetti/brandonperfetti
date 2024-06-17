@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Strength does not come from physical capacity. It comes from an indomitable will.
+> Do not turn back when you are just at the goal.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Publilius Syrus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
