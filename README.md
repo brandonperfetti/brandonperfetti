@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Where there is love there is life.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
