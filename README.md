@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do not turn back when you are just at the goal.
+> The invariable mark of wisdom is to see the miraculous in the common.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
