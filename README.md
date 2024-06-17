@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Know, first, who you are, and then adorn yourself accordingly.
+> Wisdom begins in wonder.
 >
-> <p>- Epictetus</p>
+> <p>- Socrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
