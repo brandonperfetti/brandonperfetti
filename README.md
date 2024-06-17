@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All human wisdom is summed up in two words; wait and hope.
+> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
 >
-> <p>- Alexandre Dumas</p>
+> <p>- Ernie Banks</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
