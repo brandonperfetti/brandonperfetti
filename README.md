@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love cures people - both the ones who give it and the ones who receive it.
+> All human wisdom is summed up in two words; wait and hope.
 >
-> <p>- Karl Menninger</p>
+> <p>- Alexandre Dumas</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
