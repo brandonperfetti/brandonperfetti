@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Silence at the proper season is wisdom, and better than any speech.
+> Friends are the siblings God never gave us.
 >
-> <p>- Plutarch</p>
+> <p>- Mencius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
