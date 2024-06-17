@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> None knows the weight of another's burden.
 >
-> <p>- Wayne Dyer</p>
+> <p>- George Herbert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
