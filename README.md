@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> None knows the weight of another's burden.
+> In all chaos there is a cosmos, in all disorder a secret order.
 >
-> <p>- George Herbert</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
