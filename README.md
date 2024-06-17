@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friends are the siblings God never gave us.
+> Ignorant men raise questions that wise men answered a thousand years ago.
 >
-> <p>- Mencius</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
