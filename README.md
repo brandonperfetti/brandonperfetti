@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Whatever happens, take responsibility.
+> So is cheerfulness, or a good temper, the more it is spent, the more remains.
 >
-> <p>- Tony Robbins</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
