@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The invariable mark of wisdom is to see the miraculous in the common.
+> To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Ian Botham</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
