@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A man's growth is seen in the successive choirs of his friends
+> My friends are my estate.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Emily Dickinson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
