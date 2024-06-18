@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Without hard work, nothing grows but weeds.
+> Friends show their love in times of trouble, not in happiness.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
