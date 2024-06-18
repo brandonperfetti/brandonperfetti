@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
+> A leader is one who knows the way, goes the way, and shows the way.
 >
-> <p>- Laozi</p>
+> <p>- John C. Maxwell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
