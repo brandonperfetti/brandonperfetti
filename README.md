@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> My friends are my estate.
+> Imagination is the highest kite one can fly.
 >
-> <p>- Emily Dickinson</p>
+> <p>- Lauren Bacall</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
