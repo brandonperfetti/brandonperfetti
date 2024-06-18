@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A leader is one who knows the way, goes the way, and shows the way.
+> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
 >
-> <p>- John C. Maxwell</p>
+> <p>- Nikola Tesla</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
