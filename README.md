@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Better than a thousand hollow words, is one word that brings peace.
+> A man's growth is seen in the successive choirs of his friends
 >
-> <p>- The Buddha</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
