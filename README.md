@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In all things of nature there is something of the marvelous.
+> Better than a thousand hollow words, is one word that brings peace.
 >
-> <p>- Aristotle</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
