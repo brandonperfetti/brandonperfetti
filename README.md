@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The human spirit must prevail over technology.
+> Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
 >
-> <p>- Albert Einstein</p>
+> <p>- Henry van Dyke Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
