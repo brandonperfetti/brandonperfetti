@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is impossible for a man to learn what he thinks he already knows.
+> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
 >
-> <p>- Epictetus</p>
+> <p>- Sri Chinmoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
