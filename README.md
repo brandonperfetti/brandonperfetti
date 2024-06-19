@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing.
+> The place to improve the world is first in one's own heart and head and hands.
 >
-> <p>- Baltasar Gracián</p>
+> <p>- Robert M. Pirsig</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
