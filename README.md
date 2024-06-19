@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Kindness is the golden chain by which society is bound together.
+> Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
