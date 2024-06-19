@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
+> Our passion is our strength.
 >
-> <p>- Peter Drucker</p>
+> <p>- Billie Armstrong</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
