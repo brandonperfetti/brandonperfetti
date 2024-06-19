@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The more you like yourself, the less you are like anyone else, which makes you unique.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 >
-> <p>- Walt Disney</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
