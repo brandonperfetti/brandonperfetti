@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> It always seems impossible until it's done.
 >
-> <p>- Billie Armstrong</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
