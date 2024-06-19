@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It always seems impossible until it's done.
+> Kindness is the golden chain by which society is bound together.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
