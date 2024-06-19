@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Honesty is the first chapter in the book of wisdom.
+> Watch the little things; a small leak will sink a great ship.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
