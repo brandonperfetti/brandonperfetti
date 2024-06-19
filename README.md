@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
+> What worries you masters you.
 >
-> <p>- Sri Chinmoy</p>
+> <p>- Haddon Robinson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
