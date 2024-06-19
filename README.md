@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The philosophy of the school room in one generation will be the philosophy of government in the next.
+> If I were two-faced, would I be wearing this one?
 >
 > <p>- Abraham Lincoln</p>
 
