@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
+> Start with what is right rather than what is acceptable.
 >
-> <p>- Amy Bloom</p>
+> <p>- Franz Kafka</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
