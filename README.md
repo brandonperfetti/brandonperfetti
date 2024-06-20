@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If opportunity doesn't knock, build a door.
+> Kindness is the language which the deaf can hear and the blind can see.
 >
-> <p>- Milton Berle</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
