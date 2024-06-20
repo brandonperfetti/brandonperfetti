@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Technology is the campfire around which we tell our stories.
+> When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.
 >
-> <p>- Laurie Anderson</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
