@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
+> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
 >
-> <p>- Tony Robbins</p>
+> <p>- Amy Tan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
