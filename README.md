@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Kindness is the language which the deaf can hear and the blind can see.
+> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
 >
-> <p>- Mark Twain</p>
+> <p>- Amy Bloom</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
