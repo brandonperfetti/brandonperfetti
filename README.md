@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One is not called noble who harms living beings. By not harming living beings one is called noble.
+> Technology is the campfire around which we tell our stories.
 >
-> <p>- The Buddha</p>
+> <p>- Laurie Anderson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
