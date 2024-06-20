@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You must do the things you think you cannot do.
+> To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Joan Didion</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
