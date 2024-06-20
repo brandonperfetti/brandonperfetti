@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.
+> We must learn our limits. We are all something, but none of us are everything.
 >
-> <p>- Amy Tan</p>
+> <p>- Blaise Pascal</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
