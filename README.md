@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If a man going down into a river, swollen and swiftly flowing, is carried away by the current — how can he help others across? – The Buddha
+> One is not called noble who harms living beings. By not harming living beings one is called noble.
 >
 > <p>- The Buddha</p>
 
