@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We shall never know all the good that a simple smile can do.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- Mother Teresa</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
