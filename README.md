@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> If a man going down into a river, swollen and swiftly flowing, is carried away by the current — how can he help others across? – The Buddha
 >
-> <p>- Blaise Pascal</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
