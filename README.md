@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What worries you masters you.
+> If opportunity doesn't knock, build a door.
 >
-> <p>- Haddon Robinson</p>
+> <p>- Milton Berle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
