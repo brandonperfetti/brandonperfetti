@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> It is only when the mind and character slumber that the dress can be seen.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
