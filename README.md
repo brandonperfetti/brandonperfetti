@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
 > <p>- Laozi</p>
 
