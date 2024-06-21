@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
