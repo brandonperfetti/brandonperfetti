@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Time is the wisest counsellor of all.
+> In action a great heart is the chief qualification. In work, a great head.
 >
-> <p>- Pericles</p>
+> <p>- Arthur Schopenhauer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
