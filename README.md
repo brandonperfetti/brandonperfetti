@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you find yourself in a hole, the first thing to do is stop digging.
+> To want to be what one can be is purpose in life.
 >
-> <p>- Will Rogers</p>
+> <p>- Cynthia Ozick</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
