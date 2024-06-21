@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not only for what we do that we are held responsible, but also for what we do not do.
+> Never mistake motion for action.
 >
-> <p>- Molière</p>
+> <p>- Ernest Hemingway</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
