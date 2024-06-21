@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In action a great heart is the chief qualification. In work, a great head.
+> Without hard work, nothing grows but weeds.
 >
-> <p>- Arthur Schopenhauer</p>
+> <p>- Gordon Hinckley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
