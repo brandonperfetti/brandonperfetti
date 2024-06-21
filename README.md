@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To want to be what one can be is purpose in life.
+> It is not only for what we do that we are held responsible, but also for what we do not do.
 >
-> <p>- Cynthia Ozick</p>
+> <p>- Molière</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
