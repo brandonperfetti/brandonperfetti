@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Without hard work, nothing grows but weeds.
+> Love is flower like; Friendship is like a sheltering tree.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Samuel Taylor Coleridge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
