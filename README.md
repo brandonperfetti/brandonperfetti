@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Learning is finding out what you already know.
+> Fear makes strangers of people who would be friends.
 >
-> <p>- Richard Bach</p>
+> <p>- Shirley MacLaine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
