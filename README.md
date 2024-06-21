@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Hope arouses, as nothing else can arouse, a passion for the possible.
+> Learning is finding out what you already know.
 >
-> <p>- William Sloane Coffin</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
