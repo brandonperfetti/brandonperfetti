@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is flower like; Friendship is like a sheltering tree.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- Dwight D. Eisenhower</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
