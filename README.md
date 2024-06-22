@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Discipline is the bridge between goals and accomplishment.
+> If you don't know where you are going, any road will get you there.
 >
-> <p>- Jim Rohn</p>
+> <p>- Lewis Carroll</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
