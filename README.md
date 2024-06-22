@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The world makes way for the man who knows where he is going.
+> Positive thinking will let you do everything better than negative thinking will.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Zig Ziglar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
