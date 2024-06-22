@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you don't know where you are going, any road will get you there.
+> It is easier to live through someone else than to become complete yourself.
 >
-> <p>- Lewis Carroll</p>
+> <p>- Betty Friedan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
