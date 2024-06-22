@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not so important to know everything as to appreciate what we learn.
+> Technology is teaching us to be human again.
 >
-> <p>- Hannah More</p>
+> <p>- Simon Mainwaring</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
