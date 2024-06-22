@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Chaos and Order are not enemies, only opposites.
+> Success is getting what you want. Happiness is wanting what you get.
 >
-> <p>- Richard Garriott</p>
+> <p>- Dale Carnegie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
