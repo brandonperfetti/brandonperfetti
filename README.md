@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Adopt the pace of nature: her secret is patience.
+> Kind words can be short and easy to speak, but their echoes are truly endless.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
