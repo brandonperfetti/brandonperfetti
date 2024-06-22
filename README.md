@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> May our hearts garden of awakening bloom with hundreds of flowers.
+> I think and that is all that I am.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
