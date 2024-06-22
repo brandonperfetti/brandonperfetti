@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Light tomorrow with today!
+> Discipline is the bridge between goals and accomplishment.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- Jim Rohn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
