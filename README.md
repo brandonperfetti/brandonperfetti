@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Silence is a source of great strength.
+> If you have a harem of 40 women, you never get to know any of them very well.
 >
-> <p>- Laozi</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
