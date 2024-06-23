@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Smile, breathe and go slowly.
+> Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Thomas Carlyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
