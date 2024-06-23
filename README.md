@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It's supposed to be automatic, but actually you have to push this button.
+> Learn from yesterday, live for today, hope for tomorrow.
 >
-> <p>- John Brunner</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
