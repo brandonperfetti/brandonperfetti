@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Imagination is the living power and prime agent of all human perception.
+> It's supposed to be automatic, but actually you have to push this button.
 >
-> <p>- Samuel Taylor Coleridge</p>
+> <p>- John Brunner</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
