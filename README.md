@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To see things in the seed, that is genius.
+> You do not become good by trying to be good, but by finding the goodness that is already within you.
 >
-> <p>- Laozi</p>
+> <p>- Eckhart Tolle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
