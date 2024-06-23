@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life.
+> To see things in the seed, that is genius.
 >
-> <p>- Sigmund Freud</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
