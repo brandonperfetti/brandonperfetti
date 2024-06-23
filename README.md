@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Learn from yesterday, live for today, hope for tomorrow.
+> It has become appallingly obvious that our technology has exceeded our humanity.
 >
 > <p>- Albert Einstein</p>
 
