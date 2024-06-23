@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I want my friend to miss me as long as I miss him.
+> Life is a travelling to the edge of knowledge, then a leap taken.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Laurence J. Peter</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
