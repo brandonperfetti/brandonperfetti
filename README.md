@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All achievements, all earned riches, have their beginning in an idea.
+> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Dale Turner</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
