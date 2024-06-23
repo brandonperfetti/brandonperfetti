@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can't cross the sea merely by standing and staring at the water.
+> I want my friend to miss me as long as I miss him.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Augustine of Hippo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
