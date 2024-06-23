@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In skating over thin ice our safety is in our speed.
+> The awareness of our own strength makes us modest.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Paul Cézanne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
