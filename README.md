@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Every great advance in science has issued from a new audacity of the imagination.
+> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
 >
-> <p>- John Dewey</p>
+> <p>- Daisaku Ikeda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
