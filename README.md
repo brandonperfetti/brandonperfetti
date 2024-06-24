@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.
+> Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if already dead.
 >
 > <p>- The Buddha</p>
 
