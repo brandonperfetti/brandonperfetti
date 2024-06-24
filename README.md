@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It has been my experience that folks who have no vices have very few virtues.
+> The ballot is stronger than the bullet.
 >
 > <p>- Abraham Lincoln</p>
 
