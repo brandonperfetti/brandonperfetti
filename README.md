@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Heedfulness is the path to the Deathless. Heedlessness is the path to death. The heedful die not. The heedless are as if already dead.
+> The sincere friends of this world are as ship lights in the stormiest of nights.
 >
-> <p>- The Buddha</p>
+> <p>- Giotto</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
