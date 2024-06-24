@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship, like the immortality of the soul, is too good to be believed.
+> Life is movement-we breathe, we eat, we walk, we move!
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John Pierrakos</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
