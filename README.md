@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
+> The things that one most wants to do are the things that are probably most worth doing.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Winifred Holtby</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
