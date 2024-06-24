@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The ballot is stronger than the bullet.
+> In all chaos there is a cosmos, in all disorder a secret order.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
