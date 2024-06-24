@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To get the full value of joy you must have someone to divide it with.
+> If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.
 >
-> <p>- Mark Twain</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
