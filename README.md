@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It has become appallingly obvious that our technology has exceeded our humanity.
+> No yesterdays are ever wasted for those who give themselves to today.
 >
-> <p>- Albert Einstein</p>
+> <p>- Brendan Behan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
