@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Ignorant men don't know what good they hold in their hands until they've flung it away.
+> To be tested is good. The challenged life may be the best therapist.
 >
-> <p>- Sophocles</p>
+> <p>- Gail Sheehy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
