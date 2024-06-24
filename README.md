@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nothing in life is to be feared. It is only to be understood.
+> You can't shake hands with a clenched fist.
 >
-> <p>- Marie Curie</p>
+> <p>- Indira Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
