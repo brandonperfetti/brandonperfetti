@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I always wanted to be somebody, but I should have been more specific.
+> To get the full value of joy you must have someone to divide it with.
 >
-> <p>- Lily Tomlin</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
