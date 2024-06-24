@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> Friendship, like the immortality of the soul, is too good to be believed.
 >
-> <p>- Sophocles</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
