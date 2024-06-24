@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
+> Beware of missing chances; otherwise it may be altogether too late someday.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Franz Liszt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
