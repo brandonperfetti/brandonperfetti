@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No yesterdays are ever wasted for those who give themselves to today.
+> Every great advance in science has issued from a new audacity of the imagination.
 >
-> <p>- Brendan Behan</p>
+> <p>- John Dewey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
