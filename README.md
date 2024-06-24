@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
+> Nothing in life is to be feared. It is only to be understood.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Marie Curie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
