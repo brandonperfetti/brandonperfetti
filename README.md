@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do more than dream: work.
+> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Anne Brontë</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
