@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The years teach much which the days never know.
+> Do more than dream: work.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- William Arthur Ward</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
