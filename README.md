@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In all chaos there is a cosmos, in all disorder a secret order.
+> The farther backward you can look, the farther forward you can see.
 >
-> <p>- Carl Jung</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
