@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The farther backward you can look, the farther forward you can see.
+> The essence of true friendship is to make allowance for another's little lapses.
 >
-> <p>- Winston Churchill</p>
+> <p>- Ovid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
