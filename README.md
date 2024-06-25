@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who has imagination without learning has wings but no feet.
+> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
 >
-> <p>- Joseph Joubert</p>
+> <p>- Margaret Cousins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
