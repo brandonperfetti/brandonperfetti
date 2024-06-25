@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The essence of true friendship is to make allowance for another's little lapses.
+> If you can dream it, you can do it.
 >
-> <p>- Ovid</p>
+> <p>- Walt Disney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
