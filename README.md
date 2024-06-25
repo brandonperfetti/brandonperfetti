@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is more wisdom in your body than in your deepest philosophy.
+> Fears are nothing more than a state of mind.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
