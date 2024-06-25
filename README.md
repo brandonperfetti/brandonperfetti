@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.
+> The ladder of success is never crowded at the top.
 >
-> <p>- Margaret Cousins</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
