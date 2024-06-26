@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Thought is the blossom; language the bud; action the fruit behind it.
+> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
