@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
+> It is not wisdom but Authority that makes a law.
 >
-> <p>- Anatole France</p>
+> <p>- Thomas Hobbes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
