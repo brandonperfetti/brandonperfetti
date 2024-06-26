@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All serious daring starts from within.
+> We are made wise not by the recollection of our past, but by the responsibility for our future.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
