@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not wisdom but Authority that makes a law.
+> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
 >
-> <p>- Thomas Hobbes</p>
+> <p>- Honoré de Balzac</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
