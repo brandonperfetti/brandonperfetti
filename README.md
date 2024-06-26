@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
+> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Julie Morgenstern</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
