@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
+> It's easier to resist at the beginning than at the end.
 >
-> <p>- René Descartes</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
