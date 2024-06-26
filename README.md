@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
+> The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
 >
-> <p>- Hanya Yanagihara</p>
+> <p>- Henry Miller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
