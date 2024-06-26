@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> Never mistake motion for action.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Ernest Hemingway</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
