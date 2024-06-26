@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be as you wish to seem.
+> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
 >
-> <p>- Socrates</p>
+> <p>- Edward Young</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
