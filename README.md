@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I am always doing that which I cannot do, in order that I may learn how to do it.
+> Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Zhuang Zhou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
