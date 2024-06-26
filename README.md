@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+> I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.
 >
-> <p>- Albert Einstein</p>
+> <p>- Isocrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
