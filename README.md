@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
+> All serious daring starts from within.
 >
-> <p>- Edward Young</p>
+> <p>- Harriet Beecher Stowe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
