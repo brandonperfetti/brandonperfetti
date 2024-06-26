@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you love life, don't waste time, for time is what life is made up of.
+> Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
 >
-> <p>- Bruce Lee</p>
+> <p>- Hanya Yanagihara</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
