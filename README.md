@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
