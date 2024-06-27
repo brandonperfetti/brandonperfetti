@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To be happy is to be able to become aware of oneself without fright.
+> Better than a thousand useless words is one useful word, upon hearing which one attains peace.
 >
-> <p>- Walter Benjamin</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
