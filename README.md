@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All of our technology is completely unnecessary to a happy life.
+> No man can succeed in a line of endeavor which he does not like.
 >
-> <p>- Tom Hodgkinson</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
