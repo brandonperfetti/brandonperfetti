@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> True friendship is like sound health; the value of it is seldom known until it is lost.
+> So long as a person is capable of self-renewal they are a living being.
 >
-> <p>- Charles Caleb Colton</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
