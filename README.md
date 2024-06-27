@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If with a pure mind a person speaks or acts, happiness follows them like a never-departing shadow.
+> To be happy is to be able to become aware of oneself without fright.
 >
-> <p>- The Buddha</p>
+> <p>- Walter Benjamin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
