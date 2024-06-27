@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Eternal nothingness is fine if you happen to be dressed for it.
+> When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.
 >
-> <p>- Woody Allen</p>
+> <p>- Audre Lorde</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
