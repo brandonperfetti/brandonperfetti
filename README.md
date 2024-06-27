@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
+> It is easier to live through someone else than to become complete yourself.
 >
-> <p>- Norman Vincent Peale</p>
+> <p>- Betty Friedan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
