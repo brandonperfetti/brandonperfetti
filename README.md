@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> An organization, no matter how well designed, is only as good as the people who live and work in it.
+> With every experience, you alone are painting your own canvas, thought by thought, choice by choice.
 >
-> <p>- Dee Hock</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
