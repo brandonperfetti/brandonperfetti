@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> More often than not, anger is actually an indication of weakness rather than of strength.
+> Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.
 >
-> <p>- Dalai Lama</p>
+> <p>- Satchel Paige</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
