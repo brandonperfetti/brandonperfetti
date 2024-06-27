@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> So long as a person is capable of self-renewal they are a living being.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Marsha Petrie Sue</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
