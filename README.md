@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.
+> Love is a friendship set to music.
 >
-> <p>- Laozi</p>
+> <p>- Joseph Campbell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
