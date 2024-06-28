@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't cry because it's over. Smile because it happened.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
