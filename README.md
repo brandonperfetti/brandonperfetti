@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
+> The root of suffering is attachment.
 >
-> <p>- Alan Watts</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
