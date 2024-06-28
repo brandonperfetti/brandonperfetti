@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Walking with a friend in the dark is better than walking alone in the light.
+> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
 >
-> <p>- Helen Keller</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
