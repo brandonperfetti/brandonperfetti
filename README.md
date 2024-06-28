@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
+> America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
 >
-> <p>- Joan Rivers</p>
+> <p>- Parker Palmer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
