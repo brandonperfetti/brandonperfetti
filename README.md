@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I destroy my enemies when I make them my friends.
+> Walking with a friend in the dark is better than walking alone in the light.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
