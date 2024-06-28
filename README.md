@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Those who dare to fail miserably can achieve greatly.
+> Decision is a risk rooted in the courage of being free.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Paul Tillich</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
