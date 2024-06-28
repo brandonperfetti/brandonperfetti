@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
+> Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.
 >
-> <p>- Jawaharlal Nehru</p>
+> <p>- Henry James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
