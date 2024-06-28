@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+> Your mind will answer most questions if you learn to relax and wait for the answer.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- William Burroughs</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
