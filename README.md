@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I know but one freedom and that is the freedom of the mind.
+> Most great people have attained their greatest success just one step beyond their greatest failure.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
