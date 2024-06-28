@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A single lamp may light hundreds of thousands of lamps without itself being diminished.
+> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.
 >
-> <p>- The Buddha</p>
+> <p>- Joan Rivers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
