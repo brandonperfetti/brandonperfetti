@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is a friendship set to music.
+> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
 >
-> <p>- Joseph Campbell</p>
+> <p>- Jawaharlal Nehru</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
