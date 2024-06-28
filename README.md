@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe.
+> Silence is deep as Eternity; Speech is shallow as Time.
 >
-> <p>- Alan Watts</p>
+> <p>- Thomas Carlyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
