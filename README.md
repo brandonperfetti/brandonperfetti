@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have learned that to be with those I like is enough.
+> Those who dare to fail miserably can achieve greatly.
 >
-> <p>- Walt Whitman</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
