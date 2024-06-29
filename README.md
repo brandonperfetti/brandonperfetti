@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Thought is the blossom; language the bud; action the fruit behind it.
+> What is a weed? A plant whose virtues have not yet been discovered.
 >
 > <p>- Ralph Waldo Emerson</p>
 
