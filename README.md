@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.
+> Liberty, taking the word in its concrete sense, consists in the ability to choose.
 >
-> <p>- Victoria Osteen</p>
+> <p>- Simone Weil</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
