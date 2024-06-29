@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
+> Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
 >
-> <p>- Julie Morgenstern</p>
+> <p>- William Arthur Ward</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
