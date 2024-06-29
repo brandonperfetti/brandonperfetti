@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are many ways of going forward, but only one way of standing still.
+> Happiness is the reward we get for living to the highest right we know.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
