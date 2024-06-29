@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
+> I think that we have a great opportunity to impart our wisdom and our knowledge and our experience to this younger generation. It may be different times, but experience transcends time, and wisdom transcends time.
 >
-> <p>- Steve Jobs</p>
+> <p>- Victoria Osteen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
