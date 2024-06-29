@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What is a weed? A plant whose virtues have not yet been discovered.
+> Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
