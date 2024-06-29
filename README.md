@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Silence is deep as Eternity; Speech is shallow as Time.
+> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Steve Jobs</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
