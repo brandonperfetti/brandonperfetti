@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.
+> Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.
 >
-> <p>- Sam Walton</p>
+> <p>- Julie Morgenstern</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
