@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We should not give up and we should not allow the problem to defeat us.
+> The truest wisdom is a resolute determination.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Napoleon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
