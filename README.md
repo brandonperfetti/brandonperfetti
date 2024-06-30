@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Trying to sneak a fastball past Hank Aaron is like trying to sneak the sunrise past a rooster.
+> Wherever you go, go with all your heart.
 >
-> <p>- Joe Adcock</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
