@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Watch the little things; a small leak will sink a great ship.
+> It's the little details that are vital. Little things make big things happen.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- John Wooden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
