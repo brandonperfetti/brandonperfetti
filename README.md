@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
+> Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.
 >
-> <p>- François de La Rochefoucauld</p>
+> <p>- Melody Beattie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
