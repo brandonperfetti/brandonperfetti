@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Imagination is not a talent of some men but is the health of every man.
+> Watch the little things; a small leak will sink a great ship.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
