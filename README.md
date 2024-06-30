@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't judge each day by the harvest you reap but by the seeds that you plant.
+> In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.
 >
-> <p>- Robert Louis Stevenson</p>
+> <p>- François de La Rochefoucauld</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
