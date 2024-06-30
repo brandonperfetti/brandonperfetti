@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Pick battles big enough to matter, small enough to win.
+> God has given you one face, and you make yourself another.
 >
-> <p>- Jonathan Kozol</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
