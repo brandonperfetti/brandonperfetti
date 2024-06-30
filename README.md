@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We choose our joys and sorrows long before we experience them.
+> Technology presumes there's just one right way to do things and there never is.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Robert M. Pirsig</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
