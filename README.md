@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> God has given you one face, and you make yourself another.
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- William Shakespeare</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
