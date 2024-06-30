@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The truest wisdom is a resolute determination.
+> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
 >
-> <p>- Napoleon</p>
+> <p>- Thomas Carlyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
