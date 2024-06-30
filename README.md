@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Almost everything comes from nothing.
+> Don't judge each day by the harvest you reap but by the seeds that you plant.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Robert Louis Stevenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
