@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The world is but a canvas to the imagination.
+> Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
 >
-> <p>- Henry David Thoreau</p>
+> <p>- George Eliot</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
