@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Successful people ask better questions, and as a result, they get better answers.
+> Delight in heedfulness! Guard well your thoughts!
 >
-> <p>- Tony Robbins</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
