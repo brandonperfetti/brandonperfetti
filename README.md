@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who fears being conquered is sure of defeat.
+> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
 >
-> <p>- Napoleon</p>
+> <p>- Dhammapada</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
