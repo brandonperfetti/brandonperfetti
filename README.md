@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Take things as they are. Punch when you have to punch. Kick when you have to kick.
+> Life is so constructed that an event does not, cannot, will not, match the expectation.
 >
-> <p>- Bruce Lee</p>
+> <p>- Charlotte Brontë</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
