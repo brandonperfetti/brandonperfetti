@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is rarer than genius itself. And friendship is rarer than love.
+> He who fears being conquered is sure of defeat.
 >
-> <p>- Charles Péguy</p>
+> <p>- Napoleon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
