@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The calmed say that what is well-spoken is best; second, that one should say what is right, not unrighteous; third, what's pleasing, not displeasing; fourth, what is true, not false.
+> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
 >
-> <p>- The Buddha</p>
+> <p>- Anatole France</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
