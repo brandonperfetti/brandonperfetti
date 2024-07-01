@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Only when we are no longer afraid do we begin to live.
+> There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Alfred Korzybski</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
