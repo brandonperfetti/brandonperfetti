@@ -178,7 +178,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do I speak at the right time, or not? Do I speak of facts, or not? Do I speak gently or harshly? Do I speak profitable words or not? Do I speak with a kindly heart, or inwardly malicious?
+> One is not called noble who harms living beings. By not harming living beings one is called noble.
 >
 > <p>- The Buddha</p>
 
