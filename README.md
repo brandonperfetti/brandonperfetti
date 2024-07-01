@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?
+> Successful people ask better questions, and as a result, they get better answers.
 >
-> <p>- George Eliot</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
