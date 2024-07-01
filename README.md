@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To see things in the seed, that is genius.
+> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
 >
-> <p>- Laozi</p>
+> <p>- Walter Lippmann</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
