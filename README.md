@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Anatole France</p>
+> <p>- Stewart Brand</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
