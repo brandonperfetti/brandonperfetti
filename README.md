@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is so constructed that an event does not, cannot, will not, match the expectation.
+> I know not age, nor weariness nor defeat.
 >
-> <p>- Charlotte Brontë</p>
+> <p>- Rose Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
