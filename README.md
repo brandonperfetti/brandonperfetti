@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I know not age, nor weariness nor defeat.
+> The world is but a canvas to the imagination.
 >
-> <p>- Rose Kennedy</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
