@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
+> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
 >
-> <p>- Dhammapada</p>
+> <p>- Chuck Norris</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
