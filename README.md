@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One is not called noble who harms living beings. By not harming living beings one is called noble.
+> By living deeply in the present moment we can understand the past better and we can prepare for a better future.
 >
-> <p>- The Buddha</p>
+> <p>- Thích Nhất Hạnh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
