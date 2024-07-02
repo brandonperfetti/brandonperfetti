@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Fear makes strangers of people who would be friends.
+> You win the victory when you yield to friends.
 >
-> <p>- Shirley MacLaine</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
