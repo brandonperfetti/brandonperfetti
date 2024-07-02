@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To profit from good advice requires more wisdom than to give it.
+> Fear makes strangers of people who would be friends.
 >
-> <p>- Wilson Mizner</p>
+> <p>- Shirley MacLaine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
