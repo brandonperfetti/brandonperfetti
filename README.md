@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.
+> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
 >
-> <p>- Winston Churchill</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
