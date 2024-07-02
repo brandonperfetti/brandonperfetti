@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> While we stop to think, we often miss our opportunity.
+> We can change our lives. We can do, have, and be exactly what we wish.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
