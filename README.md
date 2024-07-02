@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Believe you can and you're halfway there.
+> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Fawn M. Brodie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
