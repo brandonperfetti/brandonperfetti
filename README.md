@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
+> Freedom is not worth having if it does not connote freedom to err.
 >
-> <p>- Fawn M. Brodie</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
