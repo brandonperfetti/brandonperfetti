@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you love someone, set them free. If they come back, they're yours; if they don't, they never were.
+> Impossibilities are merely things which we have not yet learned.
 >
-> <p>- Richard Bach</p>
+> <p>- Charles W. Chesnutt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
