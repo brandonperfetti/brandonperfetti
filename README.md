@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You win the victory when you yield to friends.
+> Do you know what my favorite part of the game is? The opportunity to play.
 >
-> <p>- Sophocles</p>
+> <p>- Mike Singletary (basketball)</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
