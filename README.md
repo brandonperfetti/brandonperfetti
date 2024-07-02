@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Let there be no purpose in friendship save the deepening of the spirit.
+> While we stop to think, we often miss our opportunity.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Publilius Syrus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
