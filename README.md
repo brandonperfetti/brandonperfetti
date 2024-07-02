@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Either you run the day or the day runs you.
+> Your worst enemy cannot harm you as much as your own unguarded thoughts.
 >
-> <p>- Jim Rohn</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
