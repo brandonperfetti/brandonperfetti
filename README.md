@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Impossibilities are merely things which we have not yet learned.
+> In wisdom gathered over time I have found that every experience is a form of exploration.
 >
-> <p>- Charles W. Chesnutt</p>
+> <p>- Ansel Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
