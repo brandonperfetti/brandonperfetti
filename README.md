@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Freedom is the right to live as we wish.
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 >
-> <p>- Epictetus</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
