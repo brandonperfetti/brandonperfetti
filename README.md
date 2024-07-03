@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All the great performers I have worked with are fueled by a personal dream.
+> Freedom is the right to live as we wish.
 >
-> <p>- John Eliot</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
