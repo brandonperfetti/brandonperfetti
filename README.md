@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+> Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others
 >
-> <p>- Sophocles</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
