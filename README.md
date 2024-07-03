@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Things that were hard to bear are sweet to remember.
+> I cannot make my days longer, so I strive to make them better.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
