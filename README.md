@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Experience is not what happens to you; it's what you do with what happens to you.
+> True friendship is like sound health; the value of it is seldom known until it is lost.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Charles Caleb Colton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
