@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
+> How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such fabulous arabesque of nerves as the brain can experience itself anything less than a god.
 >
-> <p>- W. Clement Stone</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
