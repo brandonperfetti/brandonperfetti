@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is impossible for a man to learn what he thinks he already knows.
+> Time is the wisest counsellor of all.
 >
-> <p>- Epictetus</p>
+> <p>- Pericles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
