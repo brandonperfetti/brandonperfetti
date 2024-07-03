@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We must become the change we want to see.
+> All the great performers I have worked with are fueled by a personal dream.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- John Eliot</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
