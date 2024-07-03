@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
+> We know what we are but know not what we may be.
 >
-> <p>- Marcia Fudge</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
