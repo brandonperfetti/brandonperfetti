@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
+> To want to be what one can be is purpose in life.
 >
-> <p>- Ken Venturi</p>
+> <p>- Cynthia Ozick</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
