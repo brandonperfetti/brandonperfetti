@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I cannot make my days longer, so I strive to make them better.
+> Friendship increases in visiting friends, but in visiting them seldom.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Francis Bacon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
