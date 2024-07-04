@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present.
+> I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
 >
-> <p>- Laozi</p>
+> <p>- Ken Venturi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
