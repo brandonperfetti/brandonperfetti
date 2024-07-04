@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have done my best: that is about all the philosophy of living one needs.
+> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
 >
-> <p>- Lin Yutang</p>
+> <p>- Margaret Thatcher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
