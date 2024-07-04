@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship increases in visiting friends, but in visiting them seldom.
+> Those who dream by day are cognizant of many things which escape those who dream only by night.
 >
-> <p>- Francis Bacon</p>
+> <p>- Edgar Allan Poe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
