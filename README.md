@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I'm not afraid of storms, for I'm learning how to sail my ship.
+> Silence at the proper season is wisdom, and better than any speech.
 >
-> <p>- Louisa May Alcott</p>
+> <p>- Plutarch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
