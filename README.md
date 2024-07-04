@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Just as a mother would protect her only child with her life, even so let one cultivate a boundless love towards all beings.
+> Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
 >
-> <p>- The Buddha</p>
+> <p>- Margaret Mead</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
