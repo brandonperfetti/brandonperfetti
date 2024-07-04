@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.
+> Life has no blessing like a prudent friend.
 >
-> <p>- Margaret Thatcher</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
