@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
+> I think somehow, we learn who we really are and then live with that decision.
 >
-> <p>- Dalai Lama</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
