@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others.
+> It is through science that we prove, but through intuition that we discover.
 >
-> <p>- Harriet Lerner</p>
+> <p>- Henri Poincaré</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
