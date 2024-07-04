@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is through science that we prove, but through intuition that we discover.
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- Henri Poincaré</p>
+> <p>- Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
