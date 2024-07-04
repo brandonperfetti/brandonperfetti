@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you do not change direction, you may end up where you are heading.
+> I'm not afraid of storms, for I'm learning how to sail my ship.
 >
-> <p>- Laozi</p>
+> <p>- Louisa May Alcott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
