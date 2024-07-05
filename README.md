@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can't blame gravity for falling in love.
+> Life is about timing.
 >
-> <p>- Albert Einstein</p>
+> <p>- Carl Lewis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
