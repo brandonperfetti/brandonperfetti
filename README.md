@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 >
-> <p>- Henry James</p>
+> <p>- Lou Holtz</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
