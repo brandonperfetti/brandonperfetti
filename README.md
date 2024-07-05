@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is with words as with sunbeams. The more they are condensed, the deeper they burn.
+> Always bear in mind that your own resolution to succeed is more important than any one thing.
 >
-> <p>- Robert Southey</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
