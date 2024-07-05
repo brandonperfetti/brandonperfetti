@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> As we are liberated from our own fear, our presence automatically liberates others.
+> It is with words as with sunbeams. The more they are condensed, the deeper they burn.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Robert Southey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
