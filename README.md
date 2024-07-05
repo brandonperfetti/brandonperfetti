@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When watching after yourself, you watch after others. When watching after others, you watch after yourself.
+> The virtue of justice consists in moderation, as regulated by wisdom.
 >
-> <p>- The Buddha</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
