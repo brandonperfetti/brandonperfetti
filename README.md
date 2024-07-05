@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
+> Much wisdom often goes with fewer words.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
