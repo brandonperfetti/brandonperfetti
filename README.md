@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom often times consists of knowing what to do next.
+> You cannot step twice into the same river, for other waters are continually flowing in.
 >
-> <p>- Herbert Hoover</p>
+> <p>- Heraclitus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
