@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is what happens to you while you're busy making other plans.
+> Can you imagine what I would do if I could do all I can?
 >
-> <p>- John Lennon</p>
+> <p>- Sun Tzu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
