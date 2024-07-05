@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The virtue of justice consists in moderation, as regulated by wisdom.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- Aristotle</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
