@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
+> The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
 >
-> <p>- Helen Keller</p>
+> <p>- Mortimer J. Adler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
