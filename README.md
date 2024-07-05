@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is about timing.
+> Wisdom often times consists of knowing what to do next.
 >
-> <p>- Carl Lewis</p>
+> <p>- Herbert Hoover</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
