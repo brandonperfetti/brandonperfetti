@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The less effort, the faster and more powerful you will be.
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 >
-> <p>- Bruce Lee</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
