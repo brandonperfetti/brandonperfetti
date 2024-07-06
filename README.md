@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The truest wisdom is a resolute determination.
+> If you surrender to the wind, you can ride it.
 >
-> <p>- Napoleon</p>
+> <p>- Toni Morrison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
