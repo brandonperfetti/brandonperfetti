@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> People may doubt what you say, but they will believe what you do.
+> Never apologize for showing feelings. When you do so, you apologize for the truth.
 >
-> <p>- Lewis Cass</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
