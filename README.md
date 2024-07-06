@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Silence is deep as Eternity; Speech is shallow as Time.
+> Always bear in mind that your own resolution to succeed is more important than any one thing.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
