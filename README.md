@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you surrender to the wind, you can ride it.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Toni Morrison</p>
+> <p>- Lewis Cass</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
