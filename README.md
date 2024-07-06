@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is a very taxing and arduous form of leisure activity.
+> It's easier to resist at the beginning than at the end.
 >
-> <p>- Mortimer J. Adler</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
