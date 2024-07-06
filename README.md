@@ -8,7 +8,7 @@
 ### <div align="center">I'm Brandon, **a** software engineer 👨‍💻 working remotely since 2015 🚀</div>
 
 <!-- - 🔭&nbsp; I’m currently working on [Top Timelines](https://toptimelines.com) -->
-- 🌱&nbsp; I’m currently learning [Angular](https://angular.io/) and [.NET](https://dotnet.microsoft.com/en-us/)
+- 🌱&nbsp; I’m currently learning [Vue.js](https://vuejs.org/) and [nuxt.js](https://nuxt.com/)
 - ❓&nbsp; Ask me about anything related to JavaScript, TypeScript, React,
   NextJS, Remix, or Node!
 - ⚡&nbsp; Fun fact: I use tabs over spaces 😉
@@ -61,7 +61,7 @@ SAAS applications. <br/>
 <a href="https://vitest.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/95747107?s=200&v=4" alt="Vitest" height="50" /></a>
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6128107?s=48&v=4" alt="Vue.js" height="50" /></a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
-<a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/colinhacks/zod/raw/master/logo.svg" alt="Zod" height="50" /></a>
+<a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://zod.dev/logo.svg" alt="Zod" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -153,6 +153,7 @@ SAAS applications. <br/>
 17. [Command Line Power User by Wes Bos](https://commandlinepoweruser.com/)
 18. [Just Javascript by Dan Abramov and Maggie Appleton](https://justjavascript.com/)
 19. [Vue School MasterClass by Alex Kyriakidis](https://vueschool.io/courses/the-vuejs-master-class)
+20. [Mastering Nuxt 3 by Michael Thiessen](https://masteringnuxt.com/nuxt3)
 
 ### In Progress Courses
 
@@ -170,17 +171,17 @@ SAAS applications. <br/>
 
 <br/>
 
-## What I'm listening to
+<!-- ## What I'm listening to -->
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=brandonperfetti&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=brandonperfetti&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div> -->
 
-<br/>
+<!-- <br/> -->
 
 ### 📣 How about a quote before you go?
 
-> It is time to remember that old wisdom our soldiers will never forget: that whether we are black or brown or white, we all bleed the same red blood of patriots, we all enjoy the same glorious freedoms, and we all salute the same great American Flag.
+> Friendship is a very taxing and arduous form of leisure activity.
 >
-> <p>- Donald Trump</p>
+> <p>- Mortimer J. Adler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
