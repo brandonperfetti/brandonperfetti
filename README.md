@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any one thing.
+> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Vince Lombardi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
