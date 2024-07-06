@@ -178,9 +178,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The truth you believe and cling to makes you unavailable to hear anything new.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
