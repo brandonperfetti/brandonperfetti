@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
+> We must never forget that it is through our actions, words, and thoughts that we have a choice.
 >
-> <p>- Louis Pasteur</p>
+> <p>- Sogyal Rinpoche</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
