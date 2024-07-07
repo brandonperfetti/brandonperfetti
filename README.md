@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The greatest good you can do for another is not just share your riches but reveal to them their own.
+> If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Vusi Mahlasela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
