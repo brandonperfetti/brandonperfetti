@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't ruin the present with the ruined past.
+> There is only one success - to be able to spend your life in your own way.
 >
-> <p>- Ellen Gilchrist</p>
+> <p>- Christopher Morley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
