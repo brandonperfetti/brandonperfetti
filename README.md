@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
+> And the attitude of faith is the very opposite of clinging to belief, of holding on.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
