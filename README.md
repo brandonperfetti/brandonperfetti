@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> And the attitude of faith is the very opposite of clinging to belief, of holding on.
+> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
 >
-> <p>- Alan Watts</p>
+> <p>- Wolfgang Amadeus Mozart</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
