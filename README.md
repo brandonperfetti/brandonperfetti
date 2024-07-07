@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You have enemies? Good. That means you've stood up for something, sometime in your life.
+> Those who will play with cats must expect to be scratched.
 >
-> <p>- Winston Churchill</p>
+> <p>- Miguel de Cervantes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
