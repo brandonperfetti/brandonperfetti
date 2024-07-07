@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.
+> It's so simple to be wise. Just think of something stupid to say and then don't say it.
 >
-> <p>- Steve Jobs</p>
+> <p>- Sam Levenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
