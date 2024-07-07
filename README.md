@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Start where you are. Use what you have. Do what you can.
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
 >
-> <p>- Arthur Ashe</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
