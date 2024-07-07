@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I always wanted to be somebody, but I should have been more specific.
+> Do one thing every day that scares you.
 >
-> <p>- Lily Tomlin</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
