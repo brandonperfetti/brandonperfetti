@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do one thing every day that scares you.
+> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Napoleon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
