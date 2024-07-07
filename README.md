@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
+> Start where you are. Use what you have. Do what you can.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Arthur Ashe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
