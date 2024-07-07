@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is only one success - to be able to spend your life in your own way.
+> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.
 >
-> <p>- Christopher Morley</p>
+> <p>- Pema Chödrön</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
