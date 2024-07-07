@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It's so simple to be wise. Just think of something stupid to say and then don't say it.
+> Don't ruin the present with the ruined past.
 >
-> <p>- Sam Levenson</p>
+> <p>- Ellen Gilchrist</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
