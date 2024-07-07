@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Vusi Mahlasela</p>
+> <p>- Henry Ward Beecher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
