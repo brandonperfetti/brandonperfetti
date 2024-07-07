@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Those who will play with cats must expect to be scratched.
+> I always wanted to be somebody, but I should have been more specific.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Lily Tomlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
