@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
+> Our lives are a sum total of the choices we have made.
 >
-> <p>- Napoleon</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
