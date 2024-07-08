@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Where there is great love, there are always miracles.
+> Along with success comes a reputation for wisdom.
 >
-> <p>- Willa Cather</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
