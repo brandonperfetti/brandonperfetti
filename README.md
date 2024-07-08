@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
+> If you have a harem of 40 women, you never get to know any of them very well.
 >
-> <p>- Elizabeth Arden</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
