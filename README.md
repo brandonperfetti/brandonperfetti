@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you have a harem of 40 women, you never get to know any of them very well.
+> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
 >
-> <p>- Warren Buffett</p>
+> <p>- Yolanda Hadid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
