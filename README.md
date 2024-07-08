@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who knows others is wise. He who knows himself is enlightened.
+> Numberless are the worlds wonders, but none more wonderful than man.
 >
-> <p>- Laozi</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
