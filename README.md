@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It always seems impossible until it's done.
+> Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions.
 >
-> <p>- Nelson Mandela</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
