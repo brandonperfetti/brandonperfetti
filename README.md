@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is impossible to experience one's death objectively and still carry a tune.
+> He who knows others is wise. He who knows himself is enlightened.
 >
-> <p>- Woody Allen</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
