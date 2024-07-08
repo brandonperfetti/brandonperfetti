@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Along with success comes a reputation for wisdom.
+> If you correct your mind, the rest of your life will fall into place.
 >
-> <p>- Euripides</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
