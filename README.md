@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Truth, and goodness, and beauty are but different faces of the same all.
+> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Francis of Assisi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
