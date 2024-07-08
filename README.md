@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom alone is the science of other sciences.
+> To keep your secret is wisdom; but to expect others to keep it is folly.
 >
-> <p>- Plato</p>
+> <p>- Samuel Johnson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
