@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
+> I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Elizabeth Arden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
