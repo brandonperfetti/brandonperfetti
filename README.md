@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is the marriage of the soul, and this marriage is liable to divorce.
+> Joy is the best makeup.
 >
-> <p>- Voltaire</p>
+> <p>- Anne Lamott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
