@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Inspiration exists, but it has to find us working.
+> A friend is someone who gives you total freedom to be yourself.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Jim Morrison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
