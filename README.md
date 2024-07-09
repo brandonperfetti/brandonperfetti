@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If we open a quarrel between past and present, we shall find that we have lost the future.
+> Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
 >
-> <p>- Winston Churchill</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
