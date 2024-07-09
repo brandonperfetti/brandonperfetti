@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+> If I had only known, I would have been a locksmith.
 >
-> <p>- Benjamin Haydon</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
