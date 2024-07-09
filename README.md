@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A friend is someone who gives you total freedom to be yourself.
+> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
 >
-> <p>- Jim Morrison</p>
+> <p>- Jeff Bezos</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
