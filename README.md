@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We must become the change we want to see.
+> There surely is in human nature an inherent propensity to extract all the good out of all the evil.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Benjamin Haydon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
