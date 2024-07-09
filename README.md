@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
+> And I love that even in the toughest moments, when we're all sweating it - when we're worried that the bill won't pass, and it seems like all is lost - Barack never lets himself get distracted by the chatter and the noise. Just like his grandmother, he just keeps getting up and moving forward... with patience and wisdom, and courage and grace.
 >
-> <p>- Jeff Bezos</p>
+> <p>- Michelle Obama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
