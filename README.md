@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Forgiveness is choosing to love. It is the first skill of self-giving love.
+> The day of fortune is like a harvest day, we must be busy when the corn is ripe.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Torquato Tasso</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
