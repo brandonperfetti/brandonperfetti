@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You're never a loser until you quit trying.
+> True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.
 >
-> <p>- Mike Ditka</p>
+> <p>- George Washington</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
