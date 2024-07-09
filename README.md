@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
+> Inspiration exists, but it has to find us working.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Pablo Picasso</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
