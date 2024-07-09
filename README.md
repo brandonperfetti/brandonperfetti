@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+> The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
 >
-> <p>- Winston Churchill</p>
+> <p>- Honoré de Balzac</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
