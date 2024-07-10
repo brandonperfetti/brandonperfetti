@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do you know what my favorite part of the game is? The opportunity to play.
+> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
 >
-> <p>- Mike Singletary (basketball)</p>
+> <p>- Anne Brontë</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
