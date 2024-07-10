@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It's important to know that words don't move mountains. Work, exacting work moves mountains.
+> Whenever you find yourself on the side of the majority, it is time to pause and reflect.
 >
-> <p>- Danilo Dolci</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
