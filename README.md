@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
+> There is nothing happens to any person but what was in his power to go through with.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
