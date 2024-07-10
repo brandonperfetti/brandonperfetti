@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Muhammad Ali</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
