@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> From wonder into wonder existence opens.
+> Opportunity is missed by most because it is dressed in overalls and looks like work.
 >
-> <p>- Laozi</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
