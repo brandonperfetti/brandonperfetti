@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Henry Ward Beecher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
