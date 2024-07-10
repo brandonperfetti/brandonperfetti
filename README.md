@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
+> Good advice is always certain to be ignored, but that's no reason not to give it.
 >
-> <p>- Anne Brontë</p>
+> <p>- Agatha Christie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
