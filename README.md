@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.
+> Quality is never an accident; it is always the result of intelligent effort.
 >
-> <p>- Thomas Edison</p>
+> <p>- John Ruskin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
