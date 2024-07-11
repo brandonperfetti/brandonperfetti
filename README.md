@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
+> The more light you allow within you, the brighter the world you live in will be.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Shakti Gawain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
