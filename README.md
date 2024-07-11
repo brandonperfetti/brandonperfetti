@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can always count on Americans to do the right thing - after they've tried everything else.
+> An organization, no matter how well designed, is only as good as the people who live and work in it.
 >
-> <p>- Winston Churchill</p>
+> <p>- Dee Hock</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
