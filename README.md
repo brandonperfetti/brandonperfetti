@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No alibi will save you from accepting the responsibility.
+> Miracles come in moments. Be ready and willing.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
