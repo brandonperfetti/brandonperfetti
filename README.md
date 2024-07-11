@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is nothing so useless as doing efficiently that which should not be done at all.
+> To enjoy life, we must touch much of it lightly.
 >
-> <p>- Peter Drucker</p>
+> <p>- Voltaire</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
