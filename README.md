@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Football is football and talent is talent. But the mindset of your team makes all the difference.
+> Lose an hour in the morning, and you will spend all day looking for it.
 >
-> <p>- Robert Griffin III</p>
+> <p>- Richard Whately</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
