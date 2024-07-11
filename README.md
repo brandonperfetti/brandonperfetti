@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
+> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
 >
-> <p>- Confucius</p>
+> <p>- Stewart Brand</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
