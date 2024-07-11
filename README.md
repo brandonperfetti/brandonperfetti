@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We cannot do everything at once, but we can do something at once.
+> Football is football and talent is talent. But the mindset of your team makes all the difference.
 >
-> <p>- Calvin Coolidge</p>
+> <p>- Robert Griffin III</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
