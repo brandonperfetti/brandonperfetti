@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To enjoy life, we must touch much of it lightly.
+> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
 >
-> <p>- Voltaire</p>
+> <p>- Muhammad Ali</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
