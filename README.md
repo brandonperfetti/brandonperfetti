@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> History is written by the victors.
+> The higher we are placed, the more humbly we should walk.
 >
-> <p>- Winston Churchill</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
