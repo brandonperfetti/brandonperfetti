@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Lose an hour in the morning, and you will spend all day looking for it.
+> Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
 >
-> <p>- Richard Whately</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
