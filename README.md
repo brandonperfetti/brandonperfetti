@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.
+> You can always count on Americans to do the right thing - after they've tried everything else.
 >
-> <p>- Elon Musk</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
