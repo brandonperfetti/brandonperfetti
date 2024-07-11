@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Adversity causes some men to break, others to break records.
+> I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
