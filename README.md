@@ -179,7 +179,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The higher we are placed, the more humbly we should walk.
+> Gratitude is not only the greatest of virtues, but the parent of all the others.
 >
 > <p>- Cicero</p>
 
