@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
+> There is nothing so useless as doing efficiently that which should not be done at all.
 >
-> <p>- Marcia Fudge</p>
+> <p>- Peter Drucker</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
