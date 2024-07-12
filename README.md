@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Anticipate the difficult by managing the easy.
+> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
 >
-> <p>- Laozi</p>
+> <p>- Elisabeth Kübler-Ross</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
