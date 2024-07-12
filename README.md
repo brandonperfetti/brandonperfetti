@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A short saying often contains much wisdom.
+> The best way out is always through.
 >
-> <p>- Sophocles</p>
+> <p>- Robert Frost</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
