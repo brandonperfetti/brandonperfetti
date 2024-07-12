@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It has never been my object to record my dreams, just to realize them.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 >
-> <p>- Man Ray</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
