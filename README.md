@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The more light you allow within you, the brighter the world you live in will be.
+> To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.
 >
-> <p>- Shakti Gawain</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
