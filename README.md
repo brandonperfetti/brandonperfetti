@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The beginning is always today.
+> There is nothing permanent except change.
 >
-> <p>- Mary Wollstonecraft</p>
+> <p>- Heraclitus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
