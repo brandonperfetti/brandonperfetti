@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
+> The thing always happens that you really believe in; and the belief in a thing makes it happen.
 >
-> <p>- Edward Young</p>
+> <p>- Frank Lloyd Wright</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
