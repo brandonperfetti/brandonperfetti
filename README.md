@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Take things as they are. Punch when you have to punch. Kick when you have to kick.
+> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
 >
-> <p>- Bruce Lee</p>
+> <p>- Søren Kierkegaard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
