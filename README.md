@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
+> True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.
 >
-> <p>- Elisabeth Kübler-Ross</p>
+> <p>- William Penn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
