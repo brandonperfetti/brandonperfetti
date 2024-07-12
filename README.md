@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To dare is to lose ones footing momentarily. To not dare is to lose oneself.
+> The beginning is always today.
 >
-> <p>- Søren Kierkegaard</p>
+> <p>- Mary Wollstonecraft</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
