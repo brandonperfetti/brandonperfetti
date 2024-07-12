@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Edward Young</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
