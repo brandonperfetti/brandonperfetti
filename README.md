@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.
+> A man cannot be said to succeed in this life who does not satisfy one friend.
 >
-> <p>- Confucius</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
