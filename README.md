@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You cannot step twice into the same river, for other waters are continually flowing in.
+> Anticipate the difficult by managing the easy.
 >
-> <p>- Heraclitus</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
