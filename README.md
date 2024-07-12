@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> So long as a person is capable of self-renewal they are a living being.
+> True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Isocrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
