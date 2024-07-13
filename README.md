@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Listen to what you know instead of what you fear.
+> There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
 >
-> <p>- Richard Bach</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
