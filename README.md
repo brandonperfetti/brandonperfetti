@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship always benefits; love sometimes injures.
+> When I do good I feel good, when I do bad I feel bad, and that's my religion.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
