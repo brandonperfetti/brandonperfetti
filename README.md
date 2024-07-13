@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can't put a limit on anything. The more you dream, the farther you get.
+> Wisdom consists of the anticipation of consequences.
 >
-> <p>- Michael Phelps</p>
+> <p>- Norman Cousins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
