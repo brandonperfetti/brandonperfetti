@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
+> Friendship always benefits; love sometimes injures.
 >
-> <p>- Edward de Bono</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
