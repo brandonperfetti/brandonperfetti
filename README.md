@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
+> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Isaac D'Israeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
