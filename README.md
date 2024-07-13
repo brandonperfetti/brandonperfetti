@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
+> When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
