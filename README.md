@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have always found that mercy bears richer fruits than strict justice.
+> I can't believe that God put us on this earth to be ordinary.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Lou Holtz</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
