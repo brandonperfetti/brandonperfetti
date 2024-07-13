@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Motivation is the art of getting people to do what you want them to do because they want to do it.
+> If the stars should appear but one night every thousand years how man would marvel and adore.
 >
-> <p>- Dwight D. Eisenhower</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
