@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you correct your mind, the rest of your life will fall into place.
+> Listen to what you know instead of what you fear.
 >
-> <p>- Laozi</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
