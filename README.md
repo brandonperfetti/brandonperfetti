@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When I do good I feel good, when I do bad I feel bad, and that's my religion.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Dwight D. Eisenhower</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
