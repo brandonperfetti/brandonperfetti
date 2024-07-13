@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is far better to be alone, than to be in bad company.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- George Washington</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
