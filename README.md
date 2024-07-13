@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> It is far better to be alone, than to be in bad company.
 >
-> <p>- Billie Armstrong</p>
+> <p>- George Washington</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
