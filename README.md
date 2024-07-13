@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We can change our lives. We can do, have, and be exactly what we wish.
+> It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
 >
-> <p>- Tony Robbins</p>
+> <p>- Edward de Bono</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
