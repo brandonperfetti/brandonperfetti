@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Speak low, if you speak love.
+> Strong beliefs win strong men, and then make them stronger.
 >
-> <p>- William Shakespeare</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
