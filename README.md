@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The wisdom of the wise, and the experience of ages, may be preserved by quotation.
+> To know oneself is to study oneself in action with another person.
 >
-> <p>- Isaac D'Israeli</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
