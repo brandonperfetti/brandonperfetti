@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine.
+> There is no retirement for an artist, it's your way of living so there is no end to it.
 >
-> <p>- Nikola Tesla</p>
+> <p>- Henry Moore</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
