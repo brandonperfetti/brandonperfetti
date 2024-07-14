@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is like a sewer. What you get out of it depends on what you put into it.
+> I'd rather regret the things I've done than regret the things I haven't done.
 >
-> <p>- Tom Lehrer</p>
+> <p>- Lucille Ball</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
