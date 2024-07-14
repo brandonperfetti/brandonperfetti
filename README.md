@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You have to believe in yourself.
+> Every friendship is different because everyone's personality is different.
 >
-> <p>- Sun Tzu</p>
+> <p>- Nargis Fakhri</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
