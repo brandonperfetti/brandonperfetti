@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+> You have to believe in yourself.
 >
-> <p>- Henry Reed</p>
+> <p>- Sun Tzu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
