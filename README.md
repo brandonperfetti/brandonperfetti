@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Jonathan Swift</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
