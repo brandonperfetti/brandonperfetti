@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A good decision is based on knowledge and not on numbers.
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- Plato</p>
+> <p>- Tom Lehrer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
