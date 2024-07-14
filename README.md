@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
+> A prudent question is one half of wisdom.
 >
-> <p>- Jonathan Swift</p>
+> <p>- Francis Bacon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
