@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Trust your hunches. They're usually based on facts filed away just below the conscious level.
+> Maxim for life: You get treated in life the way you teach people to treat you.
 >
-> <p>- Joyce Brothers</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
