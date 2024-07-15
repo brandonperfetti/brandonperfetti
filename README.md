@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Know, first, who you are, and then adorn yourself accordingly.
+> The best cure for the body is a quiet mind.
 >
-> <p>- Epictetus</p>
+> <p>- Napoleon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
