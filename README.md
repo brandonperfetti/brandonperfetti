@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Just as a mother would protect her only child with her life, even so let one cultivate a boundless love towards all beings.
+> We are all inclined to judge ourselves by our ideals; others, by their acts.
 >
-> <p>- The Buddha</p>
+> <p>- Harold Nicolson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
