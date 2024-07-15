@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best cure for the body is a quiet mind.
+> Just as a mother would protect her only child with her life, even so let one cultivate a boundless love towards all beings.
 >
-> <p>- Napoleon</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
