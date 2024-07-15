@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is no way to prosperity, prosperity is the way.
+> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
 >
-> <p>- Wayne Dyer</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
