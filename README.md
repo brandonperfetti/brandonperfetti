@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All truths are easy to understand once they are discovered; the point is to discover them.
+> In the business world, the rearview mirror is always clearer than the windshield.
 >
-> <p>- Galileo Galilei</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
