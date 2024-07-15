@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you want to kill any idea in the world, get a committee working on it.
+> The most formidable weapon against errors of every kind is reason.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Thomas Paine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
