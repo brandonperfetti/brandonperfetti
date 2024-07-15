@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The least movement is of importance to all nature. The entire ocean is affected by a pebble.
+> If you want to kill any idea in the world, get a committee working on it.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Charles F. Kettering</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
