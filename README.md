@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
+> No yesterdays are ever wasted for those who give themselves to today.
 >
-> <p>- The Buddha</p>
+> <p>- Brendan Behan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
