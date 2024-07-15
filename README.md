@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+> Nothing happens unless first we dream.
 >
-> <p>- Bernice Reagon</p>
+> <p>- Carl Sandburg</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
