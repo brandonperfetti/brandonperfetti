@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.
+> Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
 >
-> <p>- Woody Allen</p>
+> <p>- Bernice Reagon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
