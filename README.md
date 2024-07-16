@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.
+> The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Hugh Jackman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
