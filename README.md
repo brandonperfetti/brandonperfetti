@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you do what you've always done, you'll get what you've always gotten.
+> Be great in act, as you have been in thought.
 >
-> <p>- Tony Robbins</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
