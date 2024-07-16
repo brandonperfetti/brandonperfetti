@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
+> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
 >
-> <p>- Etty Hillesum</p>
+> <p>- Hannah Arendt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
