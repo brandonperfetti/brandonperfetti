@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Remember that the most valuable antiques are dear old friends.
+> None knows the weight of another's burden.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- George Herbert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
