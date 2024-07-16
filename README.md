@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be great in act, as you have been in thought.
+> Science is organized knowledge. Wisdom is organized life.
 >
-> <p>- William Shakespeare</p>
+> <p>- Immanuel Kant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
