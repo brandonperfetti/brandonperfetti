@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
+> Be great in act, as you have been in thought.
 >
-> <p>- Confucius</p>
+> <p>- William Shakespeare</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
