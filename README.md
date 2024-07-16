@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you do what you've always done, you'll get what you've always gotten.
+> Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
 >
-> <p>- Tony Robbins</p>
+> <p>- Etty Hillesum</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
