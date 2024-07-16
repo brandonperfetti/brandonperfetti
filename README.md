@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is no way to happiness, happiness is the way.
+> Genius is one per cent inspiration, ninety-nine per cent perspiration.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
