@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Fear not for the future, weep not for the past.
+> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
 >
-> <p>- Percy Bysshe Shelley</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
