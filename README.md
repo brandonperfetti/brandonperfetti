@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Your talent is God's gift to you. What you do with it is your gift back to God.
+> You always succeed in producing a result.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
