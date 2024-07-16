@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> None knows the weight of another's burden.
+> Leave no stone unturned.
 >
-> <p>- George Herbert</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
