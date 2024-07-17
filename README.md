@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you doubt your power, you give power to your doubt.
+> It is impossible to experience one's death objectively and still carry a tune.
 >
-> <p>- Honoré de Balzac</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
