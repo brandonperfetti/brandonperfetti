@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
+> Beware of false knowledge; it is more dangerous than ignorance.
 >
-> <p>- Thomas Paine</p>
+> <p>- Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
