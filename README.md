@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The noblest worship is to make yourself as good and as just as you can.
+> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
 >
-> <p>- Isocrates</p>
+> <p>- Henry Ward Beecher</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
