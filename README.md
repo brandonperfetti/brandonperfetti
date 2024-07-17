@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I'd rather regret the things that I have done than the things that I have not done.
+> I think somehow, we learn who we really are and then live with that decision.
 >
-> <p>- Lucille Ball</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
