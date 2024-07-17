@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> The noblest worship is to make yourself as good and as just as you can.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Isocrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
