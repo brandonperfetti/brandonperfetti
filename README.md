@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In three words I can sum up everything I've learned about life: it goes on.
+> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
 >
-> <p>- Robert Frost</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
