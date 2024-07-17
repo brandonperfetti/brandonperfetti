@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Irrigators channel waters; fletchers straighten arrows; carpenters bend wood; the wise master themselves.
+> We are Divine enough to ask and we are important enough to receive.
 >
-> <p>- The Buddha</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
