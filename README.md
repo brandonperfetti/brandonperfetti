@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Every artist dips his brush in his own soul, and paints his own nature into his pictures.
+> In three words I can sum up everything I've learned about life: it goes on.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Robert Frost</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
