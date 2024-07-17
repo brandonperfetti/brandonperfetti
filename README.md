@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+> All this modern technology just makes people try to do everything at once.
 >
-> <p>- Helen Keller</p>
+> <p>- Bill Watterson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
