@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Attitude is a little thing that makes a big difference.
+> Where there is love there is life.
 >
-> <p>- Winston Churchill</p>
+> <p>- Mahatma Gandhi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
