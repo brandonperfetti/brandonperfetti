@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All this modern technology just makes people try to do everything at once.
+> I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.
 >
-> <p>- Bill Watterson</p>
+> <p>- Mia Hamm</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
