@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Where there is love there is life.
+> I'd rather regret the things that I have done than the things that I have not done.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Lucille Ball</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
