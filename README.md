@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Begin at once to live and count each separate day as a separate life.
+> Nature is a mutable cloud which is always and never the same.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
