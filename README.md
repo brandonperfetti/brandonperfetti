@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything.
+> A long habit of not thinking a thing wrong gives it a superficial appearance of being right.
 >
-> <p>- Alan Watts</p>
+> <p>- Thomas Paine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
