@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Study the past, if you would divine the future.
+> All serious daring starts from within.
 >
-> <p>- Confucius</p>
+> <p>- Harriet Beecher Stowe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
