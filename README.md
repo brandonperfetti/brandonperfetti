@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The awareness of our own strength makes us modest.
+> With every experience, you alone are painting your own canvas, thought by thought, choice by choice.
 >
-> <p>- Paul Cézanne</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
