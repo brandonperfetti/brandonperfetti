@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The differences between friends cannot but reinforce their friendship.
+> Friendship, like the immortality of the soul, is too good to be believed.
 >
-> <p>- Mao Zedong</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
