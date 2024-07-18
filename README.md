@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All serious daring starts from within.
+> The awareness of our own strength makes us modest.
 >
-> <p>- Harriet Beecher Stowe</p>
+> <p>- Paul Cézanne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
