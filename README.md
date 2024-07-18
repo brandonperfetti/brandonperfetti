@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Honesty is the best policy.
+> A leader is one who knows the way, goes the way, and shows the way.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- John C. Maxwell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
