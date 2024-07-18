@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Maxim for life: You get treated in life the way you teach people to treat you.
+> The differences between friends cannot but reinforce their friendship.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Mao Zedong</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
