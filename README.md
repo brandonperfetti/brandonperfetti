@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship, like the immortality of the soul, is too good to be believed.
+> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- John Burroughs</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
