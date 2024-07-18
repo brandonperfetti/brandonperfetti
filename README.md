@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
+> A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
 >
-> <p>- William Blake</p>
+> <p>- Ezra Stiles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
