@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
+> I believe that we are solely responsible for our choices, and we have to accept the consequences of every deed, word, and thought throughout our lifetime.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Elisabeth Kübler-Ross</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
