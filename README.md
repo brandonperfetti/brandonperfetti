@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
+> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
 >
-> <p>- Swami Vivekananda</p>
+> <p>- Montesquieu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
