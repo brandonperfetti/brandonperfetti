@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Along with success comes a reputation for wisdom.
+> Formula for success: under promise and over deliver.
 >
-> <p>- Euripides</p>
+> <p>- Tom Peters</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
