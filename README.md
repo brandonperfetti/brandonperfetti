@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are wiser than we know.
+> It is time to remember that old wisdom our soldiers will never forget: that whether we are black or brown or white, we all bleed the same red blood of patriots, we all enjoy the same glorious freedoms, and we all salute the same great American Flag.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Donald Trump</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
