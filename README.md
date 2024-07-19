@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
+> We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
 >
-> <p>- Jean-Paul Sartre</p>
+> <p>- Swami Vivekananda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
