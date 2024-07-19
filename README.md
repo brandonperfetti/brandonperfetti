@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our kindness may be the most persuasive argument for that which we believe.
+> Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Jean-Paul Sartre</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
