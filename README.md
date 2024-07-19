@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> My best friend is the one who brings out the best in me.
+> To choose what is difficult all one's days, as if it were easy, that is faith.
 >
-> <p>- Henry Ford</p>
+> <p>- W. H. Auden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
