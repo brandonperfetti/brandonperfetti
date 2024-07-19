@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In life, all good things come hard, but wisdom is the hardest to come by.
+> Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.
 >
-> <p>- Lucille Ball</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
