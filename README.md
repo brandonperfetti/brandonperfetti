@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more.
+> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
 >
-> <p>- Woody Allen</p>
+> <p>- Chanakya</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
