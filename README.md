@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We gain the strength of the temptation we resist.
+> Just because something doesn't do what you planned it to do doesn't mean it's useless.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
