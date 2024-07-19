@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't talk about what you have done or what you are going to do.
+> Along with success comes a reputation for wisdom.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
