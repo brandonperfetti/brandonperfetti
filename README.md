@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Just because something doesn't do what you planned it to do doesn't mean it's useless.
+> Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.
 >
-> <p>- Thomas Edison</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
