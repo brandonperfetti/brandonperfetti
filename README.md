@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you spend too much time thinking about a thing, you'll never get it done.
+> Accept the challenges so that you can feel the exhilaration of victory.
 >
-> <p>- Bruce Lee</p>
+> <p>- George S. Patton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
