@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The place to improve the world is first in one's own heart and head and hands.
+> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
