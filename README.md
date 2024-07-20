@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have no special talent. I am only passionately curious.
+> Quality is not an act; it is a habit.
 >
-> <p>- Albert Einstein</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
