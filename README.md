@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> With the realization of one's own potential and self-confidence in one's ability, one can build a better world.
+> To succeed, we must first believe that we can.
 >
-> <p>- Dalai Lama</p>
+> <p>- Michael Korda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
