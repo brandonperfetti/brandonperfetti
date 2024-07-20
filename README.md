@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> Swim upstream. Go the other way. Ignore the conventional wisdom.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Sam Walton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
