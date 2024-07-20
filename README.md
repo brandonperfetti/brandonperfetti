@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To succeed, we must first believe that we can.
+> Be slow of tongue and quick of eye.
 >
-> <p>- Michael Korda</p>
+> <p>- Miguel de Cervantes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
