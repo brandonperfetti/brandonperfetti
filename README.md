@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Try not to become a man of success, but rather try to become a man of value.
+> The heart has eyes which the brain knows nothing of.
 >
-> <p>- Albert Einstein</p>
+> <p>- Charles Henry Parkhurst</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
