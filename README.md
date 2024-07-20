@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Accept the challenges so that you can feel the exhilaration of victory.
+> I don't want to achieve immortality through my work... I want to achieve it through not dying.
 >
-> <p>- George S. Patton</p>
+> <p>- Woody Allen</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
