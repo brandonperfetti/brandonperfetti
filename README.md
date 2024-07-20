@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
+> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
 >
-> <p>- Eknath Easwaran</p>
+> <p>- Thomas Jefferson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
