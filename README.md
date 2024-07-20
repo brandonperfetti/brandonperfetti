@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Dost thou love life? Then do not squander time, for that is the stuff life is made of.
+> Never accept ultimatums, conventional wisdom, or absolutes.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Christopher Reeve</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
