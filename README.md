@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
+> Nothing strengthens authority so much as silence.
 >
-> <p>- Marie Curie</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
