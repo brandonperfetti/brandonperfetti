@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I don't want to achieve immortality through my work... I want to achieve it through not dying.
+> The place to improve the world is first in one's own heart and head and hands.
 >
-> <p>- Woody Allen</p>
+> <p>- Robert M. Pirsig</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
