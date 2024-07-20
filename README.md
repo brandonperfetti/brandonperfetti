@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Age does not protect you from love. But love, to some extent, protects you from age.
+> I have no special talent. I am only passionately curious.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
