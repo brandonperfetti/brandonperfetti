@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Quality is not an act; it is a habit.
+> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
 >
-> <p>- Aristotle</p>
+> <p>- Eknath Easwaran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
