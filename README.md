@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What worries you masters you.
+> In every walk with nature, one receives far more than he seeks.
 >
-> <p>- Haddon Robinson</p>
+> <p>- John Muir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
