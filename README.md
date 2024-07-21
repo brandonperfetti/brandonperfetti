@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is only one happiness in life, to love and be loved.
+> I think somehow, we learn who we really are and then live with that decision.
 >
-> <p>- George Sand</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
