@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You must do the things you think you cannot do.
+> Meaning is not what you start with but what you end up with.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Peter Elbow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
