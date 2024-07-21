@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are made wise not by the recollection of our past, but by the responsibility for our future.
+> If you have one true friend, you have more than your share.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Thomas Fuller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
