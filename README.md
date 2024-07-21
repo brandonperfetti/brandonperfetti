@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I think somehow, we learn who we really are and then live with that decision.
+> Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
