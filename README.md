@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+> There is only one happiness in life, to love and be loved.
 >
-> <p>- Wayne Dyer</p>
+> <p>- George Sand</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
