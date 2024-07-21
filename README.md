@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
+> You must do the things you think you cannot do.
 >
-> <p>- Ben Hogan</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
