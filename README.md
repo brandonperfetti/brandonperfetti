@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+> I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok.
 >
-> <p>- Mother Teresa</p>
+> <p>- Shaquille O'Neal</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
