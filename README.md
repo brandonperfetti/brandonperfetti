@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.
+> Ideas pull the trigger, but instinct loads the gun.
 >
-> <p>- Anne Brontë</p>
+> <p>- Don Marquis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
