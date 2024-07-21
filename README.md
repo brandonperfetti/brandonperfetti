@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> As you walk down the fairway of life you must smell the roses, for you only get to play one round.
 >
-> <p>- Charles Dickens</p>
+> <p>- Ben Hogan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
