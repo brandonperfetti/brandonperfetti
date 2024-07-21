@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you have one true friend, you have more than your share.
+> The superior man blames himself. The inferior man blames others.
 >
-> <p>- Thomas Fuller</p>
+> <p>- Don Shula</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
