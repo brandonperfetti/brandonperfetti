@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can stand tall without standing on someone. You can be a victor without having victims.
+> There is a wisdom of the head, and a wisdom of the heart.
 >
-> <p>- Harriet Woods</p>
+> <p>- Charles Dickens</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
