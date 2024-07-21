@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Meaning is not what you start with but what you end up with.
+> We are made wise not by the recollection of our past, but by the responsibility for our future.
 >
-> <p>- Peter Elbow</p>
+> <p>- Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
