@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The superior man blames himself. The inferior man blames others.
+> The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
 >
-> <p>- Don Shula</p>
+> <p>- Alfred Tennyson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
