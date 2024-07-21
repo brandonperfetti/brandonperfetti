@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In every walk with nature, one receives far more than he seeks.
+> You can stand tall without standing on someone. You can be a victor without having victims.
 >
-> <p>- John Muir</p>
+> <p>- Harriet Woods</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
