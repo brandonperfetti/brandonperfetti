@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
+> Whether you think you can or you think you can't, you are right.
 >
-> <p>- David Brinkley</p>
+> <p>- Henry Ford</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
