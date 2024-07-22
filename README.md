@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No man was ever wise by chance.
+> Fear makes strangers of people who would be friends.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Shirley MacLaine</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
