@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
+> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Rudolf Arnheim</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
