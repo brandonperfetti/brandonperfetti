@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Imagination is more important than knowledge...
+> Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
 >
-> <p>- Albert Einstein</p>
+> <p>- Thomas Aquinas</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
