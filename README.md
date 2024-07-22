@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
+> There are no strangers here; Only friends you haven't yet met.
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- William Butler Yeats</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
