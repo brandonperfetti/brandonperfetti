@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Fortune favors the brave.
+> When times are bad is when the real entrepreneurs emerge.
 >
-> <p>- Virgil</p>
+> <p>- Robert Kiyosaki</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
