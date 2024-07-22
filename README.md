@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When times are bad is when the real entrepreneurs emerge.
+> There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
 >
-> <p>- Robert Kiyosaki</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
