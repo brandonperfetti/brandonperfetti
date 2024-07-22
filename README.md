@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The future is completely open, and we are writing it moment to moment.
+> Imagination is more important than knowledge...
 >
-> <p>- Pema Chödrön</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
