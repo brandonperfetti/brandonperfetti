@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
+> If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Nora Roberts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
