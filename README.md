@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is a characteristic of wisdom not to do desperate things.
+> Fortune favors the brave.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Virgil</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
