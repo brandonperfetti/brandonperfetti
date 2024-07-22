@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are no strangers here; Only friends you haven't yet met.
+> It takes courage to grow up and become who you really are.
 >
-> <p>- William Butler Yeats</p>
+> <p>- E. E. Cummings</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
