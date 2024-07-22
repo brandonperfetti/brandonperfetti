@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The thing always happens that you really believe in; and the belief in a thing makes it happen.
+> A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
 >
-> <p>- Frank Lloyd Wright</p>
+> <p>- David Brinkley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
