@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
+> No man was ever wise by chance.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
