@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When the solution is simple, God is answering.
+> Before you put on a frown, make absolutely sure there are no smiles available.
 >
-> <p>- Albert Einstein</p>
+> <p>- James M. Beggs</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
