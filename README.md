@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It takes courage to grow up and become who you really are.
+> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
 >
-> <p>- E. E. Cummings</p>
+> <p>- Daniel J. Boorstin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
