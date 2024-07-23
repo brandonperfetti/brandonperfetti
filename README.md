@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Listen to what you know instead of what you fear.
+> The greatest gift of life is friendship, and I have received it.
 >
-> <p>- Richard Bach</p>
+> <p>- Hubert Humphrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
