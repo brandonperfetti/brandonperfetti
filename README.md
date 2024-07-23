@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> And as we let our own light shine, we unconsciously give other people permission to do the same.
+> Love isn't something you find. Love is something that finds you.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Loretta Young</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
