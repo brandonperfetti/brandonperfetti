@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Happiness is found in doing, not merely possessing.
+> Life is what happens to you while you're busy making other plans.
 >
-> <p>- Napoleon Hill</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
