@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is divided into the horrible and the miserable.
+> If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
 >
-> <p>- Woody Allen</p>
+> <p>- Anne Bradstreet</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
