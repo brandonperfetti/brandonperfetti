@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do more than dream: work.
+> One secret of success in life is for a man to be ready for his opportunity when it comes.
 >
-> <p>- William Arthur Ward</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
