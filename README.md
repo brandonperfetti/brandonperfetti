@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
+> Ideas are the beginning points of all fortunes.
 >
-> <p>- Dhammapada</p>
+> <p>- Napoleon Hill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
