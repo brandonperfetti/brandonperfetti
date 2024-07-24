@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you think you can, you can. And if you think you can't, you're right.
+> Most powerful is he who has himself in his own power.
 >
-> <p>- Henry Ford</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
