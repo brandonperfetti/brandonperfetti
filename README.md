@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+> True knowledge exists in knowing that you know nothing.
 >
-> <p>- Jimmy Dean</p>
+> <p>- Isocrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
