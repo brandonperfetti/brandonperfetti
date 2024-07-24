@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
+> Wisdom is oftentimes nearer when we stoop than when we soar.
 >
-> <p>- Immanuel Kant</p>
+> <p>- William Wordsworth</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
