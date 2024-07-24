@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Most powerful is he who has himself in his own power.
+> Do not give your attention to what others do or fail to do; give it to what you do or fail to do.
 >
-> <p>- Seneca the Younger</p>
+> <p>- Dhammapada</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
