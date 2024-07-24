@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When people are like each other they tend to like each other.
+> The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.
 >
-> <p>- Tony Robbins</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
