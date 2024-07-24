@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Coming together is a beginning; keeping together is progress; working together is success.
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
 >
-> <p>- Edward Everett Hale</p>
+> <p>- Jimmy Dean</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
