@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Ideas are the beginning points of all fortunes.
+> Coming together is a beginning; keeping together is progress; working together is success.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Edward Everett Hale</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
