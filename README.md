@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No one has ever become poor by giving.
+> All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
 >
-> <p>- Anne Frank</p>
+> <p>- Immanuel Kant</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
