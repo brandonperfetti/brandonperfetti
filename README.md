@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you learn, teach. When you get, give.
+> When people are like each other they tend to like each other.
 >
-> <p>- Maya Angelou</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
