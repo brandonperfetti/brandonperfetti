@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
+> Change in all things is sweet.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
