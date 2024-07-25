@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is one mind in two bodies.
+> No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth.
 >
-> <p>- Mencius</p>
+> <p>- Robert Southey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
