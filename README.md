@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- Thomas Aquinas</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
