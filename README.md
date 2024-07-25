@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The sincere friends of this world are as ship lights in the stormiest of nights.
+> Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.
 >
-> <p>- Giotto</p>
+> <p>- Ralph Marston</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
