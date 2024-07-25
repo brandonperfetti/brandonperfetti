@@ -8,10 +8,12 @@
 ### <div align="center">I'm Brandon, **a** software engineer 👨‍💻 working remotely since 2015 🚀</div>
 
 <!-- - 🔭&nbsp; I’m currently working on [Top Timelines](https://toptimelines.com) -->
-- 🌱&nbsp; I’m currently learning [Vue.js](https://vuejs.org/) and [nuxt.js](https://nuxt.com/)
+
+- 🌱&nbsp; I’m currently learning [Vue.js](https://vuejs.org/) and
+  [Nuxt](https://nuxt.com/)
 - ❓&nbsp; Ask me about anything related to JavaScript, TypeScript, React,
   NextJS, Remix, or Node!
-- ⚡&nbsp; Fun fact: I use tabs over spaces 😉
+- ⚡&nbsp; Fun fact: I use spaces over tabs 😉
 
 <br/>
 
@@ -152,15 +154,16 @@ SAAS applications. <br/>
 16. [Mastering Markdown by Wes Bos](https://masteringmarkdown.com/)
 17. [Command Line Power User by Wes Bos](https://commandlinepoweruser.com/)
 18. [Just Javascript by Dan Abramov and Maggie Appleton](https://justjavascript.com/)
-19. [Vue School MasterClass by Alex Kyriakidis](https://vueschool.io/courses/the-vuejs-master-class)
+19. [Vue.js 2 Master Class by Alex Kyriakidis](https://vueschool.io/courses/the-vuejs-2-master-class)
 20. [Mastering Nuxt 3 by Michael Thiessen](https://masteringnuxt.com/nuxt3)
+21. [Testing Accessibility by Marcy Sutton](https://testingaccessibility.com/)
 
 ### In Progress Courses
 
 1. [Total TypeScript by Matt Pocock](https://www.totaltypescript.com/)
-2. [Testing Accessibility by Marcy Sutton](https://testingaccessibility.com/)
-3. [Pro Tailwind by Simon Vrachliotis](https://www.protailwind.com/)
-4. [VueSchool.io](https://vueschool.io/)
+2. [Pro Tailwind by Simon Vrachliotis](https://www.protailwind.com/)
+3. [Vue.js 3 Master Class 2024 Edition](https://vueschool.io/the-vuejs-3-master-class)
+4. [Vue Certification](https://certificates.dev/vuejs)
 5. [ShiftNudge by Matt D. Smith](https://shiftnudge.com/)
 
 <!-- ### 📝 Latest Blog Posts -->
