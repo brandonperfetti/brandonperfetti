@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is blind; friendship closes its eyes.
+> Happiness is not something ready-made. It comes from your own actions.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
