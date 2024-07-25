@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
+> Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
 >
-> <p>- Dalai Lama</p>
+> <p>- Thomas Aquinas</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
