@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our character is what we do when we think no one is looking.
+> If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- J. Paul Getty</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
