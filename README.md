@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> First say to yourself what you would be; and then do what you have to do.
+> There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
 >
-> <p>- Epictetus</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
