@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you do what you've always done, you'll get what you've always gotten.
+> I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship.
 >
-> <p>- Tony Robbins</p>
+> <p>- Harbhajan Singh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
