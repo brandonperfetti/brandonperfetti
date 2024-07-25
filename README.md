@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Try not to become a man of success, but rather try to become a man of value.
+> Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.
 >
-> <p>- Albert Einstein</p>
+> <p>- Margaret Mead</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
