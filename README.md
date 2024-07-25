@@ -179,9 +179,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are two ways of spreading light: to be the candle or the mirror that reflects it.
+> It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
 >
-> <p>- Edith Wharton</p>
+> <p>- Walter Lippmann</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
