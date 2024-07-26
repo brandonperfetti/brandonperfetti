@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The biggest room in the world is room for improvement.
+> Impossibilities are merely things which we have not yet learned.
 >
-> <p>- Helmut Schmidt</p>
+> <p>- Charles W. Chesnutt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
