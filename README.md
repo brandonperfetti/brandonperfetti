@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Kind words can be short and easy to speak, but their echoes are truly endless.
+> If the shoe doesn't fit, must we change the foot?
 >
-> <p>- Mother Teresa</p>
+> <p>- Gloria Steinem</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
