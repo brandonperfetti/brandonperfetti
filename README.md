@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The world is a book, and those who do not travel read only a page.
+> Kind words can be short and easy to speak, but their echoes are truly endless.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
