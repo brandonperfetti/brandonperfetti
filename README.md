@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Well begun is half done.
+> I walk slowly, but I never walk backward.
 >
-> <p>- Aristotle</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
