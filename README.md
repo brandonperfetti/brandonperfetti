@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The superior man is modest in his speech but exceeds in his actions.
+> Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.
 >
-> <p>- Confucius</p>
+> <p>- Charles Dickens</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
