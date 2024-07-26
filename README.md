@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Impossibilities are merely things which we have not yet learned.
+> Friendship may, and often does, grow into love, but love never subsides into friendship.
 >
-> <p>- Charles W. Chesnutt</p>
+> <p>- Lord Byron</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
