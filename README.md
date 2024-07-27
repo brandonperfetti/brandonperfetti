@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you're changing the world, you're working on important things. You're excited to get up in the morning.
+> Never idealize others. They will never live up to your expectations.
 >
-> <p>- Larry Page</p>
+> <p>- Leo Buscaglia</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
