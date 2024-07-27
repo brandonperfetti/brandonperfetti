@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All the great performers I have worked with are fueled by a personal dream.
+> Skill to do comes of doing.
 >
-> <p>- John Eliot</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
