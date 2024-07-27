@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> If you're changing the world, you're working on important things. You're excited to get up in the morning.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Larry Page</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
