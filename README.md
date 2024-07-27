@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Train up a fig tree in the way it should go, and when you are old sit under the shade of it.
+> He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
 >
-> <p>- Charles Dickens</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
