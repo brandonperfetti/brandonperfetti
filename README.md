@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The awareness of our own strength makes us modest.
+> A rolling stone gathers no moss.
 >
-> <p>- Paul Cézanne</p>
+> <p>- Publilius Syrus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
