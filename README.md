@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only true wisdom is in knowing you know nothing.
+> The awareness of our own strength makes us modest.
 >
-> <p>- Isocrates</p>
+> <p>- Paul Cézanne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
