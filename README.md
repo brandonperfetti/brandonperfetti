@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Joy is what happens to us when we allow ourselves to recognize how good things really are.
+> All the great performers I have worked with are fueled by a personal dream.
 >
-> <p>- Marianne Williamson</p>
+> <p>- John Eliot</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
