@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life without love is like a tree without blossoms or fruit.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Marianne Williamson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
