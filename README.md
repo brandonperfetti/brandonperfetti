@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you correct your mind, the rest of your life will fall into place.
+> Train up a fig tree in the way it should go, and when you are old sit under the shade of it.
 >
-> <p>- Laozi</p>
+> <p>- Charles Dickens</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
