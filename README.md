@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
+> If there is such a thing as a good marriage, it is because it resembles friendship rather than love.
 >
-> <p>- Lou Holtz</p>
+> <p>- Michel de Montaigne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
