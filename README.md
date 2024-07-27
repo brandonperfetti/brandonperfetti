@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is only one success - to be able to spend your life in your own way.
+> When a thing is done, it's done. Don't look back. Look forward to your next objective.
 >
-> <p>- Christopher Morley</p>
+> <p>- George Marshall</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
