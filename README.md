@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
+> Whoso loves, believes the impossible.
 >
-> <p>- Robert Schuller</p>
+> <p>- Elizabeth Browning</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
