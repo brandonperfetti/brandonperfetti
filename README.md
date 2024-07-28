@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wherever you go, go with all your heart.
+> Let yourself be silently drawn by the stronger pull of what you really love.
 >
-> <p>- Confucius</p>
+> <p>- Rumi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
