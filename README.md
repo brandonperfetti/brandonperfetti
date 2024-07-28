@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
+> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
 >
-> <p>- Alan Watts</p>
+> <p>- Arthur M. Schlesinger Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
