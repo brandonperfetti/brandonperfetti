@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Whoso loves, believes the impossible.
+> If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
 >
-> <p>- Elizabeth Browning</p>
+> <p>- A. A. Milne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
