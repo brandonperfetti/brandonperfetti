@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
+> Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
 >
-> <p>- Marcel Proust</p>
+> <p>- Sri Chinmoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
