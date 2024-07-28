@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Let yourself be silently drawn by the stronger pull of what you really love.
+> First say to yourself what you would be; and then do what you have to do.
 >
-> <p>- Rumi</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
