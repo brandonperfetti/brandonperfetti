@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Error is discipline through which we advance.
+> Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Mary Kay Ash</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
