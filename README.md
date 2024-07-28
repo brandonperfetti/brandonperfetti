@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The world makes way for the man who knows where he is going.
+> The only way to make sense out of change is to plunge into it, move with it, and join the dance.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
