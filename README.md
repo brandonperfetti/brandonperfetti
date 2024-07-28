@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A person who never made a mistake never tried anything new.
+> Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.
 >
-> <p>- Albert Einstein</p>
+> <p>- Marcel Proust</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
