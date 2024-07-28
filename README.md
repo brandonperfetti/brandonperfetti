@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The cause is hidden. The effect is visible to all.
+> Never apologize for showing feelings. When you do so, you apologize for the truth.
 >
-> <p>- Ovid</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
