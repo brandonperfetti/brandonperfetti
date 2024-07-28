@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never apologize for showing feelings. When you do so, you apologize for the truth.
+> Wherever you go, go with all your heart.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
