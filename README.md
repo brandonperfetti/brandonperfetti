@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Science and technology revolutionize our lives, but memory, tradition and myth frame our response.
+> A person who never made a mistake never tried anything new.
 >
-> <p>- Arthur M. Schlesinger Jr.</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
