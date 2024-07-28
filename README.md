@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never idealize others. They will never live up to your expectations.
+> The cause is hidden. The effect is visible to all.
 >
-> <p>- Leo Buscaglia</p>
+> <p>- Ovid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
