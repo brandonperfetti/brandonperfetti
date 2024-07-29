@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Silence is the sleep that nourishes wisdom.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- Francis Bacon</p>
+> <p>- J. M. Barrie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
