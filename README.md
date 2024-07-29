@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Almost everything comes from nothing.
+> If you aren't going all the way, why go at all?
 >
-> <p>- Henri-Frédéric Amiel</p>
+> <p>- Joe Namath</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
