@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
+> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
 >
-> <p>- Henry van Dyke Jr.</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
