@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it.
+> You can't stop the waves, but you can learn to surf.
 >
-> <p>- Oprah Winfrey</p>
+> <p>- Jon Kabat-Zinn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
