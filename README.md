@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It's easy to make a buck. It's a lot tougher to make a difference.
+> It's supposed to be automatic, but actually you have to push this button.
 >
-> <p>- Tom Brokaw</p>
+> <p>- John Brunner</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
