@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
+> Almost everything comes from nothing.
 >
-> <p>- Epicurus</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
