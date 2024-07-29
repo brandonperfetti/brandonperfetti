@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
+> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Elizabeth Montagu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
