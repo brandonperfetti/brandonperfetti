@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We never understand how little we need in this world until we know the loss of it.
+> It's easy to make a buck. It's a lot tougher to make a difference.
 >
-> <p>- J. M. Barrie</p>
+> <p>- Tom Brokaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
