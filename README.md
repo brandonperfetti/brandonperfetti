@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do not go where the path may lead, go instead where there is no path and leave a trail.
+> Failure will never overtake me if my determination to succeed is strong enough.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Og Mandino</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
