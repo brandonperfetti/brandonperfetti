@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Go to your bosom: Knock there and ask your heart what it doth know.
+> What do we live for, if it is not to make life less difficult for each other?
 >
-> <p>- William Shakespeare</p>
+> <p>- George Eliot</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
