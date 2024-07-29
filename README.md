@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What do we live for, if it is not to make life less difficult for each other?
+> Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship.
 >
-> <p>- George Eliot</p>
+> <p>- Epicurus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
