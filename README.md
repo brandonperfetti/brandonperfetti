@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It's supposed to be automatic, but actually you have to push this button.
+> Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
 >
-> <p>- John Brunner</p>
+> <p>- Arthur Rubinstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
