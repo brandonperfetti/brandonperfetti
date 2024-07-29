@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can't stop the waves, but you can learn to surf.
+> An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
 >
-> <p>- Jon Kabat-Zinn</p>
+> <p>- Jack Welch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
