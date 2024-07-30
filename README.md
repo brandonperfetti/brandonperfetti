@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Excellence is to do a common thing in an uncommon way.
+> If you want your life to be more rewarding, you have to change the way you think.
 >
-> <p>- Booker T. Washington</p>
+> <p>- Oprah Winfrey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
