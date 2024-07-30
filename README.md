@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If the shoe doesn't fit, must we change the foot?
+> Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day.
 >
-> <p>- Gloria Steinem</p>
+> <p>- John Wooden</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
