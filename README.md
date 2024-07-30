@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
+> Be slow to fall into friendship; but when thou art in, continue firm and constant.
 >
-> <p>- Herbert Bayard Swope</p>
+> <p>- Isocrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
