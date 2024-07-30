@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- W. Clement Stone</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
