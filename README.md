@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A quarrel between friends, when made up, adds a new tie to friendship.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- Francis de Sales</p>
+> <p>- John Astin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
