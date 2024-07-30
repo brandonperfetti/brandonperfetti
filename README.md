@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A goal is a dream with a deadline.
+> Wisdom begins at the end.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Daniel Webster</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
