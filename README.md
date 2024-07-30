@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Age does not protect you from love. But love, to some extent, protects you from age.
+> I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
 >
-> <p>- Anaïs Nin</p>
+> <p>- Herbert Bayard Swope</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
