@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Better to have loved and lost, than to have never loved at all.
+> Difficulties increase the nearer we get to the goal.
 >
-> <p>- Augustine of Hippo</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
