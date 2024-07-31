@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I'm not afraid of storms, for I'm learning how to sail my ship.
+> They must often change, who would be constant in happiness or wisdom.
 >
-> <p>- Louisa May Alcott</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
