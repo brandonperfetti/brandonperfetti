@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Speak when you are angry, and you will make the best speech you will ever regret.
+> The universe is made of stories, not atoms.
 >
-> <p>- Ambrose Bierce</p>
+> <p>- Muriel Rukeyser</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
