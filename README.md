@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> Speak when you are angry, and you will make the best speech you will ever regret.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Ambrose Bierce</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
