@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Learning never exhausts the mind.
+> Spread love everywhere you go. Let no one ever come to you without leaving happier.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
