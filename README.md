@@ -182,7 +182,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.
 >
 > <p>- Leonardo da Vinci</p>
 
