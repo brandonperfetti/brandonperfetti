@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Hope arouses, as nothing else can arouse, a passion for the possible.
+> To conquer fear is the beginning of wisdom.
 >
-> <p>- William Sloane Coffin</p>
+> <p>- Bertrand Russell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
