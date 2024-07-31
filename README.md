@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You cannot have what you do not want.
+> We can change our lives. We can do, have, and be exactly what we wish.
 >
-> <p>- John Acosta</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
