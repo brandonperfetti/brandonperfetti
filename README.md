@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything.
+> Hope arouses, as nothing else can arouse, a passion for the possible.
 >
-> <p>- Alan Watts</p>
+> <p>- William Sloane Coffin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
