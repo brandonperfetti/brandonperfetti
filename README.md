@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> They must often change, who would be constant in happiness or wisdom.
+> The friendship that can cease has never been real.
 >
-> <p>- Confucius</p>
+> <p>- Jerome</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
