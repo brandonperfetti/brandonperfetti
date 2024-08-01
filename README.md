@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only journey is the one within.
+> The smallest deed is better than the greatest intention.
 >
-> <p>- Rainer Maria Rilke</p>
+> <p>- John Burroughs</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
