@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Trust your hunches. They're usually based on facts filed away just below the conscious level.
+> The only journey is the one within.
 >
-> <p>- Joyce Brothers</p>
+> <p>- Rainer Maria Rilke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
