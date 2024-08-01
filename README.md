@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Logic is the beginning of wisdom, not the end.
+> Each day provides its own gifts.
 >
-> <p>- Leonard Nimoy</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
