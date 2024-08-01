@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Your worst enemy cannot harm you as much as your own unguarded thoughts.
+> One man practicing sportsmanship is far better than a hundred teaching it.
 >
-> <p>- The Buddha</p>
+> <p>- Knute Rockne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
