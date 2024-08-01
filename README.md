@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> How many cares one loses when one decides not to be something but to be someone.
+> Those who cling to perceptions and views wander the world offending people.
 >
-> <p>- Coco Chanel</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
