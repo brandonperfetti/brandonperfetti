@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing.
+> How many cares one loses when one decides not to be something but to be someone.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Coco Chanel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
