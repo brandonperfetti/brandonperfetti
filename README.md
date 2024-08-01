@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.
+> Logic is the beginning of wisdom, not the end.
 >
-> <p>- Alan Watts</p>
+> <p>- Leonard Nimoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
