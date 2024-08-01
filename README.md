@@ -182,7 +182,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only limit to our realization of tomorrow will be our doubts of today.
+> Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.
 >
 > <p>- Franklin D. Roosevelt</p>
 
