@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you focus on results, you will never change. If you focus on change, you will get results.
+> Discovery consists of seeing what everybody has seen and thinking what nobody else has thought.
 >
-> <p>- Jack Dixon</p>
+> <p>- Jonathan Swift</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
