@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Those who cling to perceptions and views wander the world offending people.
+> In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.
 >
-> <p>- The Buddha</p>
+> <p>- Mariella Frostrup</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
