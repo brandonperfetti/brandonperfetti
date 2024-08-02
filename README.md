@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our intention creates our reality.
+> By believing passionately in something that does not yet exist, we create it.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Nikos Kazantzakis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
