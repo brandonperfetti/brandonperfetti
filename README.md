@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The possibilities are numerous once we decide to act and not react.
+> An ounce of emotion is equal to a ton of facts.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- John Junor</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
