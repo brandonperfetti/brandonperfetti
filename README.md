@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is the province of knowledge to speak, and it is the privilege of wisdom to listen.
+> The best thing in every noble dream is the dreamer...
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Moncure D. Conway</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
