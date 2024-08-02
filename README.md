@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> An ounce of emotion is equal to a ton of facts.
+> Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
 >
-> <p>- John Junor</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
