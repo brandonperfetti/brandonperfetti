@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All know the way; few actually walk it.
+> The possibilities are numerous once we decide to act and not react.
 >
-> <p>- Bodhidharma</p>
+> <p>- George Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
