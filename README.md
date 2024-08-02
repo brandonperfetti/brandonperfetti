@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be slow of tongue and quick of eye.
+> Time changes everything except something within us which is always surprised by change.
 >
-> <p>- Miguel de Cervantes</p>
+> <p>- Thomas Hardy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
