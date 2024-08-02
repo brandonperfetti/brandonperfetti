@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> As we are liberated from our own fear, our presence automatically liberates others.
+> You got to be careful if you don't know where you're going, because you might not get there.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Yogi Berra</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
