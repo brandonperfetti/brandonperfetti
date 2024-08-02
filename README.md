@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
+> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
 >
-> <p>- The Buddha</p>
+> <p>- Chanakya</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
