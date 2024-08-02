@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is a serious mental disease.
+> Be slow of tongue and quick of eye.
 >
-> <p>- Plato</p>
+> <p>- Miguel de Cervantes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
