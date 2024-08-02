@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> By believing passionately in something that does not yet exist, we create it.
+> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
