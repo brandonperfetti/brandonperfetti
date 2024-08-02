@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
+> It has long been an axiom of mine that the little things are infinitely the most important.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Arthur Conan Doyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
