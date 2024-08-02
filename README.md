@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.
+> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
 >
-> <p>- Chanakya</p>
+> <p>- Niccolò Machiavelli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
