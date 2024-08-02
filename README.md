@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best thing in every noble dream is the dreamer...
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- Moncure D. Conway</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
