@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You got to be careful if you don't know where you're going, because you might not get there.
+> Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.
 >
-> <p>- Yogi Berra</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
