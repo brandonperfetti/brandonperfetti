@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Without hard work, nothing grows but weeds.
+> A friend to all is a friend to none.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
