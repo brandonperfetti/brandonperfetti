@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If a man does his best, what else is there?
+> Without hard work, nothing grows but weeds.
 >
-> <p>- George S. Patton</p>
+> <p>- Gordon Hinckley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
