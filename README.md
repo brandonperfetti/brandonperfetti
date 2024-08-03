@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In the depth of winter, I finally learned that there was within me an invincible summer.
+> To fly, we have to have resistance.
 >
-> <p>- Albert Camus</p>
+> <p>- Maya Lin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
