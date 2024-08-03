@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Most of the shadows of life are caused by standing in our own sunshine.
+> Kindness is the golden chain by which society is bound together.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
