@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Compassion and happiness are not a sign of weakness but a sign of strength.
+> Light tomorrow with today!
 >
-> <p>- Dalai Lama</p>
+> <p>- Elizabeth Browning</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
