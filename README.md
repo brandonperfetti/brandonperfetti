@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The essence of true friendship is to make allowance for another's little lapses.
+> Wisdom is the supreme part of happiness.
 >
-> <p>- Ovid</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
