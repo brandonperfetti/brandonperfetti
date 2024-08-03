@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The final proof of greatness lies in being able to endure criticism without resentment.
+> Love cures people - both the ones who give it and the ones who receive it.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Karl Menninger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
