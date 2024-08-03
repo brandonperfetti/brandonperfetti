@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When a thing is done, it's done. Don't look back. Look forward to your next objective.
+> The essence of true friendship is to make allowance for another's little lapses.
 >
-> <p>- George Marshall</p>
+> <p>- Ovid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
