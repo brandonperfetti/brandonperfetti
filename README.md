@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A friend to all is a friend to none.
+> In the depth of winter, I finally learned that there was within me an invincible summer.
 >
-> <p>- Aristotle</p>
+> <p>- Albert Camus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
