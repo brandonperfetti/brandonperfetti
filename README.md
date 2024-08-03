@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
+> When a thing is done, it's done. Don't look back. Look forward to your next objective.
 >
-> <p>- Napoleon Hill</p>
+> <p>- George Marshall</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
