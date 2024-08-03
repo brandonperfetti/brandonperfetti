@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is the supreme part of happiness.
+> If a man does his best, what else is there?
 >
-> <p>- Sophocles</p>
+> <p>- George S. Patton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
