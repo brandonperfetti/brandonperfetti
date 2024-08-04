@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
+> Either I will find a way, or I will make one.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Philip Sidney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
