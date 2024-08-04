@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We read the world wrong and say that it deceives us.
+> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
 >
-> <p>- Rabindranath Tagore</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
