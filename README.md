@@ -182,7 +182,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One may say the eternal mystery of the world is its comprehensibility.
+> If you can't explain it simply, you don't understand it well enough.
 >
 > <p>- Albert Einstein</p>
 
