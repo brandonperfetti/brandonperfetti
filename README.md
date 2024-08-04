@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Discipline is the bridge between goals and accomplishment.
+> Stay away from what might have been and look at what will be.
 >
-> <p>- Jim Rohn</p>
+> <p>- Marsha Petrie Sue</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
