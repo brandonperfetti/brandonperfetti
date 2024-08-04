@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.
+> We read the world wrong and say that it deceives us.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Rabindranath Tagore</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
