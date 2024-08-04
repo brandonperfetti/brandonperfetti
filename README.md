@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Myths which are believed in tend to become true.
+> Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
 >
-> <p>- George Orwell</p>
+> <p>- Salman Rushdie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
