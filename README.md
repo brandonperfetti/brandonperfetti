@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you can't explain it simply, you don't understand it well enough.
+> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
 >
-> <p>- Albert Einstein</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
