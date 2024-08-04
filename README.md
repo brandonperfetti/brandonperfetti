@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Stay away from what might have been and look at what will be.
+> We should not give up and we should not allow the problem to defeat us.
 >
-> <p>- Marsha Petrie Sue</p>
+> <p>- A. P. J. Abdul Kalam</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
