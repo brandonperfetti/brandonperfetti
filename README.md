@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Whether you think you can or you think you can't, you are right.
+> Discipline is the bridge between goals and accomplishment.
 >
-> <p>- Henry Ford</p>
+> <p>- Jim Rohn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
