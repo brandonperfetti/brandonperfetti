@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If there is such a thing as a good marriage, it is because it resembles friendship rather than love.
+> Myths which are believed in tend to become true.
 >
-> <p>- Michel de Montaigne</p>
+> <p>- George Orwell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
