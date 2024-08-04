@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We should not give up and we should not allow the problem to defeat us.
+> There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
 >
-> <p>- A. P. J. Abdul Kalam</p>
+> <p>- Nelson Mandela</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
