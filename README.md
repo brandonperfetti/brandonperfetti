@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To accomplish great things, we must dream as well as act.
+> Doing what you love is the cornerstone of having abundance in your life.
 >
-> <p>- Anatole France</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
