@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.
+> Life is like a sewer. What you get out of it depends on what you put into it.
 >
-> <p>- Bob Feller</p>
+> <p>- Tom Lehrer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
