@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Better than a thousand hollow words, is one word that brings peace.
+> Change in all things is sweet.
 >
-> <p>- The Buddha</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
