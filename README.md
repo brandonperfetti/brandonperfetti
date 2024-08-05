@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
+> The less effort, the faster and more powerful you will be.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Bruce Lee</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
