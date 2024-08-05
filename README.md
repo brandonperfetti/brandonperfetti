@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Mistakes are the usual bridge between inexperience and wisdom.
+> Be the chief but never the lord.
 >
-> <p>- Phyllis Grissim-Theroux</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
