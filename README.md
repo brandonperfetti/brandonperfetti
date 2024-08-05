@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Short words are best and the old words when short are best of all.
+> A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.
 >
-> <p>- Winston Churchill</p>
+> <p>- Wayne Gretzky</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
