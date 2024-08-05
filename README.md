@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Always tell the truth. That way, you don't have to remember what you said.
+> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.
 >
-> <p>- Mark Twain</p>
+> <p>- Thomas Jefferson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
