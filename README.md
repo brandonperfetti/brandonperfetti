@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely. From an acting point of view, that's how I approached the part.
+> Mistakes are the usual bridge between inexperience and wisdom.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Phyllis Grissim-Theroux</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
