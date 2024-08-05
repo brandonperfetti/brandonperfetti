@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Price is what you pay. Value is what you get.
+> Short words are best and the old words when short are best of all.
 >
-> <p>- Warren Buffett</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
