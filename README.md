@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
+> There is nothing impossible to him who will try.
 >
-> <p>- John Astin</p>
+> <p>- Alexander the Great</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
