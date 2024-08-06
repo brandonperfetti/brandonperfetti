@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Yeah, we all shine on, like the moon, and the stars, and the sun.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- John Lennon</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
