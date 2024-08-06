@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is in your moments of decision that your destiny is shaped.
+> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
 >
-> <p>- Tony Robbins</p>
+> <p>- Babatunde Olatunji</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
