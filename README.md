@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never put off till tomorrow what you can do today.
+> There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Sam Walton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
