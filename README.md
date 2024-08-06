@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Radiate boundless love towards the entire world…
+> Yeah, we all shine on, like the moon, and the stars, and the sun.
 >
-> <p>- The Buddha</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
