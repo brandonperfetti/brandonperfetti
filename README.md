@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All love that has not friendship for its base, is like a mansion built upon the sand.
+> All serious daring starts from within.
 >
-> <p>- Ella Wheeler Wilcox</p>
+> <p>- Harriet Beecher Stowe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
