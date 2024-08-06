@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is nothing impossible to him who will try.
+> Do not go where the path may lead, go instead where there is no path and leave a trail.
 >
-> <p>- Alexander the Great</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
