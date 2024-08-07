@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Time changes everything except something within us which is always surprised by change.
+> You are the only person on earth who can use your ability.
 >
-> <p>- Thomas Hardy</p>
+> <p>- Zig Ziglar</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
