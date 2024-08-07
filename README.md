@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If one way be better than another, that you may be sure is nature's way.
+> For everything that lives is holy, life delights in life.
 >
-> <p>- Aristotle</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
