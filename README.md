@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only way to have a friend is to be one.
+> Memory is the mother of all wisdom.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Samuel Johnson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
