@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You are the only person on earth who can use your ability.
+> Fortune favors the brave.
 >
-> <p>- Zig Ziglar</p>
+> <p>- Virgil</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
