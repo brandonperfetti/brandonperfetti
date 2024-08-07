@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Memory is the mother of all wisdom.
+> There are no strangers here; Only friends you haven't yet met.
 >
-> <p>- Samuel Johnson</p>
+> <p>- William Butler Yeats</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
