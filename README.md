@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are no strangers here; Only friends you haven't yet met.
+> If I know what love is, it is because of you.
 >
-> <p>- William Butler Yeats</p>
+> <p>- Hermann Hesse</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
