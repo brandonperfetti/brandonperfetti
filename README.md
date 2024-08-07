@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+> If one way be better than another, that you may be sure is nature's way.
 >
-> <p>- John Burroughs</p>
+> <p>- Aristotle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
