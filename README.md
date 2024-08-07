@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If I know what love is, it is because of you.
+> A friend in power is a friend lost.
 >
-> <p>- Hermann Hesse</p>
+> <p>- Henry Adams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
