@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> For everything that lives is holy, life delights in life.
+> Time changes everything except something within us which is always surprised by change.
 >
-> <p>- William Blake</p>
+> <p>- Thomas Hardy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
