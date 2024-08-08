@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friends... they cherish one another's hopes. They are kind to one another's dreams.
+> Living at risk is jumping off the cliff and building your wings on the way down.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Ray Bradbury</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
