@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> As you think, so shall you become.
+> Life is a succession of moments. To live each one is to succeed.
 >
-> <p>- Bruce Lee</p>
+> <p>- Corita Kent</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
