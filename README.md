@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
+> Friendship is Love without his wings!
 >
-> <p>- Blaise Pascal</p>
+> <p>- Lord Byron</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
