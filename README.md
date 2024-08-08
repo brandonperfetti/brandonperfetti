@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Living at risk is jumping off the cliff and building your wings on the way down.
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- Ray Bradbury</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
