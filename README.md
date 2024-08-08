@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A rolling stone gathers no moss.
+> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Eustace Budgell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
