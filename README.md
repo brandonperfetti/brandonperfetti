@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.
+> The friendship that can cease has never been real.
 >
-> <p>- Eustace Budgell</p>
+> <p>- Jerome</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
