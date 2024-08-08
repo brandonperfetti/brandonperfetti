@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Without hard work, nothing grows but weeds.
+> With age comes wisdom and a high sex drive. And the wisdom to enjoy it.
 >
-> <p>- Gordon Hinckley</p>
+> <p>- Amber Valletta</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
