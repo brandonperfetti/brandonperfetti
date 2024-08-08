@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The doors of wisdom are never shut.
+> Today you are you! That is truer than true! There is no one alive who is you-er than you!
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Dr. Seuss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
