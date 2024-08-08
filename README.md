@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is a succession of moments. To live each one is to succeed.
+> Keep silence for the most part, and speak only when you must, and then briefly.
 >
-> <p>- Corita Kent</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
