@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> True friendship can afford true knowledge. It does not depend on darkness and ignorance.
+> A short saying often contains much wisdom.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
