@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Good luck is another name for tenacity of purpose.
+> Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Marilyn Monroe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
