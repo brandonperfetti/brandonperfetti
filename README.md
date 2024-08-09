@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship.
+> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
 >
-> <p>- Marilyn Monroe</p>
+> <p>- Blaise Pascal</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
