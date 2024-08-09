@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nothing strengthens authority so much as silence.
+> A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Fawn M. Brodie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
