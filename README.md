@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To see things in the seed, that is genius.
+> Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions.
 >
-> <p>- Laozi</p>
+> <p>- Yoko Ono</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
