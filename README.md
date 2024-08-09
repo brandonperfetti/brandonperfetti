@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is a magnet in your heart that will attract true friends. That magnet is unselfishness, thinking of others first; when you learn to live for others, they will live for you.
+> The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication.
 >
-> <p>- Paramahansa Yogananda</p>
+> <p>- Cecil B. DeMille</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
