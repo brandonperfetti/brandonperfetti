@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Some do not understand that we must die, But those who do realize this settle their quarrels.
+> All great achievements require time.
 >
-> <p>- The Buddha</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
