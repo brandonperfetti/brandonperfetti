@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All great achievements require time.
+> Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
 >
-> <p>- Maya Angelou</p>
+> <p>- Robert F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
