@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world.
+> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
