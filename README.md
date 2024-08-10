@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Make the best use of what is in your power and take the rest as it happens.
+> How wonderful it is that nobody need wait a single moment before starting to improve the world.
 >
-> <p>- Epictetus</p>
+> <p>- Anne Frank</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
