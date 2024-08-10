@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.
+> The more you care, the stronger you can be.
 >
-> <p>- Paavo Nurmi</p>
+> <p>- Jim Rohn</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
