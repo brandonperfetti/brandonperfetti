@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nature and books belong to the eyes that see them.
+> They can conquer who believe they can.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Virgil</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
