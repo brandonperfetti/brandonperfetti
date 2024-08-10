@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Half the lies they tell about me aren't true.
+> Make the best use of what is in your power and take the rest as it happens.
 >
-> <p>- Yogi Berra</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
