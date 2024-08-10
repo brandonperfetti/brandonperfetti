@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.
+> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
 >
-> <p>- Daisaku Ikeda</p>
+> <p>- Elie Wiesel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
