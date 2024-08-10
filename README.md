@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship, like the immortality of the soul, is too good to be believed.
+> Technology made large populations possible; large populations now make technology indispensable.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Joseph Wood Krutch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
