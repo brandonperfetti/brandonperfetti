@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Technology made large populations possible; large populations now make technology indispensable.
+> Nature and books belong to the eyes that see them.
 >
-> <p>- Joseph Wood Krutch</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
