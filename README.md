@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not uncommon for people to spend their whole life waiting to start living.
+> Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Tony Blair</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
