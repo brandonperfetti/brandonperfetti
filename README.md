@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The more you care, the stronger you can be.
+> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.
 >
-> <p>- Jim Rohn</p>
+> <p>- G. K. Chesterton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
