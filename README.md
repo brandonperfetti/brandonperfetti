@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do one thing every day that scares you.
+> In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
