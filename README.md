@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
+> A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
 >
-> <p>- Billy Wilder</p>
+> <p>- Basil of Caesarea</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
