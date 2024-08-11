@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Think big thoughts but relish small pleasures.
+> Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Billy Wilder</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
