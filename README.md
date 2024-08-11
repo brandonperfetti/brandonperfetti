@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I can't believe that God put us on this earth to be ordinary.
+> Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure.
 >
-> <p>- Lou Holtz</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
