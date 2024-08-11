@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
+> You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.
 >
-> <p>- Sidney Hook</p>
+> <p>- Naguib Mahfouz</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
