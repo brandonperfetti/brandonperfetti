@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Error is discipline through which we advance.
+> Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values.
 >
-> <p>- William Ellery Channing</p>
+> <p>- Sidney Hook</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
