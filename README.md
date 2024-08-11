@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Every great advance in science has issued from a new audacity of the imagination.
+> All things must come to the soul from its roots, from where it is planted.
 >
-> <p>- John Dewey</p>
+> <p>- Teresa of Ávila</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
