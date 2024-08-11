@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All things must come to the soul from its roots, from where it is planted.
+> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
 >
-> <p>- Teresa of Ávila</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
