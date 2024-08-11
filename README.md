@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- Albert Einstein</p>
+> <p>- Denis Waitley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
