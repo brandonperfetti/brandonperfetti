@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+> There are people who have money and people who are rich.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Coco Chanel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
