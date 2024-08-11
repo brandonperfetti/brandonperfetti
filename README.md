@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Experience keeps a dear school, but fools will learn in no other.
+> Every great advance in science has issued from a new audacity of the imagination.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- John Dewey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
