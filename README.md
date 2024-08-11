@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A noble one produces an abundance of merit by having a compassionate mind towards all living beings.
+> We read the world wrong and say that it deceives us.
 >
-> <p>- The Buddha</p>
+> <p>- Rabindranath Tagore</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
