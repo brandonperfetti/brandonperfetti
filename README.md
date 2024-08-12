@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.
+> The greatest obstacle to being heroic is the doubt whether one may not be going to prove oneself a fool; the truest heroism is to resist the doubt; and the profoundest wisdom, to know when it ought to be resisted, and when it be obeyed.
 >
-> <p>- Thomas Jefferson</p>
+> <p>- Nathaniel Hawthorne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
