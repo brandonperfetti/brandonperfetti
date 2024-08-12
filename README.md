@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
+> Our passion is our strength.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Billie Armstrong</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
