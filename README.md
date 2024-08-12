@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All this modern technology just makes people try to do everything at once.
+> The ultimate promise of technology is to make us master of a world that we command by the push of a button.
 >
-> <p>- Bill Watterson</p>
+> <p>- Volker Grassmuck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
