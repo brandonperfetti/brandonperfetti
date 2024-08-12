@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.
+> You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Albert Camus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
