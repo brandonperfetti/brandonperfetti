@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
+> All this modern technology just makes people try to do everything at once.
 >
-> <p>- Max Planck</p>
+> <p>- Bill Watterson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
