@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> TV and the Internet are good because they keep stupid people from spending too much time out in public.
+> To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.
 >
-> <p>- Douglas Coupland</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
