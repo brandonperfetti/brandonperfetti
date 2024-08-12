@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> Start with what is right rather than what is acceptable.
 >
-> <p>- Denis Waitley</p>
+> <p>- Franz Kafka</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
