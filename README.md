@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Start with what is right rather than what is acceptable.
+> Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
 >
-> <p>- Franz Kafka</p>
+> <p>- George Washington</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
