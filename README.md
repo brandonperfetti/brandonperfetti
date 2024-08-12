@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
+> TV and the Internet are good because they keep stupid people from spending too much time out in public.
 >
-> <p>- Woody Allen</p>
+> <p>- Douglas Coupland</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
