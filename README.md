@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Knowing is not enough; we must apply. Willing is not enough; we must do.
+> There is nothing in a caterpillar that tells you it's going to be a butterfly.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Buckminster Fuller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
