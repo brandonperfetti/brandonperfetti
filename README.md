@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.
+> It is not a lack of love, but a lack of friendship that makes unhappy marriages.
 >
-> <p>- Benjamin Franklin</p>
+> <p>- Friedrich Nietzsche</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
