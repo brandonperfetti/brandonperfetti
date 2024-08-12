@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.
+> There is only one corner of the universe you can be certain of improving, and that's your own self.
 >
-> <p>- Margaret Chase Smith</p>
+> <p>- Aldous Huxley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
