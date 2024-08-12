@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is only one corner of the universe you can be certain of improving, and that's your own self.
+> It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.
 >
-> <p>- Aldous Huxley</p>
+> <p>- Max Planck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
