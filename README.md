@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A friendship founded on business is better than a business founded on friendship.
+> Life is a learning experience, only if you learn.
 >
-> <p>- John Locke</p>
+> <p>- Yogi Berra</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
