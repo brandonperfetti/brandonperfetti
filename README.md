@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The superior man acts before he speaks, and afterwards speaks according to his action.
+> Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.
 >
-> <p>- Confucius</p>
+> <p>- Amy Bloom</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
