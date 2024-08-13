@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The greatest remedy for anger is delay.
+> The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
 >
-> <p>- Seneca the Younger</p>
+> <p>- John Burroughs</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
