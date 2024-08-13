@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is a learning experience, only if you learn.
+> It is not only for what we do that we are held responsible, but also for what we do not do.
 >
-> <p>- Yogi Berra</p>
+> <p>- Molière</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
