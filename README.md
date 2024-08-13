@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I begin with an idea and then it becomes something else.
+> The greatest remedy for anger is delay.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
