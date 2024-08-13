@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
+> To avoid criticism, do nothing, say nothing, be nothing.
 >
-> <p>- Aristotle</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
