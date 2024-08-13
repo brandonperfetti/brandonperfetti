@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I cannot make my days longer, so I strive to make them better.
+> To want to be what one can be is purpose in life.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Cynthia Ozick</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
