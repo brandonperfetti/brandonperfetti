@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To avoid criticism, do nothing, say nothing, be nothing.
+> Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Henry van Dyke Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
