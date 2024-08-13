@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> TV and the Internet are good because they keep stupid people from spending too much time out in public.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Douglas Coupland</p>
+> <p>- John Locke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
