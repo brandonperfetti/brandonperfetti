@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Beauty is not in the face; beauty is a light in the heart.
+> I begin with an idea and then it becomes something else.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Pablo Picasso</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
