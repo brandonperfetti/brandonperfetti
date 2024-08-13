@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
+> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
 >
-> <p>- Albert Camus</p>
+> <p>- Winston Churchill</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
