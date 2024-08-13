@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only true wisdom is in knowing you know nothing.
+> TV and the Internet are good because they keep stupid people from spending too much time out in public.
 >
-> <p>- Isocrates</p>
+> <p>- Douglas Coupland</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
