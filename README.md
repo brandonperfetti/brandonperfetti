@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
+> The superior man acts before he speaks, and afterwards speaks according to his action.
 >
-> <p>- Mary Kay Ash</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
