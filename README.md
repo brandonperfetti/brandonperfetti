@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Continuous effort - not strength or intelligence - is the key to unlocking our potential.
+> Start where you are. Use what you have. Do what you can.
 >
-> <p>- Winston Churchill</p>
+> <p>- Arthur Ashe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
