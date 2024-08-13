@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't cry because it's over. Smile because it happened.
+> I cannot make my days longer, so I strive to make them better.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
