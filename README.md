@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
+> All human wisdom is summed up in two words; wait and hope.
 >
-> <p>- Daniel J. Boorstin</p>
+> <p>- Alexandre Dumas</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
