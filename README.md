@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All things change; nothing perishes.
+> If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum.
 >
-> <p>- Ovid</p>
+> <p>- Holly Near</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
