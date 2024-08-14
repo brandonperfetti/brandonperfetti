@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Imagination is not a talent of some men but is the health of every man.
+> It is not enough to have a good mind; the main thing is to use it well.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- René Descartes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
