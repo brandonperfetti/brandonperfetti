@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To improve is to change; to be perfect is to change often.
+> Cunning... is but the low mimic of wisdom.
 >
-> <p>- Winston Churchill</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
