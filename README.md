@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is not enough to have a good mind; the main thing is to use it well.
+> Love, friendship and respect do not unite people as much as a common hatred for something.
 >
-> <p>- René Descartes</p>
+> <p>- Anton Chekhov</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
