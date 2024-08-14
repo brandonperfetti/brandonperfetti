@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In the business world, the rearview mirror is always clearer than the windshield.
+> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge.
 >
-> <p>- Warren Buffett</p>
+> <p>- Daniel J. Boorstin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
