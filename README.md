@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Excellence is not a skill. It is an attitude.
+> Beware of missing chances; otherwise it may be altogether too late someday.
 >
-> <p>- Ralph Marston</p>
+> <p>- Franz Liszt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
