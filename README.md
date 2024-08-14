@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All human wisdom is summed up in two words; wait and hope.
+> The future is completely open, and we are writing it moment to moment.
 >
-> <p>- Alexandre Dumas</p>
+> <p>- Pema Chödrön</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
