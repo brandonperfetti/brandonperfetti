@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Cunning... is but the low mimic of wisdom.
+> The greatest way to live with honor in this world is to be what we pretend to be.
 >
-> <p>- Plato</p>
+> <p>- Socrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
