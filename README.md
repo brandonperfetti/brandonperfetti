@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Practice yourself, for heaven's sake in little things, and then proceed to greater.
+> Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
 >
-> <p>- Epictetus</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
