@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
