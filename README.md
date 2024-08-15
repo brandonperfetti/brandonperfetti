@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world.
+> Think as a wise man but communicate in the language of the people.
 >
-> <p>- Dalai Lama</p>
+> <p>- William Butler Yeats</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
