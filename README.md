@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
+> All our dreams can come true, if we have the courage to pursue them.
 >
-> <p>- William Blake</p>
+> <p>- Walt Disney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
