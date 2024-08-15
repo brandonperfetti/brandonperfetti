@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Failure will never overtake me if my determination to succeed is strong enough.
+> All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.
 >
-> <p>- Og Mandino</p>
+> <p>- Kathleen Norris</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
