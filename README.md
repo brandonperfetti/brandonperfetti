@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.
+> It is a characteristic of wisdom not to do desperate things.
 >
-> <p>- Louis Pasteur</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
