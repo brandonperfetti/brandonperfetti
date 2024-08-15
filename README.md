@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The price of greatness is responsibility.
+> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
 >
-> <p>- Winston Churchill</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
