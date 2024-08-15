@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Knowledge speaks, but wisdom listens.
+> The hours of folly are measured by the clock; but of wisdom, no clock can measure.
 >
-> <p>- Jimi Hendrix</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
