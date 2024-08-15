@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.
+> The more light you allow within you, the brighter the world you live in will be.
 >
-> <p>- Hugh Jackman</p>
+> <p>- Shakti Gawain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
