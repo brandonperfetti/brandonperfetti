@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
+> First-rate people hire first-rate people; second-rate people hire third-rate people.
 >
-> <p>- Anne Lindbergh</p>
+> <p>- Leo Rosten</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
