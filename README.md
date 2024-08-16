@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
+> Only I can change my life. No one can do it for me.
 >
-> <p>- Archimedes</p>
+> <p>- Carol Burnett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
