@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.
+> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Frederick Douglass</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
