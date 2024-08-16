@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future.
+> Life is what happens while you are making other plans.
 >
-> <p>- Dale Turner</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
