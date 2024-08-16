@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.
+> What do we live for, if it is not to make life less difficult for each other?
 >
-> <p>- Frederick Douglass</p>
+> <p>- George Eliot</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
