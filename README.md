@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What do we live for, if it is not to make life less difficult for each other?
+> Whoever doesn't flare up at someone who's angry wins a battle hard to win.
 >
-> <p>- George Eliot</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
