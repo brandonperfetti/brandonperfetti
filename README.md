@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I owe my solitude to other people.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- Alan Watts</p>
+> <p>- Ivy Baker Priest</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
