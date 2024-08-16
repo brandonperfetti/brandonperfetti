@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.
+> Even if you're on the right track, you'll get run over if you just sit there.
 >
-> <p>- Alan Watts</p>
+> <p>- Will Rogers</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
