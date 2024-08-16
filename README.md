@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Only I can change my life. No one can do it for me.
+> I owe my solitude to other people.
 >
-> <p>- Carol Burnett</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
