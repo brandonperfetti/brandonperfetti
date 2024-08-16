@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.
+> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.
 >
-> <p>- G. K. Chesterton</p>
+> <p>- Archimedes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
