@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Aeschylus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
