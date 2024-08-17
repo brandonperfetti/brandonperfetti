@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be here now. Be someplace else later. Is that so complicated?
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- David Bader</p>
+> <p>- René Descartes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
