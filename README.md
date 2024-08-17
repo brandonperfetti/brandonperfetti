@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only person who never makes mistakes is the person who never does anything.
+> Reviewing what you have learned and learning anew, you are fit to be a teacher.
 >
-> <p>- Denis Waitley</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
