@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> True happiness arises, in the first place, from the enjoyment of oneself, and in the next, from the friendship and conversation of a few select companions.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Joseph Addison</p>
+> <p>- David Bader</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
