@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Kindness is the language which the deaf can hear and the blind can see.
+> If you want to go east, don't go west.
 >
-> <p>- Mark Twain</p>
+> <p>- Ramakrishna</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
