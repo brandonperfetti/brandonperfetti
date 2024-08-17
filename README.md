@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be.
+> To invent, you need a good imagination and a pile of junk.
 >
-> <p>- Sai Baba</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
