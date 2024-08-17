@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
+> Motivation is the art of getting people to do what you want them to do because they want to do it.
 >
-> <p>- Jawaharlal Nehru</p>
+> <p>- Dwight D. Eisenhower</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
