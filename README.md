@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
+> By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Thomas Carlyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
