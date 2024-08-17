@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
+> Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
 >
-> <p>- René Descartes</p>
+> <p>- Dan Gable</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
