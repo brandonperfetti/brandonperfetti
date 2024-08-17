@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> As we are liberated from our own fear, our presence automatically liberates others.
+> The only person who never makes mistakes is the person who never does anything.
 >
-> <p>- Nelson Mandela</p>
+> <p>- Denis Waitley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
