@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you don't know where you are going, you will probably end up somewhere else.
+> Be here now. Be someplace else later. Is that so complicated?
 >
-> <p>- Laurence J. Peter</p>
+> <p>- David Bader</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
