@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Most great people have attained their greatest success just one step beyond their greatest failure.
+> People may doubt what you say, but they will believe what you do.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Lewis Cass</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
