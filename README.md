@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only limit to our realization of tomorrow will be our doubts of today.
+> A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Jawaharlal Nehru</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
