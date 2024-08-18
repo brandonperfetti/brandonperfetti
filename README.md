@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Happiness often sneaks in through a door you didn't know you left open.
+> Two persons cannot long be friends if they cannot forgive each other's little failings.
 >
-> <p>- John Barrymore</p>
+> <p>- Jean de La Bruyère</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
