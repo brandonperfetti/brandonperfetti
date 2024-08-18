@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Great minds discuss ideas; average minds discuss events; small minds discuss people.
+> There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- John Astin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
