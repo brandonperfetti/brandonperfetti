@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Give whatever you are doing and whoever you are with the gift of your attention.
+> Only when we are no longer afraid do we begin to live.
 >
-> <p>- Jim Rohn</p>
+> <p>- Dorothy Thompson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
