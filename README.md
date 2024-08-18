@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nine-tenths of wisdom is being wise in time.
+> I owe my solitude to other people.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
