@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Only when we are no longer afraid do we begin to live.
+> All love that has not friendship for its base, is like a mansion built upon the sand.
 >
-> <p>- Dorothy Thompson</p>
+> <p>- Ella Wheeler Wilcox</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
