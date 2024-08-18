@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Argue for your limitations, and sure enough they're yours.
+> All things change; nothing perishes.
 >
-> <p>- Richard Bach</p>
+> <p>- Ovid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
