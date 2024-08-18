@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In order to succeed, we must first believe that we can.
+> Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- Hannah Arendt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
