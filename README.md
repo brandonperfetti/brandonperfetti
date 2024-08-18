@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Can you imagine what I would do if I could do all I can?
+> You teach best what you most need to learn.
 >
-> <p>- Sun Tzu</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
