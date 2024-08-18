@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
+> Nine-tenths of wisdom is being wise in time.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Theodore Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
