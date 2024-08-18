@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
 >
-> <p>- Richard Bach</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
