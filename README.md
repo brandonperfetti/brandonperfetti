@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Technology has to be invented or adopted.
+> Delight in heedfulness! Guard well your thoughts!
 >
-> <p>- Jared Diamond</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
