@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Delight in heedfulness! Guard well your thoughts!
+> My best friend is the one who brings out the best in me.
 >
-> <p>- The Buddha</p>
+> <p>- Henry Ford</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
