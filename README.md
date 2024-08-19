@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who wishes to secure the good of others, has already secured his own.
+> A friend is, as it were, a second self.
 >
-> <p>- Confucius</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
