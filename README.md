@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
+> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
 >
-> <p>- Colin Powell</p>
+> <p>- Alexis Carrel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
