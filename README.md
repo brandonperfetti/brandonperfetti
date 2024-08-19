@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A friend is, as it were, a second self.
+> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
 >
-> <p>- Cicero</p>
+> <p>- Marian Wright Edelman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
