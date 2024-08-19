@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Some people go to priests; others to poetry; I to my friends.
+> Delight in heedfulness! Guard well your thoughts!
 >
-> <p>- Virginia Woolf</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
