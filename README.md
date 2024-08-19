@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
+> The heart has eyes which the brain knows nothing of.
 >
-> <p>- Alexis Carrel</p>
+> <p>- Charles Henry Parkhurst</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
