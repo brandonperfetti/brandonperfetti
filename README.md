@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> My best friend is the one who brings out the best in me.
+> As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.
 >
-> <p>- Henry Ford</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
