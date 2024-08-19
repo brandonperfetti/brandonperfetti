@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road.
+> Technology has to be invented or adopted.
 >
-> <p>- Stewart Brand</p>
+> <p>- Jared Diamond</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
