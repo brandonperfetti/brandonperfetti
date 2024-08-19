@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our distrust is very expensive.
+> Avoid having your ego so close to your position that when your position falls, your ego goes with it.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Colin Powell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
