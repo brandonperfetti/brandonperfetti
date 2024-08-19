@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse.
+> Keep your eyes on the stars and your feet on the ground.
 >
-> <p>- The Buddha</p>
+> <p>- Theodore Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
