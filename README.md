@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Keep your eyes on the stars and your feet on the ground.
+> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Elie Wiesel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
