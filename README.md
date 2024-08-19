@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
+> Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community.
 >
-> <p>- Wolfgang Amadeus Mozart</p>
+> <p>- Steven Van Zandt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
