@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
+> Friendship increases in visiting friends, but in visiting them seldom.
 >
-> <p>- Doug Larson</p>
+> <p>- Francis Bacon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
