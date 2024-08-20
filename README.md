@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The world is round and the place which may seem like the end may also be the beginning.
+> The fox has many tricks. The hedgehog has but one. But that is the best of all.
 >
-> <p>- Ivy Baker Priest</p>
+> <p>- Erasmus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
