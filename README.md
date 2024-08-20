@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When I was 40, my doctor advised me that a man in his 40s shouldn't play tennis. I heeded his advice carefully and could hardly wait until I reached 50 to start again.
+> Finding good players is easy. Getting them to play as a team is another story.
 >
-> <p>- Hugo Black</p>
+> <p>- Casey Stengel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
