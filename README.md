@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only real mistake is the one from which we learn nothing.
+> I violated the Noah rule: Predicting rain doesn't count; building arks does.
 >
-> <p>- John Powell</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
