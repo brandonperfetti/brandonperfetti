@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
+> Never mistake motion for action.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Ernest Hemingway</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
