@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise.
+> The world is round and the place which may seem like the end may also be the beginning.
 >
-> <p>- John Keats</p>
+> <p>- Ivy Baker Priest</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
