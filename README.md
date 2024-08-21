@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.
+> Success is where preparation and opportunity meet.
 >
-> <p>- Eckhart Tolle</p>
+> <p>- Bobby Unser</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
