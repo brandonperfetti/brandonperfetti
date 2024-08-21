@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.
+> One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness.
 >
-> <p>- Peter Drucker</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
