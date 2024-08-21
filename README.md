@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Think for yourselves and let others enjoy the privilege to do so too.
+> I allow my intuition to lead my path.
 >
-> <p>- Voltaire</p>
+> <p>- Manuel Puig</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
