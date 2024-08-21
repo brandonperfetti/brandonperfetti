@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Memory is the mother of all wisdom.
+> The final proof of greatness lies in being able to endure criticism without resentment.
 >
-> <p>- Samuel Johnson</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
