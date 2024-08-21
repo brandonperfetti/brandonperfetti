@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only thing to do with good advice is to pass it on. It is never of any use to oneself.
+> The greatest good you can do for another is not just share your riches but reveal to them their own.
 >
-> <p>- Oscar Wilde</p>
+> <p>- Benjamin Disraeli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
