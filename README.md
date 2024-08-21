@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The final proof of greatness lies in being able to endure criticism without resentment.
+> I destroy my enemies when I make them my friends.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
