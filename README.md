@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I destroy my enemies when I make them my friends.
+> The amount of happiness that you have depends on the amount of freedom you have in your heart.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- Thích Nhất Hạnh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
