@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
+> Football is football and talent is talent. But the mindset of your team makes all the difference.
 >
-> <p>- Barbara De Angelis</p>
+> <p>- Robert Griffin III</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
