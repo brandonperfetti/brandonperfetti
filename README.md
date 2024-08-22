@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.
+> Real success is finding your lifework in the work that you love.
 >
-> <p>- Mark Twain</p>
+> <p>- David McCullough</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
