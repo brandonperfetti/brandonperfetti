@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Real success is finding your lifework in the work that you love.
+> Fear not for the future, weep not for the past.
 >
-> <p>- David McCullough</p>
+> <p>- Percy Bysshe Shelley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
