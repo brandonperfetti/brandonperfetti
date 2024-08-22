@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> An invasion of armies can be resisted, but not an idea whose time has come.
+> Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
 >
-> <p>- Victor Hugo</p>
+> <p>- H. Jackson Brown Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
