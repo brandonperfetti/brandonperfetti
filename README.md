@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All difficult things have their origin in that which is easy, and great things in that which is small.
+> One of the most beautiful qualities of true friendship is to understand and to be understood.
 >
-> <p>- Laozi</p>
+> <p>- Seneca the Younger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
