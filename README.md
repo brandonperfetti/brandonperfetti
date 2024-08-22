@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Fear not for the future, weep not for the past.
+> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
 >
-> <p>- Percy Bysshe Shelley</p>
+> <p>- Yolanda Hadid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
