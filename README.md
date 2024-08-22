@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
+> An invasion of armies can be resisted, but not an idea whose time has come.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Victor Hugo</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
