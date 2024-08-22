@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To study and not think is a waste. To think and not study is dangerous.
+> Do not go where the path may lead, go instead where there is no path and leave a trail.
 >
-> <p>- Confucius</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
