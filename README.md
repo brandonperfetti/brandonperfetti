@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
+> I had three chairs in my house; one for solitude, two for friendship, three for society.
 >
-> <p>- Ernie Banks</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
