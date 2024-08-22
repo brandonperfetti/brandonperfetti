@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
+> Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
 >
-> <p>- Yolanda Hadid</p>
+> <p>- Ernie Banks</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
