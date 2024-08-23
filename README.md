@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.
+> Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
