@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We must learn our limits. We are all something, but none of us are everything.
+> What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.
 >
-> <p>- Blaise Pascal</p>
+> <p>- Daisaku Ikeda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
