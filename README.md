@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who is contented is rich.
+> The pain passes, but the beauty remains.
 >
-> <p>- Laozi</p>
+> <p>- Pierre-Auguste Renoir</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
