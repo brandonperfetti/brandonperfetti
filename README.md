@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Rare as is true love, true friendship is rarer.
+> The beginning of knowledge is the discovery of something we do not understand.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Frank Herbert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
