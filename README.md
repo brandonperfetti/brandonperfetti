@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> People ask me what I do in winter when there's no baseball. I'll tell you what I do. I stare out the window and wait for spring.
+> You don't look out there for God, something in the sky, you look in you.
 >
-> <p>- Rogers Hornsby</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
