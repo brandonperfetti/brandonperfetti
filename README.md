@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The pain passes, but the beauty remains.
+> We all live with the objective of being happy; our lives are all different and yet the same.
 >
-> <p>- Pierre-Auguste Renoir</p>
+> <p>- Anne Frank</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
