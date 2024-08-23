@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Nature is a mutable cloud which is always and never the same.
+> Great acts are made up of small deeds.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
