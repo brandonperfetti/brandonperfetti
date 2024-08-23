@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have no special talent. I am only passionately curious.
+> Step with care and great tact and remember that Life's a Great Balancing Act.
 >
-> <p>- Albert Einstein</p>
+> <p>- Dr. Seuss</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
