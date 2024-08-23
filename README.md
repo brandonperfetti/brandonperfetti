@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are Divine enough to ask and we are important enough to receive.
+> A lot of times people look at the negative side of what they feel they can't do. I always look on the positive side of what I can do.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Chuck Norris</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
