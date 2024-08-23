@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are small matters compared to what lies within us.
+> I walk slowly, but I never walk backward.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
