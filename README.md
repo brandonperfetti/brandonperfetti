@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No yesterdays are ever wasted for those who give themselves to today.
+> I want you to be everything that's you, deep at the center of your being.
 >
-> <p>- Brendan Behan</p>
+> <p>- Confucius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
