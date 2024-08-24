@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Action is eloquence.
+> Delight in heedfulness! Guard well your thoughts!
 >
-> <p>- William Shakespeare</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
