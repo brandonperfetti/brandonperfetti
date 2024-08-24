@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't watch the clock; do what it does. Keep going.
+> Decision is a risk rooted in the courage of being free.
 >
-> <p>- Sam Levenson</p>
+> <p>- Paul Tillich</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
