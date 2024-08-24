@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
+> Irony is the gaiety of reflection and the joy of wisdom.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Anatole France</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
