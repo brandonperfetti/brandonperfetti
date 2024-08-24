@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Delight in heedfulness! Guard well your thoughts!
+> Friends are the siblings God never gave us.
 >
-> <p>- The Buddha</p>
+> <p>- Mencius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
