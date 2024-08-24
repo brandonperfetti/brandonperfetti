@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Knowledge rests not upon truth alone, but upon error also.
+> Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!
 >
-> <p>- Carl Jung</p>
+> <p>- Charlotte Perkins Gilman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
