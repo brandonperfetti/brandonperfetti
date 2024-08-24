@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The human spirit must prevail over technology.
+> If you smile when no one else is around, you really mean it.
 >
-> <p>- Albert Einstein</p>
+> <p>- Andy Rooney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
