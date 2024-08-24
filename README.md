@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Irony is the gaiety of reflection and the joy of wisdom.
+> I'm not afraid of storms, for I'm learning how to sail my ship.
 >
-> <p>- Anatole France</p>
+> <p>- Louisa May Alcott</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
