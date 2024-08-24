@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I want you to be everything that's you, deep at the center of your being.
+> None knows the weight of another's burden.
 >
-> <p>- Confucius</p>
+> <p>- George Herbert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
