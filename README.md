@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Don't cry because it's over. Smile because it happened.
+> A really great talent finds its happiness in execution.
 >
-> <p>- Dr. Seuss</p>
+> <p>- Johann Wolfgang von Goethe</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
