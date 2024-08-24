@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A really great talent finds its happiness in execution.
+> No yesterdays are ever wasted for those who give themselves to today.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Brendan Behan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
