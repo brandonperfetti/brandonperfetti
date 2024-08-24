@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
+> Knowledge rests not upon truth alone, but upon error also.
 >
-> <p>- Dan Gable</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
