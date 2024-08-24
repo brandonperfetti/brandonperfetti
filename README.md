@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.
+> The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.
 >
-> <p>- George S. Patton</p>
+> <p>- Henry David Thoreau</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
