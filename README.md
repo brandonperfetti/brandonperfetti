@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.
+> Time you enjoyed wasting was not wasted.
 >
-> <p>- Muhammad Ali</p>
+> <p>- John Lennon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
