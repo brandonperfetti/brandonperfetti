@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Time you enjoyed wasting was not wasted.
+> Don't watch the clock; do what it does. Keep going.
 >
-> <p>- John Lennon</p>
+> <p>- Sam Levenson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
