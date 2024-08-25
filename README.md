@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> My best friend is the one who brings out the best in me.
+> A friendship founded on business is better than a business founded on friendship.
 >
-> <p>- Henry Ford</p>
+> <p>- John Locke</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
