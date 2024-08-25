@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+> Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
 >
-> <p>- Helen Keller</p>
+> <p>- M. Scott Peck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
