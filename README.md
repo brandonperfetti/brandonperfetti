@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
+> By accepting yourself and being fully what you are, your presence can make others happy.
 >
-> <p>- Confucius</p>
+> <p>- Jane Roberts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
