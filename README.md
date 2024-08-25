@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In order to succeed, we must first believe that we can.
+> A leader is one who knows the way, goes the way, and shows the way.
 >
-> <p>- Nikos Kazantzakis</p>
+> <p>- John C. Maxwell</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
