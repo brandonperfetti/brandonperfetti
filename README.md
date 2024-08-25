@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A friendship founded on business is better than a business founded on friendship.
+> First say to yourself what you would be; and then do what you have to do.
 >
-> <p>- John Locke</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
