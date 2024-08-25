@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
+> Peace begins with a smile.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
