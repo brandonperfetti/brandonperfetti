@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it.
+> When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
 >
-> <p>- Charlotte Perkins Gilman</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
