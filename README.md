@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you don't know where you are going, any road will get you there.
+> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
 >
-> <p>- Lewis Carroll</p>
+> <p>- Lord Byron</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
