@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> First say to yourself what you would be; and then do what you have to do.
+> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
 >
-> <p>- Epictetus</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
