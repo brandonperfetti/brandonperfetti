@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
+> These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future.
 >
-> <p>- Albert Camus</p>
+> <p>- Vernon Cooper</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
