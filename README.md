@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
+> If you spend your whole life waiting for the storm, you'll never enjoy the sunshine.
 >
-> <p>- Chanakya</p>
+> <p>- Morris West</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
