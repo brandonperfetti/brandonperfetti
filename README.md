@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is only one happiness in life, to love and be loved.
+> There is some self-interest behind every friendship. There is no friendship without self-interests. This is a bitter truth.
 >
-> <p>- George Sand</p>
+> <p>- Chanakya</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
