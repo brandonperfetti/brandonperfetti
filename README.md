@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A leader is one who knows the way, goes the way, and shows the way.
+> My best friend is the one who brings out the best in me.
 >
-> <p>- John C. Maxwell</p>
+> <p>- Henry Ford</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
