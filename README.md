@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
+> In order to succeed, we must first believe that we can.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Nikos Kazantzakis</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
