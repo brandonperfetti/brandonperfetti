@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It's better to be a lion for a day than a sheep all your life.
+> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Marian Wright Edelman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
