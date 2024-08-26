@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can stand tall without standing on someone. You can be a victor without having victims.
+> All know the way; few actually walk it.
 >
-> <p>- Harriet Woods</p>
+> <p>- Bodhidharma</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
