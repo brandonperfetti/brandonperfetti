@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He that respects himself is safe from others; he wears a coat of mail that none can pierce.
+> If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.
 >
-> <p>- Henry Wadsworth Longfellow</p>
+> <p>- Robert Fulghum</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
