@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All know the way; few actually walk it.
+> Friendship multiplies the good of life and divides the evil.
 >
-> <p>- Bodhidharma</p>
+> <p>- Baltasar Gracián</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
