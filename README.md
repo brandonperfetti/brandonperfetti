@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is a wisdom of the head, and a wisdom of the heart.
+> It's important to know that words don't move mountains. Work, exacting work moves mountains.
 >
-> <p>- Charles Dickens</p>
+> <p>- Danilo Dolci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
