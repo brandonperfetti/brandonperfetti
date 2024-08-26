@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
+> There is a wisdom of the head, and a wisdom of the heart.
 >
-> <p>- Francis of Assisi</p>
+> <p>- Charles Dickens</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
