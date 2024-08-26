@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
 >
-> <p>- Sophocles</p>
+> <p>- Yolanda Hadid</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
