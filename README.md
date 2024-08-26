@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Once you choose hope, anything's possible.
+> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
 >
-> <p>- Christopher Reeve</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
