@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.
+> Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
 >
-> <p>- Yolanda Hadid</p>
+> <p>- Lord Byron</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
