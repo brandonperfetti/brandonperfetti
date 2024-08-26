@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> But at any rate, the point is that God is what nobody admits to being, and everybody really is.
+> With the new day comes new strength and new thoughts.
 >
-> <p>- Alan Watts</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
