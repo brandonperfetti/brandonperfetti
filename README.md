@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you come to the end of your rope, tie a knot and hang on.
+> All know the way; few actually walk it.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Bodhidharma</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
