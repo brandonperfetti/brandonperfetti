@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I begin with an idea and then it becomes something else.
+> What lies behind us and what lies before us are small matters compared to what lies within us.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Oliver Wendell Holmes Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
