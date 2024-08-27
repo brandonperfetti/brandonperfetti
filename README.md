@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All achievements, all earned riches, have their beginning in an idea.
+> I begin with an idea and then it becomes something else.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Pablo Picasso</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
