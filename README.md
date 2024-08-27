@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Share your smile with the world. It's a symbol of friendship and peace.
+> We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.
 >
-> <p>- Christie Brinkley</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
