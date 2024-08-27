@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Things do not happen. Things are made to happen.
+> To bring anything into your life, imagine that it's already there.
 >
-> <p>- John F. Kennedy</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
