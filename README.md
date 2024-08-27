@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is what happens to you while you're busy making other plans.
+> Things do not happen. Things are made to happen.
 >
-> <p>- John Lennon</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
