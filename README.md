@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Quick decisions are unsafe decisions.
+> Everyone thinks of changing the world, but no one thinks of changing himself.
 >
-> <p>- Sophocles</p>
+> <p>- Leo Tolstoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
