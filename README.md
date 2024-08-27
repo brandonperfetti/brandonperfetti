@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What lies behind us and what lies before us are small matters compared to what lies within us.
+> Life is a travelling to the edge of knowledge, then a leap taken.
 >
-> <p>- Oliver Wendell Holmes Jr.</p>
+> <p>- Laurence J. Peter</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
