@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Believe you can and you're halfway there.
+> Wrinkles should merely indicate where smiles have been.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Mark Twain</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
