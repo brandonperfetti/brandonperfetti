@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The most I can do for my friend is simply be his friend.
+> Who sows virtue reaps honor.
 >
-> <p>- Henry David Thoreau</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
