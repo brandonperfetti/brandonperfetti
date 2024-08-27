@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Life is a travelling to the edge of knowledge, then a leap taken.
+> We must embrace pain and burn it as fuel for our journey.
 >
-> <p>- Laurence J. Peter</p>
+> <p>- Kenji Miyazawa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
