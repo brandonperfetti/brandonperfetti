@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.
+> Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
 >
-> <p>- Isocrates</p>
+> <p>- Arthur Conan Doyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
