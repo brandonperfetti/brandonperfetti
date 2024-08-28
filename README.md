@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love does not consist of gazing at each other, but in looking together in the same direction.
+> Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Theodore Isaac Rubin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
