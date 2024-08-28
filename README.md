@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Act as if what you do makes a difference. It does.
+> Love does not consist of gazing at each other, but in looking together in the same direction.
 >
-> <p>- William James</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
