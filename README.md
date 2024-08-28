@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A wise man will make more opportunities than he finds.
+> Act as if what you do makes a difference. It does.
 >
-> <p>- Francis Bacon</p>
+> <p>- William James</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
