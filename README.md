@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
+> The function of wisdom is to discriminate between good and evil.
 >
-> <p>- Epictetus</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
