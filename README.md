@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> In all chaos there is a cosmos, in all disorder a secret order.
+> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
 >
-> <p>- Carl Jung</p>
+> <p>- John Steinbeck</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
