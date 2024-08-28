@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship may, and often does, grow into love, but love never subsides into friendship.
+> A wise man will make more opportunities than he finds.
 >
-> <p>- Lord Byron</p>
+> <p>- Francis Bacon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
