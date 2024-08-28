@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
+> If you smile when no one else is around, you really mean it.
 >
-> <p>- John Steinbeck</p>
+> <p>- Andy Rooney</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
