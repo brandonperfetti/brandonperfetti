@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Either you run the day or the day runs you.
+> It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
 >
-> <p>- Jim Rohn</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
