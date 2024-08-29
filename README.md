@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.
+> Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
 >
-> <p>- Bruce Lee</p>
+> <p>- Elie Wiesel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
