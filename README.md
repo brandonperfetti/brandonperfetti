@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+> I owe my solitude to other people.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
