@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A mind unruffled by the vagaries of fortune, from sorrow freed, from defilements cleansed, from fear liberated — this is the greatest blessing.
+> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
 >
-> <p>- The Buddha</p>
+> <p>- Elizabeth Montagu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
