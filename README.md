@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Keep your eyes on the stars and your feet on the ground.
+> Love cures people - both the ones who give it and the ones who receive it.
 >
-> <p>- Theodore Roosevelt</p>
+> <p>- Karl Menninger</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
