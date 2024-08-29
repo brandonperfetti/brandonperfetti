@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I owe my solitude to other people.
+> No yesterdays are ever wasted for those who give themselves to today.
 >
-> <p>- Alan Watts</p>
+> <p>- Brendan Behan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
