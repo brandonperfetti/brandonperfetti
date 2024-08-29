@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love cures people - both the ones who give it and the ones who receive it.
+> 'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering.
 >
-> <p>- Karl Menninger</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
