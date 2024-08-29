@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Remember that the most valuable antiques are dear old friends.
+> The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Walter Benjamin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
