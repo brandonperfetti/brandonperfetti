@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is an arrangement by which we undertake to exchange small favors for big ones.
+> We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.
 >
-> <p>- Montesquieu</p>
+> <p>- Elizabeth Kapu'uwailani Lindsey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
