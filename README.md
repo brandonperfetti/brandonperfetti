@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
+> Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.
 >
-> <p>- Charles Du Bos</p>
+> <p>- Charles Lindbergh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
