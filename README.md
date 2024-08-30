@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
+> Always be smarter than the people who hire you.
 >
-> <p>- Marcia Fudge</p>
+> <p>- Lena Horne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
