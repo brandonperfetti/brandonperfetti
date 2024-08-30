@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship is always a sweet responsibility, never an opportunity.
+> We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.
 >
-> <p>- Kahlil Gibran</p>
+> <p>- Marcia Fudge</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
