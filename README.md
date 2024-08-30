@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I know but one freedom and that is the freedom of the mind.
+> Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.
 >
-> <p>- Antoine de Saint-Exupéry</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
