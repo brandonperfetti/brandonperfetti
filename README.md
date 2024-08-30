@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Some do not understand that we must die, But those who do realize this settle their quarrels.
+> Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
 >
-> <p>- The Buddha</p>
+> <p>- Ralph Waldo Emerson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
