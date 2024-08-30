@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
+> The most technologically efficient machine that man has ever invented is the book.
 >
-> <p>- Carl Jung</p>
+> <p>- Northrop Frye</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
