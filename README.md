@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I am always doing that which I cannot do, in order that I may learn how to do it.
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
 >
-> <p>- Pablo Picasso</p>
+> <p>- Charles Du Bos</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
