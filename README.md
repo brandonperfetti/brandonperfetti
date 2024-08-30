@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The most technologically efficient machine that man has ever invented is the book.
+> Wise men talk because they have something to say; fools, because they have to say something.
 >
-> <p>- Northrop Frye</p>
+> <p>- Plato</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
