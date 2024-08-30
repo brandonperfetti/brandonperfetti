@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Happiness can exist only in acceptance.
+> I know but one freedom and that is the freedom of the mind.
 >
-> <p>- George Orwell</p>
+> <p>- Antoine de Saint-Exupéry</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
