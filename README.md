@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wise men talk because they have something to say; fools, because they have to say something.
+> Read as you taste fruit or savor wine, or enjoy friendship, love or life.
 >
-> <p>- Plato</p>
+> <p>- George Herbert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
