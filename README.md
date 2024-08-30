@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The sincere friends of this world are as ship lights in the stormiest of nights.
+> Friendship is always a sweet responsibility, never an opportunity.
 >
-> <p>- Giotto</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
