@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
+> Honesty is the best policy.
 >
-> <p>- Billie Jean King</p>
+> <p>- Benjamin Franklin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
