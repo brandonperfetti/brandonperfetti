@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It is in your moments of decision that your destiny is shaped.
+> Great acts are made up of small deeds.
 >
-> <p>- Tony Robbins</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
