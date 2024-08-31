@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Trust yourself. You know more than you think you do.
+> Even youngish men can acquire wisdom as time goes by.
 >
-> <p>- Benjamin Spock</p>
+> <p>- John Bercow</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
