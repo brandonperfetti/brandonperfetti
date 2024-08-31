@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Write your plans in pencil and give God the eraser.
+> Finding good players is easy. Getting them to play as a team is another story.
 >
-> <p>- Paulo Coelho</p>
+> <p>- Casey Stengel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
