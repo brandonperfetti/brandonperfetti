@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It all depends on how we look at things, and not how they are in themselves.
+> All wisdom does not reside in Delhi.
 >
-> <p>- Carl Jung</p>
+> <p>- P. Chidambaram</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
