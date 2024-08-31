@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> An ant on the move does more than a dozing ox
+> Trust yourself. You know more than you think you do.
 >
-> <p>- Laozi</p>
+> <p>- Benjamin Spock</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
