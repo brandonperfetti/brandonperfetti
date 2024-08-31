@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
+> Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
 >
-> <p>- Thornton Wilder</p>
+> <p>- Billie Jean King</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
