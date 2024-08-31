@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Even youngish men can acquire wisdom as time goes by.
+> All I can say about life is, Oh God, enjoy it!
 >
-> <p>- John Bercow</p>
+> <p>- Bob Newhart</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
