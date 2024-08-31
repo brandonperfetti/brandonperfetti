@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The future belongs to those who believe in the beauty of their dreams.
+> We can only be said to be alive in those moments when our hearts are conscious of our treasures.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Thornton Wilder</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
