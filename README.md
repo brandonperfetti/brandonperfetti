@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you can't feed a hundred people, then feed just one.
+> Everything that happens as it should, and if you observe carefully, you will find this to be so.
 >
-> <p>- Mother Teresa</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
