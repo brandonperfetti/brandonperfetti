@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Finding good players is easy. Getting them to play as a team is another story.
+> The future belongs to those who believe in the beauty of their dreams.
 >
-> <p>- Casey Stengel</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
