@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who has imagination without learning has wings but no feet.
+> If you can't feed a hundred people, then feed just one.
 >
-> <p>- Joseph Joubert</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
