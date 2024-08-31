@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom.
+> A friend is one who knows you and loves you just the same.
 >
-> <p>- William Hurt</p>
+> <p>- Elbert Hubbard</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
