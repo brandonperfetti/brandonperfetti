@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All I can say about life is, Oh God, enjoy it!
+> Write your plans in pencil and give God the eraser.
 >
-> <p>- Bob Newhart</p>
+> <p>- Paulo Coelho</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
