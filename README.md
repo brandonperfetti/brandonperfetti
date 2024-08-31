@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A friend is one who knows you and loves you just the same.
+> It all depends on how we look at things, and not how they are in themselves.
 >
-> <p>- Elbert Hubbard</p>
+> <p>- Carl Jung</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
