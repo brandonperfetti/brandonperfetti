@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you come to the end of your rope, tie a knot and hang on.
+> As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
