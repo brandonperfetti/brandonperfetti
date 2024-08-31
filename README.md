@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It has never been my object to record my dreams, just to realize them.
+> He who has imagination without learning has wings but no feet.
 >
-> <p>- Man Ray</p>
+> <p>- Joseph Joubert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
