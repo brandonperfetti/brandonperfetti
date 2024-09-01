@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Between saying and doing, many a pair of shoes is worn out.
+> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
 >
-> <p>- Iris Murdoch</p>
+> <p>- William Saroyan</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
