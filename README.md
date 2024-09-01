@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
+> Be kind whenever possible. It is always possible.
 >
-> <p>- Michelangelo</p>
+> <p>- Dalai Lama</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
