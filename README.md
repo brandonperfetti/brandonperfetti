@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I have often regretted my speech, never my silence.
+> He who controls others may be powerful, but he who has mastered himself is mightier still.
 >
-> <p>- Publilius Syrus</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
