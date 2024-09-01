@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who can curb his wrath as soon as it arises, as a timely antidote will check snake's venom that so quickly spreads, — such a monk gives up the here and the beyond, just as a serpent sheds its worn-out skin.
+> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
 >
-> <p>- The Buddha</p>
+> <p>- Niccolò Machiavelli</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
