@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
+> To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.
 >
-> <p>- William Saroyan</p>
+> <p>- Napoleon</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
