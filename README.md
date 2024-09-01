@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who is contented is rich.
+> Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.
 >
-> <p>- Laozi</p>
+> <p>- Arthur Conan Doyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
