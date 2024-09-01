@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.
+> Joy is what happens to us when we allow ourselves to recognize how good things really are.
 >
-> <p>- Niccolò Machiavelli</p>
+> <p>- Marianne Williamson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
