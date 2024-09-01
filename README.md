@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
+> Applause is a receipt, not a bill.
 >
-> <p>- Aristotle</p>
+> <p>- Dale Carnegie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
