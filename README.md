@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The best way to pay for a lovely moment is to enjoy it.
+> You can observe a lot just by watching.
 >
-> <p>- Richard Bach</p>
+> <p>- Yogi Berra</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
