@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can observe a lot just by watching.
+> Perfection of means and confusion of ends seems to characterize our age.
 >
-> <p>- Yogi Berra</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
