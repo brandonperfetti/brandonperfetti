@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.
+> I have often regretted my speech, never my silence.
 >
-> <p>- Napoleon</p>
+> <p>- Publilius Syrus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
