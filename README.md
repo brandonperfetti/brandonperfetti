@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you want to kill any idea in the world, get a committee working on it.
+> We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
 >
-> <p>- Charles F. Kettering</p>
+> <p>- Stephen Covey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
