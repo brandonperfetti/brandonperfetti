@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Joy is what happens to us when we allow ourselves to recognize how good things really are.
+> If you want to kill any idea in the world, get a committee working on it.
 >
-> <p>- Marianne Williamson</p>
+> <p>- Charles F. Kettering</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
