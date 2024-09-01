@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
+> Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.
 >
-> <p>- Stephen Covey</p>
+> <p>- Washington Irving</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
