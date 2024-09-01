@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be kind whenever possible. It is always possible.
+> The best way to pay for a lovely moment is to enjoy it.
 >
-> <p>- Dalai Lama</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
