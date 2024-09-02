@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
+> You don't look out there for God, something in the sky, you look in you.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Alan Watts</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
