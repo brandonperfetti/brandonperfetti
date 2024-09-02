@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.
+> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
 >
-> <p>- Nathaniel Hawthorne</p>
+> <p>- Franz Grillparzer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
