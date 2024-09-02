@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Sustaining true friendship is a lot more challenging than we give it credit for.
+> True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
 >
-> <p>- Mariella Frostrup</p>
+> <p>- Daisaku Ikeda</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
