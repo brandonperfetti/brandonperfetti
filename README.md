@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
+> Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 >
-> <p>- Franz Grillparzer</p>
+> <p>- René Descartes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
