@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wherever a man turns he can find someone who needs him.
+> If you correct your mind, the rest of your life will fall into place.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
