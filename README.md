@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> They can do all because they think they can.
+> Reality does not conform to the ideal but confirms it.
 >
-> <p>- Virgil</p>
+> <p>- Gustave Flaubert</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
