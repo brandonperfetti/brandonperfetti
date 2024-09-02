@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you correct your mind, the rest of your life will fall into place.
+> They can do all because they think they can.
 >
-> <p>- Laozi</p>
+> <p>- Virgil</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
