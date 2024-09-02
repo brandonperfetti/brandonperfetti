@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The truth you believe and cling to makes you unavailable to hear anything new.
+> Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you.
 >
-> <p>- Pema Chödrön</p>
+> <p>- Nathaniel Hawthorne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
