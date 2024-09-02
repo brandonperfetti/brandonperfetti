@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The root of suffering is attachment.
+> Sustaining true friendship is a lot more challenging than we give it credit for.
 >
-> <p>- The Buddha</p>
+> <p>- Mariella Frostrup</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
