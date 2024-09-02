@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You can observe a lot just by watching.
+> Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.
 >
-> <p>- Yogi Berra</p>
+> <p>- Jane Addams</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
