@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
+> I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
 >
-> <p>- Thích Nhất Hạnh</p>
+> <p>- Warren Buffett</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
