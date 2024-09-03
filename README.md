@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The possibilities are numerous once we decide to act and not react.
+> The beginning is always today.
 >
-> <p>- George Bernard Shaw</p>
+> <p>- Mary Wollstonecraft</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
