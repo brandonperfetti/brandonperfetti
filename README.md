@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Courage is going from failure to failure without losing enthusiasm.
+> Wisdom is the supreme part of happiness.
 >
-> <p>- Winston Churchill</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
