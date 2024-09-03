@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Along with success comes a reputation for wisdom.
+> Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.
 >
-> <p>- Euripides</p>
+> <p>- Martin Luther King Jr.</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
