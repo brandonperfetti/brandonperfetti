@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+> The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.
 >
-> <p>- Winston Churchill</p>
+> <p>- Thích Nhất Hạnh</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
