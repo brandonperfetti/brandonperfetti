@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
+> It's easier to resist at the beginning than at the end.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- Leonardo da Vinci</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
