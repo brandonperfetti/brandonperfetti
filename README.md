@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.
+> One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world.
 >
-> <p>- Martin Luther King Jr.</p>
+> <p>- Hannah Szenes</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
