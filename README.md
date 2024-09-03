@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> So is cheerfulness, or a good temper, the more it is spent, the more remains.
+> The journey of a thousand miles begins with one step.
 >
-> <p>- Ralph Waldo Emerson</p>
+> <p>- Laozi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
