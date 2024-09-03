@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
+> Along with success comes a reputation for wisdom.
 >
-> <p>- Warren Buffett</p>
+> <p>- Euripides</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
