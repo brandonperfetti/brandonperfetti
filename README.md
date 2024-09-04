@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One secret of success in life is for a man to be ready for his opportunity when it comes.
+> An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
 >
-> <p>- Benjamin Disraeli</p>
+> <p>- Thomas Fuller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
