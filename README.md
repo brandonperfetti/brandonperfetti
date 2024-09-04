@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Gratitude is not only the greatest of virtues, but the parent of all the others.
+> Swim upstream. Go the other way. Ignore the conventional wisdom.
 >
-> <p>- Cicero</p>
+> <p>- Sam Walton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
