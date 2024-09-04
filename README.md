@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
+> I look forward to a great future for America - a future in which our country will match its military strength with our moral restraint, its wealth with our wisdom, its power with our purpose.
 >
-> <p>- Molière</p>
+> <p>- John F. Kennedy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
