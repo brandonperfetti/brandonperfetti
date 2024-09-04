@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you would take, you must first give, this is the beginning of intelligence.
+> Gratitude is not only the greatest of virtues, but the parent of all the others.
 >
-> <p>- Laozi</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
