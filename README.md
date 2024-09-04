@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
+> With the new day comes new strength and new thoughts.
 >
-> <p>- Babatunde Olatunji</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
