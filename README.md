@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
+> Peace cannot be kept by force. It can only be achieved by understanding.
 >
-> <p>- Richard Bach</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
