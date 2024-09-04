@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
+> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.
 >
-> <p>- William Blake</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
