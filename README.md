@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> With the new day comes new strength and new thoughts.
+> Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
