@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
+> A wise man is superior to any insults which can be put upon him, and the best reply to unseemly behavior is patience and moderation.
 >
-> <p>- Rudolf Arnheim</p>
+> <p>- Molière</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
