@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wherever a man turns he can find someone who needs him.
+> Every problem has a gift for you in its hands.
 >
-> <p>- Albert Schweitzer</p>
+> <p>- Richard Bach</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
