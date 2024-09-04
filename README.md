@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Who sows virtue reaps honor.
+> Of all possessions a friend is the most precious.
 >
-> <p>- Leonardo da Vinci</p>
+> <p>- Herodotus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
