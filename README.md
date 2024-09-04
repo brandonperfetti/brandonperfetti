@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Any sufficiently advanced technology is equivalent to magic.
+> A friend is, as it were, a second self.
 >
-> <p>- Arthur C. Clarke</p>
+> <p>- Cicero</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
