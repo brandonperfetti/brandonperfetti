@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Rare as is true love, true friendship is rarer.
+> All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.
 >
-> <p>- Jean de La Fontaine</p>
+> <p>- Rudolf Arnheim</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
