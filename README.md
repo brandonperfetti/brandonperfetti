@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A friend is, as it were, a second self.
+> Practice yourself, for heaven's sake in little things, and then proceed to greater.
 >
-> <p>- Cicero</p>
+> <p>- Epictetus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
