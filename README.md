@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He that is giddy thinks the world turns round.
+> Friendship is the marriage of the soul, and this marriage is liable to divorce.
 >
-> <p>- William Shakespeare</p>
+> <p>- Voltaire</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
