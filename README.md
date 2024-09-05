@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Purity and impurity depend on oneself; no one can purify another.
+> In seed time learn, in harvest teach, in winter enjoy.
 >
-> <p>- The Buddha</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
