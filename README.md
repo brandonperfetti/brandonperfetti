@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.
+> We love life, not because we are used to living but because we are used to loving.
 >
-> <p>- Henri Bergson</p>
+> <p>- Friedrich Nietzsche</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
