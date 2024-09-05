@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Peace cannot be kept by force. It can only be achieved by understanding.
+> The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
 >
-> <p>- Albert Einstein</p>
+> <p>- Charles Du Bos</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
