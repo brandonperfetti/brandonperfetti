@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We love life, not because we are used to living but because we are used to loving.
+> One must be fond of people and trust them if one is not to make a mess of life.
 >
-> <p>- Friedrich Nietzsche</p>
+> <p>- E. M. Forster</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
