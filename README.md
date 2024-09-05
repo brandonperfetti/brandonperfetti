@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> A person who never made a mistake never tried anything new.
+> You cannot have what you do not want.
 >
-> <p>- Albert Einstein</p>
+> <p>- John Acosta</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
