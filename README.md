@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do one thing every day that scares you.
+> Adversity causes some men to break, others to break records.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- William Arthur Ward</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
