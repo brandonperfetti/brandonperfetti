@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> One must be fond of people and trust them if one is not to make a mess of life.
+> I endeavor to be wise when I cannot be merry, easy when I cannot be glad, content with what cannot be mended and patient when there is no redress.
 >
-> <p>- E. M. Forster</p>
+> <p>- Elizabeth Montagu</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
