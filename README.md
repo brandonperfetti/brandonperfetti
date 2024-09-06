@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Where all think alike, no one thinks very much.
+> The path to success is to take massive, determined action.
 >
-> <p>- Walter Lippmann</p>
+> <p>- Tony Robbins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
