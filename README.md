@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Waste no more time arguing about what a good man should be. Be one.
+> Let us always meet each other with smile, for the smile is the beginning of love.
 >
-> <p>- Marcus Aurelius</p>
+> <p>- Mother Teresa</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
