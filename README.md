@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our passion is our strength.
+> Waste no more time arguing about what a good man should be. Be one.
 >
-> <p>- Billie Armstrong</p>
+> <p>- Marcus Aurelius</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
