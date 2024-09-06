@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> His lack of education is more than compensated for by his keenly developed moral bankruptcy.
+> True knowledge exists in knowing that you know nothing.
 >
-> <p>- Woody Allen</p>
+> <p>- Isocrates</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
