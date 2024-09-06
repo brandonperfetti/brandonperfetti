@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The greatest way to live with honor in this world is to be what we pretend to be.
+> A little knowledge that acts is worth infinitely more than much knowledge that is idle.
 >
-> <p>- Socrates</p>
+> <p>- Kahlil Gibran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
