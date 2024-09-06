@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Silence at the proper season is wisdom, and better than any speech.
+> Be your own hero, it's cheaper than a movie ticket.
 >
-> <p>- Plutarch</p>
+> <p>- Doug Horton</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
