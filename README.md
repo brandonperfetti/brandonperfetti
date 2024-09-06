@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Remember that a gesture of friendship, no matter how small, is always appreciated.
+> Our passion is our strength.
 >
-> <p>- H. Jackson Brown Jr.</p>
+> <p>- Billie Armstrong</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
