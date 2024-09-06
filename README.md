@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Be your own hero, it's cheaper than a movie ticket.
+> To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
 >
-> <p>- Doug Horton</p>
+> <p>- Pema Chödrön</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
