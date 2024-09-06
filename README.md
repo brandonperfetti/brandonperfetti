@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Blessed are the hearts that can bend; they shall never be broken.
+> Silence at the proper season is wisdom, and better than any speech.
 >
-> <p>- Albert Camus</p>
+> <p>- Plutarch</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
