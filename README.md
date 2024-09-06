@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+> Do one thing every day that scares you.
 >
-> <p>- Horace</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
