@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> It takes courage to grow up and become who you really are.
+> Where there is charity and wisdom, there is neither fear nor ignorance.
 >
-> <p>- E. E. Cummings</p>
+> <p>- Francis of Assisi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
