@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Mountains cannot be surmounted except by winding paths.
+> It takes courage to grow up and become who you really are.
 >
-> <p>- Johann Wolfgang von Goethe</p>
+> <p>- E. E. Cummings</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
