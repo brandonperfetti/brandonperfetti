@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The place to improve the world is first in one's own heart and head and hands.
+> You win the victory when you yield to friends.
 >
-> <p>- Robert M. Pirsig</p>
+> <p>- Sophocles</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
