@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> True knowledge exists in knowing that you know nothing.
+> Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
 >
-> <p>- Isocrates</p>
+> <p>- Horace</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
