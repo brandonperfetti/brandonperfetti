@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+> Almost everything comes from nothing.
 >
-> <p>- Arthur Conan Doyle</p>
+> <p>- Henri-Frédéric Amiel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
