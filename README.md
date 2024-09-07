@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> No one can make you feel inferior without your consent.
+> Always bear in mind that your own resolution to succeed is more important than any one thing.
 >
-> <p>- Eleanor Roosevelt</p>
+> <p>- Abraham Lincoln</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
