@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
+> Do not turn back when you are just at the goal.
 >
-> <p>- Marian Wright Edelman</p>
+> <p>- Publilius Syrus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
