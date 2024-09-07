@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Always bear in mind that your own resolution to succeed is more important than any one thing.
+> The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.
 >
-> <p>- Abraham Lincoln</p>
+> <p>- The Buddha</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
