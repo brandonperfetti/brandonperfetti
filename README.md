@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I cannot always control what goes on outside. But I can always control what goes on inside.
+> No one can make you feel inferior without your consent.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Eleanor Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
