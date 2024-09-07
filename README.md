@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.
+> We lost because we told ourselves we lost.
 >
-> <p>- The Buddha</p>
+> <p>- Leo Tolstoy</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
