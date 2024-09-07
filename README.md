@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Know how to listen, and you will profit even from those who talk badly.
+> The best thing in every noble dream is the dreamer...
 >
-> <p>- Plutarch</p>
+> <p>- Moncure D. Conway</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
