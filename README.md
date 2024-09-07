@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We don't stop playing because we grow old; we grow old because we stop playing.
+> You're not obligated to win. You're obligated to keep trying to do the best you can every day.
 >
-> <p>- Bernard Shaw</p>
+> <p>- Marian Wright Edelman</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
