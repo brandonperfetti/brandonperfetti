@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There is no friendship, no love, like that of the parent for the child.
+> The greatest obstacle to being heroic is the doubt whether one may not be going to prove oneself a fool; the truest heroism is to resist the doubt; and the profoundest wisdom, to know when it ought to be resisted, and when it be obeyed.
 >
-> <p>- Henry Ward Beecher</p>
+> <p>- Nathaniel Hawthorne</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
