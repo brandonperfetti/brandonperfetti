@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You win the victory when you yield to friends.
+> Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth.
 >
-> <p>- Sophocles</p>
+> <p>- Arthur Conan Doyle</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
