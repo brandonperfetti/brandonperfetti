@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do good by stealth, and blush to find it fame.
+> We don't stop playing because we grow old; we grow old because we stop playing.
 >
-> <p>- Alexander Pope</p>
+> <p>- Bernard Shaw</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
