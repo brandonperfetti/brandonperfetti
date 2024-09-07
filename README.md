@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship without self-interest is one of the rare and beautiful things of life.
+> Do good by stealth, and blush to find it fame.
 >
-> <p>- James F. Byrnes</p>
+> <p>- Alexander Pope</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
