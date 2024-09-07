@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Do not wait for leaders; do it alone, person to person.
+> No bird soars too high if he soars with his own wings.
 >
-> <p>- Mother Teresa</p>
+> <p>- William Blake</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
