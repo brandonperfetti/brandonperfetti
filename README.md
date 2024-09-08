@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> To find a man's true character, play golf with him.
+> If I had only known, I would have been a locksmith.
 >
-> <p>- P. G. Wodehouse</p>
+> <p>- Albert Einstein</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
