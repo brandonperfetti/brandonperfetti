@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The eye sees only what the mind is prepared to comprehend.
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.
 >
-> <p>- Henri Bergson</p>
+> <p>- Lou Holtz</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
