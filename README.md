@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If I had only known, I would have been a locksmith.
+> If we did the things we are capable of, we would astound ourselves.
 >
-> <p>- Albert Einstein</p>
+> <p>- Thomas Edison</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
