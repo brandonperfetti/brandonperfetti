@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We cannot solve our problems with the same thinking we used when we created them.
+> If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives.
 >
-> <p>- Albert Einstein</p>
+> <p>- Vince Lombardi</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
