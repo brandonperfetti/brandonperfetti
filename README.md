@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+> It is with words as with sunbeams. The more they are condensed, the deeper they burn.
 >
-> <p>- Winston Churchill</p>
+> <p>- Robert Southey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
