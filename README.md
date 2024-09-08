@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> He who angers you conquers you.
+> The eye sees only what the mind is prepared to comprehend.
 >
-> <p>- Elizabeth Kenny</p>
+> <p>- Henri Bergson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
