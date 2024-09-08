@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I always wanted to be somebody, but I should have been more specific.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Lily Tomlin</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
