@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We lost because we told ourselves we lost.
+> The self is not something ready-made, but something in continuous formation through choice of action.
 >
-> <p>- Leo Tolstoy</p>
+> <p>- John Dewey</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
