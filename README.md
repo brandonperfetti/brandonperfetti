@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> As you think, so shall you become.
+> To find a man's true character, play golf with him.
 >
-> <p>- Bruce Lee</p>
+> <p>- P. G. Wodehouse</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
