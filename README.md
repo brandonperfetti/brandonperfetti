@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Our work is the presentation of our capabilities.
+> I always wanted to be somebody, but I should have been more specific.
 >
-> <p>- Edward Gibbon</p>
+> <p>- Lily Tomlin</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
