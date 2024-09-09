@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> When you judge another, you do not define them, you define yourself.
+> Good, better, best. Never let it rest. ‘Til your good is better and your better is best.
 >
-> <p>- Wayne Dyer</p>
+> <p>- Jerome</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
