@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Yesterday's home runs don't win today's games.
+> If you don't like something, change it. If you can't change it, change your attitude.
 >
-> <p>- Babe Ruth</p>
+> <p>- Maya Angelou</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
