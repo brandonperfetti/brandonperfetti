@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
+> Never deny a diagnosis but do deny the negative verdict that may go with it.
 >
-> <p>- Doug Larson</p>
+> <p>- Norman Cousins</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
