@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If you don't like something, change it. If you can't change it, change your attitude.
+> There are many ways of going forward, but only one way of standing still.
 >
-> <p>- Maya Angelou</p>
+> <p>- Franklin D. Roosevelt</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
