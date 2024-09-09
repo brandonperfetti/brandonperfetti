@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Autumn is a second spring when every leaf is a flower.
+> Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
 >
-> <p>- Albert Camus</p>
+> <p>- Doug Larson</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
