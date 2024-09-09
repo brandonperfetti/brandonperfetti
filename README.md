@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You teach best what you most need to learn.
+> Truth is powerful and it prevails.
 >
-> <p>- Richard Bach</p>
+> <p>- Sojourner Truth</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
