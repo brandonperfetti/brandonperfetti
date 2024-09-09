@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I never see what has been done; I only see what remains to be done.
+> It is not so much our friends' help that helps us, as the confidence of their help.
 >
-> <p>- Marie Curie</p>
+> <p>- Epicurus</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
