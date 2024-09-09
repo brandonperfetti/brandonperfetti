@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Where there is love there is life.
+> You must welcome change as the rule but not as your ruler.
 >
-> <p>- Mahatma Gandhi</p>
+> <p>- Denis Waitley</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
