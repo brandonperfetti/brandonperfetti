@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> I can't listen to that much Wagner. I start getting the urge to conquer Poland.
+> When you judge another, you do not define them, you define yourself.
 >
-> <p>- Woody Allen</p>
+> <p>- Wayne Dyer</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
