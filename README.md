@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
+> Friendship is like money, easier made than kept.
 >
-> <p>- Eknath Easwaran</p>
+> <p>- Samuel Butler</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
