@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> You must welcome change as the rule but not as your ruler.
+> Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.
 >
-> <p>- Denis Waitley</p>
+> <p>- Eknath Easwaran</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
