@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> There are many ways of going forward, but only one way of standing still.
+> It has never been my object to record my dreams, just to realize them.
 >
-> <p>- Franklin D. Roosevelt</p>
+> <p>- Man Ray</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
