@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.
+> I never see what has been done; I only see what remains to be done.
 >
-> <p>- Thomas Carlyle</p>
+> <p>- Marie Curie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
