@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
+> There are people who have money and people who are rich.
 >
-> <p>- Albert Einstein</p>
+> <p>- Coco Chanel</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
