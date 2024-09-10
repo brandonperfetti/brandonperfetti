@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The inherent vice of capitalism is the unequal sharing of blessings; the inherent virtue of socialism is the equal sharing of miseries.
+> Each misfortune you encounter will carry in it the seed of tomorrows good luck.
 >
-> <p>- Winston Churchill</p>
+> <p>- Og Mandino</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
