@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Always tell the truth. That way, you don't have to remember what you said.
+> We never understand how little we need in this world until we know the loss of it.
 >
-> <p>- Mark Twain</p>
+> <p>- J. M. Barrie</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
