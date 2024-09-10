@@ -182,7 +182,7 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
+> Love is the wisdom of the fool and the folly of the wise.
 >
 > <p>- Samuel Johnson</p>
 
