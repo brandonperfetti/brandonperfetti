@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> The ladder of success is never crowded at the top.
+> We know the truth, not only by the reason, but by the heart.
 >
-> <p>- Napoleon Hill</p>
+> <p>- Blaise Pascal</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
