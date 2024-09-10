@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Think like a man of action; act like a man of thought.
+> We could never learn to be brave and patient if there were only joy in the world.
 >
-> <p>- Henri Bergson</p>
+> <p>- Helen Keller</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
