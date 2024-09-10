@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> We could never learn to be brave and patient if there were only joy in the world.
+> Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.
 >
-> <p>- Helen Keller</p>
+> <p>- Mother Angelica</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/random)_
 
