@@ -8,7 +8,7 @@ async function main() {
     ).toString("utf-8");
 
     const quote = await (
-        await fetch("https://api.quotable.io/random")
+        await fetch("https://api.quotable.io/quotes/random")
     ).json();
 
     console.log(quote);
