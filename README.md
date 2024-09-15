@@ -182,11 +182,11 @@ SAAS applications. <br/>
 
 ### 📣 How about a quote before you go?
 
-> Love is the wisdom of the fool and the folly of the wise.
+> undefined
 >
-> <p>- Samuel Johnson</p>
+> <p>- undefined</p>
 
-_Quote requested from [The Quote API](https://api.quotable.io/random)_
+_Quote requested from [The Quote API](https://api.quotable.io/quotes/random)_
 
 Check back at the top of the hour for a new quote!
 
