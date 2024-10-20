@@ -180,7 +180,7 @@ SAAS applications. <br/>
 
 <!-- <br/> -->
 
-### 📣 How about a quote before you go?
+<!-- ### 📣 How about a quote before you go?
 
 > undefined
 >
@@ -190,7 +190,7 @@ _Quote requested from [The Quote API](https://api.quotable.io/quotes/random)_
 
 Check back at the top of the hour for a new quote!
 
-<br>
+<br> -->
 
 ## Connect with me
 
