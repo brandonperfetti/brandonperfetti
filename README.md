@@ -182,9 +182,9 @@ SAAS applications. <br/>
 
 <!-- ### 📣 How about a quote before you go?
 
-> undefined
+> {quote}
 >
-> <p>- undefined</p>
+> <p>{quote_author}</p>
 
 _Quote requested from [The Quote API](https://api.quotable.io/quotes/random)_
 
