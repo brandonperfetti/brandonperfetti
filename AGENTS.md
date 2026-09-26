@@ -58,3 +58,10 @@ agreements' release profile would block. Nothing here pre-empts that decision; r
 before applying any profile. One fact it needs: the workflow pushes with `GITHUB_TOKEN`, and GitHub
 starts no workflow runs for such pushes, so the bot's commits on `master` and `develop` never get a
 `test` run, and a required status check would never report for them.
+
+## Release
+
+Before the `develop → master` PR is opened, regenerate on `develop` and commit. The back-merge
+skips while the generator's inputs differ, so generated drift accumulates exactly during template or
+generator work; collapsing it into one intentional commit keeps the release diff readable, and that
+diff is what the close-out review reads.
