@@ -24,9 +24,9 @@ Brandon's GitHub profile README. The profile page serves `master`.
 
 ## Gate
 
-`node --check index.js` · `node --test` · regenerate: afterwards only the three generated paths may
-differ, and they ship in the same commit. CI runs the first two on every pull request
-(`.github/workflows/test.yml`).
+`node --check index.js` · `node --test` · regenerate, then confirm the three generated paths equal
+the generator's output and nothing else changed. A template edit ships with its regenerated output
+in the same commit. CI runs the first two on every pull request (`.github/workflows/test.yml`).
 
 ## Badges
 
