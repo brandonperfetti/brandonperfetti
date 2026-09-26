@@ -17,20 +17,20 @@
 #
 # Environment:
 #   SOURCE_BRANCH  the branch the job ran on (github.ref_name); required
-#   SOURCE_REF     the commit to carry from (default HEAD)
 #   TARGET_BRANCH  the branch to carry to (default develop)
-#   REMOTE         the remote to fetch from and push to (default origin)
-# The commit identity comes from GIT_AUTHOR_* / GIT_COMMITTER_* or git config.
+# The source is HEAD and the remote is origin. The commit identity comes from
+# GIT_AUTHOR_* / GIT_COMMITTER_* or git config.
 
 set -euo pipefail
 
 SOURCE_BRANCH="${SOURCE_BRANCH:?SOURCE_BRANCH is required}"
-SOURCE_REF="${SOURCE_REF:-HEAD}"
 TARGET_BRANCH="${TARGET_BRANCH:-develop}"
-REMOTE="${REMOTE:-origin}"
 
 INPUTS=(README.template.md index.js)
 OUTPUTS=(README.md assets/github-stats-light.svg assets/github-stats-dark.svg)
+
+# Paths below are repository-relative; run from the top level wherever invoked.
+cd "$(git rev-parse --show-toplevel)"
 
 # A notice in the Actions log, a plain line anywhere else.
 notice() {
@@ -46,14 +46,15 @@ if [ "$SOURCE_BRANCH" = "$TARGET_BRANCH" ]; then
   exit 0
 fi
 
-source_sha="$(git rev-parse --verify "${SOURCE_REF}^{commit}")"
+source_sha="$(git rev-parse --verify "HEAD^{commit}")"
 
 # The workflow's checkout is shallow; one commit of the target is all this needs.
-git fetch --quiet --no-tags --depth=1 "$REMOTE" \
-  "+refs/heads/${TARGET_BRANCH}:refs/remotes/${REMOTE}/${TARGET_BRANCH}"
-target_sha="$(git rev-parse --verify "refs/remotes/${REMOTE}/${TARGET_BRANCH}^{commit}")"
+git fetch --quiet --no-tags --depth=1 origin \
+  "+refs/heads/${TARGET_BRANCH}:refs/remotes/origin/${TARGET_BRANCH}"
+target_sha="$(git rev-parse --verify "refs/remotes/origin/${TARGET_BRANCH}^{commit}")"
 
 # Guard: the generator's inputs must be the same blobs on both commits.
+# A path missing on one side reads as "(missing)" and so never matches a blob.
 blob() { git rev-parse --quiet --verify "$1:$2" || echo "(missing)"; }
 differing=()
 for path in "${INPUTS[@]}"; do
@@ -66,10 +67,10 @@ if [ "${#differing[@]}" -gt 0 ]; then
   exit 0
 fi
 
-# Build the target's tree with only the three outputs replaced, in a scratch index.
-scratch_index="$(mktemp)"
-trap 'rm -f "$scratch_index"' EXIT
-export GIT_INDEX_FILE="$scratch_index"
+# Build the target's tree with only the outputs replaced, in a scratch index.
+scratch_dir="$(mktemp -d)"
+trap 'rm -rf "$scratch_dir"' EXIT
+export GIT_INDEX_FILE="${scratch_dir}/index"
 git read-tree "$target_sha"
 for path in "${OUTPUTS[@]}"; do
   entry="$(git ls-tree "$source_sha" -- "$path")"
@@ -77,8 +78,7 @@ for path in "${OUTPUTS[@]}"; do
     echo "error: ${path} is missing from ${source_sha:0:8}; the generator should always write it" >&2
     exit 1
   fi
-  mode="${entry%% *}"
-  object="$(echo "$entry" | awk '{print $3}')"
+  read -r mode _type object _path <<<"$entry"
   git update-index --add --cacheinfo "${mode},${object},${path}"
 done
 new_tree="$(git write-tree)"
@@ -91,8 +91,8 @@ fi
 
 new_commit="$(git commit-tree "$new_tree" -p "$target_sha" \
   -m "chore: carry the regenerated README to ${TARGET_BRANCH}" \
-  -m "From ${source_sha:0:8} on ${SOURCE_BRANCH}. Only README.md and the two stats SVGs; README.template.md and index.js are identical on both branches.")"
+  -m "From ${source_sha:0:8} on ${SOURCE_BRANCH}. Only ${OUTPUTS[*]}; ${INPUTS[*]} are identical on both branches.")"
 
 # Not a force push: if the target moved since the fetch, this is rejected and the job fails visibly.
-git push --quiet "$REMOTE" "${new_commit}:refs/heads/${TARGET_BRANCH}"
+git push --quiet origin "${new_commit}:refs/heads/${TARGET_BRANCH}"
 notice "carried ${OUTPUTS[*]} from ${SOURCE_BRANCH} (${source_sha:0:8}) to ${TARGET_BRANCH} as ${new_commit:0:8}."

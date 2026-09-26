@@ -21,8 +21,9 @@ Brandon's GitHub profile README. The profile page serves `master`.
   `scripts/back-merge.sh` carries the same three paths onto `develop`, but only when
   `README.template.md` and `index.js` are byte-identical on both branches; otherwise it skips and
   logs why, so in-flight template or generator work on `develop` is never overwritten with output
-  from the old inputs. It never merges branches or force-pushes. Both commits are authored as
-  Brandon through the account's noreply address, nothing appended.
+  from the old inputs. It never merges branches or force-pushes. Its commits (`chore: regenerate
+  README` on the branch it ran on, `chore: carry the regenerated README to develop` on `develop`)
+  are authored as Brandon through the account's noreply address, nothing appended.
 - Regenerate with `GITHUB_TOKEN="$(gh auth token)" node index.js`. The committed files are the
   generator's output; a change to the template ships with the regenerated files in the same commit.
 
@@ -54,4 +55,6 @@ Protection for `master` on this repository is decided in
 [brandonperfetti/brandonperfetti#4](https://github.com/brandonperfetti/brandonperfetti/issues/4):
 the README workflow commits regenerated files to `master` on a daily schedule, which the working
 agreements' release profile would block. Nothing here pre-empts that decision; read the issue
-before applying any profile.
+before applying any profile. One fact it needs: the workflow pushes with `GITHUB_TOKEN`, and GitHub
+starts no workflow runs for such pushes, so the bot's commits on `master` and `develop` never get a
+`test` run, and a required status check would never report for them.

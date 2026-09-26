@@ -2,7 +2,9 @@
 
 // Exercises scripts/back-merge.sh against real git repositories: a bare
 // "remote", a full clone to arrange branch states, and a shallow single-branch
-// clone standing in for the workflow's checkout.
+// clone standing in for the workflow's depth-1 checkout (actions/checkout
+// fetches one commit rather than cloning, which makes no difference here: the
+// script fetches the target by an explicit refspec and reads the source at HEAD).
 
 const test = require("node:test");
 const assert = require("node:assert/strict");
@@ -16,9 +18,15 @@ const BOT = { name: "Brandon Perfetti", email: "2780463+brandonperfetti@users.no
 const HUMAN = { name: "Fixture Author", email: "fixture@example.com" };
 
 // Keep the host's git configuration (signing, hooks, default branch) out of the fixtures.
+// Also drop repository-pointing variables a caller may have exported (git sets
+// GIT_INDEX_FILE for hooks, for one), so fixtures never write into another repo.
 function gitEnv(identity) {
+  const inherited = { ...process.env };
+  for (const name of ["GIT_DIR", "GIT_WORK_TREE", "GIT_INDEX_FILE", "GIT_OBJECT_DIRECTORY", "GIT_COMMON_DIR"]) {
+    delete inherited[name];
+  }
   return {
-    ...process.env,
+    ...inherited,
     GIT_CONFIG_GLOBAL: os.devNull,
     GIT_CONFIG_NOSYSTEM: "1",
     GIT_AUTHOR_NAME: identity.name,
@@ -62,10 +70,11 @@ function fixture(t) {
   git(work, ["push", "--quiet", "origin", "HEAD:master"]);
   git(work, ["push", "--quiet", "origin", "HEAD:develop"]);
 
-  function commitOn(branch, files, message, identity = HUMAN) {
+  function commitOn(branch, files, message, identity = HUMAN, remove = []) {
     git(work, ["fetch", "--quiet", "origin"]);
     git(work, ["checkout", "--quiet", "-B", branch, `origin/${branch}`]);
-    for (const [file, content] of Object.entries(files)) write(work, file, content);
+    for (const [file, content] of Object.entries(files)) if (content !== null) write(work, file, content);
+    for (const file of remove) git(work, ["rm", "--quiet", file]);
     git(work, ["add", "-A"]);
     git(work, ["commit", "--quiet", "-m", message], identity);
     git(work, ["push", "--quiet", "origin", `HEAD:${branch}`]);
@@ -131,7 +140,7 @@ test("identical inputs: carries exactly the three outputs onto develop as one co
   assert.equal(author, `${BOT.name} <${BOT.email}>`);
   assert.equal(committer, `${BOT.name} <${BOT.email}>`);
   assert.equal(body[0], "chore: carry the regenerated README to develop");
-  assert.match(body.join("\n"), new RegExp(`From ${masterTip.slice(0, 8)} on master`));
+  assert.match(body.join("\n"), new RegExp(`From ${masterTip.slice(0, 8)} on master\\. Only README\\.md assets/github-stats-light\\.svg assets/github-stats-dark\\.svg; README\\.template\\.md index\\.js are identical on both branches\\.`));
   assert.doesNotMatch(body.join("\n"), /co-authored-by|claude-session|generated with/i);
   // Pushed to develop and nothing else.
   assert.equal(f.tip("master"), masterTip);
@@ -248,4 +257,54 @@ test("develop moved after the fetch: the push is rejected, not forced", (t) => {
   assert.notEqual(status, 99, "the race itself succeeded");
   assert.match(out, /rejected|non-fast-forward|fetch first/);
   assert.equal(f.show("develop", "RACE.md"), "race", "the concurrent commit survives");
+});
+
+test("an input present on one side only counts as a mismatch", (t) => {
+  const f = fixture(t);
+  f.commitOn("develop", { "index.js": null }, "develop: generator moved", HUMAN, ["index.js"]);
+  f.commitOn("master", REGENERATED, "chore: regenerate README", BOT);
+  const developBefore = f.tip("develop");
+
+  const { status, out } = f.run(f.runner("master"));
+
+  assert.equal(status, 0, out);
+  assert.match(out, /skipped: index\.js differ/);
+  assert.equal(f.tip("develop"), developBefore);
+});
+
+test("develop missing on the remote: fails loudly, pushes nothing", (t) => {
+  const f = fixture(t);
+  f.commitOn("master", REGENERATED, "chore: regenerate README", BOT);
+  execFileSync("git", ["--git-dir", f.remote, "update-ref", "-d", "refs/heads/develop"], { env: gitEnv(HUMAN) });
+  const before = f.refs();
+
+  const { status, out } = f.run(f.runner("master"));
+
+  assert.notEqual(status, 0, "the job fails visibly");
+  assert.match(out, /couldn't find remote ref/);
+  assert.equal(f.refs(), before);
+});
+
+test("an output missing from the source: fails loudly, pushes nothing", (t) => {
+  const f = fixture(t);
+  f.commitOn("master", { "assets/github-stats-dark.svg": null }, "master: output lost", HUMAN, ["assets/github-stats-dark.svg"]);
+  const before = f.refs();
+
+  const { status, out } = f.run(f.runner("master"));
+
+  assert.notEqual(status, 0, "the job fails visibly");
+  assert.match(out, /assets\/github-stats-dark\.svg is missing from [0-9a-f]{8}/);
+  assert.equal(f.refs(), before);
+});
+
+test("runs from a subdirectory as it does from the top level", (t) => {
+  const f = fixture(t);
+  f.commitOn("master", REGENERATED, "chore: regenerate README", BOT);
+  const dir = f.runner("master");
+
+  const { status, out } = f.run(path.join(dir, "assets"));
+
+  assert.equal(status, 0, out);
+  assert.match(out, /carried/);
+  assert.equal(f.show("develop", "README.md"), f.show("master", "README.md"));
 });

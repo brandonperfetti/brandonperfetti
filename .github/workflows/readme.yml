@@ -16,8 +16,10 @@ on:
 permissions:
   contents: write
 
+# One group for every ref: any run can now write develop, so runs queue
+# rather than race each other's back-merge.
 concurrency:
-  group: regenerate-readme-${{ github.ref_name }}
+  group: regenerate-readme
   cancel-in-progress: false
 
 jobs:
