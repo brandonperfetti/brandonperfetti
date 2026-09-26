@@ -1,31 +1,32 @@
 # Repository instructions
 
-Read the agent working agreements first (`agent-working-agreements/AGENT-WORKING-AGREEMENTS.md`,
-Parts A and B, plus your client file). This file adds only what is specific to this repository; it
-never overrides Parts A–B, and a rule here that contradicts one there is the rule that is wrong. A
-rule earns a line here only when something bit.
+Read the agent working agreements first: Parts A and B of
+[`AGENT-WORKING-AGREEMENTS.md`](https://github.com/brandonperfetti/agent-working-agreements/blob/master/AGENT-WORKING-AGREEMENTS.md)
+(on this machine, `~/dev/sansfaux/agent-working-agreements/`), plus your client file. This file adds
+only what is specific to this repository; it never overrides Parts A–B, and a rule here that
+contradicts one there is the rule that is wrong. A rule earns a line here only when something bit.
 
 ## What this repository is
 
-Brandon's GitHub profile README. The profile page serves `master`. Feature work branches off
-`develop` and reaches `master` only through the `develop → master` release PR, which Brandon opens
-and merges.
+Brandon's GitHub profile README. The profile page serves `master`.
 
 ## Generated files
 
 - `README.template.md` is the source. `README.md` is generated. **Never hand-edit `README.md`.**
-  Edit the template, regenerate, commit both. (A hand-edited `README.md` once drifted 480 lines from
-  its template; running the generator would have silently reverted it.)
+  Edit the template, regenerate, commit both. (A hand-edited `README.md` once sat 480 diff lines
+  from its template; running the generator would have silently reverted it.)
 - The generator writes exactly three paths: `README.md`, `assets/github-stats-light.svg` and
   `assets/github-stats-dark.svg`. Nothing else is ever committed by the workflow
-  (`.github/workflows/readme.yml`).
+  (`.github/workflows/readme.yml`), whose commit is authored as Brandon through the account's
+  noreply address with the message `chore: regenerate README` and nothing appended.
 - Regenerate with `GITHUB_TOKEN="$(gh auth token)" node index.js`. The committed files are the
   generator's output; a change to the template ships with the regenerated files in the same commit.
 
 ## Gate
 
-`node --check index.js` · `node --test` · the regeneration above, with a clean tree afterwards. CI
-runs the first two on every pull request (`.github/workflows/test.yml`).
+`node --check index.js` · `node --test` · regenerate: afterwards only the three generated paths may
+differ, and they ship in the same commit. CI runs the first two on every pull request
+(`.github/workflows/test.yml`).
 
 ## Badges
 
@@ -37,22 +38,16 @@ third-party use of its marks
 ([simple-icons/simple-icons#11372](https://github.com/simple-icons/simple-icons/issues/11372)).
 The LinkedIn badges in the README carry no logo on purpose.
 
-## Known traps
+## Known trap
 
-- `RAW_BASE_URL` in `index.js` hardcodes `master`. Renaming the default branch breaks the stats
-  card silently: the URLs 404 and no test fails.
-- The stats-card URLs are absolute against `raw/master`, so the card is blank on `develop` and on
-  branches until a release lands the SVGs on `master`. Transient, not a defect.
+`RAW_BASE_URL` in `index.js` hardcodes `master`, so the stats-card URLs always point at `master`'s
+SVGs: branch and `develop` views show `master`'s card, not the branch's regenerated one, and
+renaming the default branch breaks the card silently (the URLs 404 and no test fails).
 
 ## Branch protection
 
 Protection for `master` on this repository is decided in
 [brandonperfetti/brandonperfetti#4](https://github.com/brandonperfetti/brandonperfetti/issues/4):
-the README workflow pushes to `master` daily, which the working agreements' release profile would
-block. Nothing here pre-empts that decision; read the issue before applying any profile.
-
-## Commits
-
-No attribution trailers on any commit or PR body (RULE ZERO). The workflow's own commit is authored
-as Brandon through the account's noreply address, message `chore: regenerate README`, nothing
-appended.
+the README workflow commits regenerated files to `master` on a daily schedule, which the working
+agreements' release profile would block. Nothing here pre-empts that decision; read the issue
+before applying any profile.
