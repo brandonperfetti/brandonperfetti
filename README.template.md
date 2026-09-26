@@ -20,18 +20,13 @@ I lead the frontend of a multi-tenant real-estate platform: Next.js and TypeScri
 
 Five stages. The first four are specification; only the fifth is code.
 
-1. **Grill the problem.** What is actually being asked for, what is assumed, what happens if we do nothing. Most of what I cut gets cut here, when cutting is free.
-2. **Write the master priority document.** One file a cold reader can pick up and run the next wave from.
+1. **Grill the problem.** What is actually being asked for, and what happens if we do nothing. Most of what I cut gets cut here.
+2. **Write the master priority document.** One file a cold reader can run the next wave from.
 3. **Cut tickets.** The finding in the title, the receipts in the body.
-4. **Set the fence.** Which files each agent lane owns, and which shared manifests have to be serialised rather than parallelised.
+4. **Set the fence.** Which files each agent lane owns, and which shared files are serialised.
 5. **Dispatch waves, then review every one.** Nothing lands without a review pass.
 
-Four invariants keep it safe:
-
-- **Two-axis review before acceptance.** Every change is checked against the repo's documented standards and against what the ticket asked for.
-- **A capability guard decides autonomy.** Attended or autonomous is a measured decision against five checks, not a mood.
-- **Evidence labels.** Every claim is marked as measured, read from source, or inferred, and the three are kept apart.
-- **Agents never merge.** A human sits at the irreversible boundary.
+Four invariants keep it safe: **two-axis review** before acceptance (standards and spec) · a **capability guard** decides whether a lane runs attended or autonomously · **evidence labels** on every claim (measured, source, inferred) · **agents never merge**.
 
 The full write-up, including an audit of how I direct agents by one of my own agents, is at [brandonperfetti.com/how-i-work](https://brandonperfetti.com/how-i-work). The agreements themselves are public: [agent-working-agreements](https://github.com/brandonperfetti/agent-working-agreements).
 
@@ -220,7 +215,7 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 ## Completed courses
 
 <details>
-<summary>The courses behind the certificates (click to expand)</summary>
+<summary>Courses completed, by platform (click to expand)</summary>
 
 **AI Hero**
 
@@ -235,7 +230,7 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 - [Epic Web](https://www.epicweb.dev/): full-stack foundations, forms, data modeling, authentication, testing, Figma to Tailwind
 - [Master the Model Context Protocol](https://www.epicai.pro/)
 - [Epic React](https://www.epicreact.dev/)
-- [Testing JavaScript](https://www.epicweb.dev/)
+- [Testing JavaScript](https://testingjavascript.com/)
 
 **Testing Accessibility**
 
@@ -264,7 +259,7 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 </div>
 
-The card is regenerated daily by [`index.js`](index.js) in this repository, from the GitHub API, and committed as an SVG. No third-party stats service is involved.
+The card is regenerated daily by [`index.js`](https://github.com/brandonperfetti/brandonperfetti/blob/master/index.js) in this repository, from the GitHub API, and committed as an SVG. No third-party stats service is involved.
 
 </details>
 
