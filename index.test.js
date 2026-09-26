@@ -133,6 +133,12 @@ test("statsMarkup is a picture element with absolute dark and light sources", ()
   assert.match(markup, /<\/picture>$/);
 });
 
+test("statsMarkup tolerates a base URL without a trailing slash", () => {
+  const markup = statsMarkup({ light: "assets/l.svg", dark: "assets/d.svg" }, "https://example.com/raw/master");
+  assert.match(markup, /srcset="https:\/\/example\.com\/raw\/master\/assets\/d\.svg"/);
+  assert.match(markup, /src="https:\/\/example\.com\/raw\/master\/assets\/l\.svg"/);
+});
+
 test("statsMarkup defaults to the repository's raw URL on the default branch", () => {
   const markup = statsMarkup({ light: "assets/l.svg", dark: "assets/d.svg" });
   assert.match(markup, /src="https:\/\/github\.com\/brandonperfetti\/brandonperfetti\/raw\/master\/assets\/l\.svg"/);

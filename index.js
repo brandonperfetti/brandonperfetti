@@ -38,7 +38,8 @@ const STATS_SVG_PATHS = {
 };
 // The profile page renders README.md at github.com/<user>, outside the repo,
 // so image paths are absolute against the default branch, like the banner.
-const RAW_BASE_URL = "https://github.com/brandonperfetti/brandonperfetti/raw/master/";
+// A profile repository is always <login>/<login>.
+const RAW_BASE_URL = `https://github.com/${LOGIN}/${LOGIN}/raw/master/`;
 
 const ARTICLE_COUNT = 3;
 const SHIPPED_COUNT = 3;
@@ -331,18 +332,22 @@ function renderStatsSvg({ contributions, languages }, theme = "light") {
 /**
  * The README markup for the card: a <picture> whose dark source is picked by
  * prefers-color-scheme (GitHub honours it in READMEs) and whose <img> is the
- * light variant. Both URLs are absolute against the default branch, so the
- * card resolves on the profile page as well as in the repository.
+ * light variant. Both URLs are absolute, by default against the repository's
+ * default branch, so the card resolves on the profile page as well as in the
+ * repository.
  * @param {{light: string, dark: string}} svgPaths repository-relative paths
- * @param {string} [baseUrl] raw-content base the paths are appended to
+ * @param {string} [baseUrl] raw-content base URL the paths are resolved
+ *   against; a missing trailing slash is tolerated
  * @returns {string} HTML
  */
 function statsMarkup(svgPaths, baseUrl = RAW_BASE_URL) {
   const alt = "Public GitHub contributions in the last twelve months and the language mix across public repositories";
+  const base = baseUrl.endsWith("/") ? baseUrl : `${baseUrl}/`;
+  const absolute = (relativePath) => new URL(relativePath, base).href;
   return [
     "<picture>",
-    `  <source media="(prefers-color-scheme: dark)" srcset="${baseUrl}${svgPaths.dark}" />`,
-    `  <img src="${baseUrl}${svgPaths.light}" alt="${alt}" width="495" />`,
+    `  <source media="(prefers-color-scheme: dark)" srcset="${absolute(svgPaths.dark)}" />`,
+    `  <img src="${absolute(svgPaths.light)}" alt="${alt}" width="495" />`,
     "</picture>",
   ].join("\n");
 }
