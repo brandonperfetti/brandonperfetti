@@ -125,12 +125,25 @@ test("renderStatsSvg copes with no language data", () => {
   assert.match(svg, /<g clip-path="url\(#bar\)">\s*<\/g>/);
 });
 
-test("statsMarkup is a picture element with a dark source and the light image as fallback", () => {
-  const markup = statsMarkup({ light: "assets/l.svg", dark: "assets/d.svg" });
+test("statsMarkup is a picture element with absolute dark and light sources", () => {
+  const markup = statsMarkup({ light: "assets/l.svg", dark: "assets/d.svg" }, "https://example.com/raw/master/");
   assert.match(markup, /^<picture>\n/);
-  assert.match(markup, /<source media="\(prefers-color-scheme: dark\)" srcset="assets\/d\.svg" \/>/);
-  assert.match(markup, /<img src="assets\/l\.svg" alt="[^"]+" width="495" \/>/);
+  assert.match(markup, /<source media="\(prefers-color-scheme: dark\)" srcset="https:\/\/example\.com\/raw\/master\/assets\/d\.svg" \/>/);
+  assert.match(markup, /<img src="https:\/\/example\.com\/raw\/master\/assets\/l\.svg" alt="[^"]+" width="495" \/>/);
   assert.match(markup, /<\/picture>$/);
+});
+
+test("statsMarkup tolerates a base URL without a trailing slash", () => {
+  const markup = statsMarkup({ light: "assets/l.svg", dark: "assets/d.svg" }, "https://example.com/raw/master");
+  assert.match(markup, /srcset="https:\/\/example\.com\/raw\/master\/assets\/d\.svg"/);
+  assert.match(markup, /src="https:\/\/example\.com\/raw\/master\/assets\/l\.svg"/);
+});
+
+test("statsMarkup defaults to the repository's raw URL on the default branch", () => {
+  const markup = statsMarkup({ light: "assets/l.svg", dark: "assets/d.svg" });
+  assert.match(markup, /src="https:\/\/github\.com\/brandonperfetti\/brandonperfetti\/raw\/master\/assets\/l\.svg"/);
+  assert.match(markup, /srcset="https:\/\/github\.com\/brandonperfetti\/brandonperfetti\/raw\/master\/assets\/d\.svg"/);
+  assert.doesNotMatch(markup, /(src|srcset)="assets\//, "no relative image path survives");
 });
 
 const FEED = `<?xml version="1.0" encoding="utf-8"?>

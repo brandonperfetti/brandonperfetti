@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **brandonperfetti**: [chore: remove the published-resume surface](https://github.com/brandonperfetti/brandonperfetti/pull/2) · Sep 2026
-- **brandonperfetti**: [docs: rewrite the profile README through the generator to the current positioning](https://github.com/brandonperfetti/brandonperfetti/pull/1) · Sep 2026
-- **github-commit-dashboard**: [Release: subdomain README, Vitest suite, CI, social preview image](https://github.com/brandonperfetti/github-commit-dashboard/pull/5) · Sep 2026
+- **agent-working-agreements**: [Release: LICENSE (CC BY 4.0 for the documentation; scripts and workflows MIT)](https://github.com/brandonperfetti/agent-working-agreements/pull/73) · Sep 2026
+- **brandonperfetti**: [Restore the profile README's scannable form and revive index.js as a scheduled generator](https://github.com/brandonperfetti/brandonperfetti/pull/3) · Sep 2026
+- **agent-working-agreements**: [License the repository under CC BY 4.0](https://github.com/brandonperfetti/agent-working-agreements/pull/72) · Sep 2026
 
 <details>
 <summary>View stats</summary>
@@ -260,8 +260,8 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-stats-dark.svg" />
-  <img src="assets/github-stats-light.svg" alt="Public GitHub contributions in the last twelve months and the language mix across public repositories" width="495" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/brandonperfetti/brandonperfetti/raw/master/assets/github-stats-dark.svg" />
+  <img src="https://github.com/brandonperfetti/brandonperfetti/raw/master/assets/github-stats-light.svg" alt="Public GitHub contributions in the last twelve months and the language mix across public repositories" width="495" />
 </picture>
 
 </div>
@@ -283,6 +283,6 @@ If you are solving the same problem, I would like to compare notes.
 [![GitHub](https://img.shields.io/badge/GitHub-brandonperfetti-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brandonperfetti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brandonperfetti-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/brandonperfetti)
 [![Portfolio](https://img.shields.io/badge/Portfolio-brandonperfetti.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brandonperfetti.com)
-[![X](https://img.shields.io/badge/X-brandonperfetti-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/brandonperfetti)
+[![X](https://img.shields.io/badge/brandonperfetti-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/brandonperfetti)
 
 </div>

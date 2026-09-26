@@ -276,6 +276,6 @@ If you are solving the same problem, I would like to compare notes.
 [![GitHub](https://img.shields.io/badge/GitHub-brandonperfetti-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brandonperfetti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brandonperfetti-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/brandonperfetti)
 [![Portfolio](https://img.shields.io/badge/Portfolio-brandonperfetti.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brandonperfetti.com)
-[![X](https://img.shields.io/badge/X-brandonperfetti-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/brandonperfetti)
+[![X](https://img.shields.io/badge/brandonperfetti-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/brandonperfetti)
 
 </div>
