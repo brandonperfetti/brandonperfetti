@@ -17,16 +17,21 @@ Brandon's GitHub profile README. The profile page serves `master`.
   from its template; running the generator would have silently reverted it.)
 - The generator writes exactly three paths: `README.md`, `assets/github-stats-light.svg` and
   `assets/github-stats-dark.svg`. Nothing else is ever committed by the workflow
-  (`.github/workflows/readme.yml`), whose commit is authored as Brandon through the account's
-  noreply address with the message `chore: regenerate README` and nothing appended.
+  (`.github/workflows/readme.yml`). It commits those paths to the branch it ran on, then
+  `scripts/back-merge.sh` carries the same three paths onto `develop`, but only when
+  `README.template.md` and `index.js` are byte-identical on both branches; otherwise it skips and
+  logs why, so in-flight template or generator work on `develop` is never overwritten with output
+  from the old inputs. It never merges branches or force-pushes. Its commits (`chore: regenerate
+  README` on the branch it ran on, `chore: carry the regenerated README to develop` on `develop`)
+  are authored as Brandon through the account's noreply address, nothing appended.
 - Regenerate with `GITHUB_TOKEN="$(gh auth token)" node index.js`. The committed files are the
   generator's output; a change to the template ships with the regenerated files in the same commit.
 
 ## Gate
 
-`node --check index.js` · `node --test` · regenerate, then confirm the three generated paths equal
-the generator's output and nothing else changed. A template edit ships with its regenerated output
-in the same commit. CI runs the first two on every pull request (`.github/workflows/test.yml`).
+`node --check index.js` · `node --test` · regenerate, then confirm that regenerating changed nothing
+outside the three generated paths. A template edit ships with its regenerated output in the same
+commit. CI runs the first two on every pull request (`.github/workflows/test.yml`).
 
 ## Badges
 
@@ -50,4 +55,6 @@ Protection for `master` on this repository is decided in
 [brandonperfetti/brandonperfetti#4](https://github.com/brandonperfetti/brandonperfetti/issues/4):
 the README workflow commits regenerated files to `master` on a daily schedule, which the working
 agreements' release profile would block. Nothing here pre-empts that decision; read the issue
-before applying any profile.
+before applying any profile. One fact it needs: the workflow pushes with `GITHUB_TOKEN`, and GitHub
+starts no workflow runs for such pushes, so the bot's commits on `master` and `develop` never get a
+`test` run, and a required status check would never report for them.
