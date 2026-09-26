@@ -1,0 +1,251 @@
+"use strict";
+
+// Exercises scripts/back-merge.sh against real git repositories: a bare
+// "remote", a full clone to arrange branch states, and a shallow single-branch
+// clone standing in for the workflow's checkout.
+
+const test = require("node:test");
+const assert = require("node:assert/strict");
+const { execFileSync, spawnSync } = require("node:child_process");
+const fs = require("node:fs");
+const os = require("node:os");
+const path = require("node:path");
+
+const SCRIPT = path.join(__dirname, "back-merge.sh");
+const BOT = { name: "Brandon Perfetti", email: "2780463+brandonperfetti@users.noreply.github.com" };
+const HUMAN = { name: "Fixture Author", email: "fixture@example.com" };
+
+// Keep the host's git configuration (signing, hooks, default branch) out of the fixtures.
+function gitEnv(identity) {
+  return {
+    ...process.env,
+    GIT_CONFIG_GLOBAL: os.devNull,
+    GIT_CONFIG_NOSYSTEM: "1",
+    GIT_AUTHOR_NAME: identity.name,
+    GIT_AUTHOR_EMAIL: identity.email,
+    GIT_COMMITTER_NAME: identity.name,
+    GIT_COMMITTER_EMAIL: identity.email,
+    GITHUB_ACTIONS: "",
+  };
+}
+
+function git(cwd, args, identity = HUMAN) {
+  return execFileSync("git", args, { cwd, env: gitEnv(identity), encoding: "utf8" }).trim();
+}
+
+function write(dir, file, content) {
+  fs.mkdirSync(path.dirname(path.join(dir, file)), { recursive: true });
+  fs.writeFileSync(path.join(dir, file), content);
+}
+
+const BASE = {
+  "README.template.md": "# Hi\n{github_stats}\n",
+  "index.js": "// generator v1\n",
+  "README.md": "# Hi\n<card 100>\n",
+  "assets/github-stats-light.svg": "<svg>100 light</svg>\n",
+  "assets/github-stats-dark.svg": "<svg>100 dark</svg>\n",
+  "assets/header-banner.png": "banner\n",
+};
+
+// Build remote.git with master and develop at the same commit, then let the
+// caller advance either branch before the runner clones master.
+function fixture(t) {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), "back-merge-"));
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  const remote = path.join(root, "remote.git");
+  const work = path.join(root, "work");
+  git(root, ["init", "--quiet", "--bare", "-b", "master", remote]);
+  git(root, ["clone", "--quiet", remote, work]);
+  for (const [file, content] of Object.entries(BASE)) write(work, file, content);
+  git(work, ["add", "-A"]);
+  git(work, ["commit", "--quiet", "-m", "initial"]);
+  git(work, ["push", "--quiet", "origin", "HEAD:master"]);
+  git(work, ["push", "--quiet", "origin", "HEAD:develop"]);
+
+  function commitOn(branch, files, message, identity = HUMAN) {
+    git(work, ["fetch", "--quiet", "origin"]);
+    git(work, ["checkout", "--quiet", "-B", branch, `origin/${branch}`]);
+    for (const [file, content] of Object.entries(files)) write(work, file, content);
+    git(work, ["add", "-A"]);
+    git(work, ["commit", "--quiet", "-m", message], identity);
+    git(work, ["push", "--quiet", "origin", `HEAD:${branch}`]);
+    return git(work, ["rev-parse", "HEAD"]);
+  }
+
+  // The workflow's checkout: one commit of one branch, over a URL.
+  function runner(branch = "master") {
+    const dir = path.join(root, `runner-${branch}-${Date.now()}-${Math.random().toString(16).slice(2)}`);
+    git(root, ["clone", "--quiet", "--depth", "1", "--branch", branch, `file://${remote}`, dir]);
+    return dir;
+  }
+
+  function run(dir, sourceBranch = "master", extraEnv = {}) {
+    const result = spawnSync("bash", [SCRIPT], {
+      cwd: dir,
+      env: { ...gitEnv(BOT), SOURCE_BRANCH: sourceBranch, ...extraEnv },
+      encoding: "utf8",
+    });
+    return { status: result.status, out: `${result.stdout}${result.stderr}` };
+  }
+
+  const refs = () => git(root, ["--git-dir", remote, "for-each-ref", "--format=%(refname) %(objectname)"]);
+  const tip = (branch) => git(root, ["--git-dir", remote, "rev-parse", branch]);
+  const show = (branch, file) => git(root, ["--git-dir", remote, "show", `${branch}:${file}`]);
+
+  return { commitOn, runner, run, refs, tip, show, remote, root };
+}
+
+const REGENERATED = {
+  "README.md": "# Hi\n<card 105>\n",
+  "assets/github-stats-light.svg": "<svg>105 light</svg>\n",
+  "assets/github-stats-dark.svg": "<svg>105 dark</svg>\n",
+};
+const OUTPUTS = Object.keys(REGENERATED);
+
+test("identical inputs: carries exactly the three outputs onto develop as one commit", (t) => {
+  const f = fixture(t);
+  f.commitOn("develop", { "NOTES.md": "develop-only work\n" }, "develop: unrelated work");
+  f.commitOn("master", { "MASTER_ONLY.md": "master-only history\n" }, "master: unrelated history");
+  const masterTip = f.commitOn("master", REGENERATED, "chore: regenerate README", BOT);
+  const developBefore = f.tip("develop");
+
+  const { status, out } = f.run(f.runner("master"));
+
+  assert.equal(status, 0, out);
+  assert.match(out, /carried README\.md assets\/github-stats-light\.svg assets\/github-stats-dark\.svg/);
+  const developAfter = f.tip("develop");
+  assert.notEqual(developAfter, developBefore);
+  for (const file of OUTPUTS) {
+    assert.equal(f.show("develop", file), f.show("master", file), `${file} matches master`);
+  }
+  // Only the outputs moved: develop keeps its own work and gains no master-only history.
+  assert.equal(f.show("develop", "NOTES.md"), "develop-only work");
+  assert.throws(() => f.show("develop", "MASTER_ONLY.md"));
+  const changed = execFileSync("git", ["--git-dir", f.remote, "diff", "--name-only", developBefore, developAfter], { encoding: "utf8" })
+    .trim().split("\n").sort();
+  assert.deepEqual(changed, [...OUTPUTS].sort());
+  // One commit on top of develop, not a merge; authored and committed as the bot, no trailer.
+  const meta = execFileSync("git", ["--git-dir", f.remote, "log", "-1", "--format=%P%n%an <%ae>%n%cn <%ce>%n%B", "develop"], { encoding: "utf8" });
+  const [parents, author, committer, ...body] = meta.trim().split("\n");
+  assert.equal(parents, developBefore);
+  assert.equal(author, `${BOT.name} <${BOT.email}>`);
+  assert.equal(committer, `${BOT.name} <${BOT.email}>`);
+  assert.equal(body[0], "chore: carry the regenerated README to develop");
+  assert.match(body.join("\n"), new RegExp(`From ${masterTip.slice(0, 8)} on master`));
+  assert.doesNotMatch(body.join("\n"), /co-authored-by|claude-session|generated with/i);
+  // Pushed to develop and nothing else.
+  assert.equal(f.tip("master"), masterTip);
+});
+
+test("pushes to no ref other than develop", (t) => {
+  const f = fixture(t);
+  f.commitOn("master", REGENERATED, "chore: regenerate README", BOT);
+  const before = f.refs().split("\n").filter((line) => !line.startsWith("refs/heads/develop "));
+
+  const { status, out } = f.run(f.runner("master"));
+
+  assert.equal(status, 0, out);
+  const after = f.refs().split("\n").filter((line) => !line.startsWith("refs/heads/develop "));
+  assert.deepEqual(after, before);
+});
+
+test("template differs: skips, says why, exits 0, develop untouched", (t) => {
+  const f = fixture(t);
+  f.commitOn("develop", { "README.template.md": "# Hi, edited on develop\n{github_stats}\n" }, "develop: template work");
+  f.commitOn("master", REGENERATED, "chore: regenerate README", BOT);
+  const developBefore = f.tip("develop");
+
+  const { status, out } = f.run(f.runner("master"));
+
+  assert.equal(status, 0, out);
+  assert.match(out, /skipped: README\.template\.md differ between master \([0-9a-f]{8}\) and develop \([0-9a-f]{8}\)/);
+  assert.equal(f.tip("develop"), developBefore);
+});
+
+test("generator differs: skips, says why, exits 0, develop untouched", (t) => {
+  const f = fixture(t);
+  f.commitOn("develop", { "index.js": "// generator v2, unreleased\n" }, "develop: generator work");
+  f.commitOn("master", REGENERATED, "chore: regenerate README", BOT);
+  const developBefore = f.tip("develop");
+
+  const { status, out } = f.run(f.runner("master"));
+
+  assert.equal(status, 0, out);
+  assert.match(out, /skipped: index\.js differ/);
+  assert.equal(f.tip("develop"), developBefore);
+});
+
+test("output already identical: no commit, exits 0", (t) => {
+  const f = fixture(t);
+  const developBefore = f.tip("develop");
+
+  const { status, out } = f.run(f.runner("master"));
+
+  assert.equal(status, 0, out);
+  assert.match(out, /no change: develop already carries the output of master/);
+  assert.equal(f.tip("develop"), developBefore);
+});
+
+test("running twice is idempotent", (t) => {
+  const f = fixture(t);
+  f.commitOn("master", REGENERATED, "chore: regenerate README", BOT);
+  const dir = f.runner("master");
+
+  assert.equal(f.run(dir).status, 0);
+  const afterFirst = f.tip("develop");
+  const second = f.run(dir);
+
+  assert.equal(second.status, 0, second.out);
+  assert.match(second.out, /no change/);
+  assert.equal(f.tip("develop"), afterFirst);
+});
+
+test("a job that ran on develop itself carries nothing", (t) => {
+  const f = fixture(t);
+  f.commitOn("develop", REGENERATED, "chore: regenerate README", BOT);
+  const developBefore = f.tip("develop");
+
+  const { status, out } = f.run(f.runner("develop"), "develop");
+
+  assert.equal(status, 0, out);
+  assert.match(out, /skipped: the job ran on develop itself/);
+  assert.equal(f.tip("develop"), developBefore);
+});
+
+test("develop moved after the fetch: the push is rejected, not forced", (t) => {
+  const f = fixture(t);
+  f.commitOn("master", REGENERATED, "chore: regenerate README", BOT);
+  const dir = f.runner("master");
+  // Stand in for a concurrent push landing between the script's fetch and its
+  // push: a git shim on PATH runs the real fetch, then pushes a commit to
+  // develop from another clone, once. A forced push would overwrite it; a
+  // plain push must be rejected.
+  const realGit = execFileSync("bash", ["-c", "command -v git"], { encoding: "utf8" }).trim();
+  const racer = path.join(f.root, "racer");
+  execFileSync(realGit, ["clone", "--quiet", f.remote, racer], { env: gitEnv(HUMAN) });
+  const bin = path.join(f.root, "bin");
+  const marker = path.join(f.root, "raced");
+  fs.mkdirSync(bin);
+  fs.writeFileSync(
+    path.join(bin, "git"),
+    [
+      "#!/usr/bin/env bash",
+      `"${realGit}" "$@"; status=$?`,
+      `if [ "$1" = "fetch" ] && [ ! -e "${marker}" ]; then`,
+      `  touch "${marker}"`,
+      `  ( unset GIT_DIR GIT_WORK_TREE GIT_INDEX_FILE; cd "${racer}" && "${realGit}" checkout --quiet -B develop origin/develop && echo race > RACE.md && "${realGit}" add RACE.md && "${realGit}" commit --quiet -m race && "${realGit}" push --quiet origin HEAD:develop ) || exit 99`,
+      "fi",
+      "exit $status",
+      "",
+    ].join("\n"),
+  );
+  fs.chmodSync(path.join(bin, "git"), 0o755);
+
+  const { status, out } = f.run(dir, "master", { PATH: `${bin}${path.delimiter}${process.env.PATH}` });
+
+  assert.ok(fs.existsSync(marker), "the race fired");
+  assert.notEqual(status, 0, "the job fails visibly");
+  assert.notEqual(status, 99, "the race itself succeeded");
+  assert.match(out, /rejected|non-fast-forward|fetch first/);
+  assert.equal(f.show("develop", "RACE.md"), "race", "the concurrent commit survives");
+});
