@@ -49,6 +49,11 @@ const SEARCH_PAGE_SIZE = 100;
 // ---------------------------------------------------------------------------
 // HTTP
 
+/**
+ * Headers for a GitHub API request.
+ * @param {string} token bearer token; omitted from the headers when empty
+ * @returns {Record<string, string>}
+ */
 function githubHeaders(token) {
   const headers = {
     Accept: "application/vnd.github+json",
@@ -58,6 +63,13 @@ function githubHeaders(token) {
   return headers;
 }
 
+/**
+ * fetch() that throws on a non-2xx status, with the start of the body in the
+ * message so rate-limit and permission errors are readable in the log.
+ * @param {string} url
+ * @param {RequestInit} [init]
+ * @returns {Promise<Response>}
+ */
 async function fetchOk(url, init) {
   const response = await fetch(url, init);
   if (!response.ok) {
@@ -107,6 +119,13 @@ query($login: String!) {
   }
 }`;
 
+/**
+ * Query the GitHub GraphQL API for the user's contributions and repository
+ * languages and reduce them to the card's numbers.
+ * @param {string} login GitHub username
+ * @param {string} token bearer token
+ * @returns {Promise<{contributions: object, languages: object[]}>}
+ */
 async function fetchGithubStats(login, token) {
   const response = await fetchOk(`${GITHUB_API}/graphql`, {
     method: "POST",
@@ -123,14 +142,25 @@ async function fetchGithubStats(login, token) {
   return summarizeStats(payload.data.user);
 }
 
-// Counts only what is public, whatever the token can see, so a run with a
-// personal token and a run with the Actions token produce the same numbers.
+/**
+ * Sum a by-repository contribution list, counting only public repositories.
+ * Whatever the token can see, the result is the same, so a run with a
+ * personal token and a run with the Actions token agree.
+ * @param {{repository: {isPrivate: boolean}, contributions: {totalCount: number}}[]} byRepository
+ * @returns {number}
+ */
 function sumPublic(byRepository) {
   return byRepository
     .filter((entry) => !entry.repository.isPrivate)
     .reduce((total, entry) => total + entry.contributions.totalCount, 0);
 }
 
+/**
+ * Reduce the GraphQL `user` object to public contribution counts and the
+ * top languages.
+ * @param {object} user the `data.user` node of the stats query
+ * @returns {{contributions: {commits: number, pullRequests: number, issues: number, reviews: number, total: number}, languages: object[]}}
+ */
 function summarizeStats(user) {
   const c = user.contributionsCollection;
   const contributions = {
@@ -147,6 +177,14 @@ function summarizeStats(user) {
   };
 }
 
+/**
+ * Sum language bytes across repositories and keep the top `limit`, folding
+ * the remainder into an "Other" entry. Each result carries its share of the
+ * total (0..1).
+ * @param {{languages?: {edges: {size: number, node: {name: string, color: string|null}}[]}|null}[]} repositories
+ * @param {number} limit
+ * @returns {{name: string, color: string|null, size: number, share: number}[]}
+ */
 function aggregateLanguages(repositories, limit) {
   const bytes = new Map();
   for (const repo of repositories) {
@@ -165,15 +203,31 @@ function aggregateLanguages(repositories, limit) {
   return top.map((lang) => ({ ...lang, share: lang.size / total }));
 }
 
+/**
+ * Format an integer with thousands separators, en-US style (1,833).
+ * @param {number} value
+ * @returns {string}
+ */
 function formatNumber(value) {
   return new Intl.NumberFormat("en-US").format(value);
 }
 
+/**
+ * Format a 0..1 share as a percentage: whole numbers from 10% up, one
+ * decimal below that, and "<1%" for a trace.
+ * @param {number} share
+ * @returns {string}
+ */
 function formatPercent(share) {
   const pct = share * 100;
   return `${pct < 1 && pct > 0 ? "<1" : pct.toFixed(pct >= 10 ? 0 : 1)}%`;
 }
 
+/**
+ * Escape text for use in XML content or a double-quoted attribute.
+ * @param {unknown} text
+ * @returns {string}
+ */
 function escapeXml(text) {
   return String(text)
     .replace(/&/g, "&amp;")
@@ -190,6 +244,14 @@ const SVG_THEMES = {
   dark: { text: "#8b949e", strong: "#a371f7", track: "#30363d" },
 };
 
+/**
+ * Render the stats card as a standalone SVG for one theme: the contribution
+ * total and its breakdown on the left, a stacked language bar with a legend
+ * on the right, transparent background.
+ * @param {{contributions: object, languages: object[]}} stats from summarizeStats
+ * @param {"light"|"dark"} [theme]
+ * @returns {string} SVG document
+ */
 function renderStatsSvg({ contributions, languages }, theme = "light") {
   const colors = SVG_THEMES[theme];
   if (!colors) throw new Error(`Unknown SVG theme ${theme}`);
@@ -263,9 +325,14 @@ function renderStatsSvg({ contributions, languages }, theme = "light") {
 `;
 }
 
-// GitHub renders <picture> with prefers-color-scheme sources in READMEs, so
-// each theme gets the variant drawn for it. Relative paths resolve against
-// the branch being viewed (and the default branch on the profile page).
+/**
+ * The README markup for the card: a <picture> whose dark source is picked by
+ * prefers-color-scheme (GitHub honours it in READMEs) and whose <img> is the
+ * light variant. Relative paths resolve against the branch being viewed, and
+ * against the default branch on the profile page.
+ * @param {{light: string, dark: string}} svgPaths
+ * @returns {string} HTML
+ */
 function statsMarkup(svgPaths) {
   const alt = "Public GitHub contributions in the last twelve months and the language mix across public repositories";
   return [
@@ -279,6 +346,12 @@ function statsMarkup(svgPaths) {
 // ---------------------------------------------------------------------------
 // Latest articles (RSS 2.0)
 
+/**
+ * The text of an XML element body: CDATA is returned literally, plain text
+ * has the five predefined entities decoded. Whitespace is trimmed.
+ * @param {string} raw the element's inner text
+ * @returns {string}
+ */
 function decodeXmlText(raw) {
   const cdata = raw.match(/^\s*<!\[CDATA\[([\s\S]*?)\]\]>\s*$/);
   if (cdata) return cdata[1].trim(); // CDATA is literal; nothing to decode.
@@ -291,15 +364,27 @@ function decodeXmlText(raw) {
     .trim();
 }
 
+/**
+ * The decoded text of the first `<tag>` inside `block`, or "" when absent.
+ * @param {string} block an XML fragment
+ * @param {string} tag element name
+ * @returns {string}
+ */
 function tagText(block, tag) {
   const match = block.match(new RegExp(`<${tag}(?:\\s[^>]*)?>([\\s\\S]*?)</${tag}>`));
   return match ? decodeXmlText(match[1]) : "";
 }
 
-// The feed is RSS 2.0 written by jpmonette/feed: flat <item> blocks with
-// <title>, <link> and <pubDate>. A tag-by-tag read is enough for that shape
-// and keeps the script dependency-free; a structural change in the feed
-// surfaces as a missing field, which parseRss rejects.
+/**
+ * Parse an RSS 2.0 document into items sorted newest first.
+ *
+ * The feed is written by jpmonette/feed: flat <item> blocks with <title>,
+ * <link> and <pubDate>. A tag-by-tag read is enough for that shape and keeps
+ * the script dependency-free; a structural change in the feed surfaces as a
+ * missing field, which is rejected rather than rendered.
+ * @param {string} xml
+ * @returns {{title: string, link: string, date: Date}[]}
+ */
 function parseRss(xml) {
   const items = [];
   const itemPattern = /<item>([\s\S]*?)<\/item>/g;
@@ -317,15 +402,33 @@ function parseRss(xml) {
   return items.sort((a, b) => b.date - a.date);
 }
 
+/**
+ * Fetch the site's feed and return its newest `count` items.
+ * @param {string} feedUrl
+ * @param {number} count
+ * @returns {Promise<{title: string, link: string, date: Date}[]>}
+ */
 async function fetchLatestArticles(feedUrl, count) {
   const response = await fetchOk(feedUrl, { headers: { "User-Agent": USER_AGENT } });
   return parseRss(await response.text()).slice(0, count);
 }
 
+/**
+ * "Sep 2026" for a date, in UTC so the output does not depend on the runner's
+ * time zone.
+ * @param {Date} date
+ * @returns {string}
+ */
 function formatMonth(date) {
   return new Intl.DateTimeFormat("en-US", { month: "short", year: "numeric", timeZone: "UTC" }).format(date);
 }
 
+/**
+ * Backslash-escape the characters that would start markdown or HTML inside
+ * link text.
+ * @param {unknown} text
+ * @returns {string}
+ */
 function escapeMarkdownText(text) {
   return String(text).replace(/([\\[\]*_`<>])/g, "\\$1");
 }
@@ -333,10 +436,22 @@ function escapeMarkdownText(text) {
 // A URL inside "(...)" breaks on parentheses and whitespace; percent-encode
 // those (encodeURIComponent leaves parentheses alone, so spell them out).
 const MARKDOWN_URL_ESCAPES = { "(": "%28", ")": "%29" };
+
+/**
+ * Percent-encode the characters that would end or break a markdown link
+ * target: parentheses and whitespace.
+ * @param {unknown} url
+ * @returns {string}
+ */
 function escapeMarkdownUrl(url) {
   return String(url).replace(/[()\s]/g, (ch) => MARKDOWN_URL_ESCAPES[ch] ?? encodeURIComponent(ch));
 }
 
+/**
+ * Render articles as a markdown list, one "[title](link) · Mon YYYY" per line.
+ * @param {{title: string, link: string, date: Date}[]} articles
+ * @returns {string}
+ */
 function renderArticles(articles) {
   if (articles.length === 0) return "_No articles yet._";
   return articles
@@ -347,6 +462,13 @@ function renderArticles(articles) {
 // ---------------------------------------------------------------------------
 // Last shipped (merged pull requests across public repositories)
 
+/**
+ * From GitHub search results (issues API shape), pick the `count` pull
+ * requests merged most recently, regardless of the order they arrived in.
+ * @param {object[]} items `items` from the search/issues response
+ * @param {number} count
+ * @returns {{title: string, url: string, repo: string, mergedAt: Date}[]}
+ */
 function selectLastShipped(items, count) {
   return items
     .map((item) => ({
@@ -359,6 +481,14 @@ function selectLastShipped(items, count) {
     .slice(0, count);
 }
 
+/**
+ * Search the user's merged pull requests in public repositories and return
+ * the `count` most recently merged. See SEARCH_PAGE_SIZE for the window.
+ * @param {string} login GitHub username
+ * @param {string} token bearer token
+ * @param {number} count
+ * @returns {Promise<{title: string, url: string, repo: string, mergedAt: Date}[]>}
+ */
 async function fetchLastShipped(login, token, count) {
   const query = encodeURIComponent(`is:pr is:merged is:public author:${login}`);
   const response = await fetchOk(
@@ -369,6 +499,12 @@ async function fetchLastShipped(login, token, count) {
   return selectLastShipped(payload.items, count);
 }
 
+/**
+ * Render merged pull requests as a markdown list, one
+ * "**repo**: [title](url) · Mon YYYY" per line.
+ * @param {{title: string, url: string, repo: string, mergedAt: Date}[]} pullRequests
+ * @returns {string}
+ */
 function renderShipped(pullRequests) {
   if (pullRequests.length === 0) return "_Nothing merged recently._";
   return pullRequests
@@ -382,6 +518,14 @@ function renderShipped(pullRequests) {
 // ---------------------------------------------------------------------------
 // Template
 
+/**
+ * Replace every `{placeholder}` in the template with its value. A placeholder
+ * with no value is an error, never emitted as-is; substituted values are not
+ * scanned again.
+ * @param {string} template
+ * @param {Record<string, string>} values
+ * @returns {string}
+ */
 function render(template, values) {
   return template.replace(/\{([a-z_]+)\}/g, (match, key) => {
     if (!(key in values)) {
@@ -391,6 +535,11 @@ function render(template, values) {
   });
 }
 
+/**
+ * Fetch everything, render everything, then write README.md and the two SVGs
+ * next to this script. Nothing is written until every render succeeded.
+ * @returns {Promise<void>}
+ */
 async function main() {
   const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN || "";
   if (!token) {
@@ -405,8 +554,6 @@ async function main() {
     fetchLastShipped(LOGIN, token, SHIPPED_COUNT),
   ]);
 
-  // Render everything before writing anything, so a template error leaves
-  // the tree untouched.
   const readme = render(template, {
     github_stats: statsMarkup(STATS_SVG_PATHS),
     latest_articles: renderArticles(articles),
