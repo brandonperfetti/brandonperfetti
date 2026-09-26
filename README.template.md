@@ -1,4 +1,4 @@
-[![Brandon Perfetti — Senior Frontend Engineer](https://github.com/brandonperfetti/brandonperfetti/raw/master/assets/header-banner.png)](https://brandonperfetti.com)
+[![brandonperfetti.com](https://github.com/brandonperfetti/brandonperfetti/raw/master/assets/header-banner.png)](https://brandonperfetti.com)
 
 <h1 align="center">Brandon Perfetti</h1>
 
@@ -17,20 +17,20 @@ I lead the frontend of a multi-tenant real-estate platform: Next.js and TypeScri
 
 Five stages. The first four are specification; only the fifth is code.
 
-1. **Grill the problem.** Before anything is written, interrogate the goal: what is actually being asked for, what is assumed, what happens if we do nothing. Most of what gets cut is cut here, when cutting is free.
+1. **Grill the problem.** Before anything is written, I interrogate the goal: what is actually being asked for, what is assumed, what happens if we do nothing. Most of what I cut gets cut here, when cutting is free.
 2. **Write the master priority document.** One file a cold reader can pick up and run the next wave from: the decisions and why, the phases, the file-ownership map, the traps.
 3. **Cut tickets.** Each one carries its finding in the title and its receipts in the body. This is where "what gets built" stops being a conversation and becomes a contract.
-4. **Set the fence.** Which files each agent lane owns, which it must never touch, and which shared manifests are serialised rather than parallelised.
+4. **Set the fence.** Which files each agent lane owns, which it must never touch, and which shared manifests have to be serialised rather than parallelised.
 5. **Dispatch waves, then review every one.** Agents work inside the fence and hand back. Nothing lands without a review pass.
 
-Four rules keep it safe, and I have not found a way to drop any of them without paying for it:
+Four invariants keep it safe, and I have not found a way to drop any of them without paying for it:
 
 - **Two-axis review before acceptance.** Every change is checked against the repo's documented standards and against what the originating ticket asked for.
 - **A capability guard decides autonomy.** Whether a lane runs attended or autonomously is a measured decision against five checks, not a mood.
 - **Evidence labels.** Every claim is marked as measured, read from source, or inferred, and the three are kept apart.
 - **Agents never merge.** A human sits at the irreversible boundary. Always.
 
-The full write-up, including an audit of the system by one of my own agents, is at [brandonperfetti.com/how-i-work](https://brandonperfetti.com/how-i-work). The agreements themselves are public: [agent-working-agreements](https://github.com/brandonperfetti/agent-working-agreements).
+The full write-up, including an audit of how I direct agents by one of my own agents, is at [brandonperfetti.com/how-i-work](https://brandonperfetti.com/how-i-work). The agreements themselves are public: [agent-working-agreements](https://github.com/brandonperfetti/agent-working-agreements).
 
 ## What it produced
 
@@ -119,7 +119,7 @@ Why runbooks rot and agent skills don't: turning a Next.js upgrade playbook into
 
 ## Before that
 
-A decade of data integrations built the depth: platforms administering 250+ MLS feeds and 10M+ records, SAML/JWT SSO across 100+ third-party systems, and a re-architecture that cut data-source integration time by 80%.
+A decade of data integrations built the depth: helping build a React and GraphQL ingestion platform for 250+ MLS feeds and 10M+ records, SAML/JWT SSO across 100+ platforms, and a re-architecture that cut data-source integration time by 80%.
 
 ---
 
