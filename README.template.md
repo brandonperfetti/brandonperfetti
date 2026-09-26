@@ -1,230 +1,126 @@
-[![Social banner for brandonperfetti](https://github.com/brandonperfetti/brandonperfetti/raw/master/assets/header-banner.png)](https://brandonperfetti.com)
+[![brandonperfetti.com](https://github.com/brandonperfetti/brandonperfetti/raw/master/assets/header-banner.png)](https://brandonperfetti.com)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/brandonperfetti)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brandonperfetti)
+<h1 align="center">Brandon Perfetti</h1>
 
-### <div align="center">Hi there 👋</div>
+<p align="center">Senior Frontend Engineer · Next.js · React · TypeScript · GraphQL · AI-Augmented Engineering (Claude Code, MCP)</p>
 
-### <div align="center">I'm Brandon, **a** software engineer 👨‍💻 working remotely since 2015 🚀</div>
+<p align="center">
+<a href="https://brandonperfetti.com"><img src="https://img.shields.io/badge/brandonperfetti.com-Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio: brandonperfetti.com" /></a>
+<a href="https://brandonperfetti.com/how-i-work"><img src="https://img.shields.io/badge/How_I_work-the_pipeline_and_the_rules-7c3aed?style=flat" alt="How I work" /></a>
+<a href="https://github.brandonperfetti.com"><img src="https://img.shields.io/badge/Dashboard-github.brandonperfetti.com-181717?style=flat&logo=github&logoColor=white" alt="GitHub commit dashboard" /></a>
+<a href="https://www.linkedin.com/in/brandonperfetti"><img src="https://img.shields.io/badge/LinkedIn-brandonperfetti-0A66C2?style=flat" alt="LinkedIn: brandonperfetti" /></a>
+</p>
 
-<!-- - 🔭&nbsp; I’m currently working on [Top Timelines](https://toptimelines.com) -->
+I lead the frontend of a multi-tenant real-estate platform: Next.js and TypeScript sites on one shared component package, each with its own headless CMS. Most of that work is delivered through AI agents running under a written harness. The agents write code; the deciding happens first, and it happens on paper.
 
-- 🌱&nbsp; I’m currently learning [Vue.js](https://vuejs.org/) and
-  [Nuxt](https://nuxt.com/)
-- ❓&nbsp; Ask me about anything related to JavaScript, TypeScript, React,
-  NextJS, Remix, or Node!
-- ⚡&nbsp; Fun fact: I use spaces over tabs 😉
+## How I work
 
-<br/>
+Five stages. The first four are specification; only the fifth is code.
 
-### ✨&nbsp; About Me
+1. **Grill the problem.** Before anything is written, I interrogate the goal: what is actually being asked for, what is assumed, what happens if we do nothing. Most of what I cut gets cut here, when cutting is free.
+2. **Write the master priority document.** One file a cold reader can pick up and run the next wave from: the decisions and why, the phases, the file-ownership map, the traps.
+3. **Cut tickets.** Each one carries its finding in the title and its receipts in the body. This is where "what gets built" stops being a conversation and becomes a contract.
+4. **Set the fence.** Which files each agent lane owns, which it must never touch, and which shared manifests have to be serialised rather than parallelised.
+5. **Dispatch waves, then review every one.** Agents work inside the fence and hand back. Nothing lands without a review pass.
 
-I am a software engineer with 10+ years of experience in developing enterprise
-SAAS applications. <br/>
+Four invariants keep it safe, and I have not found a way to drop any of them without paying for it:
 
-<!-- My auto-generated
-<a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/brandonperfetti/brandonperfetti/master/docs/index.html">Resume</a> -->
+- **Two-axis review before acceptance.** Every change is checked against the repo's documented standards and against what the originating ticket asked for.
+- **A capability guard decides autonomy.** Whether a lane runs attended or autonomously is a measured decision against five checks, not a mood.
+- **Evidence labels.** Every claim is marked as measured, read from source, or inferred, and the three are kept apart.
+- **Agents never merge.** A human sits at the irreversible boundary. Always.
 
-### My Skill Set
+The full write-up, including an audit of how I direct agents by one of my own agents, is at [brandonperfetti.com/how-i-work](https://brandonperfetti.com/how-i-work). The agreements themselves are public: [agent-working-agreements](https://github.com/brandonperfetti/agent-working-agreements).
 
-<table><tr><td valign="top" width="33%">
+## What it produced
 
-### Frontend
+One program is the clearest illustration: a fleet-hardening initiative around incremental static regeneration. Roughly 150 tickets and 426 files across a shared component package, the CMS, the portal and the tenant sites, first commit to fleet promotion in four weeks, in ten reviewed waves, with the fleet end-to-end suite green at every wave.
 
-<div align="center">
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://eslint.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6019716?s=200&v=4" alt="ESLint" height="50" /></a>
-<a href="https://fakerjs.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/97165289?s=200&v=4" alt="Faker.js" height="50" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" /></a>
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.invisionapp.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/invision.svg" alt="Invision" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-<a href="https://mswjs.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/64637271?s=200&v=4" alt="MSW" height="50" /></a>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
-<a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="50" /></a>
-<a href="https://prettier.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" alt="Prettier" height="50" /></a>
-<a href="https://www.radix-ui.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/75042455?v=4" alt="Radix UI" height="50" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
-<a href="https://remix.run/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Remix" height="50" /></a>
-<a href="https://ui.shadcn.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" height="50" /></a>
-<a href="https://storybook.js.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/22632046?s=48&v=4" alt="Storybook" height="50" /></a>
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="Testing Library" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/65625612?s=64&v=4" alt="Vite" height="50" /></a>
-<a href="https://vitest.dev/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/95747107?s=200&v=4" alt="Vitest" height="50" /></a>
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6128107?s=48&v=4" alt="Vue.js" height="50" /></a>
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
-<a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://zod.dev/logo.svg" alt="Zod" height="50" /></a>
-</div>
+The number I care about there is not 426. It is ten: the number of times the work stopped and got looked at before any of it reached a release branch.
 
-</td><td valign="top" width="33%">
+## Where to look
 
-### Backend
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<div align="center">
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" alt="Express.js" height="50" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>
-<a href="https://www.elastic.co/kibana/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>
-<a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>
-<a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/48680494?v=4" alt="SQLite" height="50" /></a>
-<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase" height="50" /></a>
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
-</div>
+### [Agent Working Agreements](https://github.com/brandonperfetti/agent-working-agreements)
 
-</td><td valign="top" width="33%">
+The harness itself: evidence labels, the two modes and the guard that picks between them, the git ritual, the stop-list. The changelog shows which rules changed after something bit.
 
-### DevOps
+</td>
+<td valign="top" width="50%">
 
-<div align="center">
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-<a href="https://fly.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/22525303?s=280&v=4" alt="Fly.io" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>
-<a href="https://www.elastic.co/kibana/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-<a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" alt="Netlify" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://resend.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/109384852?s=200&v=4" alt="Resend" height="50" /></a>
-<a href="https://sentry.io/welcome/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/1396951?s=64&v=4" alt="Sentry" height="50" /></a>
-<a href="https://stripe.com/" target="_blank"><img style="margin: 10px" src="https://clipartcraft.com/images/stripe-logo-5.png" alt="Stripe" height="50" /></a>
-<a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase" height="50" /></a>
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" alt="Vercel" height="50" /></a>
-<a href="https://ohmyz.sh/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Oh_My_Zsh_logo.png" alt="ZSH" height="50" /></a>
-</div>
+### [GitHub commit dashboard](https://github.brandonperfetti.com)
 
-</td></tr></table></details>
+14 charts on PR throughput, cycle time, flow health and release cadence, read server-side from the GitHub API. Next.js 16, Recharts, Vitest. Nobody asked me to build it. [Source](https://github.com/brandonperfetti/github-commit-dashboard).
 
-<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-### My Stats
+### [brandonperfetti.com, the source](https://github.com/brandonperfetti/bp-portfolio)
 
-<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats-navy-sigma-84.vercel.app/api?username=brandonperfetti&show_icons=true&hide_border=true&theme=gruvbox" align="center" /></div>
+Next.js 16, Payload CMS, Supabase, Clerk, a block page-builder, Storybook, Vitest and Playwright.
 
-<div align="center"><img src="https://github-readme-stats-navy-sigma-84.vercel.app/api/top-langs/?username=brandonperfetti&hide_border=true&layout=compact&theme=gruvbox" align="center" /></div></details>
+</td>
+<td valign="top" width="50%">
 
-<br/>
+### [From Runbook to Agent Skill](https://brandonperfetti.com/articles/runbooks-to-agent-skills)
 
-### How I've been spending time this year
+Why runbooks rot and agent skills don't: turning a Next.js upgrade playbook into a Claude skill that executes, verifies, and stays current run over run.
 
-![Wakatime stats](https://github-readme-stats-navy-sigma-84.vercel.app/api/wakatime?username=@brandonperfetti&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+</td>
+</tr>
+</table>
 
-<br/>
+## Stack
 
-<!-- ### My Certifications -->
+**Core**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### Completed Courses
+**AI-augmented engineering**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat)
+![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF570A?style=flat&logo=coderabbit&logoColor=white)
 
-1. [Epic Web by Kent C. Dodds](https://www.epicweb.dev/)
-2. [Advanced Remix by Kent C. Dodds](https://frontendmasters.com/courses/advanced-remix/)
-3. [Remix Fundamentals by Kent C. Dodds](https://frontendmasters.com/courses/remix/)
-4. [Epic React by Kent C. Dodds](https://epicreact.dev/)
-5. [Testing JavaScript by Kent C. Dodds](https://testingjavascript.com/)
-6. [Master Gatsby by Wes Bos](https://mastergatsby.com/)
-7. [Fullstack Advanced React and GraphQL by Wes Bos](https://advancedreact.com/)
-8. [Learn Node by Wes Bos](https://learnnode.com/)
-9. [Learn Redux by Wes Bos](https://learnredux.com/)
-10. [React For Beginners by Wes Bos](https://reactforbeginners.com/)
-11. [ES6 for Everyone by Wes Bos](https://es6.io/)
-12. [Beginner JavaScript by Wes Bos](https://beginnerjavascript.com/)
-13. [JavaScript30 by Wes Bos](https://javascript30.com/)
-14. [What The Flexbox?! by Wes Bos](https://flexbox.io/)
-15. [CSS Grid by Wes Bos](https://cssgrid.io/)
-16. [Mastering Markdown by Wes Bos](https://masteringmarkdown.com/)
-17. [Command Line Power User by Wes Bos](https://commandlinepoweruser.com/)
-18. [Just Javascript by Dan Abramov and Maggie Appleton](https://justjavascript.com/)
-19. [Vue.js 2 Master Class by Alex Kyriakidis](https://vueschool.io/courses/the-vuejs-2-master-class)
-20. [Mastering Nuxt 3 by Michael Thiessen](https://masteringnuxt.com/nuxt3)
-21. [Testing Accessibility by Marcy Sutton](https://testingaccessibility.com/)
+**Testing**
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat)
 
-### In Progress Courses
+**Data and CMS**
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=flat&logo=payloadcms&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-1. [Total TypeScript by Matt Pocock](https://www.totaltypescript.com/)
-2. [Pro Tailwind by Simon Vrachliotis](https://www.protailwind.com/)
-3. [Vue.js 3 Master Class 2024 Edition](https://vueschool.io/the-vuejs-3-master-class)
-4. [Vue Certification](https://certificates.dev/vuejs)
-5. [ShiftNudge by Matt D. Smith](https://shiftnudge.com/)
+**Delivery**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-<!-- ### 📝 Latest Blog Posts -->
+## Certificates
 
-<!-- BLOG-POST-LIST:START -->
+| Certificate | Issuer | Issued |
+| --- | --- | --- |
+| Claude Code for Real Engineers | AIHero.dev | Apr 2026 |
+| AI SDK v6 Crash Course | AIHero.dev | Mar 2026 |
+| The Complete Next.js Testing Course | JS Mastery | Feb 2026 |
+| Build Your Own AI Personal Assistant in TypeScript | AIHero.dev | Dec 2025 |
+| Master the Model Context Protocol (MCP) | EpicAI.pro | Nov 2025 |
+| Certificate of Interface Design | Shift Nudge | Apr 2026 |
+| Automated Accessibility Testing | testingaccessibility.com | Jul 2024 |
 
-<!-- BLOG-POST-LIST:END -->
+## Before that
 
-<br/>
+A decade of data integrations built the depth: helping build a React and GraphQL ingestion platform for 250+ MLS feeds and 10M+ records, SAML/JWT SSO across 100+ platforms, and a re-architecture that cut data-source integration time by 80%.
 
-<!-- ## What I'm listening to -->
+---
 
-<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=brandonperfetti&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div> -->
-
-<!-- <br/> -->
-
-<!-- ### 📣 How about a quote before you go?
-
-> {quote}
->
-> <p>{quote_author}</p>
-
-_Quote requested from [The Quote API](https://api.quotable.io/quotes/random)_
-
-Check back at the top of the hour for a new quote!
-
-<br> -->
-
-## Connect with me
-
-<div align="center">
-<a href="https://github.com/brandonperfetti" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/brandonperfetti" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://dev.to/brandonperfetti" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a> -->
-<a href="https://linkedin.com/in/brandonperfetti" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://medium.com/brandonperfetti" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  -->
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=brandonperfetti&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/brandonperfetti" target="_blank" style="display: inline-block;">
-<img
-src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
-align="center"
- />
-</a></div>
-<br />
+If you are solving the same problem, I would like to compare notes: [LinkedIn](https://www.linkedin.com/in/brandonperfetti) · [brandonperfetti.com](https://brandonperfetti.com) · [X](https://x.com/brandonperfetti)
