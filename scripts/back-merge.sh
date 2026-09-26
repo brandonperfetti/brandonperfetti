@@ -29,10 +29,16 @@ TARGET_BRANCH="${TARGET_BRANCH:-develop}"
 INPUTS=(README.template.md index.js)
 OUTPUTS=(README.md assets/github-stats-light.svg assets/github-stats-dark.svg)
 
-# Paths below are repository-relative; run from the top level wherever invoked.
+# Operate on the repository the working directory belongs to, whatever the
+# caller exported (a git hook, for one, sets GIT_DIR / GIT_INDEX_FILE), then run
+# from its top level, since the paths below are repository-relative.
+unset GIT_DIR GIT_WORK_TREE GIT_INDEX_FILE GIT_OBJECT_DIRECTORY \
+  GIT_ALTERNATE_OBJECT_DIRECTORIES GIT_COMMON_DIR GIT_PREFIX
 cd "$(git rev-parse --show-toplevel)"
 
-# A notice in the Actions log, a plain line anywhere else.
+# notice MESSAGE
+#   Print MESSAGE as an Actions notice when running in GitHub Actions, and as a
+#   plain "notice:" line anywhere else.
 notice() {
   if [ -n "${GITHUB_ACTIONS:-}" ]; then
     echo "::notice title=Back-merge to ${TARGET_BRANCH}::$1"
@@ -54,7 +60,9 @@ git fetch --quiet --no-tags --depth=1 origin \
 target_sha="$(git rev-parse --verify "refs/remotes/origin/${TARGET_BRANCH}^{commit}")"
 
 # Guard: the generator's inputs must be the same blobs on both commits.
-# A path missing on one side reads as "(missing)" and so never matches a blob.
+# blob COMMIT PATH
+#   Print the blob id of PATH in COMMIT, or "(missing)" when COMMIT has no such
+#   path, so a path missing on one side never compares equal to a blob.
 blob() { git rev-parse --quiet --verify "$1:$2" || echo "(missing)"; }
 differing=()
 for path in "${INPUTS[@]}"; do

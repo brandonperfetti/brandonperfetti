@@ -17,9 +17,14 @@ const SCRIPT = path.join(__dirname, "back-merge.sh");
 const BOT = { name: "Brandon Perfetti", email: "2780463+brandonperfetti@users.noreply.github.com" };
 const HUMAN = { name: "Fixture Author", email: "fixture@example.com" };
 
-// Keep the host's git configuration (signing, hooks, default branch) out of the fixtures.
-// Also drop repository-pointing variables a caller may have exported (git sets
-// GIT_INDEX_FILE for hooks, for one), so fixtures never write into another repo.
+/**
+ * Environment for a git command in the fixtures: the host's git configuration
+ * (signing, hooks, default branch) and any repository-pointing variables a
+ * caller exported (git sets GIT_INDEX_FILE for hooks, for one) are dropped, so
+ * fixtures never read host config or write into another repository.
+ * @param {{name: string, email: string}} identity author and committer
+ * @returns {NodeJS.ProcessEnv}
+ */
 function gitEnv(identity) {
   const inherited = { ...process.env };
   for (const name of ["GIT_DIR", "GIT_WORK_TREE", "GIT_INDEX_FILE", "GIT_OBJECT_DIRECTORY", "GIT_COMMON_DIR"]) {
@@ -37,10 +42,23 @@ function gitEnv(identity) {
   };
 }
 
+/**
+ * Run git in `cwd` with the fixture environment and return trimmed stdout.
+ * @param {string} cwd
+ * @param {string[]} args
+ * @param {{name: string, email: string}} [identity]
+ * @returns {string}
+ */
 function git(cwd, args, identity = HUMAN) {
   return execFileSync("git", args, { cwd, env: gitEnv(identity), encoding: "utf8" }).trim();
 }
 
+/**
+ * Write `content` to `file` under `dir`, creating parent directories.
+ * @param {string} dir
+ * @param {string} file repository-relative path
+ * @param {string} content
+ */
 function write(dir, file, content) {
   fs.mkdirSync(path.dirname(path.join(dir, file)), { recursive: true });
   fs.writeFileSync(path.join(dir, file), content);
@@ -55,8 +73,12 @@ const BASE = {
   "assets/header-banner.png": "banner\n",
 };
 
-// Build remote.git with master and develop at the same commit, then let the
-// caller advance either branch before the runner clones master.
+/**
+ * A bare remote with master and develop at the same initial commit, plus
+ * helpers to advance either branch, clone a runner, run the script and read
+ * the remote. Removed when the test ends.
+ * @param {import("node:test").TestContext} t
+ */
 function fixture(t) {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), "back-merge-"));
   t.after(() => fs.rmSync(root, { recursive: true, force: true }));
@@ -70,6 +92,10 @@ function fixture(t) {
   git(work, ["push", "--quiet", "origin", "HEAD:master"]);
   git(work, ["push", "--quiet", "origin", "HEAD:develop"]);
 
+  /**
+   * Commit `files` (a null content skips the write) and remove `remove` on
+   * `branch`, then push it. Returns the new commit id.
+   */
   function commitOn(branch, files, message, identity = HUMAN, remove = []) {
     git(work, ["fetch", "--quiet", "origin"]);
     git(work, ["checkout", "--quiet", "-B", branch, `origin/${branch}`]);
@@ -81,13 +107,14 @@ function fixture(t) {
     return git(work, ["rev-parse", "HEAD"]);
   }
 
-  // The workflow's checkout: one commit of one branch, over a URL.
+  /** The workflow's checkout, as near as a test gets: one commit of one branch, over a URL. */
   function runner(branch = "master") {
     const dir = path.join(root, `runner-${branch}-${Date.now()}-${Math.random().toString(16).slice(2)}`);
     git(root, ["clone", "--quiet", "--depth", "1", "--branch", branch, `file://${remote}`, dir]);
     return dir;
   }
 
+  /** Run the script in `dir` as the bot; returns its exit status and combined output. */
   function run(dir, sourceBranch = "master", extraEnv = {}) {
     const result = spawnSync("bash", [SCRIPT], {
       cwd: dir,
@@ -97,8 +124,11 @@ function fixture(t) {
     return { status: result.status, out: `${result.stdout}${result.stderr}` };
   }
 
+  /** Every ref on the remote with its object id, one per line. */
   const refs = () => git(root, ["--git-dir", remote, "for-each-ref", "--format=%(refname) %(objectname)"]);
+  /** The commit a branch points at on the remote. */
   const tip = (branch) => git(root, ["--git-dir", remote, "rev-parse", branch]);
+  /** A file's content on a branch of the remote. */
   const show = (branch, file) => git(root, ["--git-dir", remote, "show", `${branch}:${file}`]);
 
   return { commitOn, runner, run, refs, tip, show, remote, root };
@@ -308,3 +338,26 @@ test("runs from a subdirectory as it does from the top level", (t) => {
   assert.match(out, /carried/);
   assert.equal(f.show("develop", "README.md"), f.show("master", "README.md"));
 });
+
+test("ignores repository variables the caller exported", (t) => {
+  const f = fixture(t);
+  f.commitOn("master", REGENERATED, "chore: regenerate README", BOT);
+  const dir = f.runner("master");
+  // A decoy repository the inherited variables point at; the script must not touch it.
+  const decoy = path.join(f.root, "decoy");
+  git(f.root, ["init", "--quiet", "-b", "master", decoy]);
+  const decoyGit = path.join(decoy, ".git");
+
+  const { status, out } = f.run(dir, "master", {
+    GIT_DIR: decoyGit,
+    GIT_WORK_TREE: decoy,
+    GIT_INDEX_FILE: path.join(decoyGit, "index"),
+  });
+
+  assert.equal(status, 0, out);
+  assert.match(out, /carried/);
+  assert.equal(f.show("develop", "README.md"), f.show("master", "README.md"));
+  assert.equal(git(decoy, ["for-each-ref"]), "", "the decoy gained no refs");
+  assert.equal(fs.existsSync(path.join(decoyGit, "index")), false, "the decoy gained no index");
+});
+
