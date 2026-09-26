@@ -1,9 +1,9 @@
 name: Regenerate README
 
 # README.template.md is the source; index.js fills its placeholders (GitHub
-# stats rendered to assets/github-stats.svg, latest articles, last shipped)
-# and writes README.md. This runs daily on the default branch and commits only
-# when the output changed. The commit is authored as Brandon with no trailer.
+# stats rendered to two SVGs under assets/, latest articles, last shipped) and
+# writes README.md. This runs daily on the default branch and commits only when
+# the output changed. The commit is authored as Brandon with no trailer.
 
 on:
   schedule:
@@ -20,6 +20,7 @@ concurrency:
 jobs:
   regenerate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Check out ${{ github.ref_name }}
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
@@ -34,32 +35,19 @@ jobs:
       - name: Test the generator
         run: node --test
 
-      - name: Generate README.md and assets/github-stats.svg
+      - name: Generate README.md and the stats SVGs
         run: node index.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit when the output changed
         run: |
-          git add README.md assets/github-stats.svg
+          git add README.md assets/github-stats-light.svg assets/github-stats-dark.svg
           if git diff --cached --quiet; then
-            echo "README.md and assets/github-stats.svg are unchanged; nothing to commit."
+            echo "Generated output is unchanged; nothing to commit."
             exit 0
           fi
           git config user.name "Brandon Perfetti"
           git config user.email "2780463+brandonperfetti@users.noreply.github.com"
           git commit -m "chore: regenerate README"
           git push origin "HEAD:${GITHUB_REF_NAME}"
-
-      # Ritual step 8: master comes home to develop by a direct push, so the
-      # next develop -> master release PR does not conflict on README.md.
-      # Only a fast-forward; if develop is ahead, the release PR carries it.
-      - name: Fast-forward develop to ${{ github.ref_name }}
-        if: github.ref_name == github.event.repository.default_branch
-        run: |
-          git fetch origin develop
-          if git merge-base --is-ancestor origin/develop HEAD; then
-            git push origin HEAD:develop
-          else
-            echo "::notice::develop has commits ${GITHUB_REF_NAME} does not; not fast-forwarding. The next release PR carries the regenerated README."
-          fi
