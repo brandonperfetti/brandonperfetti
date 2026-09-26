@@ -1,5 +1,12 @@
 {
-  "dependencies": {
-    "isomorphic-unfetch": "^3.1.0"
+  "name": "brandonperfetti",
+  "private": true,
+  "description": "Profile README generator: README.template.md -> README.md, with GitHub stats, latest articles and last shipped filled in.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "generate": "node index.js"
   }
 }

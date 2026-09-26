@@ -108,6 +108,14 @@ A modernized web presence for a forensic engineering firm. Accessibility-first, 
 </tr>
 </table>
 
+## Latest articles
+
+- [Four-Week Context Reset: Recover Focus After an Interrupt-Heavy Sprint](https://brandonperfetti.com/articles/four-week-context-reset) · Sep 2026
+- [Your Runbook Is Rotting. Teach It to an Agent Instead.](https://brandonperfetti.com/articles/runbooks-to-agent-skills) · Aug 2026
+- [The Cheapest Database Migration Is the One You Do Before Production Exists](https://brandonperfetti.com/articles/from-neon-to-supabase) · Aug 2026
+
+More at [brandonperfetti.com/articles](https://brandonperfetti.com/articles).
+
 ## Tech stack
 
 **Core**
@@ -245,16 +253,22 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 ## GitHub stats
 
+**Recently merged**
+
+- **brandonperfetti**: [chore: remove the published-resume surface](https://github.com/brandonperfetti/brandonperfetti/pull/2) · Sep 2026
+- **brandonperfetti**: [docs: rewrite the profile README through the generator to the current positioning](https://github.com/brandonperfetti/brandonperfetti/pull/1) · Sep 2026
+- **github-commit-dashboard**: [Release: subdomain README, Vitest suite, CI, social preview image](https://github.com/brandonperfetti/github-commit-dashboard/pull/5) · Sep 2026
+
 <details>
 <summary>View stats</summary>
 
 <div align="center">
 
-<img src="https://github-readme-stats-navy-sigma-84.vercel.app/api?username=brandonperfetti&show_icons=true&hide_border=true&theme=gruvbox" alt="GitHub stats for brandonperfetti" />
-
-<img src="https://github-readme-stats-navy-sigma-84.vercel.app/api/top-langs/?username=brandonperfetti&hide_border=true&layout=compact&theme=gruvbox" alt="Most used languages" />
+<img src="assets/github-stats.svg" alt="Public GitHub contributions in the last twelve months and the language mix across public repositories" width="495" />
 
 </div>
+
+The card is regenerated daily by [`index.js`](index.js) in this repository, from the GitHub API, and committed as an SVG. No third-party stats service is involved.
 
 </details>
 

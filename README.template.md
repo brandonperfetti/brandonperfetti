@@ -108,6 +108,12 @@ A modernized web presence for a forensic engineering firm. Accessibility-first, 
 </tr>
 </table>
 
+## Latest articles
+
+{latest_articles}
+
+More at [brandonperfetti.com/articles](https://brandonperfetti.com/articles).
+
 ## Tech stack
 
 **Core**
@@ -245,16 +251,20 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 ## GitHub stats
 
+**Recently merged**
+
+{last_shipped}
+
 <details>
 <summary>View stats</summary>
 
 <div align="center">
 
-<img src="https://github-readme-stats-navy-sigma-84.vercel.app/api?username=brandonperfetti&show_icons=true&hide_border=true&theme=gruvbox" alt="GitHub stats for brandonperfetti" />
-
-<img src="https://github-readme-stats-navy-sigma-84.vercel.app/api/top-langs/?username=brandonperfetti&hide_border=true&layout=compact&theme=gruvbox" alt="Most used languages" />
+{github_stats}
 
 </div>
+
+The card is regenerated daily by [`index.js`](index.js) in this repository, from the GitHub API, and committed as an SVG. No third-party stats service is involved.
 
 </details>
 
