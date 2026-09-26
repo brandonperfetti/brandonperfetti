@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [Release: LICENSE (CC BY 4.0 for the documentation; scripts and workflows MIT)](https://github.com/brandonperfetti/agent-working-agreements/pull/73) · Sep 2026
-- **brandonperfetti**: [Restore the profile README's scannable form and revive index.js as a scheduled generator](https://github.com/brandonperfetti/brandonperfetti/pull/3) · Sep 2026
-- **agent-working-agreements**: [License the repository under CC BY 4.0](https://github.com/brandonperfetti/agent-working-agreements/pull/72) · Sep 2026
+- **brandonperfetti**: [Carry the generated README to develop when the generator's inputs match](https://github.com/brandonperfetti/brandonperfetti/pull/8) · Sep 2026
+- **agent-working-agreements**: [Release: LICENSE-MIT, A7's In Review move by mode, RULE ZERO's author check (#74, #68, #69)](https://github.com/brandonperfetti/agent-working-agreements/pull/78) · Sep 2026
+- **bp-portfolio**: [Release: docs-only — script-only secret pair in .env.example + #237 content-docs reconciliation](https://github.com/brandonperfetti/bp-portfolio/pull/243) · Sep 2026
 
 <details>
 <summary>View stats</summary>
