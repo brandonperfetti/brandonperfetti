@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
+- **agent-working-agreements**: [Release: A4 reads the author email, RULE ZERO covers replies and comments, B2 names coderabbit-preflight (#79, #82, #81)](https://github.com/brandonperfetti/agent-working-agreements/pull/86) · Sep 2026
+- **agent-working-agreements**: [A4 reads the author email, RULE ZERO covers replies and comments, and B2 names coderabbit-preflight](https://github.com/brandonperfetti/agent-working-agreements/pull/83) · Sep 2026
 - **bp-portfolio**: [Release: wave 9 — security and crawl correctness](https://github.com/brandonperfetti/bp-portfolio/pull/271) · Sep 2026
-- **bp-portfolio**: [Wave 9: security and crawl correctness](https://github.com/brandonperfetti/bp-portfolio/pull/259) · Sep 2026
-- **brandonperfetti**: [Release: the profile README restored and regenerated daily, the resume surface removed, the repo's agent doc](https://github.com/brandonperfetti/brandonperfetti/pull/9) · Sep 2026
 
 <details>
 <summary>View stats</summary>
