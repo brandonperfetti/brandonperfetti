@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [OpenClaw: row 3 reads a file the patch adds back by its exact path (#103)](https://github.com/brandonperfetti/agent-working-agreements/pull/105) · Oct 2026
-- **agent-working-agreements**: [Release: the OpenClaw breaker's row 3 readback names its diff form (#96)](https://github.com/brandonperfetti/agent-working-agreements/pull/102) · Oct 2026
-- **agent-working-agreements**: [The OpenClaw breaker's row 3 readback names its diff form, in Camina's words and labels](https://github.com/brandonperfetti/agent-working-agreements/pull/100) · Oct 2026
+- **agent-working-agreements**: [Release: wave 4 — the OpenClaw appendix's added-file readback (#103) and the Claude Code appendix's EnterWorktree line (#101)](https://github.com/brandonperfetti/agent-working-agreements/pull/107) · Oct 2026
+- **agent-working-agreements**: [OpenClaw: how row 3's added-file readback passes the path (#104)](https://github.com/brandonperfetti/agent-working-agreements/pull/108) · Oct 2026
+- **agent-working-agreements**: [Claude Code: EnterWorktree is not the lane-isolation command (#101)](https://github.com/brandonperfetti/agent-working-agreements/pull/106) · Oct 2026
 
 <details>
 <summary>View stats</summary>
