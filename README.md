@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
+- **agent-working-agreements**: [docs(openclaw): enable bounded staff autonomy](https://github.com/brandonperfetti/agent-working-agreements/pull/116) · Oct 2026
 - **agent-working-agreements**: [Release: wave 4 — the OpenClaw appendix's added-file readback (#103) and the Claude Code appendix's EnterWorktree line (#101)](https://github.com/brandonperfetti/agent-working-agreements/pull/107) · Oct 2026
 - **agent-working-agreements**: [OpenClaw: how row 3's added-file readback passes the path (#104)](https://github.com/brandonperfetti/agent-working-agreements/pull/108) · Oct 2026
-- **agent-working-agreements**: [Claude Code: EnterWorktree is not the lane-isolation command (#101)](https://github.com/brandonperfetti/agent-working-agreements/pull/106) · Oct 2026
 
 <details>
 <summary>View stats</summary>
