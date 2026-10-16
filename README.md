@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
+- **agent-working-agreements**: [Release — wave 7's agent-doc and OpenClaw follow-ups, and #125's B2 clause (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/139) · Oct 2026
+- **agent-working-agreements**: [docs(agents, openclaw): the agent docs' lookup, wording and map, and the OpenClaw pointer repair (#133, #134, #135, #137)](https://github.com/brandonperfetti/agent-working-agreements/pull/138) · Oct 2026
 - **agent-working-agreements**: [Release: board intake, the AGENTS.md-first docs, the supervising seat, Kody's path, the identity rule's scope, the B0 line (#99, #118, #63, #109, #132, #13, #121, #122, #126, #127)](https://github.com/brandonperfetti/agent-working-agreements/pull/136) · Oct 2026
-- **agent-working-agreements**: [docs(agreement): board intake, the AGENTS.md-first docs, the supervising seat, Kody's path and the B0 line (#99, #118, #63, #109, #13, #121, #122, #126, #127)](https://github.com/brandonperfetti/agent-working-agreements/pull/130) · Oct 2026
-- **agent-working-agreements**: [release: scope OpenClaw modes to delivery paths (#128)](https://github.com/brandonperfetti/agent-working-agreements/pull/131) · Oct 2026
 
 <details>
 <summary>View stats</summary>
