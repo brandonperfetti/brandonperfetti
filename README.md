@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
+- **agent-working-agreements**: [Release — B0 scores the guard per delivery and picks the mode with or without an MPD; no-initiative work gets its branch (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/146) · Oct 2026
+- **agent-working-agreements**: [docs(agreement, changelog): the guard per delivery, the mode with or without an MPD, the no-initiative branch, the moved-tip clause (#140, #141, #142, #143)](https://github.com/brandonperfetti/agent-working-agreements/pull/144) · Oct 2026
 - **agent-working-agreements**: [Release — wave 7's agent-doc and OpenClaw follow-ups, and #125's B2 clause (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/139) · Oct 2026
-- **agent-working-agreements**: [docs(agents, openclaw): the agent docs' lookup, wording and map, and the OpenClaw pointer repair (#133, #134, #135, #137)](https://github.com/brandonperfetti/agent-working-agreements/pull/138) · Oct 2026
-- **agent-working-agreements**: [Release: board intake, the AGENTS.md-first docs, the supervising seat, Kody's path, the identity rule's scope, the B0 line (#99, #118, #63, #109, #132, #13, #121, #122, #126, #127)](https://github.com/brandonperfetti/agent-working-agreements/pull/136) · Oct 2026
 
 <details>
 <summary>View stats</summary>
