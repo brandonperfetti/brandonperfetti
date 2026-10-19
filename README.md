@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [docs(agreement): make OpenClaw autonomous by default](https://github.com/brandonperfetti/agent-working-agreements/pull/149) · Oct 2026
-- **agent-working-agreements**: [Release — B0 scores the guard per delivery and picks the mode with or without an MPD; no-initiative work gets its branch (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/146) · Oct 2026
-- **agent-working-agreements**: [docs(agreement, changelog): the guard per delivery, the mode with or without an MPD, the no-initiative branch, the moved-tip clause (#140, #141, #142, #143)](https://github.com/brandonperfetti/agent-working-agreements/pull/144) · Oct 2026
+- **agent-working-agreements**: [A harmless finding is fixed in its PR, noted or ticketed; item 5 names the attended override; B0 downgrades by default; clones' remotes are redacted; work with no initiative gets its orchestrator and records](https://github.com/brandonperfetti/agent-working-agreements/pull/160) · Oct 2026
+- **agent-working-agreements**: [Release OpenClaw B0 correction and friction capture](https://github.com/brandonperfetti/agent-working-agreements/pull/159) · Oct 2026
+- **agent-working-agreements**: [Capture delivery friction as a raw, non-blocking artifact](https://github.com/brandonperfetti/agent-working-agreements/pull/156) · Oct 2026
 
 <details>
 <summary>View stats</summary>
