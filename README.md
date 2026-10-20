@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
+- **agent-working-agreements**: [Release — harmless findings fixed in their PR, noted or ticketed; item 5 names the attended override; B0 downgrades by default; clone remotes redacted; no-initiative work gets its orchestrator (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/162) · Oct 2026
 - **agent-working-agreements**: [A harmless finding is fixed in its PR, noted or ticketed; item 5 names the attended override; B0 downgrades by default; clones' remotes are redacted; work with no initiative gets its orchestrator and records](https://github.com/brandonperfetti/agent-working-agreements/pull/160) · Oct 2026
 - **agent-working-agreements**: [Release OpenClaw B0 correction and friction capture](https://github.com/brandonperfetti/agent-working-agreements/pull/159) · Oct 2026
-- **agent-working-agreements**: [Capture delivery friction as a raw, non-blocking artifact](https://github.com/brandonperfetti/agent-working-agreements/pull/156) · Oct 2026
 
 <details>
 <summary>View stats</summary>
