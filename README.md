@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
+- **agent-working-agreements**: [Release — OpenClaw native root store selection (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/172) · Oct 2026
+- **agent-working-agreements**: [docs(openclaw): define native root store selection](https://github.com/brandonperfetti/agent-working-agreements/pull/171) · Oct 2026
 - **agent-working-agreements**: [Release — the fix owner when lanes run but none owns the file; echo lines count as small; B1 gets its no-initiative paragraph (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/169) · Oct 2026
-- **agent-working-agreements**: [docs(agreement): name the fix owner when lanes run but none owns the file](https://github.com/brandonperfetti/agent-working-agreements/pull/168) · Oct 2026
-- **agent-working-agreements**: [Release — a session with no lanes counts as the file's lane for a small fix; with no MPD, the stop-list reads the ticket and the prompt (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/164) · Oct 2026
 
 <details>
 <summary>View stats</summary>
