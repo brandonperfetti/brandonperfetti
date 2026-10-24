@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [Release — OpenClaw native root store selection (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/172) · Oct 2026
-- **agent-working-agreements**: [docs(openclaw): define native root store selection](https://github.com/brandonperfetti/agent-working-agreements/pull/171) · Oct 2026
-- **agent-working-agreements**: [Release — the fix owner when lanes run but none owns the file; echo lines count as small; B1 gets its no-initiative paragraph (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/169) · Oct 2026
+- **agent-working-agreements**: [docs(policy): separate delivery seats and move client detail to appendices (#173)](https://github.com/brandonperfetti/agent-working-agreements/pull/175) · Oct 2026
+- **bp-portfolio**: [Release: AGENTS.md-first agent documentation (#283)](https://github.com/brandonperfetti/bp-portfolio/pull/288) · Oct 2026
+- **bp-portfolio**: [docs(agent): make AGENTS.md the canonical agent-instructions file (#283)](https://github.com/brandonperfetti/bp-portfolio/pull/287) · Oct 2026
 
 <details>
 <summary>View stats</summary>
