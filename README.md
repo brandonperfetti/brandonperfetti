@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [docs(policy): separate delivery seats and move client detail to appendices (#173)](https://github.com/brandonperfetti/agent-working-agreements/pull/175) · Oct 2026
-- **bp-portfolio**: [Release: AGENTS.md-first agent documentation (#283)](https://github.com/brandonperfetti/bp-portfolio/pull/288) · Oct 2026
-- **bp-portfolio**: [docs(agent): make AGENTS.md the canonical agent-instructions file (#283)](https://github.com/brandonperfetti/bp-portfolio/pull/287) · Oct 2026
+- **agent-working-agreements**: [docs(openclaw): strengthen route exception evidence (#177)](https://github.com/brandonperfetti/agent-working-agreements/pull/178) · Oct 2026
+- **bp-portfolio**: [fix(covers): remove unused noise fixture dependency](https://github.com/brandonperfetti/bp-portfolio/pull/289) · Oct 2026
+- **agent-working-agreements**: [Release — separate delivery seats and move client detail to appendices (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/176) · Oct 2026
 
 <details>
 <summary>View stats</summary>
