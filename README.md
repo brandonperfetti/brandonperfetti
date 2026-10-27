@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **bp-portfolio**: [Release: request-time sitemap, project intake, and cover cleanup](https://github.com/brandonperfetti/bp-portfolio/pull/292) · Oct 2026
-- **bp-portfolio**: [fix(seo): render sitemap at request time](https://github.com/brandonperfetti/bp-portfolio/pull/291) · Oct 2026
-- **bp-portfolio**: [Add GitHub Projects intake workflow](https://github.com/brandonperfetti/bp-portfolio/pull/290) · Oct 2026
+- **agent-working-agreements**: [Release — refresh OpenClaw wrapper citation (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/184) · Oct 2026
+- **agent-working-agreements**: [docs(openclaw): refresh wrapper source citation](https://github.com/brandonperfetti/agent-working-agreements/pull/183) · Oct 2026
+- **agent-working-agreements**: [Release — protected-root worktree guidance (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/182) · Oct 2026
 
 <details>
 <summary>View stats</summary>
