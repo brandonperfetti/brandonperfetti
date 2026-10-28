@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [Release — refresh OpenClaw wrapper citation (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/184) · Oct 2026
-- **agent-working-agreements**: [docs(openclaw): refresh wrapper source citation](https://github.com/brandonperfetti/agent-working-agreements/pull/183) · Oct 2026
-- **agent-working-agreements**: [Release — protected-root worktree guidance (develop → master)](https://github.com/brandonperfetti/agent-working-agreements/pull/182) · Oct 2026
+- **agent-working-agreements**: [Release: RULE ZERO is the author-identity rule (#185)](https://github.com/brandonperfetti/agent-working-agreements/pull/201) · Oct 2026
+- **agent-working-agreements**: [docs(agreements): RULE ZERO is the author-identity rule (#185)](https://github.com/brandonperfetti/agent-working-agreements/pull/200) · Oct 2026
+- **agent-working-agreements**: [Release: the hardened agreement (#185)](https://github.com/brandonperfetti/agent-working-agreements/pull/199) · Oct 2026
 
 <details>
 <summary>View stats</summary>
