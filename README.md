@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [Release: RULE ZERO is the author-identity rule (#185)](https://github.com/brandonperfetti/agent-working-agreements/pull/201) · Oct 2026
-- **agent-working-agreements**: [docs(agreements): RULE ZERO is the author-identity rule (#185)](https://github.com/brandonperfetti/agent-working-agreements/pull/200) · Oct 2026
-- **agent-working-agreements**: [Release: the hardened agreement (#185)](https://github.com/brandonperfetti/agent-working-agreements/pull/199) · Oct 2026
+- **bp-portfolio**: [Release: MCP writes purge caches like /admin (#274)](https://github.com/brandonperfetti/bp-portfolio/pull/297) · Oct 2026
+- **agent-working-agreements**: [Release: read before the first delivery; A6 scoped to \_agent/ (#203); board intake (#99)](https://github.com/brandonperfetti/agent-working-agreements/pull/207) · Oct 2026
+- **agent-working-agreements**: [docs(agreements): read before the first delivery; scope A6's clause to \_agent/ (#203)](https://github.com/brandonperfetti/agent-working-agreements/pull/206) · Oct 2026
 
 <details>
 <summary>View stats</summary>
