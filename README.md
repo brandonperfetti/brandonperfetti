@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **bp-portfolio**: [Release: MCP writes purge caches like /admin (#274)](https://github.com/brandonperfetti/bp-portfolio/pull/297) · Oct 2026
-- **agent-working-agreements**: [Release: read before the first delivery; A6 scoped to \_agent/ (#203); board intake (#99)](https://github.com/brandonperfetti/agent-working-agreements/pull/207) · Oct 2026
-- **agent-working-agreements**: [docs(agreements): read before the first delivery; scope A6's clause to \_agent/ (#203)](https://github.com/brandonperfetti/agent-working-agreements/pull/206) · Oct 2026
+- **bp-portfolio**: [Release: app-wide Safari history guard, replaceState retry, /articles write gate](https://github.com/brandonperfetti/bp-portfolio/pull/303) · Oct 2026
+- **bp-portfolio**: [fix(explorers): sync a focused search input on Back/Forward and track pending writes (#302, F1)](https://github.com/brandonperfetti/bp-portfolio/pull/304) · Oct 2026
+- **bp-portfolio**: [fix(articles): stop writing stale filter state over a URL the reader moved](https://github.com/brandonperfetti/bp-portfolio/pull/301) · Oct 2026
 
 <details>
 <summary>View stats</summary>
