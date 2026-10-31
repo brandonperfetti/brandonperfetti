@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **bp-portfolio**: [Release: app-wide Safari history guard, replaceState retry, /articles write gate](https://github.com/brandonperfetti/bp-portfolio/pull/303) · Oct 2026
-- **bp-portfolio**: [fix(explorers): sync a focused search input on Back/Forward and track pending writes (#302, F1)](https://github.com/brandonperfetti/bp-portfolio/pull/304) · Oct 2026
-- **bp-portfolio**: [fix(articles): stop writing stale filter state over a URL the reader moved](https://github.com/brandonperfetti/bp-portfolio/pull/301) · Oct 2026
+- **agent-working-agreements**: [Release: OpenClaw rotation starts from a pasted kickoff](https://github.com/brandonperfetti/agent-working-agreements/pull/211) · Oct 2026
+- **agent-working-agreements**: [docs(openclaw): start each wave's orchestrator from a pasted kickoff](https://github.com/brandonperfetti/agent-working-agreements/pull/210) · Oct 2026
+- **agent-working-agreements**: [Release: each OpenClaw wave rotation gets its own session](https://github.com/brandonperfetti/agent-working-agreements/pull/209) · Oct 2026
 
 <details>
 <summary>View stats</summary>
