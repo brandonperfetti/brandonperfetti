@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [Release: OpenClaw rotation starts from a pasted kickoff](https://github.com/brandonperfetti/agent-working-agreements/pull/211) · Oct 2026
-- **agent-working-agreements**: [docs(openclaw): start each wave's orchestrator from a pasted kickoff](https://github.com/brandonperfetti/agent-working-agreements/pull/210) · Oct 2026
-- **agent-working-agreements**: [Release: each OpenClaw wave rotation gets its own session](https://github.com/brandonperfetti/agent-working-agreements/pull/209) · Oct 2026
+- **agent-working-agreements**: [Release the approved studio operating model](https://github.com/brandonperfetti/agent-working-agreements/pull/216) · Oct 2026
+- **agent-working-agreements**: [Align studio autonomy, staff leadership and context-driven rotation](https://github.com/brandonperfetti/agent-working-agreements/pull/215) · Oct 2026
+- **agent-working-agreements**: [Promote OpenClaw session rotation procedure](https://github.com/brandonperfetti/agent-working-agreements/pull/213) · Oct 2026
 
 <details>
 <summary>View stats</summary>
