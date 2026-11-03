@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
+- **agent-working-agreements**: [refactor(agreements): release studio portable-core slice](https://github.com/brandonperfetti/agent-working-agreements/pull/230) · Nov 2026
+- **agent-working-agreements**: [Separate the portable agreements core from studio bindings](https://github.com/brandonperfetti/agent-working-agreements/pull/229) · Nov 2026
 - **agent-working-agreements**: [fix(openclaw): release independent Camina conversations](https://github.com/brandonperfetti/agent-working-agreements/pull/224) · Nov 2026
-- **agent-working-agreements**: [fix(openclaw): preserve independent Camina conversations](https://github.com/brandonperfetti/agent-working-agreements/pull/223) · Nov 2026
-- **agent-working-agreements**: [Release stable Camina conversation continuity](https://github.com/brandonperfetti/agent-working-agreements/pull/222) · Nov 2026
 
 <details>
 <summary>View stats</summary>
