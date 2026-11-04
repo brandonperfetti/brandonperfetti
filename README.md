@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [refactor(agreements): release studio portable-core slice](https://github.com/brandonperfetti/agent-working-agreements/pull/230) · Nov 2026
-- **agent-working-agreements**: [Separate the portable agreements core from studio bindings](https://github.com/brandonperfetti/agent-working-agreements/pull/229) · Nov 2026
-- **agent-working-agreements**: [fix(openclaw): release independent Camina conversations](https://github.com/brandonperfetti/agent-working-agreements/pull/224) · Nov 2026
+- **agent-working-agreements**: [docs(openclaw): expose independent topic creation route](https://github.com/brandonperfetti/agent-working-agreements/pull/234) · Nov 2026
+- **agent-working-agreements**: [feat(hooks): let the guard pass merges outside develop, main and master](https://github.com/brandonperfetti/agent-working-agreements/pull/232) · Nov 2026
+- **agent-working-agreements**: [feat(hooks): version the Claude Code hooks with an installer](https://github.com/brandonperfetti/agent-working-agreements/pull/231) · Nov 2026
 
 <details>
 <summary>View stats</summary>
