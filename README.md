@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [feat(hooks): release the Claude Code hooks and the OpenClaw topic route](https://github.com/brandonperfetti/agent-working-agreements/pull/235) · Nov 2026
-- **agent-working-agreements**: [feat(hooks): send the agent back when a file it read has changed](https://github.com/brandonperfetti/agent-working-agreements/pull/233) · Nov 2026
-- **agent-working-agreements**: [docs(openclaw): expose independent topic creation route](https://github.com/brandonperfetti/agent-working-agreements/pull/234) · Nov 2026
+- **agent-working-agreements**: [docs(openclaw): route tasks across qualified subscription models](https://github.com/brandonperfetti/agent-working-agreements/pull/240) · Nov 2026
+- **agent-working-agreements**: [docs(t3): release per-task model and effort routing](https://github.com/brandonperfetti/agent-working-agreements/pull/239) · Nov 2026
+- **agent-working-agreements**: [docs(t3): route each delegated task's model and effort (#237)](https://github.com/brandonperfetti/agent-working-agreements/pull/238) · Nov 2026
 
 <details>
 <summary>View stats</summary>
