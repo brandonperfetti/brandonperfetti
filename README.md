@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [docs: proportionate pickup check, third-party agent label, review-growth line (#242 #244 #245)](https://github.com/brandonperfetti/agent-working-agreements/pull/249) · Nov 2026
-- **agent-working-agreements**: [Release task-based subscription routing](https://github.com/brandonperfetti/agent-working-agreements/pull/241) · Nov 2026
-- **agent-working-agreements**: [docs(openclaw): route tasks across qualified subscription models](https://github.com/brandonperfetti/agent-working-agreements/pull/240) · Nov 2026
+- **agent-working-agreements**: [Release T02 close-out: RULE ZERO prose cut and the review-loop lesson](https://github.com/brandonperfetti/agent-working-agreements/pull/256) · Nov 2026
+- **agent-working-agreements**: [docs(hooks): a non-writing hook probe, both husky wrappers shown, the lesson asks directly (#243)](https://github.com/brandonperfetti/agent-working-agreements/pull/257) · Nov 2026
+- **agent-working-agreements**: [docs(profile): the hooks enforce RULE ZERO; the per-prompt restatement goes (#243)](https://github.com/brandonperfetti/agent-working-agreements/pull/255) · Nov 2026
 
 <details>
 <summary>View stats</summary>
