@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [Release T02 close-out: RULE ZERO prose cut and the review-loop lesson](https://github.com/brandonperfetti/agent-working-agreements/pull/256) · Nov 2026
-- **agent-working-agreements**: [docs(hooks): a non-writing hook probe, both husky wrappers shown, the lesson asks directly (#243)](https://github.com/brandonperfetti/agent-working-agreements/pull/257) · Nov 2026
-- **agent-working-agreements**: [docs(profile): the hooks enforce RULE ZERO; the per-prompt restatement goes (#243)](https://github.com/brandonperfetti/agent-working-agreements/pull/255) · Nov 2026
+- **bp-portfolio**: [fix(mcp): bound authenticated request input](https://github.com/brandonperfetti/bp-portfolio/pull/314) · Nov 2026
+- **agent-working-agreements**: [Release MEGA S03 Batch 1: a shorter everyday read, same policy](https://github.com/brandonperfetti/agent-working-agreements/pull/259) · Nov 2026
+- **agent-working-agreements**: [docs(awa): shorten the everyday read without changing policy](https://github.com/brandonperfetti/agent-working-agreements/pull/258) · Nov 2026
 
 <details>
 <summary>View stats</summary>
