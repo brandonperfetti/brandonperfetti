@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **bp-portfolio**: [fix(mcp): bound authenticated request input](https://github.com/brandonperfetti/bp-portfolio/pull/314) · Nov 2026
-- **agent-working-agreements**: [Release MEGA S03 Batch 1: a shorter everyday read, same policy](https://github.com/brandonperfetti/agent-working-agreements/pull/259) · Nov 2026
-- **agent-working-agreements**: [docs(awa): shorten the everyday read without changing policy](https://github.com/brandonperfetti/agent-working-agreements/pull/258) · Nov 2026
+- **bp-portfolio**: [Release: Next.js 16.4.6 and sharp 0.35.5, bounded MCP requests, task-routed agent docs](https://github.com/brandonperfetti/bp-portfolio/pull/318) · Nov 2026
+- **bp-portfolio**: [docs: name both unlimited Payload find forms; fail the optimizer e2e on a media lookup error (Refs #313)](https://github.com/brandonperfetti/bp-portfolio/pull/319) · Nov 2026
+- **bp-portfolio**: [docs: scope the journey recipe to Playwright and drop a stale override note (Refs #313)](https://github.com/brandonperfetti/bp-portfolio/pull/317) · Nov 2026
 
 <details>
 <summary>View stats</summary>
