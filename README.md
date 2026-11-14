@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [feat(awa): a dormant head-bound route for routine develop merges (#264)](https://github.com/brandonperfetti/agent-working-agreements/pull/266) · Nov 2026
-- **agent-working-agreements**: [docs(awa): read skips only from output shown to report them (#265)](https://github.com/brandonperfetti/agent-working-agreements/pull/267) · Nov 2026
-- **sched-prod-board**: [feat(board): incident board with a list that holds still](https://github.com/brandonperfetti/sched-prod-board/pull/1) · Nov 2026
+- **agent-working-agreements**: [Release integration autonomy: a dormant head-bound develop route and instrument-neutral skip evidence](https://github.com/brandonperfetti/agent-working-agreements/pull/268) · Nov 2026
+- **bp-portfolio**: [fix(readers): clarify Back navigation and empty search recovery](https://github.com/brandonperfetti/bp-portfolio/pull/327) · Nov 2026
+- **bp-portfolio**: [docs(pr): standardize risk class evidence](https://github.com/brandonperfetti/bp-portfolio/pull/326) · Nov 2026
 
 <details>
 <summary>View stats</summary>
