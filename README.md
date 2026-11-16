@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **bp-portfolio**: [fix(media): keep Media storage flat, and fail the backup closed on coordinates](https://github.com/brandonperfetti/bp-portfolio/pull/340) · Nov 2026
-- **agent-working-agreements**: [fix(procedures): refuse flagged index entries and name the quiescence owner in worktree cleanup (#279)](https://github.com/brandonperfetti/agent-working-agreements/pull/281) · Nov 2026
-- **bp-portfolio**: [fix(diff-pages): settle teardown, fail on capture errors, never print the bypass secret](https://github.com/brandonperfetti/bp-portfolio/pull/336) · Nov 2026
+- **bp-portfolio**: [docs(security): adopt the override rule and table the pin crossings](https://github.com/brandonperfetti/bp-portfolio/pull/352) · Nov 2026
+- **bp-portfolio**: [fix(deps): bump @storybook/addon-mcp to 10.6.7 and drop the valibot override](https://github.com/brandonperfetti/bp-portfolio/pull/351) · Nov 2026
+- **bp-portfolio**: [docs(security): record the valibot pin-crossing exception](https://github.com/brandonperfetti/bp-portfolio/pull/349) · Nov 2026
 
 <details>
 <summary>View stats</summary>
