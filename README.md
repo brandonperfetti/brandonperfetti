@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
+- **agent-working-agreements**: [fix(workspace): keep installs out of \_agent and check store growth (#283)](https://github.com/brandonperfetti/agent-working-agreements/pull/284) · Nov 2026
 - **bp-portfolio**: [docs(security): adopt the override rule and table the pin crossings](https://github.com/brandonperfetti/bp-portfolio/pull/352) · Nov 2026
 - **bp-portfolio**: [fix(deps): bump @storybook/addon-mcp to 10.6.7 and drop the valibot override](https://github.com/brandonperfetti/bp-portfolio/pull/351) · Nov 2026
-- **bp-portfolio**: [docs(security): record the valibot pin-crossing exception](https://github.com/brandonperfetti/bp-portfolio/pull/349) · Nov 2026
 
 <details>
 <summary>View stats</summary>
