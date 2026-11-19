@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [Release the git guard's added refusals (#296)](https://github.com/brandonperfetti/agent-working-agreements/pull/297) · Nov 2026
-- **agent-working-agreements**: [fix(hooks): read a push only in the state it will run in (#236)](https://github.com/brandonperfetti/agent-working-agreements/pull/296) · Nov 2026
-- **bp-portfolio**: [Release: global-reader access control, quick wins, the dependency pin rule and pg fixture isolation](https://github.com/brandonperfetti/bp-portfolio/pull/357) · Nov 2026
+- **bp-portfolio**: [fix(auth): sign-up form fixes from the release review (#384)](https://github.com/brandonperfetti/bp-portfolio/pull/385) · Nov 2026
+- **bp-portfolio**: [feat(auth): custom sign-up form with the mailing-list opt-in inside it](https://github.com/brandonperfetti/bp-portfolio/pull/380) · Nov 2026
+- **bp-portfolio**: [docs(release): add the changelog and release procedure; skip the pre-push gate for tag-only pushes](https://github.com/brandonperfetti/bp-portfolio/pull/378) · Nov 2026
 
 <details>
 <summary>View stats</summary>
