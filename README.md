@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **bp-portfolio**: [release: v2026.11.19.1 — Corvus store: false, limiter fail-closed, opted-in-only backfill](https://github.com/brandonperfetti/bp-portfolio/pull/395) · Nov 2026
-- **bp-portfolio**: [fix(security): fail closed with a 503 when the Upstash limiter errors](https://github.com/brandonperfetti/bp-portfolio/pull/392) · Nov 2026
-- **agent-working-agreements**: [docs(procedures): give a recurring friction item the whole prevention loop (#167)](https://github.com/brandonperfetti/agent-working-agreements/pull/308) · Nov 2026
+- **bp-portfolio**: [fix(corvus): answer what it keeps of a conversation, citing /privacy](https://github.com/brandonperfetti/bp-portfolio/pull/403) · Nov 2026
+- **bp-portfolio**: [fix(contact): key the rate limiter on the IP's HMAC digest](https://github.com/brandonperfetti/bp-portfolio/pull/402) · Nov 2026
+- **bp-portfolio**: [release: v2026.11.20 — account sub-pages load directly, stored Analytics copy as written, Corvus reads Clerk from the tree](https://github.com/brandonperfetti/bp-portfolio/pull/399) · Nov 2026
 
 <details>
 <summary>View stats</summary>
