@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **bp-portfolio**: [fix(corvus): answer what it keeps of a conversation, citing /privacy](https://github.com/brandonperfetti/bp-portfolio/pull/403) · Nov 2026
-- **bp-portfolio**: [fix(contact): key the rate limiter on the IP's HMAC digest](https://github.com/brandonperfetti/bp-portfolio/pull/402) · Nov 2026
-- **bp-portfolio**: [release: v2026.11.20 — account sub-pages load directly, stored Analytics copy as written, Corvus reads Clerk from the tree](https://github.com/brandonperfetti/bp-portfolio/pull/399) · Nov 2026
+- **bp-portfolio**: [release: v2026.11.21.1 — newsletter double opt-in, rejoin after unsubscribe, honest 503, no blind contact create](https://github.com/brandonperfetti/bp-portfolio/pull/413) · Nov 2026
+- **bp-portfolio**: [fix(newsletter): rejoin, segment add for existing contacts, honest failure reply](https://github.com/brandonperfetti/bp-portfolio/pull/411) · Nov 2026
+- **bp-portfolio**: [release: v2026.11.21 — newsletter form subscribes, Corvus cites /privacy on retention, contact limiter keys on the IP digest](https://github.com/brandonperfetti/bp-portfolio/pull/408) · Nov 2026
 
 <details>
 <summary>View stats</summary>
