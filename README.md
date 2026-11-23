@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **bp-portfolio**: [release: v2026.11.21.1 — newsletter double opt-in, rejoin after unsubscribe, honest 503, no blind contact create](https://github.com/brandonperfetti/bp-portfolio/pull/413) · Nov 2026
-- **bp-portfolio**: [fix(newsletter): rejoin, segment add for existing contacts, honest failure reply](https://github.com/brandonperfetti/bp-portfolio/pull/411) · Nov 2026
-- **bp-portfolio**: [release: v2026.11.21 — newsletter form subscribes, Corvus cites /privacy on retention, contact limiter keys on the IP digest](https://github.com/brandonperfetti/bp-portfolio/pull/408) · Nov 2026
+- **bp-portfolio**: [fix(sign-up): never show the code step a phone verification would strand](https://github.com/brandonperfetti/bp-portfolio/pull/425) · Nov 2026
+- **bp-portfolio**: [fix(pages): refuse CMS pages under /account, /sign-in and /sign-up](https://github.com/brandonperfetti/bp-portfolio/pull/424) · Nov 2026
+- **agent-working-agreements**: [fix(openclaw): let install.mjs read the CLI the operator names (#316)](https://github.com/brandonperfetti/agent-working-agreements/pull/317) · Nov 2026
 
 <details>
 <summary>View stats</summary>
