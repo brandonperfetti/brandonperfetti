@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **bp-portfolio**: [fix(sign-up): never show the code step a phone verification would strand](https://github.com/brandonperfetti/bp-portfolio/pull/425) · Nov 2026
-- **bp-portfolio**: [fix(pages): refuse CMS pages under /account, /sign-in and /sign-up](https://github.com/brandonperfetti/bp-portfolio/pull/424) · Nov 2026
-- **agent-working-agreements**: [fix(openclaw): let install.mjs read the CLI the operator names (#316)](https://github.com/brandonperfetti/agent-working-agreements/pull/317) · Nov 2026
+- **bp-portfolio**: [docs(covers): add draft cover-recipes settings](https://github.com/brandonperfetti/bp-portfolio/pull/430) · Nov 2026
+- **bp-portfolio**: [docs(covers): require authoritative upload prechecks](https://github.com/brandonperfetti/bp-portfolio/pull/429) · Nov 2026
+- **bp-portfolio**: [feat(auth): custom sign-in form to match the sign-up form](https://github.com/brandonperfetti/bp-portfolio/pull/428) · Nov 2026
 
 <details>
 <summary>View stats</summary>
