@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **bp-portfolio**: [docs(covers): add draft cover-recipes settings](https://github.com/brandonperfetti/bp-portfolio/pull/430) · Nov 2026
-- **bp-portfolio**: [docs(covers): require authoritative upload prechecks](https://github.com/brandonperfetti/bp-portfolio/pull/429) · Nov 2026
-- **bp-portfolio**: [feat(auth): custom sign-in form to match the sign-up form](https://github.com/brandonperfetti/bp-portfolio/pull/428) · Nov 2026
+- **agent-working-agreements**: [Release the working agreements: sealed guard cases](https://github.com/brandonperfetti/agent-working-agreements/pull/324) · Nov 2026
+- **bp-portfolio**: [Release v2026.11.24.1 — GitHub auth behind a flag and release runbook](https://github.com/brandonperfetti/bp-portfolio/pull/437) · Nov 2026
+- **agent-working-agreements**: [feat(hooks): sealed guard cases, a runner and a local trigger (#310)](https://github.com/brandonperfetti/agent-working-agreements/pull/323) · Nov 2026
 
 <details>
 <summary>View stats</summary>
