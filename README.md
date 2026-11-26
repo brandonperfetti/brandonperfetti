@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **agent-working-agreements**: [Release the working agreements: sealed guard cases](https://github.com/brandonperfetti/agent-working-agreements/pull/324) · Nov 2026
-- **bp-portfolio**: [Release v2026.11.24.1 — GitHub auth behind a flag and release runbook](https://github.com/brandonperfetti/bp-portfolio/pull/437) · Nov 2026
-- **agent-working-agreements**: [feat(hooks): sealed guard cases, a runner and a local trigger (#310)](https://github.com/brandonperfetti/agent-working-agreements/pull/323) · Nov 2026
+- **bp-portfolio**: [perf(articles): eager-load the lead /articles cover (removes the dev LCP warning)](https://github.com/brandonperfetti/bp-portfolio/pull/469) · Nov 2026
+- **bp-portfolio**: [fix(tokens): add --link-accent-hover (darkens in light) and the --badge-accent chip pair](https://github.com/brandonperfetti/bp-portfolio/pull/466) · Nov 2026
+- **bp-portfolio**: [feat(corvus): embed the text blocks of published Pages](https://github.com/brandonperfetti/bp-portfolio/pull/463) · Nov 2026
 
 <details>
 <summary>View stats</summary>
