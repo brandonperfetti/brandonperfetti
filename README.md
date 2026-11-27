@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
-- **bp-portfolio**: [perf(articles): eager-load the lead /articles cover (removes the dev LCP warning)](https://github.com/brandonperfetti/bp-portfolio/pull/469) · Nov 2026
-- **bp-portfolio**: [fix(tokens): add --link-accent-hover (darkens in light) and the --badge-accent chip pair](https://github.com/brandonperfetti/bp-portfolio/pull/466) · Nov 2026
-- **bp-portfolio**: [feat(corvus): embed the text blocks of published Pages](https://github.com/brandonperfetti/bp-portfolio/pull/463) · Nov 2026
+- **bp-portfolio**: [feat(scripts): publish → sitemap → unpublish freshness probe (REST and MCP)](https://github.com/brandonperfetti/bp-portfolio/pull/473) · Nov 2026
+- **bp-portfolio**: [docs: design for an automatic Analytics grant meeting a region that asks (#375)](https://github.com/brandonperfetti/bp-portfolio/pull/478) · Nov 2026
+- **bp-portfolio**: [fix(consent): name Clerk, Turnstile and Sentry in the cookie dialog's always-on row (#476)](https://github.com/brandonperfetti/bp-portfolio/pull/479) · Nov 2026
 
 <details>
 <summary>View stats</summary>
