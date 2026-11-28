@@ -250,9 +250,9 @@ Each link opens the certificate itself. The full set is on [LinkedIn](https://ww
 
 **Recently merged**
 
+- **bp-portfolio**: [feat(consent): hold the automatic Analytics grant in memory only (#375, option C)](https://github.com/brandonperfetti/bp-portfolio/pull/484) · Nov 2026
+- **bp-portfolio**: [fix: cap prose at a 65ch reading measure](https://github.com/brandonperfetti/bp-portfolio/pull/482) · Nov 2026
 - **bp-portfolio**: [feat(scripts): publish → sitemap → unpublish freshness probe (REST and MCP)](https://github.com/brandonperfetti/bp-portfolio/pull/473) · Nov 2026
-- **bp-portfolio**: [docs: design for an automatic Analytics grant meeting a region that asks (#375)](https://github.com/brandonperfetti/bp-portfolio/pull/478) · Nov 2026
-- **bp-portfolio**: [fix(consent): name Clerk, Turnstile and Sentry in the cookie dialog's always-on row (#476)](https://github.com/brandonperfetti/bp-portfolio/pull/479) · Nov 2026
 
 <details>
 <summary>View stats</summary>
